@@ -1,6 +1,5 @@
 <?php
 
-// --- Prueba
 // --- Archivo con las funciones de configuración (º, pie, ...)
 include ('./scripts/o-config.php');
 
