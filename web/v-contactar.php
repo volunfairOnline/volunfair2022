@@ -54,9 +54,9 @@ escribe_cabecera();
                             	  <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold">Para hablar con nosotros</h3>
                                         <div class="c-line-left"></div>
-                                  <p class="c-font-lowercase">Si eres ONG: 668 55 54 80 (Almudena) <br/>
-                                                              Si eres medio de comunicación: 695 62 08 69 (Rodrigo) <br/>
-                                                              Para cualquier gestión: 603 48 97 49 (María) o 657 81 29 16 (Ignacio)</p>
+                                  <p class="c-font-lowercase">Si eres ONG: 655 53 93 29 (Paula) <br/>
+                                                              Si eres medio de comunicación: 656 32 70 55 (Leonor) <br/>
+                                                              Para cualquier gestión: 601 20 07 71 (María) o 638 96 56 31 (Chema)</p>
                                 </div>
                                 <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
                                 
