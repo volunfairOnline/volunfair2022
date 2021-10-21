@@ -1,0 +1,15 @@
+#Quitar la extensión .php en las urls (sigue siendo válido ponerla)
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+</IfModule>
+
+#Que la página predeterminada sea index.php (y en caso de no encontrarla, vaya a index.html)
+DirectoryIndex index.php index.html
+
+#Redirigir automáticamente de http a https
+RewriteCond %{SERVER_PORT} 80
+RewriteCond %{HTTP_HOST} ^(www\.)?volunfair\.com
+RewriteRule ^(.*)$ https://www.volunfair.com/$1 [R,L]

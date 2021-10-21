@@ -1,0 +1,254 @@
+h4 {
+	font-size: 24px;
+}
+
+/* No mostrar la imagen superior en móviles */
+@media(max-width: 992px) {
+	.imagen-cabecera {
+		display: none;
+	}
+
+	.c-layout-page {
+		margin-top: 50px !important;
+	}
+
+	.c-content-media-1 {
+		margin-bottom: 0px;
+	}
+}
+
+/* Para que la imagen superior vaya por todo el ancho de la barra */
+.c-bgimage {
+    background-size: cover;
+}
+
+/* Menú de navegación */
+.c-page-on-scroll .c-layout-header.c-layout-header-2 {
+	background: rgba(30, 36, 42, 1);
+}
+
+.c-page-on-scroll.c-layout-header-fixed .c-layout-header {
+	height: 65px;
+}
+
+.c-navbar .c-logo, .c-navbar .c-desktop-logo, .c-navbar .c-desktop-logo-inverse {
+	width: 250px;
+	margin-top: 0px;
+}
+
+img.c-mobile-logo {
+    width: 200px;
+    margin-top: -12px;
+}
+
+@media(min-width: 992px) {
+
+	.c-page-on-scroll.c-layout-header-fixed .c-layout-header .c-brand {
+		margin-top: 7px;
+	}
+
+	.c-page-on-scroll.c-layout-header-fixed .c-layout-header {
+		height: 90px;
+	}
+	
+	.c-page-on-scroll.c-layout-header-fixed .c-layout-header .c-brand .c-desktop-logo-inverse {
+		width: 200px;
+	}
+
+	.c-layout-header .c-navbar .c-mega-menu.c-pull-right {
+		margin-top: 14px;
+	}
+
+	.c-layout-header .c-brand .c-desktop-logo {
+		display: inline-block;
+		margin-top: -25px;
+	}
+
+}
+
+@media(min-width: 992px) and (max-width: 1379px) {
+	
+	/*.c-page-on-scroll.c-layout-header-fixed .c-layout-header .c-brand .c-desktop-logo-inverse {
+		width: 140px;
+	}
+	
+	.c-layout-header .c-navbar .c-mega-menu.c-pull-right {
+		margin-top: -80px;
+		margin-left: 120px;
+	}*/
+	
+		.c-layout-header .c-navbar .c-mega-menu.c-pull-right a {
+			font-size: 11px;
+		}
+
+		.c-page-on-scroll.c-layout-header-fixed .c-layout-header .c-brand .c-desktop-logo-inverse {
+			width: 170px;
+    		margin-top: 16px;
+		}
+	
+}
+
+@media(min-width: 1380px) {
+
+	.c-page-on-scroll.c-layout-header-fixed .c-layout-header .c-brand .c-desktop-logo-inverse {
+		width: 220px;
+		margin-top: 8px;
+	}
+}
+
+/* Menú para pantallas pequeñas de ordenador (o grandes de tableta) */
+@media (max-width: 1210px) {
+	.c-layout-header .c-navbar .c-mega-menu.c-pull-right {
+		margin-top: -70px !important;
+	}
+
+	/*.c-mega-menu.c-pull-right {
+		height: 170px;
+	}*/
+}
+
+/* Fondo del menú */
+@media (min-width: 1210px) {
+	.c-theme-nav {
+		height: 115px !important;
+	}
+}
+
+/* Fin del CSS del menú */
+
+/*.c-layout-breadcrumbs-1 {
+	background: none;
+}
+
+.c-page-title h1 {
+	text-align: center;
+    font-size: 30px;
+}*/
+
+/* Para quitar el fondo de luces y que no quede mal*/
+/*.c-layout-breadcrumbs-1.c-bgimage {
+	padding: 40px 0;
+}*/
+
+
+.horario {
+	background: linear-gradient(rgba(255,255,255,.9), rgba(255,255,255,.9)), url('../img/volunfair/fondos/SalaMaq2.jpg');
+}
+
+	.horario .c-content-media-1 {
+		background-color: rgba(0, 0, 0, 0)
+	}
+	
+	.horario .c-content-media-1.c-bordered {
+		border: 0px;
+	}
+
+.tam_completo {
+	width: 100%;
+}
+
+.row-ong {
+	float: none;			/* Para quitar el float_left de los col-md */
+	display: inline-block;
+	padding: 15px 0;
+}
+
+.anteriores, .premiados {
+	text-align: center;
+}
+
+	.anteriores img, .premiados img {
+		width: 100%;
+		max-width: 100%;
+		max-height: 100%;
+	}
+
+.c-content-media-1 p {
+	text-align: justify;
+}
+
+.c-background-gray {
+	background-color: rgb(232, 235, 235);
+}
+
+/* Para que las imágenes de "Conócenos" sean asimétricas */
+.fotos img {
+	border-radius: 50% 20%;
+}
+
+/* Chapuza para que se vea siempre la imagen de inicio */
+@media (min-width: 1200px) {
+	.solomediano1 {
+		display: block;
+	}
+}
+
+/* Para quitar el azul horrible de antes */
+.c-theme-bg, .c-line-left {
+    background: gray !important;
+}
+
+a:active, a:hover, a:focus {
+    color: gray !important;
+}
+
+.c-theme-nav li.c-active > a:not(.btn) {
+    color: grey !important;
+}
+
+/* Estilos de Qué es VOLUNFAIR */
+.que-es p{
+	text-align: center;
+}
+
+.c-icongrande {
+	text-align: center;
+	font-size: 2em; /*2em*/
+}
+
+.img-centrada {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+<<<<<< HEAD
+/* Para ajustar el tamaño de los vídeos al móvil */
+.delimitador{
+	width:500px;
+	margin:auto;
+}
+.contenedor{
+	height:0px;
+	width:100%;
+	padding-top:63%;
+	position:relative;
+}
+.contenedor iframe{
+	position:absolute;
+	height:100%;
+	width: 100%;
+	top:0px;
+	left:0px;
+=======
+
+/* Podemos eliminar este estilo si no queremos que se adapte al ancho máximo */
+.delimitador{
+    width:560px;    /* Ancho máximo */
+    margin:auto;    /* Centramos el vídeo */
+}
+/* El contenedor con el padding-top crea el tamaño del vídeo */
+.contenedor{
+    height:0px;
+    width:100%;
+    padding-top:56.25%; /* Relación: 16/9 = 56.25% */
+    position:relative;
+}
+/* El iframe se adapta al tamaño del contenedor */
+.contenedor iframe{
+    position:absolute;
+    height:100%;
+    width:100%;
+    top:0px;
+    left:0px;
+>>>>>>> 8b1fc07689988861c17825b64d6c530e6e00e1d2
+}

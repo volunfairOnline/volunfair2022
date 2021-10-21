@@ -1,0 +1,126 @@
+/********************************************
+ESTILOS PARA PÁGINA PRINCIPAL CON VÍDEO
+********************************************/
+body {
+  overflow-y: auto;
+}
+
+header {
+  position: relative;
+  background-color: white; 
+  height: 4.8rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+  position: relative;
+  z-index: 2;
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: transparent;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+@media (pointer: coarse) and (hover: none) {
+  header {
+    background: url('https://source.unsplash.com/XT5OInaElMw/1600x900') black no-repeat center center scroll;
+  }
+  header video {
+    display: none;
+  }
+}
+
+.opciones {
+    background-color: rgba(211, 211, 211, 0.432);
+    opacity: 0.9;
+    z-index: 9996;
+}
+
+    .opciones opciones-header {
+        font-size: 4rem;
+    }
+
+    .opciones p {
+        color:#5c6873;
+        font-size: 16px;
+    }
+
+.c-layout-header-fixed .c-layout-header {
+    z-index: 1;
+}
+
+.card-body-vf {
+    padding: 0;
+    font-size: 0.8rem;	
+}
+
+.tarjeta-enlace {
+    padding: 1.2em;
+}
+
+    .tarjeta-enlace img {
+        width: 75%;
+    }
+
+@media (min-width: 992px) {
+    .container {
+        max-width: 1200px!important;
+    }
+}
+
+// --- Que no salga el negro del menú en móviles
+.c-page-on-scroll .c-layout-header.c-layout-header-2 {
+  background: transparent;
+}
+.c-page-on-scroll .c-layout-header.c-layout-header-2 {
+  background: transparent;
+}
+@media (max-width: 991px) {
+  .c-layout-header .c-layout-header-dark-mobile.c-header-transparent-dark {
+      background: transparent;
+  }
+}
+// --- Fin estilos página principal
+
+// --- Nuevos estilos
+.contenidos { 
+  background:  rgba(211, 211, 211, 0.432);
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(200,200,200)  ;
+  font-size: 2rem;
+  margin: 0 auto;
+  padding: 50px 0;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgb(255, 255, 255)  ;
+  width: 80%;
+}
+
+.videoprinc {
+  position:fixed;
+  z-index: -1;
+  width:100%;     
+  height: auto;
+}

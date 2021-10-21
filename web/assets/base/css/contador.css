@@ -1,0 +1,72 @@
+/* https://codepen.io/deniscreative/embed/OoLYYm */
+
+.countdown-title {
+	color: #396;
+	font-weight: 80;
+	font-size: 40px;
+	margin: 40px 0px 20px;
+  }
+  
+  .countdown {
+	font-family: sans-serif;
+	color: #fff;
+	display: inline-block;
+	font-weight: 80;
+	text-align: center;
+	font-size: 20px;
+	margin-top: 4%;
+  }
+  
+  .countdown-number {
+	padding: 10px;
+	border-radius: 3px;
+	background: rgb(232,235,235);
+	display: inline-block;
+  }
+  
+  .countdown-time {
+	padding: 15px;
+	border-radius: 3px;
+	background: #2a91a5;
+	display: inline-block;
+  }
+  
+  .countdown-text {
+	display: block;
+	padding-top: 5px;
+	font-size: 15px;
+	color: #000000;
+  }
+  
+  .deadline-message{
+	display: none;
+	font-size: 24px;
+	font-style: italic;
+  }
+  
+  .visible{
+	display: block;
+  }
+  
+  .hidden{
+	display: none;
+  }
+  @media  (min-width: 577px) and (max-width: 992px) {	
+	.countdown {
+		margin-left: 20% !important;
+	  }
+  }
+  @media  (min-width: 420px) and (max-width: 576px) {	
+	.countdown {
+		margin-left: 20% !important;
+	  }
+  }
+  @media  (max-width: 419px) {	
+	.countdown {
+		font-size: 13px;
+		margin-left: 5% !important;
+	  }
+	.countdown-text {
+		font-size: 13px;
+	} 
+  }

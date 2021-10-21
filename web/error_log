@@ -1,0 +1,479 @@
+[04-Nov-2019 20:52:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function muestra_equipo() in /home/vf2eihlt7fpk/public_html/v-quienes.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/v-quienes.php on line 253
+[04-Nov-2019 20:55:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function muestra_equipo() in /home/vf2eihlt7fpk/public_html/v-quienes.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/v-quienes.php on line 253
+[04-Nov-2019 20:55:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function muestra_equipo() in /home/vf2eihlt7fpk/public_html/v-quienes.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/v-quienes.php on line 253
+[04-Nov-2019 20:55:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function muestra_equipo() in /home/vf2eihlt7fpk/public_html/v-quienes.php:253
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/v-quienes.php on line 253
+[02-Dec-2019 03:28:13 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 03:28:13 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 08:57:15 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 08:57:15 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 09:27:21 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 09:27:21 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 11:38:38 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 11:38:38 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:16:27 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:16:27 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:16:29 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:16:29 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:16:29 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:16:29 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:16:32 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:16:32 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:16:45 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:16:45 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:16:45 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:16:45 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:17:18 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:17:18 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:17:23 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 14:17:23 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 15:20:23 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 15:20:23 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 15:20:34 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 15:20:34 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 15:22:41 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 15:22:41 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 15:22:45 UTC] PHP Warning:  require_once(./mysql/MySQLHandler.class.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[02-Dec-2019 15:22:45 UTC] PHP Fatal error:  require_once(): Failed opening required './mysql/MySQLHandler.class.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[15-Apr-2020 21:29:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ana'@'localhost' (using password: YES) in /home/vf2eihlt7fpk/public_html/conexionlocal.php on line 16
+[15-Apr-2020 22:01:34 UTC] PHP Warning:  include(conexionlocal.php): failed to open stream: No such file or directory in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[15-Apr-2020 22:01:34 UTC] PHP Warning:  include(): Failed opening 'conexionlocal.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 5
+[15-Apr-2020 22:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function conecta() in /home/vf2eihlt7fpk/public_html/v-voluntario.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 49
+[09-Dec-2020 18:25:21 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 18:25:21 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 18:25:30 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 18:25:30 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 18:25:43 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 18:25:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 18:37:23 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 18:37:23 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 18:37:32 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 18:37:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:29 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:29 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:31 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:31 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:35 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:36 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:38 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:38 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:41 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:41 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:57 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:04:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:05:27 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:05:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:06:20 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:06:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:06:22 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:06:22 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:06:33 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:06:33 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:07:02 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:07:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:25:02 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:25:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:45:04 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:45:04 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:45:04 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 20:45:05 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 21:21:35 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 21:21:35 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 23:01:53 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[09-Dec-2020 23:01:53 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 00:22:16 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 00:22:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 00:30:44 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 00:30:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 01:25:01 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 01:25:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 02:36:10 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 02:36:10 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 03:55:39 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 03:55:39 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 06:55:30 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 06:55:30 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 09:10:42 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 09:10:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:32:02 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:32:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:33:24 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:33:24 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:41:29 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:41:29 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:41:39 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:41:39 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:49:23 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:49:23 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:49:25 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:49:25 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:52:29 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:52:29 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:52:31 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:52:31 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:54:03 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:54:03 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:55:00 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:55:00 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:55:05 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:55:05 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:55:46 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:55:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:56:17 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:56:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:56:19 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:56:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:56:43 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:56:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:58:01 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 10:58:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Dec-2020 11:03:14 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 150
+[10-Dec-2020 11:03:14 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 150
+[10-Dec-2020 11:03:58 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 150
+[10-Dec-2020 11:03:58 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 150
+[10-Dec-2020 11:05:03 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 151
+[10-Dec-2020 11:05:03 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 151
+[10-Dec-2020 11:05:56 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 152
+[10-Dec-2020 11:05:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 152
+[10-Dec-2020 11:05:59 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 152
+[10-Dec-2020 11:05:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 152
+[10-Dec-2020 11:06:32 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 150
+[10-Dec-2020 11:06:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 150
+[10-Dec-2020 11:06:34 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 150
+[10-Dec-2020 11:06:34 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 150
+[10-Dec-2020 11:07:26 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'PequeLiante'@'localhost' to database 'LaLiamos' in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 152
+[10-Dec-2020 11:07:26 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 152
+[10-Dec-2020 11:13:26 UTC] PHP Recoverable fatal error:  Object of class MySQLHandler could not be converted to string in /home/vf2eihlt7fpk/public_html/mysql/misconexiones.php on line 15
+[10-Dec-2020 11:14:21 UTC] PHP Recoverable fatal error:  Object of class MySQLHandler could not be converted to string in /home/vf2eihlt7fpk/public_html/mysql/misconexiones.php on line 15
+[10-Dec-2020 11:15:33 UTC] PHP Recoverable fatal error:  Object of class MySQLHandler could not be converted to string in /home/vf2eihlt7fpk/public_html/mysql/misconexiones.php on line 15
+[10-Dec-2020 11:16:03 UTC] PHP Recoverable fatal error:  Object of class MySQLHandler could not be converted to string in /home/vf2eihlt7fpk/public_html/mysql/misconexiones.php on line 16
+[10-Dec-2020 11:25:05 UTC] PHP Fatal error:  Uncaught Exception: Error en la consulta in /home/vf2eihlt7fpk/public_html/o-rifa.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-rifa.php on line 62
+[10-Dec-2020 11:25:11 UTC] PHP Fatal error:  Uncaught Exception: No se ha podido realizar la consulta. in /home/vf2eihlt7fpk/public_html/o-ongs.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-ongs.php on line 65
+[10-Dec-2020 11:25:19 UTC] PHP Fatal error:  Uncaught Exception: Error en la consulta in /home/vf2eihlt7fpk/public_html/o-rifa.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-rifa.php on line 62
+[10-Dec-2020 11:25:20 UTC] PHP Fatal error:  Uncaught Exception: Error en la consulta in /home/vf2eihlt7fpk/public_html/o-rifa.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-rifa.php on line 62
+[10-Dec-2020 11:25:21 UTC] PHP Fatal error:  Uncaught Exception: No se ha podido realizar la consulta. in /home/vf2eihlt7fpk/public_html/o-ongs.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-ongs.php on line 65
+[10-Dec-2020 12:01:46 UTC] PHP Fatal error:  Uncaught Exception: No se ha podido realizar la consulta. in /home/vf2eihlt7fpk/public_html/o-ongs.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-ongs.php on line 65
+[10-Dec-2020 12:04:16 UTC] PHP Fatal error:  Uncaught Exception: No se ha podido realizar la consulta. in /home/vf2eihlt7fpk/public_html/o-ongs.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-ongs.php on line 65
+[10-Dec-2020 12:04:18 UTC] PHP Fatal error:  Uncaught Exception: Error en la consulta in /home/vf2eihlt7fpk/public_html/o-rifa.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-rifa.php on line 62
+[10-Dec-2020 12:04:23 UTC] PHP Fatal error:  Uncaught Exception: No se ha podido realizar la consulta. in /home/vf2eihlt7fpk/public_html/o-ongs.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-ongs.php on line 65
+[10-Dec-2020 12:04:23 UTC] PHP Fatal error:  Uncaught Exception: Error en la consulta in /home/vf2eihlt7fpk/public_html/o-rifa.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-rifa.php on line 62
+[10-Dec-2020 12:14:07 UTC] PHP Fatal error:  Uncaught Exception: No se ha podido realizar la consulta. in /home/vf2eihlt7fpk/public_html/o-ongs.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-ongs.php on line 65
+[10-Dec-2020 13:02:25 UTC] PHP Fatal error:  Uncaught Exception: No se ha podido realizar la consulta. in /home/vf2eihlt7fpk/public_html/o-ongs.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-ongs.php on line 66
+[10-Dec-2020 13:02:45 UTC] PHP Fatal error:  Uncaught Exception: No se ha podido realizar la consulta. in /home/vf2eihlt7fpk/public_html/o-ongs.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-ongs.php on line 66
+[10-Dec-2020 13:07:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/vf2eihlt7fpk/public_html/v-voluntario.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 63
+[10-Dec-2020 13:07:39 UTC] PHP Fatal error:  Uncaught Exception: Error en la consulta in /home/vf2eihlt7fpk/public_html/o-rifa.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-rifa.php on line 62
+[10-Dec-2020 13:09:30 UTC] PHP Fatal error:  Uncaught Exception: Error en la consulta in /home/vf2eihlt7fpk/public_html/o-rifa.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/o-rifa.php on line 62
+[03-Jan-2021 11:57:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/vf2eihlt7fpk/public_html/v-voluntario.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/vf2eihlt7fpk/public_html/v-voluntario.php on line 63
+[08-Feb-2021 17:14:12 UTC] PHP Notice:  Undefined index: id_img in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 274
+[08-Feb-2021 17:16:16 UTC] PHP Notice:  Undefined index: id_img in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 274
+[08-Feb-2021 17:19:57 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 314
+[08-Feb-2021 17:19:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 314
+[08-Feb-2021 17:19:57 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:19:57 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 321
+[08-Feb-2021 17:19:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 321
+[08-Feb-2021 17:20:14 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 314
+[08-Feb-2021 17:20:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 314
+[08-Feb-2021 17:20:14 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:20:14 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 321
+[08-Feb-2021 17:20:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 321
+[08-Feb-2021 17:20:23 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 314
+[08-Feb-2021 17:20:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 314
+[08-Feb-2021 17:20:23 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:20:23 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 321
+[08-Feb-2021 17:20:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 321
+[08-Feb-2021 17:21:49 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 314
+[08-Feb-2021 17:21:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 314
+[08-Feb-2021 17:21:49 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:21:49 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 321
+[08-Feb-2021 17:21:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 321
+[08-Feb-2021 17:21:57 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 314
+[08-Feb-2021 17:21:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 314
+[08-Feb-2021 17:21:58 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:21:58 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 321
+[08-Feb-2021 17:21:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 321
+[08-Feb-2021 17:22:41 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 318
+[08-Feb-2021 17:22:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 318
+[08-Feb-2021 17:22:41 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 324
+[08-Feb-2021 17:22:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 324
+[08-Feb-2021 17:22:49 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 318
+[08-Feb-2021 17:22:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 318
+[08-Feb-2021 17:22:49 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 324
+[08-Feb-2021 17:22:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 324
+[08-Feb-2021 17:24:42 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:24:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:24:42 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 17:24:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 17:25:03 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:25:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:25:03 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 17:25:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 17:25:15 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:25:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:25:15 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 17:25:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 17:37:13 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:37:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:37:13 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 17:37:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 17:37:26 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:37:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 17:37:26 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 17:37:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 18:06:24 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 18:06:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 18:06:24 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 18:06:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 19:53:34 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 19:53:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[08-Feb-2021 19:53:34 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 19:53:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[08-Feb-2021 19:55:41 UTC] PHP Notice:  Undefined variable: id_maximo in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 307
+[09-Feb-2021 17:28:40 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 18:33:41 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 18:41:16 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 19:12:06 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 19:45:50 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 20:26:18 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 21:45:22 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 21:48:50 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 22:50:04 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 23:13:54 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 23:43:12 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 23:51:04 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 23:56:50 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[09-Feb-2021 23:56:57 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 08:12:06 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 08:32:34 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 08:36:52 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 09:00:24 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 09:03:30 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 09:08:59 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 09:24:39 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 09:29:37 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 09:31:01 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 09:36:08 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 09:36:08 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 09:36:32 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 09:38:23 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 09:52:37 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:00:31 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:01:13 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:18:16 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:18:21 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:21:27 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:26:07 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:26:17 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:27:02 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:33:55 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:35:42 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:40:43 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:52:21 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 10:55:54 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 11:14:09 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 11:22:37 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 11:22:47 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 11:25:01 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 11:31:38 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 11:35:46 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 11:42:51 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 11:45:30 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 11:45:46 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 12:02:40 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 12:07:01 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 12:28:29 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 12:28:46 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 12:37:47 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 12:42:47 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 12:42:54 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 12:44:00 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 12:44:56 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 12:49:01 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 12:52:49 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 12:53:48 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 13:01:17 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 13:08:04 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 13:23:19 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 13:27:13 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 13:29:30 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 13:34:56 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 13:59:17 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 14:07:42 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 14:09:02 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 14:09:33 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 15:12:29 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 15:39:19 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 15:59:41 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 15:59:53 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 16:04:03 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 16:04:54 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 16:08:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Feb-2021 16:08:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Feb-2021 16:08:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Feb-2021 16:08:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vf2eihlt7fpk/public_html/mysql/MySQLHandler.class.php on line 148
+[10-Feb-2021 16:19:34 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 16:23:18 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 16:27:40 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 16:37:11 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 17:00:07 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 17:04:41 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 17:09:15 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 17:20:09 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 17:29:38 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 17:38:42 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 17:40:48 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 17:53:20 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 18:09:06 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 18:23:58 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 18:51:54 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 19:05:48 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 19:06:57 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 19:10:47 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 19:38:57 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 19:39:21 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 19:52:10 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 19:55:35 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 20:21:01 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 20:24:03 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 20:57:18 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 21:00:27 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 21:04:11 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 21:05:51 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[10-Feb-2021 23:47:42 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 00:32:58 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 07:29:04 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 07:57:08 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 08:07:42 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 08:20:53 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 08:34:44 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 08:39:42 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 08:51:13 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 08:53:38 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 09:10:52 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 09:37:55 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 09:57:34 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 10:05:32 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 10:07:10 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 10:09:30 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 10:23:07 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 10:43:02 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 10:47:23 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 11:08:43 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 11:49:41 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 11:50:59 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 12:04:23 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 12:16:31 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 12:28:37 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 12:45:36 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 13:48:35 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 13:49:46 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 13:56:22 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 14:29:39 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 14:36:54 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 14:41:35 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 15:32:29 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 15:33:59 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 15:34:11 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 15:35:12 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 15:42:08 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 15:53:57 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 15:58:13 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 15:58:38 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 16:00:24 UTC] PHP Notice:  Undefined index: proyecto in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[11-Feb-2021 16:00:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 320
+[11-Feb-2021 16:00:24 UTC] PHP Notice:  Undefined index: lugar in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[11-Feb-2021 16:00:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 326
+[11-Feb-2021 16:02:38 UTC] PHP Notice:  Undefined variable: id_maximo in /home/vf2eihlt7fpk/public_html/o-registro-ongs.php on line 307
+[11-Feb-2021 16:08:52 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 16:09:10 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 16:10:04 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 16:14:51 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 16:15:27 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 16:20:08 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 16:21:41 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 16:22:13 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 16:33:57 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 16:51:14 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 20:30:12 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 21:31:21 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[11-Feb-2021 21:34:14 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[12-Feb-2021 05:44:11 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[12-Feb-2021 12:28:54 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[12-Feb-2021 14:17:14 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[13-Feb-2021 22:43:41 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[13-Feb-2021 23:11:08 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[15-Feb-2021 19:25:50 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[17-Feb-2021 14:53:39 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[18-Feb-2021 19:16:40 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[19-Feb-2021 18:14:53 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[20-Feb-2021 08:53:31 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[02-Mar-2021 14:50:19 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[03-Mar-2021 08:52:35 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[27-Apr-2021 12:54:22 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96
+[07-Jun-2021 12:01:22 UTC] PHP Notice:  Undefined offset: 10 in /home/vf2eihlt7fpk/public_html/o-feria-entidad.php on line 96

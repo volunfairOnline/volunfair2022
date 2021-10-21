@@ -1,0 +1,276 @@
+*, *:before, *:after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-btn: #2196F3;
+    --color-header-step: #3371B6;
+    --color-shadow: #222;
+    --color-border-input: #3371B6;
+}
+
+.root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-size: 16px;
+    font-family: sans-serif;
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url(../img/volunfair/o-registro/fondo2.jpg);
+    overflow: hidden;	
+}
+
+
+.form-register {
+    padding: 20px 15px;
+    width: 60%;
+}
+
+.progressbar {
+    display: flex;
+    list-style: none;
+    margin-bottom: 15px;
+    counter-reset: step;
+}
+
+.progressbar__option {
+    width: 100%;
+    text-align: center;
+    font-size: .88rem;
+	font-weight: bold;
+    text-transform: uppercase;
+    position: relative;
+}
+
+.progressbar__option:before {
+    display: flex;
+    content: counter(step);
+    counter-increment: step;
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    margin: 0 auto 5px;
+    border-radius: 3px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 2;
+	border-radius: 50%;
+}
+
+
+.progressbar__option:after {
+    display: block;
+    content: '';
+    width: 100%;
+    height: 5px;
+    background-color: white;
+    position: absolute;
+    top: 10px;
+    left: -50%;
+    z-index: 1;
+}
+
+.progressbar__option:first-child:after {
+    content: none;
+}
+
+.progressbar__option.active:before, .progressbar__option.active:after {
+    background-color: var(--color-header-step);
+	color: white;
+}
+
+.form-register__title {
+    font-size: 1.4rem;
+    text-align: center;
+    margin-bottom: 15px;
+	color: #4AFDEF;
+}
+
+.form-register__body {
+    display: flex;
+    align-items: flex-start;
+	border-radius: 50%;
+}
+
+.step {
+    background-color: white;
+    box-shadow: 5px 5px 5px 2px var(--color-shadow);
+    border-radius: 8px;
+    min-width: 100%;
+    opacity: 0;
+    transition: all .2s linear;
+}
+
+.step.active {
+    opacity: 1;
+}
+
+.step.to-left {
+    margin-left: -100%;
+}
+
+.step.inactive {
+    animation-name: scale;
+    animation-duration: .2s;
+    animation-direction: alternate;
+    animation-iteration-count: 2;
+}
+
+@keyframes scale {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
+}
+
+.step__header {
+    padding: 15px 10px;
+    background-color: var(--color-header-step);
+    border-radius: 8px 8px 0 0;
+}
+
+.step__title {
+    font-size: 1.1rem;
+    text-align: center;
+	color: white;
+}
+
+.step__body {
+    padding: 20px 15px 0;
+}
+
+.step__input {
+    display: block;
+    width: 100%;
+    padding: 6px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: 1px solid var(--color-border-input);
+	font-size: 13px;
+    font-family: sans-serif;
+}
+.input-title{
+	font-size: 15px;
+    font-family: sans-serif;
+	
+}
+#voluntariado_ong::placeholder {
+  padding-top: 5px;  
+}
+
+.step__footer {
+    padding: 20px 15px;
+    text-align: center;
+	clear: both;
+	float: center;
+}
+
+
+.step__button {
+    display: inline-block;
+    padding: 10px;
+    background-color: var(--color-btn);
+    border: none;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+	font-size: 16px;
+}
+
+#map {
+    width: 100%;
+    height: 180px;
+}
+.controls {
+    margin-top: 10px;
+    border: 1px solid transparent;
+    border-radius: 2px 0 0 2px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    height: 32px;
+    outline: none;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+#searchInput {
+    background-color: #fff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;    
+    text-overflow: ellipsis;
+    width: 75%;
+}
+#searchInput:focus {
+    border-color: #4d90fe;
+}
+@media only screen and (min-width: 768px) {
+	.imghidden2{
+		display: none;
+	}
+	.imghidden1{
+		visibility: block;
+	}
+}
+.fila{
+	clear: both;
+	float:left;
+}
+.colum{
+	width: 48%;
+	float: left;
+	margin-left: 8px;
+}
+@media only screen and (max-width: 768px) {
+  .colum{
+		width: 100%;
+	}
+	.form-register {
+		width: 80%;
+	}
+	.imghidden1{
+		display: none;
+	}
+	.imghidden2{
+		visibility: block;
+	}
+}
+@media (min-width: 768px) and (max-width: 1200px)  {  
+	.form-register {
+		width: 80%;
+	}
+}
+.img{
+	float:left;
+}
+#voluntariado_ong{
+	height:146px;
+}
+
+input[type="file"] {
+	margin-top: 5px;
+    font-size: 12.5px;
+}
+@media (max-width: 576px)  {  
+	input[type="file"] {	
+		font-size: 10px;
+	}
+}
+input[type="checkbox"] {
+	margin-left: 5px;
+}
+.m-checkbox{
+	margin-top: 8px;
+	color: #3E3838;
+}
+input:checked + label {
+  font-weight: bold;
+}
+input[type="checkbox"]:checked {
+  box-shadow: 0 0 0 2px #4AFDEF;  
+}
+.exito { color: green; }
+.error { color: red; }
