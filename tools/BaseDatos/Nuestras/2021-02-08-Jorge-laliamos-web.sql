@@ -58,6 +58,7 @@ INSERT INTO `lugar` (`id_voluntariado`, `continente_lugar`, `pais_lugar`) VALUES
 --
 -- Estructura de tabla para la tabla `ongs`
 --
+#
 
 DROP TABLE IF EXISTS `ongs`;
 CREATE TABLE `ongs` (
