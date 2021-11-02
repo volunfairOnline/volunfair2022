@@ -48,7 +48,7 @@ escribe_cabecera(1);
     </div>           
 -->
                 
-            <!--  Fondos al redimensionar la página (los quitamos porque no hacen falta) -->
+            <!--  Fondos al redimensionar la página -->
                 <div class="solomediano1">
                  <img alt="" src=".\assets\base\img\volunfair\Fotos2021\PiesPortada.png" width="100%">
                 </div>

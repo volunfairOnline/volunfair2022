@@ -161,11 +161,6 @@ function escribe_cabecera ($es_index = 0) {
 						echo '<!-- BEGIN: BRAND -->'."\n";
 						echo '<div class="c-navbar-wrapper clearfix">'."\n";
 							echo '<div class="c-brand c-pull-left">'."\n";
-
-							/*if($es_index){
-								/*solo aparece en el index*/
-								/*echo '<div class="sologrande">'."\n";
-							}*/
 	 
 							echo '<a href="index" class="c-logo">'."\n";
 								echo '<img src="assets/base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-desktop-logo">'."\n";
@@ -179,11 +174,6 @@ function escribe_cabecera ($es_index = 0) {
 							echo '<button class="c-topbar-toggler" type="button">'."\n";
 								echo '<i class="fa fa-ellipsis-v"></i>'."\n";
 							echo '</button>'."\n";
-
-							/*if($es_index){
-								/*solo aparece en el index*/
-								/*echo '</div>'."\n";
-							}*/
 		  
 							echo '</div>'."\n";
 							echo '<!-- END: BRAND -->'."\n";
