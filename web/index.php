@@ -147,7 +147,7 @@ escribe_cabecera(1);
                         <div class="c-bg-white c-content-media-1 c-bordered">
                             <div class="row c-center wow animated fadeInUp">
                                 <iframe width="530" height="315" src="https://www.youtube.com/embed/bXle2TWJOTI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-								<iframe width="530" height="315" src="https://www.youtube.com/watch?v=1WNTYwFsK-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								<iframe width="530" height="315" src="https://www.youtube.com/embed/1WNTYwFsK-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 							</div>
                             <br />
                             
