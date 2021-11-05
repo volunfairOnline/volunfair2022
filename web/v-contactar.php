@@ -61,28 +61,28 @@ escribe_cabecera();
                                 <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
                                 
                                 <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
-                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto100.jpg); min-height: 380px;">
+                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto7.jpg); min-height: 380px;">
                                     </div>
 
-                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto101.jpg); min-height: 380px;">
+                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto9.jpg); min-height: 380px;">
                                     </div>
 
-                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto102.jpg); min-height: 380px;">
+                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto2.jpg); min-height: 380px;">
                                     </div>
 
-                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto103.jpg); min-height: 380px;">
+                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto8.jpg); min-height: 380px;">
                                     </div>
 
-                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto104.jpg); min-height: 380px;">
+                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto5.jpg); min-height: 380px;">
                                     </div>
 
-                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto105.jpg); min-height: 380px;">
+                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto3.jpg); min-height: 380px;">
                                     </div>
 
-                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto106.jpg); min-height: 380px;">
+                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto6.jpg); min-height: 380px;">
                                     </div>
 
-                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto107.jpg); min-height: 380px;">
+                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto1.jpg); min-height: 380px;">
                                     </div>
 
                                 </div>
