@@ -69,9 +69,9 @@ escribe_cabecera();
 								
 						<!-- Imagen -->
 						<div class="col-md-4 wow animated fadeInDown">
-							<img src="./assets/base/img/volunfair/premio/premioToniNadal.JPG" width="100%" alt="Toni Nadal recibe el Premio en 2020" />
+							<img src="./assets/base/img/volunfair/premio/premioToniNadal.JPG" width="100%" alt="Toni Nadal recibe el Premio en 2021" />
 							<br /><br />
-							<img src="./assets/base/img/volunfair/premio/premioVicente&Xabi.jpg" width="100%" alt="Vicente del Bosque recibe el Premio en 2019" />
+							<img src="./assets/base/img/volunfair/premio/premioVicente&Xabi.jpg" width="100%" alt="Vicente del Bosque recibe el Premio en 2020" />
 						</div>
 
 						
