@@ -27,8 +27,7 @@ escribe_cabecera();
             // --- Función para activar la consulta de los premios de la rifa
 			function buscar() {
                 var numero = $("#numero").val();
-                //var serie = $("#serie").val(); // Este año no hay serie, son todos de tipo 'un'
-				var serie = 'un';
+                var serie = $("#serie").val();
                 
                 // --- Llama al documento buscar-rifa.php, encargado de buscar si el número ha sido o no premiado y escribe el mensaje correspondiente
                 // --- En buscar-rifa.php está definido qué sale cuando no ha tocado nada
@@ -107,7 +106,7 @@ escribe_cabecera();
             <!-- END: CUENTA ATRÁS -->
 
             <!-- BEGIN: RIFA -->
-            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2021/bosque.jpg">
+            <!--<div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
@@ -117,25 +116,25 @@ escribe_cabecera();
                                             <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa</h3>
                                         </div>
                                     </div>
-                                    
+                                    -->
 
                                     <!-- BEGIN: RESULTADOS DE LA RIFA -->
-                                    <div class="c-center col-md-12 container row" id="buscarRifa">
+                                    <!--<div class="c-center col-md-12 container row" id="buscarRifa">
                                         Introduce tu número para saber si has tenido suerte:
                                         <br /><br />
 
                                         <div class="c-center">
                                             <form>
-                                                <label>Número:<label> <input type="number" id="numero" min="0" max="599" placeholder="" required="required" />
-                                                <!--<label>Serie:<label> 
+                                                <label>Número:<label> <input type="number" id="numero" min="0" max="499" placeholder="" required="required" />
+                                                <label>Serie:<label> 
                                                 <select id="serie" required="required" >
                                                     <option value="am">Amarillo</option>
                                                     <option value="az">Azul</option>
-                                                </select>-->
+                                                </select>
                                                 <input type="button" value="Buscar" onClick="buscar();" >                                       
                                             </form>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <!-- END: RESULTADOS DE LA RIFA -->
 
                                     <!-- BEGIN: AVISO PREVIO CUANDO NO HAY RIFA -->
@@ -146,14 +145,14 @@ escribe_cabecera();
                                     <br /><br />  
                                     -->
                                     <!-- END: AVISO PREVIO CUANDO NO HAY RIFA -->                              
-                                </div>
+                                <!--</div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
             <!-- END: RIFA -->
 
-            <br /><br /><br /><br />
+            <br /><br />
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
@@ -176,15 +175,12 @@ escribe_cabecera();
                                         <div class="c-right c-line-left "> </div>
                                     </div>
                                     <p class="c-right">
-                                        Tratándose de uno de los más importantes referentes en el mundo deportivo, Toni Nadal es un entrenador de tenis
-                                        y preparador físico español, ha acompañado durante toda su carrera a su sobrino y pupilo Rafa Nadal, ayudándolo
-                                        a convertirse en uno de los máximos nombres del tenis profesional, convirtiéndose así en el entrenador de tenis 
-                                        más laureado de la historia. <br />
-                                        La filosofía que ha mantenido durante toda su carrera profesional y la que le ha acabado asegurando el éxito ha
-                                        sido la de mantener la humildad y el enfoque en el trabajo y mejora de uno mismo. Según sus propias palabras, la
-                                        voluntad se puede entrenar, y debe ser ésta la que actúe como motor de nuestro desarrollo. <br />
-                                        Actualmente es Director Técnico Deportivo de la Academia Rafa Nadal y ejerce como formador, a fin de seguir fomentando
-                                        el trabajo técnico, el desarrollo del caracter y la formación en valores.
+                                        Toni Nadal 
+                                        ha preparado y acompañado toda la carrera de su sobrino Rafa Nadal, hasta convertirse en uno de los mayores nombres
+                                        de la historia del tenis profesional y una leyenda del deporte español. Presume de haber trabajado con un chico que "supo afrontar su realidad", y que, a pesar de la dificultad, 
+                                        estuvo siempre dispuesto a trabajar para mejorarla.<br/>
+                                        Tanto desde el micrófono de Volunfair, como en una pista de Montecarlo, Toni siempre ha defendido la necesidad de conocerse
+                                        a uno mismo, de ser consciente de nuestras fortalezas y debilidades, y trabajar desde ahí para sacar lo mejor de uno mismo.
                                     </p>
                                 </div>
                             </div>
@@ -232,14 +228,13 @@ escribe_cabecera();
                                                 <div class="c-right c-line-left "> </div>
                                             </div>
                                             <p class="c-right">
-                                            Patricia y María son dos jóvenes estudiantes que, con apenas cumplida su segunda década, decidieron abandonar
-                                                el confort habitual y lanzarse a lo desconocido sin ninguna otra razón más que la de ayudar al que lo necesita. <br />
-                                               Tras su visita decidieron fundar su propia asociación, Ángeles de Kenia, con el objetivo de realizar labores humanitarias
-                                               en este país. Han realizado ya cuatro visitas al continente africano, en las que se han realizado labores que tienen como
-                                               enfoque principal la ayuda a niños y familia. <br />
-                                               Con "Ángeles de Kenia" Pati y María esperan poder multiplicar los efectos que producen sus esfuerzos en el país. Recalcan
-                                               la importancia que tienen las ayudas económicas en las tareas de labor social, y buscan la puesta en acción con futuros 
-                                               voluntariados.
+                                            Patricia y María son dos jóvenes estudiantes que, con apenas 20 años cumplidos, decidieron abandonar
+                                                el confort habitual y lanzarse a lo desconocido, sin ninguna otra razón más que la de ayudar al que lo necesita. <br />
+                                               Su asociación, Ángeles de Kenia, nace después de su primera visita al país con el objetivo de ayudar a niños y familias.
+                                            Con ella, esperan poder multiplicar cualquier ayuda que consigan sus esfuerzos. <br />
+                                             Con el mismo espíritu que Volunfair, buscan la puesta en acción de futuros voluntarios, y nos recuerdan cómo lo único que necesitamos
+                                             para ayudar a alguien es la voluntad.
+                                            
                                             </p>
                                         </div>
                                     </div>
@@ -263,15 +258,14 @@ escribe_cabecera();
                                                 </h4>
                                             </div>
                                             <p class="c-right">
-                                                Javier Pérez-Minguez se trata del director de la Fundación Ana Carolina Díez Mahou, una entidad sin ánimo de lucro 
-                                                nacida de la misión de mejorar la calidad de vida de niños y familiares con enfermedades neuromusculares genéticas, 
-                                                las cuales provocan la invalidez, a causa de una pérdida de fuerza muscular, a más de 60.000 personas en España.<br />
-                                                Los objetivos que persigue la fundación son los de ayudar a familiares y ámbito social de los afectados, promover la
-                                                inclusión social gracias a proyectos de educación y habilitación, y contribuir a la investigación y tratamiento de estas
-                                                enfermedades.<br />
-                                                Hasta la fecha, la fundación ha contribuido a mejorar la calidad de vida de más de 200 niños y familias,
-                                                forman parte de la Federación Española de Enfermedades Raras y son de los principales promotores del proyecto EURODIPP,
-                                                que pretende ayudar en el aprendizaje de niños y jóvenes con distintos grados de discapacidad.
+                                                Javier Pérez-Minguez es el director de la Fundación Ana Carolina Díez Mahou, 
+                                                destinada a mejorar la calidad de vida de niños con enfermedades neuromusculares genéticas.<br /> 
+                                                Desde 2011, motivada gracias al nacimiento de su hijo Javi, la fundación busca aliviar los 
+                                                grandes retos que presenta el día a día para estas familias, contribuir a su inclusión social,
+                                                y fomentar la investigación y tratamiento de estas enfermedades. <br />
+                                                Con ella, y gracias a toda la experiencia de la enfermedad mitocondrial de Javi, Javier busca que 
+                                                ninguna familia se sienta sola ante la dificultad, y que los niños no dejen de serlo, aunque 
+                                                todo parezca ir en contra. 
                                             </p>
                                         </div>
                                     </div>
