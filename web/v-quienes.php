@@ -35,7 +35,7 @@ escribe_cabecera();
                 <div class="container">
                     <div class="row">
                         <div class="parallax-window" data-parallax="scroll" data-image-src="assets/base/img/volunfair/v-quienes/IMG_07673.JPG"></div>
-                        <div class="col-md-12">
+                        <div class="col-md-6">
                             <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 380px;">
                                 
                                 
@@ -64,6 +64,33 @@ escribe_cabecera();
  
                             </div>
                         </div>
+
+                        <div class="col-md-6">
+                                <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 380px;">
+                                    
+                                    
+                                    <div class="c-content-title-1">
+                                    <h3 class="c-font-uppercase c-font-bold">Visión</h3>
+                                    <div class="c-line-left c-theme-bg"></div>
+                                    </div>
+                                    
+                                    <p>
+                                        En VOLUNFAIR creemos en una juventud comprometida, estamos convencidos del potencial transformador que tiene nuestra generación 
+                                        y por eso apostamos por ello. 
+                                    </p>
+
+                                    <p>
+                                        Además, creemos en el voluntariado como herramienta para humanizar la sociedad, huyendo del individualismo para encaminarnos 
+                                        hacia un escenario en el que el bien común sea la máxima.
+                                    </p>
+                                    <p>
+                                        Los valores de VOLUNFAIR están basados en un sólido pilar: el amor a los demás. 
+                                        Es capital reconocer en las personas aquello que las hace únicas. Por tanto, en VOLUNFAIR 
+                                        somos abanderados de la justicia social, la solidaridad y la generosidad.
+                                    </p>
+    
+                                </div>
+                            </div>
                        <!--<div class="col-md-12 wow  fadeInRight animated" style="visibility: visible; animation-name: fadeInRight; opacity: 1;"> 
                         	<img src="assets/base/img/volunfair/v-quienes/origen.jpg" alt="" width="100%"> -->  <!--AÑADIR FOTO-->                        </div>
                     </div>
@@ -73,39 +100,40 @@ escribe_cabecera();
 			
 			<!-- BEGIN: VISION -->
             <div class="parallax-window" data-parallax="scroll" data-bleed="100" data-speed="0.2" data-image-src="assets\base\img\volunfair\anteriores\2020a\2020-Fotos-22.jpg">
-            <div class="c-content-box c-size-md ">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 380px;">
-                                
-                                
-                                <div class="c-content-title-1">
-                                   <h3 class="c-font-uppercase c-font-bold">Visión</h3>
-                                   <div class="c-line-left c-theme-bg"></div>
-                                 </div>
-                                
-								<p>
-									En VOLUNFAIR creemos en una juventud comprometida, estamos convencidos del potencial transformador que tiene nuestra generación 
-									y por eso apostamos por ello. 
-								</p>
+                <div class="c-content-box c-size-md ">
+                    <div class="container">
+                        <div class="row">
+                        <div class="col-md-6">
+                                <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 380px;">
+                                    
+                                    
+                                    <div class="c-content-title-1">
+                                    <h3 class="c-font-uppercase c-font-bold">Visión</h3>
+                                    <div class="c-line-left c-theme-bg"></div>
+                                    </div>
+                                    
+                                    <p>
+                                        En VOLUNFAIR creemos en una juventud comprometida, estamos convencidos del potencial transformador que tiene nuestra generación 
+                                        y por eso apostamos por ello. 
+                                    </p>
 
-								<p>
-									Además, creemos en el voluntariado como herramienta para humanizar la sociedad, huyendo del individualismo para encaminarnos 
-									hacia un escenario en el que el bien común sea la máxima.
-								</p>
-                                <p>
-								    Los valores de VOLUNFAIR están basados en un sólido pilar: el amor a los demás. 
-								    Es capital reconocer en las personas aquello que las hace únicas. Por tanto, en VOLUNFAIR 
-								    somos abanderados de la justicia social, la solidaridad y la generosidad.
-							    </p>
- 
+                                    <p>
+                                        Además, creemos en el voluntariado como herramienta para humanizar la sociedad, huyendo del individualismo para encaminarnos 
+                                        hacia un escenario en el que el bien común sea la máxima.
+                                    </p>
+                                    <p>
+                                        Los valores de VOLUNFAIR están basados en un sólido pilar: el amor a los demás. 
+                                        Es capital reconocer en las personas aquello que las hace únicas. Por tanto, en VOLUNFAIR 
+                                        somos abanderados de la justicia social, la solidaridad y la generosidad.
+                                    </p>
+    
+                                </div>
                             </div>
+                            
+                            
                         </div>
-						
                     </div>
                 </div>
-            </div>
             </div>
             <!-- END: VISION -->
 			
