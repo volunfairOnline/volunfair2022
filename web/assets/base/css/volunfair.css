@@ -250,5 +250,8 @@ a:active, a:hover, a:focus {
     width:100%;
     top:0px;
     left:0px;
->>>>>>> 8b1fc07689988861c17825b64d6c530e6e00e1d2
+}
+/* Tarjetas transparentes */
+.transparente {
+	opacity: 0.8;	
 }
