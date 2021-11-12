@@ -5,7 +5,10 @@
     <body>
         <style>
 
-            /* Este código CSS lo tenéis que poner en assets/base/css/volunfair.css */
+            /*
+                Este código CSS lo tenéis que poner en assets/base/css/volunfair.css
+                (Si ponéis algún comentario diciendo que se usa para las imágenes del equipo genial :-) )
+            */
             .visible {
                 opacity: 1;
             }
@@ -14,6 +17,9 @@
                 position: absolute;
                 top: 0;
                 left: 0;
+            }
+            .imagenes:hover .invisible {
+                opacity: 1;
             }
         </style>
 
@@ -24,21 +30,10 @@
             <img src="../web/assets/base/img/volunfair/anteriores/AlvaroPerezPla.jpg" class="invisible" />
         </div>
 
-        <script>
-            /*
-                Este código lo tenéis que poner en assets/base/js/ en un archivo que llamáis como querías (tipo fotos.s, la cosa es que se entienda más o menos jajaja) 
-                y luego "llamar" a ese archivo en config.php, como hacen en la línea 512
-            */
-            $(".imagenes").mouseover(function() { 
-                console.log('Encima')
-                $(this).children(".invisible").css('opacity', 1);
-                $(this).children(".visible").css('opacity', 0); 
-            });
-            $(".imagenes").mouseout(function() { 
-                $(this).children(".invisible").css('opacity', 0);
-                $(this).children(".visible").css('opacity', 1); 
-            });
-        </script>
+        <!--
+            MIL GRACIAS POR VUESTRO TRABAJO, ESTÁBAIS CERQUITA AUNQUE NO LO PARECIERA
+            LA PROGRAMACIÓN A VECES DESESPERA PERO NO OS DESANIMÉIS....¡SOIS MUY CRACKS!
+        -->
 
     </body>
 
