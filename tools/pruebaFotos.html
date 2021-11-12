@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    </head>
+    <body>
+        <style>
+
+            /* Este código CSS lo tenéis que poner en assets/base/css/volunfair.css */
+            .visible {
+                opacity: 1;
+            }
+            .invisible {
+                opacity: 0;
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+        </style>
+
+
+        <!-- Este HTML es lo que tenéis que poner en config.php, función muestra_equipo()-->
+        <div class="imagenes">
+            <img src="../web/assets/base/img/volunfair/anteriores/AlbertoCabanes.jpg" class="visible" />
+            <img src="../web/assets/base/img/volunfair/anteriores/AlvaroPerezPla.jpg" class="invisible" />
+        </div>
+
+        <script>
+            /*
+                Este código lo tenéis que poner en assets/base/js/ en un archivo que llamáis como querías (tipo fotos.s, la cosa es que se entienda más o menos jajaja) 
+                y luego "llamar" a ese archivo en config.php, como hacen en la línea 512
+            */
+            $(".imagenes").mouseover(function() { 
+                console.log('Encima')
+                $(this).children(".invisible").css('opacity', 1);
+                $(this).children(".visible").css('opacity', 0); 
+            });
+            $(".imagenes").mouseout(function() { 
+                $(this).children(".invisible").css('opacity', 0);
+                $(this).children(".visible").css('opacity', 1); 
+            });
+        </script>
+
+    </body>
+
+</html>
