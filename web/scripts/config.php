@@ -280,8 +280,10 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 									echo '</div>'."\n";		// --- Sólo se cierra el <div class="row"> cuando ha sido abierto previamente
 								echo '<div class="row" style="margin-left: 0px; margin-right: 0px">'."\n";
 							}
-							echo '<div class="col-md-3">'."\n";
-								echo '<img src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
+							echo '<div class="col-md-3 ">'."\n";
+								//AQUI LA FOTO
+								echo '<img class="" src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
+								echo '<img src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'_2" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
 								
 								// --- Si hay que poner los nombres, los ponemos
 								echo $poner_nombres ? $miembro['nombre'] : ''."\n";
