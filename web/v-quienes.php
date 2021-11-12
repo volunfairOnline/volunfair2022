@@ -30,11 +30,10 @@ escribe_cabecera();
             <!--Se han juntado Origen y Misión y Visión con Valores-->
             <!--Se han  retirado las imágenes v-quienes/mision y v-quienes/valores en favor de las imágenes con parallax-->
 
-            <!-- BEGIN: MISION-->
+            <!-- BEGIN: VISION Y MISION-->
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="row">
-                        <div class="parallax-window" data-parallax="scroll" data-image-src="assets/base/img/volunfair/v-quienes/IMG_07673.JPG"></div>
                         <div class="col-md-6">
                             <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 380px;">
                                 
@@ -60,63 +59,59 @@ escribe_cabecera();
  
                             </div>
                         </div>
-                        <div class="col-md-6">
-                            <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 380px;">
-                                
-                                
-                                <div class="c-content-title-1">
-                                   <h3 class="c-font-uppercase c-font-bold">Visión</h3>
-                                   <div class="c-line-left c-theme-bg"></div>
-                                 </div>
-                                
-								<p>
-									En VOLUNFAIR apostamos por una <b>juventud comprometida.</b> 
-								</p>
 
-								<p>
-									Creemos en el voluntariado como herramienta para humanizar la sociedad, huyendo del individualismo para encaminarnos 
-									hacia un escenario en el que el bien común sea la máxima.
-								</p>
-                                <p>
-								    Los valores de VOLUNFAIR están basados en un sólido pilar: el <b>amor a los demás.</b> 
-								    Es capital reconocer en las personas aquello que las hace únicas. Por tanto, en VOLUNFAIR 
-								    somos abanderados de la <b>justicia social, la solidaridad y la generosidad.</b>
-							    </p>
- 
-                            </div>                          
+                        <div class="col-md-6">
+                                <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 380px;">
+                                    
+                                    
+                                    <div class="c-content-title-1">
+                                    <h3 class="c-font-uppercase c-font-bold">Visión</h3>
+                                    <div class="c-line-left c-theme-bg"></div>
+                                    </div>
+
+                                    <p>
+									En VOLUNFAIR apostamos por una <b>juventud comprometida.</b> 
+                                    </p>
+
+                                    <p>
+                                        Creemos en el voluntariado como herramienta para humanizar la sociedad, huyendo del individualismo para encaminarnos 
+                                        hacia un escenario en el que el bien común sea la máxima.
+                                    </p>
+                                    <p>
+                                        Los valores de VOLUNFAIR están basados en un sólido pilar: el <b>amor a los demás.</b> 
+                                        Es capital reconocer en las personas aquello que las hace únicas. Por tanto, en VOLUNFAIR 
+                                        somos abanderados de la <b>justicia social, la solidaridad y la generosidad.</b>
+                                    </p>
+
+    
+                                </div>
+                            </div>
                        <!--<div class="col-md-12 wow  fadeInRight animated" style="visibility: visible; animation-name: fadeInRight; opacity: 1;"> 
                         	<img src="assets/base/img/volunfair/v-quienes/origen.jpg" alt="" width="100%"> -->  <!--AÑADIR FOTO-->                        </div>
                     </div>
                 </div>
             </div>
-            <!-- END: MISION Y VISIÓN-->
+            <!-- END: VISION Y MISION-->
 			
 			<!-- BEGIN: VALORES VF -->
-            
-            
-                                          
-			<!--			
-                    </div>
+            <div class="container">
+                    <div class="row">
+                    <div class="c-content-title-1">
+                        <h3 class="c-font-uppercase c-font-bold c-center"> VALORES VF</h3>
+                        <div class="c-line-center c-theme-bg"></div>                       
                 </div>
             </div>
-            </div>-->
-           
-            <div class="container">
-                    <div class="row">
-                    <div class="c-content-title-1">
-                        <h3 class="c-font-uppercase c-font-bold"> VALORES VF</h3>
-                        <div class="c-line-left c-theme-bg"></div>  
-             
-            
+            </div>
+            <br>
+            </br>
             <div class="parallax-window" data-parallax="scroll" data-bleed="50" data-speed="0.2" data-image-src="assets\base\img\volunfair\anteriores\2020a\2020-Fotos-22.jpg">
-        
-            <div class="container">
-                    <div class="row">
-                    <div class="c-content-title-1">
-                        <h3 class="c-font-uppercase c-font-bold"> VALORES VF</h3>
-                        <div class="c-line-left c-theme-bg"></div>                       
-
-                    <div class="col-md-3">
+                <div class="c-content-box c-size-md ">
+                    <div class="container">
+                        <div class="row">
+                            
+                        
+                               
+                                    <div class="col-md-3">
                         <div class="c-content-media-1 c-bordered wow animated bounceInUp" style="min-height: 380px";>
                             <div class="c-content-title-1 c-icongrande">
                                 <i class="fas fa-hands-helping"></i>
@@ -185,10 +180,19 @@ escribe_cabecera();
                             </div>
                         </div>
                     </div>
+                                    
+    
+                                </div>
+                            </div>
+                            
+                            
+                        
+                    </div>
                 </div>
             </div>
-            </div>
-            <!-- END: VALORESVF --> 
+            <!-- END: VALORES VF -->
+			
+ 
             <?php
 				
             // --- Matriz con los miembros del equipo (no poner coma tras cada último corchete porque da error)

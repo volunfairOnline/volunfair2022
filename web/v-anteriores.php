@@ -82,7 +82,7 @@ escribe_cabecera();
 
             <section id="timeline">
                 
-                <div class="tl-item">
+                <div class="tl-item3">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/flechazo.jpg)"></div>
                     
@@ -96,7 +96,7 @@ escribe_cabecera();
                     </div>
                 </div>
 
-                <div class="tl-item">
+                <div class="tl-item3">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/cascada.jpg)"></div>
                     
@@ -111,7 +111,7 @@ escribe_cabecera();
 
                 </div>
 
-                <div class="tl-item">
+                <div class="tl-item3">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/juntos.jpg)"></div>
                     
@@ -125,8 +125,11 @@ escribe_cabecera();
                     </div>
 
                 </div>
+            </section>
 
-                <div class="tl-item">
+                <section id="timeline">
+
+                <div class="tl-item3">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/puente.jpg)"></div>
                     
@@ -141,7 +144,7 @@ escribe_cabecera();
 
                 </div>
 
-                <div class="tl-item">
+                <div class="tl-item3">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/ballet.jpg)"></div>
                     
@@ -150,7 +153,22 @@ escribe_cabecera();
                     </div>
 
                     <div class="tl-content">
-                        <strong>Lema:</strong> "No hay mar sin gotas." <br />
+                        <strong>Lema:</strong> "No hay mar sin gotas" <br />
+                        <strong>Jefes:</strong> Maca Álvarez y Eduardo Amador
+                    </div>
+
+                </div>
+
+                <div class="tl-item3">
+                    
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/ballet.jpg)"></div>
+                    
+                    <div class="tl-year">
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes20.php">2021</a></p>
+                    </div>
+
+                    <div class="tl-content">
+                        <strong>Lema:</strong> "Desgasta tus zapatillas" <br />
                         <strong>Jefes:</strong> Maca Álvarez y Eduardo Amador
                     </div>
 

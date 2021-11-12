@@ -103,12 +103,12 @@ escribe_cabecera();
                             </div>
                             <div class="solo_peq">
                             <div class="row c-center wow animated bounceIn">
-                                        <iframe width="300" height="315" src="https://www.youtube-nocookie.com/embed/WEtWWy8wbgM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                        <iframe width="300" height="315" src="https://www.youtube-nocookie.com/embed/J3ojTZEZMXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="350" height="315" src="https://www.youtube-nocookie.com/embed/WEtWWy8wbgM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="350" height="315" src="https://www.youtube-nocookie.com/embed/J3ojTZEZMXg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>                              
                                     <div class="row c-center wow animated bounceIn">
-                                        <iframe width="300" height="315" src="https://www.youtube-nocookie.com/embed/ZEp-a___nng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                        <iframe width="300" height="315" src="https://www.youtube-nocookie.com/embed/KPnpI58YjMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="350" height="315" src="https://www.youtube-nocookie.com/embed/ZEp-a___nng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="350" height="315" src="https://www.youtube-nocookie.com/embed/KPnpI58YjMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                             </div>    
                             <br />  
@@ -249,61 +249,76 @@ escribe_cabecera();
                             <div class="col-md-2">
                             </div>
                             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <!-- BEGIN: VILLAGAYUMBOS -->
-                            <div class="col-md-4">
-                                <div class="col-md-12">
-                                    <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets/base/img/volunfair/participantes/villagayumbos.png" width="100%" title="Villagayumbos" alt="Villagyumbos" />
-                                    </div>
-                                    <br />
-                                    <div class="row wow animated bounceInDown">
-                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
-                                            <div class="c-content-title-3 c-theme-border c-right">
-                                                <h3 class="c-right c-font-uppercase c-font-bold">Natalia</h3>
-                                                <h4 class="c-right c-font-uppercase c-font-bold">
+
+                <!-- EDIT: VILLAGAYUMBOS -->
+                <div class="c-content-box c-size-md c-bg-white">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 300px; background-color: #e8ebeb;">
+                                
+                                
+                                    <div class="c-content-title-3 c-theme-border c-right">
+                                        <h3 class="c-right c-font-uppercase c-font-bold">Natalia Olaso</h3>
+                                        <h4 class="c-right c-font-uppercase c-font-bold">
                                                     <a href="https://www.instagram.com/villagayumbos/" target="_blank">@villagayumbos</a>
                                                 </h4>
-                                                <div class="c-right c-line-left "> </div>
-                                            </div>
-                                            <p class="c-right">
-                                                ¿Y tú qué harías si un día te despiertas y ves que influyes en la vida de casi 90.000 personas?<br />
-                                                Para Natalia esto es su día a día. Ademas, es madre de tres niños, sus tres más fieles seguidores y los que dan el nombre a su cuenta. 
-                                                Y eso nos hace pensar en el papel de una madre y que a lo mejor son ellos los influencers, ya que cualquier mamá será siempre la fan número 
-                                                uno de sus hijos y son ellos los que influyen, guían y determinan su vida.
-                                            </p>
-                                        </div>
+                                        <div class="c-right c-line-left "> </div>
                                     </div>
+                                    <p class="c-right">
+                                                ¿Y tú qué harías si un día te despiertas y ves que influyes en la vida de más de 100.000 personas?<br />
+                                                Para Natalia esto es su día a día. Es madre de tres niños, sus tres más fieles seguidores y los que dan nombre a su cuenta. 
+                                                Natalia nos ha hecho entender el papel de una madre, que a lo mejor son ellos realmente los influencers, porque cualquier mamá será siempre la fan número 
+                                                uno de sus hijos, y son ellos los que van a guiar y determinar su vida de las formas más imprevistas.
+                                    </p>
                                 </div>
                             </div>
-                            <!-- END: VILLAGAYUMBOS -->
-                            <!-- BEGIN: MI SUPERHÉROE SIN CAPA -->
                             <div class="col-md-4">
-                                <div class="col-md-12">
-                                    <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets/base/img/volunfair/participantes/misuperheroesincapa.jpeg" width="100%" title="Mi superhéroe sin capa" alt="Mi superhéroe sin capa" />
-                                    </div>
-                                    <br />
-                                    <div class="row wow animated bounceInDown">
-                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
-                                            <div class="c-content-title-3 c-theme-border c-left">
-                                                <div class="c-left c-line-right "> </div>
-                                                <h3 class="c-left c-font-uppercase c-font-bold">María</h3>
-                                                <h4 class="c-left c-font-uppercase c-font-bold">
-                                                    <a href="https://www.instagram.com/misuperheroesincapa/" target="_blank">@misuperheroesincapa</a>
-                                                </h4>
-                                            </div>
-                                            <p class="c-right">
-                                                María tenía su trabajo de profesora de colegio, su marido, sus hijos, sus amigas...y un día, de repente, la vida le regaló
-                                                a Nacho, un superhéroe que todos los días lucha por sobrevivir y que hace que cada uno a su alrededor saque lo mejor de sí mismo
-                                                y se convierta también en otro súperhéroe.<br />
-                                                Y es que su hijo tiene síndrome de Ondine, una enfermedad rara que le impide llevar una vida normal y que ha supuesto para María
-                                                descubrir que cada día es un bonito obsequio que hay que disfrutar.
-                                            </p>
-                                        </div>
-                                    </div>
+                                <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/villagayumbos.png); min-height: 300px;">
                                 </div>
                             </div>
-                            <!-- END: MI SUPERHÉROE SIN CAPA -->
+                         </div>
+                    </div>
+                </div>
+                 <!-- FIN EDIT: VILLAGAYUMBOS -->
+                
+                 <!-- BEGIN: CONTENT/MISC/LATEST-ITEMS-2-->
+                <div class="c-content-box c-size-md c-bg-white">
+                    <div class="container">
+                        <div class="row">
+                    	       <div class="col-md-4">
+                    	   	      <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/misuperheroesincapa.jpeg); min-height: 300px;">
+                                </div>
+                            </div>
+                    	
+                    	
+                            <div class="col-md-8">
+                                <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 300px; background-color: #e8ebeb;">
+                                    <div class="c-content-title-3 c-theme-border ">
+                                    <h3 class="c-left c-font-uppercase c-font-bold ">María Montoya</h3>
+                                    <h4 class="c-left c-font-uppercase c-font-bold">
+                                                    <a href="https://www.instagram.com/misuperheroesincapa/" target="_blank">@misuperheroesincapa</a>
+                                    </h4>
+                                    <div class=" c-line-left "></div>
+                                    </div>
+                                
+                                    <p>
+                                    María tenía su trabajo de profesora de colegio, su marido, sus hijos, sus amigas... Y un día, de repente, la vida le regaló
+                                    a Nacho, un superhéroe que todos los días lucha por sobrevivir y que hace que cada uno a su alrededor saque lo mejor de sí mismo
+                                    y se convierta también en otro superhéroe.<br />
+                                    Y es que su hijo tiene síndrome de Ondine, una enfermedad rara que le impide llevar una vida normal y que ha supuesto para María
+                                    descubrir que cada día es un bonito obsequio que disfrutar.
+                                    </p>
+ 
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            <!-- END: CONTENT/MISC/LATEST-ITEMS-2 -->
+
+              
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <div class="col-md-2">
                             </div>
