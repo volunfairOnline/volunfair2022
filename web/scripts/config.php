@@ -282,8 +282,8 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 							}
 							echo '<div class="col-md-3 ">'."\n";
 								//AQUI LA FOTO
-								echo '<img class="" src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
-								echo '<img src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'_2" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
+								echo '<img class="" src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'jpg" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
+								echo '<img src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'_2.jpg" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
 								
 								// --- Si hay que poner los nombres, los ponemos
 								echo $poner_nombres ? $miembro['nombre'] : ''."\n";

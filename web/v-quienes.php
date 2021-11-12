@@ -30,36 +30,31 @@ escribe_cabecera();
             <!--Se han juntado Origen y Misión y Visión con Valores-->
             <!--Se han  retirado las imágenes v-quienes/mision y v-quienes/valores en favor de las imágenes con parallax-->
 
-            <!-- BEGIN: ORIGEN Y MISION-->
+            <!-- BEGIN: VISION Y MISION-->
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="row">
-                        <div class="parallax-window" data-parallax="scroll" data-image-src="assets/base/img/volunfair/v-quienes/IMG_07673.JPG"></div>
                         <div class="col-md-6">
                             <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 380px;">
                                 
                                 
                                 <div class="c-content-title-1">
-                                   <h3 class="c-font-uppercase c-font-bold">Origen y Misión</h3>
+                                   <h3 class="c-font-uppercase c-font-bold">Misión</h3>
                                    <div class="c-line-left c-theme-bg"></div>
                                 </div>
 								 
                                 <p>
-									VOLUNFAIR es un proyecto que comienza en 2016 con el sueño de dos universitarios: acercar el voluntariado a todos los jóvenes. 
-									De esta manera, surge la idea de organizar en la universidad la que se ha convertido en la mayor feria joven de voluntariado de España. 
+									VOLUNFAIR es un proyecto que comienza en 2016 con el sueño de dos universitarios: acercar el <b>voluntariado a todos los jóvenes.</b> 
+									De esta manera, surge lo que se ha convertido hoy en la mayor feria joven de voluntariado de España. 
 								</p>
 								<p>
-									A lo largo de los años han pasado por VOLUNFAIR miles de jóvenes, los cuales han sacado adelante proyectos de las más de 100 entidades sociales participantes.
-									En la actualidad, somos un equipo de unos 50 jóvenes universitarios que, de manera totalmente altruista, trabajamos con muchísima ilusión para hacer VOLUNFAIR realidad. 
+									A lo largo de los años han pasado por VOLUNFAIR miles de jóvenes, los cuales han sacado adelante proyectos de las <b>más de 100 entidades sociales</b> participantes.
+									 
 								</p>
                                 <p>
-                                    Ponemos en contacto a los jóvenes universitarios con proyectos solidarios en todo el mundo. 
-								    De esta manera, VOLUNFAIR es la puerta que todos los universitarios, inquietos y con ilusión de ayudar a los demás, 
-								    tienen para cambiar sus vidas.
-                                </p>
-                                <p>
-								    Somos universitarios comprometidos con el mundo.  Buscamos que todos los jóvenes levanten la mirada de las pantallas para mirar a los demás, 
-								    contribuyendo así a construir una juventud con conciencia social, que no queda jamás indiferente ante el sufrimiento de otros.
+                                    Ponemos en contacto a los jóvenes universitarios con <b>proyectos solidarios en todo el mundo.</b>   
+								    
+                                   Buscamos construir una juventud con conciencia social, que no queda jamás indiferente ante el sufrimiento de otros.
 							    </p>
  
                             </div>
@@ -73,21 +68,21 @@ escribe_cabecera();
                                     <h3 class="c-font-uppercase c-font-bold">Visión</h3>
                                     <div class="c-line-left c-theme-bg"></div>
                                     </div>
-                                    
+
                                     <p>
-                                        En VOLUNFAIR creemos en una juventud comprometida, estamos convencidos del potencial transformador que tiene nuestra generación 
-                                        y por eso apostamos por ello. 
+									En VOLUNFAIR apostamos por una <b>juventud comprometida.</b> 
                                     </p>
 
                                     <p>
-                                        Además, creemos en el voluntariado como herramienta para humanizar la sociedad, huyendo del individualismo para encaminarnos 
+                                        Creemos en el voluntariado como herramienta para humanizar la sociedad, huyendo del individualismo para encaminarnos 
                                         hacia un escenario en el que el bien común sea la máxima.
                                     </p>
                                     <p>
-                                        Los valores de VOLUNFAIR están basados en un sólido pilar: el amor a los demás. 
+                                        Los valores de VOLUNFAIR están basados en un sólido pilar: el <b>amor a los demás.</b> 
                                         Es capital reconocer en las personas aquello que las hace únicas. Por tanto, en VOLUNFAIR 
-                                        somos abanderados de la justicia social, la solidaridad y la generosidad.
+                                        somos abanderados de la <b>justicia social, la solidaridad y la generosidad.</b>
                                     </p>
+
     
                                 </div>
                             </div>
@@ -96,57 +91,28 @@ escribe_cabecera();
                     </div>
                 </div>
             </div>
-            <!-- END: ORIGEN Y MISION-->
+            <!-- END: VISION Y MISION-->
 			
-			<!-- BEGIN: VISION -->
-            <div class="parallax-window" data-parallax="scroll" data-bleed="100" data-speed="0.2" data-image-src="assets\base\img\volunfair\anteriores\2020a\2020-Fotos-22.jpg">
+			<!-- BEGIN: VALORES VF -->
+            <div class="container">
+                    <div class="row">
+                    <div class="c-content-title-1">
+                        <h3 class="c-font-uppercase c-font-bold c-center"> VALORES VF</h3>
+                        <div class="c-line-center c-theme-bg"></div>                       
+                </div>
+            </div>
+            </div>
+            <br>
+            </br>
+            <div class="parallax-window" data-parallax="scroll" data-bleed="50" data-speed="0.2" data-image-src="assets\base\img\volunfair\anteriores\2020a\2020-Fotos-22.jpg">
                 <div class="c-content-box c-size-md ">
                     <div class="container">
                         <div class="row">
-                        <div class="col-md-6">
-                                <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 380px;">
-                                    
-                                    
-                                    <div class="c-content-title-1">
-                                    <h3 class="c-font-uppercase c-font-bold">Visión</h3>
-                                    <div class="c-line-left c-theme-bg"></div>
-                                    </div>
-                                    
-                                    <p>
-                                        En VOLUNFAIR creemos en una juventud comprometida, estamos convencidos del potencial transformador que tiene nuestra generación 
-                                        y por eso apostamos por ello. 
-                                    </p>
-
-                                    <p>
-                                        Además, creemos en el voluntariado como herramienta para humanizar la sociedad, huyendo del individualismo para encaminarnos 
-                                        hacia un escenario en el que el bien común sea la máxima.
-                                    </p>
-                                    <p>
-                                        Los valores de VOLUNFAIR están basados en un sólido pilar: el amor a los demás. 
-                                        Es capital reconocer en las personas aquello que las hace únicas. Por tanto, en VOLUNFAIR 
-                                        somos abanderados de la justicia social, la solidaridad y la generosidad.
-                                    </p>
-    
-                                </div>
-                            </div>
                             
-                            
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- END: VISION -->
-			
-            <!-- BEGIN: VALORES VF -->
-            <div class="parallax-window" data-parallax="scroll" data-bleed="100" data-speed="0.2" data-image-src="assets\base\img\volunfair\anteriores\2020a\2020-Fotos-22.jpg">
-                <div class="c-content-box c-size-md c-bg-white">
-                <div class="container">
-                    <div class="row">
-                    <div class="c-content-title-1">
-                        <h3 class="c-font-uppercase c-font-bold"> VALORES VF</h3>
-
-                    <div class="col-md-3">
-                        <div class="c-content-media-1 c-bordered wow animated bounceInUp" style="min-height: 380px;">
+                        
+                               
+                                    <div class="col-md-3">
+                        <div class="c-content-media-1 c-bordered wow animated bounceInUp" style="min-height: 380px";>
                             <div class="c-content-title-1 c-icongrande">
                                 <i class="fas fa-hands-helping"></i>
                                 <h3 class="c-font-uppercase c-font-bold">Virtudes</h3>
@@ -154,9 +120,9 @@ escribe_cabecera();
                             </div>
                                 
 								<p>
-                                <b>Amor por los demás</b>: y es que en volunfair no miramos a cada persona como estamos acostumbrados a ser mirados 
-                                por el mundo, dónde somos importantes en la medida en que aportemos a la sociedad, tanto social como económicamente. 
-                                Sino que cada persona es un don, y los dones hay que cuidarlos y hacer que crezcan.
+                                <b>Amor por los demás</b>: en volunfair no miramos a cada persona como estamos acostumbrados a ser mirados 
+                                por el mundo, dónde somos importantes en la medida en que aportemos a la sociedad.
+                              Sino que cada persona es un don.
                                 Y es <b>dando</b> dónde <b>se recibe</b>. Por eso nuestra misión principal es darnos a los demás con amor y por amor. 
 							    </p>
  
@@ -172,8 +138,8 @@ escribe_cabecera();
                                  </div>
                                 
 								<p>
-                                Como todo en la vida, no siempre salen las cosas a la primera. Y volunfair no es la excepción. Pero <b>con cada caída se aprende</b>,
-                                 porque la mejor maestra es la vida. Y es que caer no está mal, el problema es si nos encariñamos de la piedra. Porque el éxito 
+                                Como todo en la vida, no siempre salen las cosas a la primera. Y volunfair no es la excepción. Pero <b>con cada caída se aprende</b>.
+                                 Y es que caer no está mal, el problema es si nos encariñamos de la piedra. Porque el éxito 
                                  está en ir de fracaso en fracaso sin perder el entusiasmo. 
 							    </p>
  
@@ -187,10 +153,10 @@ escribe_cabecera();
                                     <h3 class="c-font-uppercase c-font-bold">Alegria</h3>
                                     <!--<div class="c-line-left c-theme-bg"></div>-->
                                  </div>
-                                
+                                 
 								<p>
-                                El poder de una sonrisa es el mayor poder de  volunfair. <b>La felicidad</b> más absoluta <b>está en</b> el <b>hacer felices a los demás</b>. Por eso
-                                 volunfair es pura alegría y entusiasmo, es como un niño al que todo le sorprende. Volunfair está lleno de emociones intensas y 
+                                El poder de una sonrisa es el mayor poder de  volunfair. <b>La felicidad</b> más absoluta <b>está en</b> el <b>hacer felices a los demás</b>. 
+                                 Volunfair es pura alegría y entusiasmo. Está lleno de emociones intensas y 
                                  sorpresas inesperadas, pero nuestra mayor certeza es que, por cada gota que das de alegría,  recibes un mar de sonrisas.
 							    </p>
  
@@ -205,20 +171,28 @@ escribe_cabecera();
                                  </div>
                                 
 								<p>
-                                Y es que volunfair tiene ya 5 años, está en esa época donde ya empieza a adquirir personalidad, imagen propia, 
-                                 y asentando sus objetivos,  pero conservando esa mirada inocente e infantil, mirando al mundo con los ojos abiertos dejándose 
-                                 sorprender cada momento por la vida y <b>viviendo</b> esos momentos <b>con esa emoción de niño</b>.  Ya empieza a tener
+                                Y es que volunfair tiene ya 5 años, ya empieza a adquirir personalidad, imagen propia  
+                                 y asentando sus objetivos. Pero  continua  dejándose 
+                                 sorprender por cada momento de la vida y <b>viviendo</b> esos momentos <b>con la emoción de un niño</b>.  Ya empieza a tener
                                  recuerdos, historia, experiencia, en definitiva un recorrido. Cada vez más gente se sube al tren y menos se bajan. 
 							    </p>
  
                             </div>
                         </div>
                     </div>
+                                    
+    
+                                </div>
+                            </div>
+                            
+                            
+                        
+                    </div>
                 </div>
             </div>
-            </div>
-            </div>
-            <!-- END: VALORESVF --> 
+            <!-- END: VALORES VF -->
+			
+ 
             <?php
 				
             // --- Matriz con los miembros del equipo (no poner coma tras cada último corchete porque da error)
