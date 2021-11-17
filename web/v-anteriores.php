@@ -92,7 +92,7 @@ escribe_cabecera();
 
                     <div class="tl-content">
                         Primera edición de VOLUNFAIR <br />
-                        <strong>Jefe:</strong> Dani Alfaro
+                        <strong>Jefe:</strong> Pilar Aldama y Daniel Alfaro
                     </div>
                 </div>
 
@@ -146,7 +146,7 @@ escribe_cabecera();
 
                 <div class="tl-item3">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/ballet.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/mares/mar13.jpeg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes20.php">2020</a></p>
@@ -161,7 +161,7 @@ escribe_cabecera();
 
                 <div class="tl-item3">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/ballet.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/zapatillas/acera.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes20.php">2021</a></p>
