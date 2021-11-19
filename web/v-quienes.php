@@ -205,101 +205,96 @@ escribe_cabecera();
                     ],
                 
                 "Comunicación" => [
-                        ['nombre' => 'Rodrigo Salcedo',					'foto' => 'comrodrigosalcedo3.jpg'],
-                        ['nombre' => 'Alberto Cabello de los Cobos',	'foto' => 'comalbertocabello.jpg'],
-                        ['nombre' => 'Ana Vendrell',					'foto' => 'comanavendrell.jpg'],
-                        ['nombre' => 'Begoña Nuñez',					'foto' => 'combegonunez.jpg'],
-                        ['nombre' => 'Santi Antúnez',					'foto' => 'comsantiantunez1.jpg'],
-                        ['nombre' => 'Leonor Gómez',					'foto' => 'comleonorgomez.jpg'],
-                        ['nombre' => 'Isabel de La Puente',				'foto' => 'comisadelapuente1.jpg'],
                         ['nombre' => 'Olivia Alarcón',					'foto' => 'comoiviaalarcon.jpg'],
-                        ['nombre' => 'Sara Abarca',					    'foto' => 'comsaraabarca1.jpg'],
-                        ['nombre' => 'Ana Marcos',					    'foto' => 'comanamarcos1.jpeg'],
-                        ['nombre' => 'Denise Fernández',				'foto' => 'comdenisefernandez.jpg'],
-                        ['nombre' => 'Natalia Serrano',			        'foto' => 'comnataliaserrano.jpg']
+                        ['nombre' => 'Sonsoles Sánchez-Albornoz',		'foto' => 'comrodrigosalcedo3.jpg'],
+                        ['nombre' => 'Alberto Ramírez Sanciñena',   	'foto' => 'comalbertocabello.jpg'],
+                        ['nombre' => 'Susana Fernández',				'foto' => 'comanavendrell.jpg'],
+                        ['nombre' => 'Jaime Moral',				    	'foto' => 'combegonunez.jpg'],
+                        ['nombre' => 'Paco Lanzuela',					'foto' => 'comsantiantunez1.jpg'],
+                        ['nombre' => 'Ana Marcos Rubio',				'foto' => 'comleonorgomez.jpg'],
+                        ['nombre' => 'Blanca Huidobro Perucho',			'foto' => 'comisadelapuente1.jpg'],
                     ],
                     
                 "Financiación" => [
                         ['nombre' => 'Gonzalo Castañeda',				'foto' => 'fingonzalocasta.jpg'],
-                        ['nombre' => 'Miguel Callejo',					'foto' => 'finmiguelcallejo.jpg'],
-                        ['nombre' => 'Antonio Hernández-Ros',			'foto' => 'finantoniohernandezros2.jpg'],
-                        ['nombre' => 'Jaime Gutierrez',			        'foto' => 'finjaimegutierrez.jpg'],
-                        ['nombre' => 'Álvaro de Santos',			    'foto' => 'finalvarodesantos2.png'],
-                        ['nombre' => 'Candela Vendrell',			    'foto' => 'fincandelavendrell2.jpg'],
-                        ['nombre' => 'Eduardo Sánchez',			        'foto' => 'finedusanchezgallo1.jpg'],
-                        ['nombre' => 'Alejandro García',			    'foto' => 'finalejandrogarcia1.JPG'],
-                        ['nombre' => 'Silvia Díaz',			            'foto' => 'finsilviadiaz.jpeg']
+                        ['nombre' => 'Santi Antúñez Durango',			'foto' => 'finmiguelcallejo.jpg'],
+                        ['nombre' => 'Iñigo Baltar Arriola',			'foto' => 'finantoniohernandezros2.jpg'],
+                        ['nombre' => 'Antonio Hernández-Ros Briales',   'foto' => 'finjaimegutierrez.jpg'],
+                        ['nombre' => 'Ricardo Estremera Sanz',  	    'foto' => 'finalvarodesantos2.png'],
+                        ['nombre' => 'Rocío García Llaneza',		    'foto' => 'fincandelavendrell2.jpg'],
+                        ['nombre' => 'Sofía Zaballa Martínez',	        'foto' => 'finedusanchezgallo1.jpg'],
                     ],
                     
                 "Gestión" => [
-                        ['nombre' => 'Chema Seral',				        'foto' => 'geschema3.jpg'],
-                        ['nombre' => 'María Gallo',				        'foto' => 'gesmariagallo.jpg'],
-                        ['nombre' => 'María Gil',				        'foto' => 'gesmariagil.jpg'],
                         ['nombre' => 'Jaime Hernanz',				    'foto' => 'gesjaimehernanz3.jpg'],
-                        ['nombre' => 'María Schüpfer',				    'foto' => 'gesmariaschüpfer1.jpg'],
-                        ['nombre' => 'Ines Fernández',				    'foto' => 'gesinesfernandez.jpg'],
-                        ['nombre' => 'Leticia Bengoechea',				'foto' => 'gesleticiabengoechea1.jpg'],
-                        ['nombre' => 'Raquel Blázquez',				    'foto' => 'gesraquelblazquez1.jpg'],
-                        ['nombre' => 'Lucía Varona',				    'foto' => 'gesluciavarona1.jpg'],
-                        ['nombre' => 'Teresa Helguero',				    'foto' => 'gesteresahelguero.jpg']
+                        ['nombre' => 'Diego Alvarez Manzanedo',			'foto' => 'gesmariagallo.jpg'],
+                        ['nombre' => 'Isabel de la Puente Carabot',     'foto' => 'gesmariagil.jpg'],
+                        ['nombre' => 'Alejandro García Vega',		    'foto' => 'gesjaimehernanz3.jpg'],
+                        ['nombre' => 'María Schupfer',				    'foto' => 'gesmariaschüpfer1.jpg'],
+                        ['nombre' => 'Ana Corrales',				    'foto' => 'gesinesfernandez.jpg'],
+                        ['nombre' => 'Alejandra Gómez',			    	'foto' => 'gesleticiabengoechea1.jpg'],
+                        ['nombre' => 'Rodrigo Salcedo',				    'foto' => 'gesraquelblazquez1.jpg'],
                     ],
 
                 "Marketing" => [
-                        ['nombre' => 'Ana Erquicia',					'foto' => 'mktanaerquicia2.jpg'],
-                        ['nombre' => 'Carmen Santaliestra',			    'foto' => 'mktcarmensant.jpg'],
-                        ['nombre' => 'Rocío López',					    'foto' => 'mktrociolopez.jpg'],
-                        ['nombre' => 'Susana Fernández',			    'foto' => 'mktsusanafernandez.jpg'],
-                        ['nombre' => 'Marta Fernández',					'foto' => 'mktmartafernandez1.jpg'],
-                        ['nombre' => 'Íñigo Baltar',					'foto' => 'mktinigobaltar.jpg']
+                        ['nombre' => 'Beatriz Lanchares',				'foto' => 'mktanaerquicia2.jpg'],
+                        ['nombre' => 'Carmen Arribas Olmo',			    'foto' => 'mktcarmensant.jpg'],
+                        ['nombre' => 'Rocío López Cortés',			    'foto' => 'mktrociolopez.jpg'],
+                        ['nombre' => 'Natalia Serrano',			        'foto' => 'mktsusanafernandez.jpg'],
+                        ['nombre' => 'Marta Fernández Oyonarte',		'foto' => 'mktmartafernandez1.jpg'],
+                        ['nombre' => 'Paula Lanchares Soriano',			'foto' => 'mktinigobaltar.jpg'],
+                        ['nombre' => 'María Casanova Favieres',			'foto' => 'mktinigobaltar.jpg'],
+                        ['nombre' => 'Ramón Rodríguez Rubio',			'foto' => 'mktinigobaltar.jpg'],
+                        ['nombre' => 'Teo Isern Yanguas',				'foto' => 'mktinigobaltar.jpg'],
                     ],
 
                 "ONG's" => [
-                        ['nombre' => 'Almudena López',					'foto' => 'ongalmulopez.jpg'],
-                        ['nombre' => 'Ana Díaz',					    'foto' => 'onganadiaz2.jpg'],
-                        ['nombre' => 'Anuska Alonso',					'foto' => 'onganuskaalonso1.jpg'],
-                        ['nombre' => 'Belén García',					'foto' => 'ongmariabelengarcia.jpg'],
-                        ['nombre' => 'Carlos Muñoz',					'foto' => 'ongcarlosmunoz.jpg'],
-                        ['nombre' => 'Jaime Olivares',					'foto' => 'ongjaimeolivares.jpg'],
-                        ['nombre' => 'Judith Santana',					'foto' => 'ongjudithsantana1.jpg'],
-                        ['nombre' => 'Miguel Iglesias',					'foto' => 'ongemigueliglesias2.jpg'],
-                        ['nombre' => 'María Cerdá',					    'foto' => 'ongmariacerdá.jpg'],
-                        ['nombre' => 'Lola Alberte',			        'foto' => 'onglolaalberte2.jpg']
+                        ['nombre' => 'Macarena Cuesta Blanco',			'foto' => 'ongalmulopez.jpg'],
+                        ['nombre' => 'Pablo NOblejas Maeso',			'foto' => 'onganadiaz2.jpg'],
+                        ['nombre' => 'Carmen Santaliestra Sánchez',		'foto' => 'onganuskaalonso1.jpg'],
+                        ['nombre' => 'Eduardo Misa Rivero',				'foto' => 'ongmariabelengarcia.jpg'],
+                        ['nombre' => 'Carlos Muñoz Rivero',				'foto' => 'ongcarlosmunoz.jpg'],
+                        ['nombre' => 'Lucía Tejero Prieto',				'foto' => 'ongjaimeolivares.jpg'],
+                        ['nombre' => 'Juan Lorenzo Linares',			'foto' => 'ongjudithsantana1.jpg'],
+                        ['nombre' => 'Laura San Juan Roldán',			'foto' => 'ongemigueliglesias2.jpg'],
                     ],
                 
                 "Web" => [
-                        ['nombre' => 'Irene Revuelta',					'foto' => 'webirenerev.jpg'],
+                        ['nombre' => 'Rosa María Mahugo Roca',			'foto' => 'webirenerev.jpg'],
                         ['nombre' => 'Nacho Menéndez',					'foto' => 'webnachomenendez.jpg'],
-                        ['nombre' => 'María Casanova',					'foto' => 'webmariacasanova1.jpg'],
-                        ['nombre' => 'Lucía Alejandre',					'foto' => 'webluciachaya.jpg'],
-                        ['nombre' => 'Javier de Eusebio',				'foto' => 'webjavideeusebio.jpg'],
-                        ['nombre' => 'Pilar Baratech',					'foto' => 'webpilarbaratech.jpg']
+                        ['nombre' => 'Pablo Codina Orozco',				'foto' => 'webmariacasanova1.jpg'],
+                        ['nombre' => 'Solete Vendrell Blanco',			'foto' => 'webluciachaya.jpg'],
+                        ['nombre' => 'Alba Casanova Favieres',			'foto' => 'webjavideeusebio.jpg'],
+                        ['nombre' => 'Carmen Acevedo Sanz',				'foto' => 'webpilarbaratech.jpg'],
+                        ['nombre' => 'Lucía Rosado Rivas',				'foto' => 'webpilarbaratech.jpg'],
                     ],
                
 
                 "Redes Sociales" => [
-                        ['nombre' => 'María López',					'foto' => 'rrssmarialopez.jpg'],
-                        ['nombre' => 'Paula Rey',					'foto' => 'rrsspaularey3.jpg'],
-                        ['nombre' => 'Blanca Verdes',				'foto' => 'rrssblncaverdes1.jpg'],
-                        ['nombre' => 'Cristina Llordén',			'foto' => 'rrsscristinallorden.jpg'],
-                        ['nombre' => 'Alberto Reina',				'foto' => 'rrssalbertoreina2.jpeg'],
-                        ['nombre' => 'Ana Travesí',					'foto' => 'rrssanatravesi.jpg']
+                        ['nombre' => 'Ignacio García Guerra',			'foto' => 'rrssmarialopez.jpg'],
+                        ['nombre' => 'Carmen Oché Pou',					'foto' => 'rrsspaularey3.jpg'],
+                        ['nombre' => 'Blanca Verdes',		        	'foto' => 'rrssblncaverdes1.jpg'],
+                        ['nombre' => 'Leticia de Wouters',			    'foto' => 'rrsscristinallorden.jpg'],
+                        ['nombre' => 'Carmen Carrasco Sardinero',		'foto' => 'rrssalbertoreina2.jpeg'],
+                        ['nombre' => 'José Vives Guerreeo',				'foto' => 'rrssanatravesi.jpg'],
+                        ['nombre' => 'Jimena Cargía Viñas',				'foto' => 'webpilarbaratech.jpg'],
                     ],
                 
                 "Recursos Humanos" => [
                         ['nombre' => 'Mariana Aldama',					'foto' => 'rrhhmarianaaldama.jpg'],
                         ['nombre' => 'Paula García',					'foto' => 'rrhhpaulagarcia.jpg'],
                         ['nombre' => 'Ana Delgado',					    'foto' => 'rrhhanadelgado.jpg'],
-                        ['nombre' => 'Marta García',					'foto' => 'rrhhmartagarcia.jpg']
+                        ['nombre' => 'Marta García',					'foto' => 'rrhhmartagarcia.jpg'],
                     ],
 
                 "Feria Online" =>[
-                    ['nombre' => 'Jorge García',					'foto' => 'feronjorgegarcia.jpg'],
-                    ['nombre' => 'Jaime López',					    'foto' => 'feronjaimelopezespada.jpg'],
-                    ['nombre' => 'Pablo Noblejas',					'foto' => 'feronpablonoblezas.jpg'],
-                    ['nombre' => 'Paco Lanzuela',					'foto' => 'feronpacolanzuela.jpg'],
-                    ['nombre' => 'Diego Cerrillo',			        'foto' => 'ferondiegocerrillo2.jpeg'],
-                    ['nombre' => 'Ana Molina',			            'foto' => 'feronanamolina.jpg'],
-                    ['nombre' => 'Carmen Acevedo',			        'foto' => 'feroncarmenacevedo.jpg']
+                    ['nombre' => 'Jorge García',			    		'foto' => 'feronjorgegarcia.jpg'],
+                    ['nombre' => 'Jaime López',					        'foto' => 'feronjaimelopezespada.jpg'],
+                    ['nombre' => 'Pablo Noblejas',					    'foto' => 'feronpablonoblezas.jpg'],
+                    ['nombre' => 'Paco Lanzuela',			    	    'foto' => 'feronpacolanzuela.jpg'],
+                    ['nombre' => 'Diego Cerrillo',			            'foto' => 'ferondiegocerrillo2.jpeg'],
+                    ['nombre' => 'Ana Molina',			                'foto' => 'feronanamolina.jpg'],
+                    ['nombre' => 'Carmen Acevedo',			            'foto' => 'feroncarmenacevedo.jpg'],
                     ]
                 ];
 
