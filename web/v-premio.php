@@ -93,7 +93,11 @@ escribe_cabecera();
 						$premiados = [
 							["fecha" => "2018", 	"nombre" => "Paco Arango",				"foto" => "PacoArango.jpg",			"razon" => ""],
 							["fecha" => "2019", 	"nombre" => "Xavi Torres",				"foto" => "XaviTorres.jpg",			"razon" => ""],
-							["fecha" => "2019", 	"nombre" => "Vicente del Bosque",		"foto" => "VicenteDelBosque.jpg",	"razon" => ""]
+							["fecha" => "2019", 	"nombre" => "Vicente del Bosque",		"foto" => "VicenteDelBosque.jpg",	"razon" => ""],
+                            ["fecha" => "2020",     "nombre" => "Adol-essence",        "foto" => "Adol-essence.jpg",    "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Toni Nadal",        "foto" => "ToniNadal.jpg",    "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Javier P&eacuterez-Minguez",        "foto" => ".jpg",    "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Los &Aacutengeles de Kenia",        "foto" => "LosAngelesDeKenia.jpg",    "razon" => ""]
 					
 						];
 						
@@ -101,11 +105,36 @@ escribe_cabecera();
 						escribe_premiados($premiados);
 					
 					?>
-					s
 					<!-- END: PREMIADOS -->
-				</div>										
-			
+                    <div class="container">
+                    <!-- BEGIN: PADRINOS -->
+                    <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
+                        <div class="c-content-title-1">
+                            <h3 class="c-center c-font-uppercase c-font-bold">Todos los padrinos</h3>
+                            <div class="c-line-center c-theme-bg"></div>
+                        </div>
+                    </div>
+
+                    <?php
+                        
+                        // --- Matriz con los padrinos (no poner coma tras cada último corchete porque da error)
+                        // --- Guardar la foto en assets/base/img/volunfair/anteriores/
+                        $padrinos = [
+                            ["fecha" => "2020",     "nombre" => "Enrique Rueda",                "foto" => "Padre_Enrique.jpg",            "razon" => ""],
+                            ["fecha" => "2020",     "nombre" => "Raquel Mart&iacutenez",                "foto" => "Raquel_Martinez.jpg",            "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Pablo Espa&ntildea",        "foto" => "PabloEspana.jpg",    "razon" => ""]
+
+                        ];
+                        
+                        // --- Función que escribe los padrinos con formato
+                        escribe_premiados($padrinos);
+
+                    ?>
+                    <!-- END: PADRINOS -->
+                    </div>
+                </div>
 			</div>
+                   
             <!-- END: PAGE CONTENT -->
         </div>
         <!-- END: PAGE CONTAINER -->
