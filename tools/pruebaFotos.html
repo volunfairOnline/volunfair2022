@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    </head>
+    <body>
+        <style>
+
+            /*
+                Este código CSS lo tenéis que poner en assets/base/css/volunfair.css
+                (Si ponéis algún comentario diciendo que se usa para las imágenes del equipo genial :-) )
+            */
+            .visible {
+                opacity: 1;
+            }
+            .invisible {
+                opacity: 0;
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+            .imagenes:hover .invisible {
+                opacity: 1;
+            }
+        </style>
+
+
+        <!-- Este HTML es lo que tenéis que poner en config.php, función muestra_equipo()-->
+        <div class="imagenes">
+            <img src="../web/assets/base/img/volunfair/anteriores/AlbertoCabanes.jpg" class="visible" />
+            <img src="../web/assets/base/img/volunfair/anteriores/AlvaroPerezPla.jpg" class="invisible" />
+        </div>
+
+        <!--
+            MIL GRACIAS POR VUESTRO TRABAJO, ESTÁBAIS CERQUITA AUNQUE NO LO PARECIERA
+            LA PROGRAMACIÓN A VECES DESESPERA PERO NO OS DESANIMÉIS....¡SOIS MUY CRACKS!
+        -->
+
+    </body>
+
+</html>

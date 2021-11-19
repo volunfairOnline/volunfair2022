@@ -161,11 +161,6 @@ function escribe_cabecera ($es_index = 0) {
 						echo '<!-- BEGIN: BRAND -->'."\n";
 						echo '<div class="c-navbar-wrapper clearfix">'."\n";
 							echo '<div class="c-brand c-pull-left">'."\n";
-
-							/*if($es_index){
-								/*solo aparece en el index*/
-								/*echo '<div class="sologrande">'."\n";
-							}*/
 	 
 							echo '<a href="index" class="c-logo">'."\n";
 								echo '<img src="assets/base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-desktop-logo">'."\n";
@@ -179,11 +174,6 @@ function escribe_cabecera ($es_index = 0) {
 							echo '<button class="c-topbar-toggler" type="button">'."\n";
 								echo '<i class="fa fa-ellipsis-v"></i>'."\n";
 							echo '</button>'."\n";
-
-							/*if($es_index){
-								/*solo aparece en el index*/
-								/*echo '</div>'."\n";
-							}*/
 		  
 							echo '</div>'."\n";
 							echo '<!-- END: BRAND -->'."\n";
@@ -290,8 +280,10 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 									echo '</div>'."\n";		// --- Sólo se cierra el <div class="row"> cuando ha sido abierto previamente
 								echo '<div class="row" style="margin-left: 0px; margin-right: 0px">'."\n";
 							}
-							echo '<div class="col-md-3">'."\n";
-								echo '<img src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
+							echo '<div class="col-md-3 ">'."\n";
+								//AQUI LA FOTO
+								echo '<img class="" src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'jpg" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
+								echo '<img src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'_2.jpg" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
 								
 								// --- Si hay que poner los nombres, los ponemos
 								echo $poner_nombres ? $miembro['nombre'] : ''."\n";

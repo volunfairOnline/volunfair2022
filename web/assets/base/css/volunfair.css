@@ -250,5 +250,22 @@ a:active, a:hover, a:focus {
     width:100%;
     top:0px;
     left:0px;
->>>>>>> 8b1fc07689988861c17825b64d6c530e6e00e1d2
 }
+/* Tarjetas transparentes */
+.transparente {
+	opacity: 0.8;	
+}
+ /*Cambiar foto al pasar el ratón*/
+ .visible {
+	opacity: 1;
+}
+.invisible {
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.imagenes:hover .invisible {
+	opacity: 1;
+}
+</style>
