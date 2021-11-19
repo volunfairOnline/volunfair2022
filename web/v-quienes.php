@@ -200,12 +200,12 @@ escribe_cabecera();
             $equipazo = [
             
                 "Dirección" => [
-                        ['nombre' => 'María López',				        'foto' => 'jefaza.jpg'],
+                        ['nombre' => 'María López',				        'foto' => 'je'],
                         ['nombre' => 'Jose María Seral',				'foto' => 'jefazo2.jpg']
                     ],
                 
                 "Comunicación" => [
-                        ['nombre' => 'Leonor Gómez',			    	'foto' => 'webpilarbaratech.jpg'],
+                        ['nombre' => 'Leonor Gómez',			    	'foto' => 'comleonorgomez'],
                         ['nombre' => 'Olivia Alarcón',					'foto' => 'comoiviaalarcon.jpg'],
                         ['nombre' => 'Sonsoles Sánchez-Albornoz',		'foto' => 'comrodrigosalcedo3.jpg'],
                         ['nombre' => 'Alberto Ramírez',             	'foto' => 'comalbertocabello.jpg'],
