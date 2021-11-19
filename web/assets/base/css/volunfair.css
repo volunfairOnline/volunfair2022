@@ -255,3 +255,17 @@ a:active, a:hover, a:focus {
 .transparente {
 	opacity: 0.8;	
 }
+ /*Cambiar foto al pasar el ratón*/
+ .visible {
+	opacity: 1;
+}
+.invisible {
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.imagenes:hover .invisible {
+	opacity: 1;
+}
+</style>
