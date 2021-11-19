@@ -111,11 +111,9 @@ escribe_cabecera();
                                  </div>
                                 
                                 <p>
-                                Cofundador y Director General la Fundación Kubuka en España, Álvaro es un joven que removió el mundo buscando la 
-                                forma de aprovechar todo el conocimiento adquirido en la universidad de empresariales y enfocarlo a hacer mejor la vida de los demás.
-                                Con esta idea fundó Kubuka, una ONG estructurada como una empresa que actúa en Kenia y Zambia con proyectos de empredimiento,
-                                educación e inclusión social. A día de hoy, Kubuka ha mejorado la calidad de vida de niños y jóvenes de las zonas en las 
-                                que actúa gracias a la construcción de colegios, orfanatos, proyectos de formación profesional y programas de apadrinamiento.
+                                Álvaro es un joven emprendedor que removió cielo y tierra buscando su forma de mejorar el mundo. Con esta ilusión, y con lo aprendido en la universidad, fundó Kubuka, una ONG que, con la eficiencia de una empresa, actúa en proyectos de empredimiento, educación e inclusión social en Kenia y Zambia.<br />
+                                Gracias a la construcción de colegios, orfanatos y proyectos de formación y apadrinamiento, Kubuka ha mejorado enormemente la calidad de vida de niños y jóvenes en las zonas en las que actúa.
+                                Durante su paso por Volunfair, Álvaro nos recordó la importancia de aportar nuestro granito de arena para empezar a cambiar el mundo.
                                 </p>
  
                             </div>
