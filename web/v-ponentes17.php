@@ -171,12 +171,11 @@ escribe_cabecera();
                                  </div>
                                 
                                 <p>
-								Misionero javierano de origen mejicano, Rolando está destinado a España, que es una "tierra de misión". 
-                                Su labor aquí es la de llevar a cabo una animación misionera, contando en parroquias, colegios e instituciones
-                                qué es ser misionero y alentando en los jóvenes el espíritu de misión.<br />
-                                Entre las numerosas actividades que ha organizado con ese fin, destacan sus campos de trabajo con inmigrantes en Ceuta, 
-                                en los que los voluntarios han organizado durante dos semanas talleres de español, manualidades o deporte, con los inmigrantes 
-                                recién llegados a la España y que esperan en los CETI su paso a la Península en condiciones angustiosas.
+								Como máximo ejemplo de una vida entregada a los demás contamos con Rolando, misionero javierano en España, destinado desde México 
+                                a informar y animar a jóvenes al espíritu de misión.<br />
+                                Su labor destaca sobre todo en la ayuda a las crisis sociales producidas por la entrada de inmigrantes en condiciones angustiosas.
+                                Gracias a su trabajo se han organizado numerosos talleres de formación, entretenimiento y deporte que han ayudado a centenares de 
+                                personas a tener una oportunidad real y darle un tratamiento humano a su situación.
                                 </p>
  
                             </div>
@@ -200,9 +199,9 @@ escribe_cabecera();
                                  </div>
                                 <p class="c-right">
                                 Con apenas 18 años cumplidos, Belén Llana emprendió un proyecto que, de forma muy similar a nuestra feria, tiene la ambición 
-                                de acercar el voluntariado a jóvenes dispuestos a cambiar el mundo. En 2015 funda "Voluntas Vincit", una ONG que desde sus 
-                                comienzos más humildes, ayuda a futuros voluntarios a encontrar proyectos en los que colaborar de acuerdo a su disponibilidad 
-                                y capacidades. Voluntas Vincit pretende hacer más accesible el primer paso que realizan los voluntarios al buscar una ONG de la que formar 
+                                de acercar el voluntariado a jóvenes dispuestos a cambiar el mundo. En 2015 funda "Voluntas Vincit", una ONG que ayuda a futuros voluntarios a encontrar proyectos en los que colaborar de acuerdo a su disponibilidad 
+                                y capacidades. Voluntas Vincit, desde sus 
+                                comienzos más humildes, pretende hacer más accesible el primer paso que realizan los voluntarios al buscar una ONG de la que formar 
                                 parte, y evitar que se encallen simplemente en la buena intención.
                                 </p>
                             </div>
