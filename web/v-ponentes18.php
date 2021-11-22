@@ -34,18 +34,18 @@ escribe_cabecera();
                     <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
                     
                         <p>
-                            Esta edición fue una pasada. Hubo aventuras. Por ejemplo, una noche fuimos a pegar carteles a Ciu, en plan delincuentes, 
-                            y nos llamaron para quitarlos al día siguiente. Casi nos da algo. Prometemos públicamente no volver a hacerlo jajajajajaj
+                            Esta edición fue una pasada. Hubo aventuras. Empapelamos Ciudad Universitaria, con nocturnidad y alevosía, para que todos pudiéseis conocernos.
+                            Aunque al día siguiente nos llamaron para recogerlos. (No prometemos que no volverá a ocurrir).
                         </p>
                         <p>
                             Pasamos de ser 20 en el equipo a ser 40. El lema, "emprende el cambio". 
                             Vinieron Paco Arango, Pablo Urbano (VIVA AUARA), Nico Merino (este tío se hizo Asturias Kenia en bici y vino a contarnos) y Alberto Cabanes. 
                         </p>
                         <p>
-                            Este año la financiación nos costó que flipas. Montamos hasta un crowdfunding!!! Pero al final vino McDonalds al salvarnos. OH YEAH
+                            Este año la financiación nos costó que flipas. Montamos hasta un crowdfunding!!! Pero al final vino McDonalds a salvarnos. (taratatatáa)
                         </p>
                         <p>
-                            VOLUNFAIR volvió a hacerse realidad.  Hubo milagritos, as usual, y vinieron miles de jóvenes.
+                            VOLUNFAIR volvió a hacerse realidad.  Hubo milagritos, como de costumbre, y vinieron miles de jóvenes.
                         </p>
 
                     </div>
@@ -167,14 +167,22 @@ escribe_cabecera();
                             <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 300px; background-color: #e8ebeb;">
                                 <div class="c-content-title-3 c-theme-border ">
                                    <h3 class="c-font-uppercase c-font-bold">Alberto Cabanes</h3>
+                                   <h4 class="c-left c-font c-font-bold">
+                                                    <a href="http://adoptaunabuelo.org" target="_blank">AdoptaUnAbuelo</a>
+                                                </h4>
                                    <div class=" c-line-left "></div>
                                  </div>
                                 
                                 <p>
-                                Alberto Cabanes, manchego de 24 años, funda en 2014 la fundación "Adopta un Abuelo", dedicada a unir a jóvenes en un voluntariado 
-                                destinado a acompañar a personas mayores, tanto en residencias como en sus casas, que viven sus últimos días en soledad. Su labor 
-                                acerca a los jóvenes a la realidad de una sociedad que, de forma involuntaria, olvida paulatinamente a la tercera edad.
-                                La idea de Alberto, que se gestó en la residencia de mayores de Ciudad Real, se ha desarrollado hasta convertirse en el proyecto
+                                Desde niño, la vida de Alberto ha estado siempre marcada por su relación con su abuelo Clemente. También por Bernardo, a quien
+                                conoció en 2014 y "adoptó" como abuelo por ser ya casi parte de su familia. <br />
+                                
+                                Y es que visitando la residencia para mayores de Ciudad Real se dió cuenta de la solitaria realidad que viven muchos ancianos, 
+                                y de cómo una pequeña conversación y una sonrisa  son cosas que echan de menos en su día a día. <br />
+                                
+                                Con 24 años Alberto crea la fundación "Adopta un Abuelo", destinada a unir a jóvenes en un voluntariado 
+                                para acompañar a personas mayores.
+                                A día de hoy, la iniciativa de Alberto se ha desarrollado hasta convertirse en el proyecto
                                 de más de 22.000 voluntarios y reconocido por 17 premios que es hoy.
                                 </p>
  

@@ -94,11 +94,10 @@ escribe_cabecera();
 							["fecha" => "2018", 	"nombre" => "Paco Arango",				"foto" => "PacoArango.jpg",			"razon" => ""],
 							["fecha" => "2019", 	"nombre" => "Xavi Torres",				"foto" => "XaviTorres.jpg",			"razon" => ""],
 							["fecha" => "2019", 	"nombre" => "Vicente del Bosque",		"foto" => "VicenteDelBosque.jpg",	"razon" => ""],
-                            ["fecha" => "2020",     "nombre" => "Adol-essence",        "foto" => "Adol-essence.jpg",    "razon" => ""],
-                            ["fecha" => "2021",     "nombre" => "Toni Nadal",        "foto" => "ToniNadal.jpg",    "razon" => ""],
-                            ["fecha" => "2021",     "nombre" => "Javier P&eacuterez-Minguez",        "foto" => "JavierPerezMinguez.jpg",    "razon" => ""],
-                            ["fecha" => "2021",     "nombre" => "Los &Aacutengeles de Kenia",        "foto" => "LosAngelesDeKenia.jpg",    "razon" => ""]
-					
+                            ["fecha" => "2020",     "nombre" => "Adol-essence",        		"foto" => "Adol-essence.jpg",    "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Toni Nadal",        		"foto" => "ToniNadal.jpg",    "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Javier Pérez-Minguez",     "foto" => ".jpg",    "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Los Ángeles de Kenia",     "foto" => "LosAngelesDeKenia.jpg",    "razon" => ""]					
 						];
 						
 						// --- Función que escribe los premiados con formato
@@ -121,8 +120,8 @@ escribe_cabecera();
                         // --- Guardar la foto en assets/base/img/volunfair/anteriores/
                         $padrinos = [
                             ["fecha" => "2020",     "nombre" => "Enrique Rueda",                "foto" => "Padre_Enrique.jpg",            "razon" => ""],
-                            ["fecha" => "2020",     "nombre" => "Raquel Mart&iacutenez",                "foto" => "Raquel_Martinez.jpg",            "razon" => ""],
-                            ["fecha" => "2021",     "nombre" => "Pablo Espa&ntildea",        "foto" => "PabloEspana.jpg",    "razon" => ""]
+                            ["fecha" => "2020",     "nombre" => "Raquel Martínez",                "foto" => "Raquel_Martinez.jpg",            "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Pablo España",        "foto" => "PabloEspana.jpg",    "razon" => ""]
 
                         ];
                         
