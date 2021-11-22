@@ -1,4 +1,6 @@
 <?php
+// --- AHora lo borramos
+
 
 // --- Escribe el menú principal
 function escribe_menu () {
