@@ -96,7 +96,7 @@ escribe_cabecera();
 							["fecha" => "2019", 	"nombre" => "Vicente del Bosque",		"foto" => "VicenteDelBosque.jpg",	"razon" => ""],
                             ["fecha" => "2020",     "nombre" => "Adol-essence",        "foto" => "Adol-essence.jpg",    "razon" => ""],
                             ["fecha" => "2021",     "nombre" => "Toni Nadal",        "foto" => "ToniNadal.jpg",    "razon" => ""],
-                            ["fecha" => "2021",     "nombre" => "Javier P&eacuterez-Minguez",        "foto" => ".jpg",    "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Javier P&eacuterez-Minguez",        "foto" => "JavierPerezMinguez.jpg",    "razon" => ""],
                             ["fecha" => "2021",     "nombre" => "Los &Aacutengeles de Kenia",        "foto" => "LosAngelesDeKenia.jpg",    "razon" => ""]
 					
 						];
