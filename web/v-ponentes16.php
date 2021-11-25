@@ -94,16 +94,28 @@ escribe_cabecera();
 			
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
-                    <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/DanielAlfaro.jpg" alt="Daniel Alfaro" title="Daniel Alfaro" class="animated wow swing" width="100%" />
-                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            El fundador: Dani Alfaro
-                        </div>
-                    </div>
-                    <div class="col-md-7">
+                    <div class="col-md-12">
                         <img src="./assets/base/img/volunfair/anteriores/equipo-2016.jpg" alt="Equipo 2016" title="Equipo 2016" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="./assets/base/img/volunfair/anteriores/Daniel.png" alt="Daniel Alfaro" title="Daniel Alfaro" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                           Dani Alfaro
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="./assets/base/img/volunfair/anteriores/Pilar.png" alt="Pilar Aldama" title="Pilar Aldama" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                            Pilar Aldama
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="./assets/base/img/volunfair/anteriores/PadreJesus.png" alt="Padre Jesús" title="Padre Jesús" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                            P. Jesús Zurita
                         </div>
                     </div>
                 </div>
