@@ -201,7 +201,7 @@ escribe_cabecera();
             
                 "Dirección" => [
                         ['nombre' => 'María López',				        'foto' => 'thebossmarialopez'],
-                        ['nombre' => 'Jose María Seral',				'foto' => 'thebosschemaseral']
+                        ['nombre' => 'Jose María Seral',				'foto' => 'thebosschemaseral'],
                     ],
                 
                 "Comunicación" => [
@@ -210,8 +210,8 @@ escribe_cabecera();
                         ['nombre' => 'Sonsoles Sánchez-Albornoz',		'foto' => 'comrodrigosalcedo3.jpg'],
                         ['nombre' => 'Alberto Ramírez',             	'foto' => 'comalbertoramirez'],
                         ['nombre' => 'Susana Fernández',				'foto' => 'comsusanafernandez'],
-                        ['nombre' => 'Jaime Moral',				    	'foto' => 'comjaimemoral],
-                        ['nombre' => 'Paco Lanzuela',					'foto' => 'comsantiantunez1.jpg'],
+                        ['nombre' => 'Jaime Moral',				    	'foto' => 'comjaimemoral'],
+                        ['nombre' => 'Paco Lanzuela',				   	'foto' => 'comjaimemoral1.jpg'],
                         ['nombre' => 'Ana Marcos',	        			'foto' => 'comanamarcos'],
                         ['nombre' => 'Blanca Huidobro',     			'foto' => 'comblancahuidobro'],
                     ],
