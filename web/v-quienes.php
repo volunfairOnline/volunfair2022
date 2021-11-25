@@ -218,7 +218,7 @@ escribe_cabecera();
                     
                 "Financiación" => [
                         ['nombre' => 'Gonzalo Castañeda',				'foto' => 'fingonzalocasta.jpg'],
-                        ['nombre' => 'Santi Antúñez',		    	    'foto' => 'finmiguelcallejo.jpg'],
+                        ['nombre' => 'Santi Antúnez',		    	    'foto' => 'finmiguelcallejo.jpg'],
                         ['nombre' => 'Iñigo Baltar',			        'foto' => 'finantoniohernandezros2.jpg'],
                         ['nombre' => 'Antonio Hernández-Ros',           'foto' => 'finjaimegutierrez.jpg'],
                         ['nombre' => 'Ricardo Estremera',  	            'foto' => 'finalvarodesantos2.png'],
