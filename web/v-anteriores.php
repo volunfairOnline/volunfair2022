@@ -169,7 +169,7 @@ escribe_cabecera();
 
                     <div class="tl-content">
                         <strong>Lema:</strong> "Desgasta tus zapatillas" <br />
-                        <strong>Jefes:</strong> Ignacio Álvarez y Pilar Barratech
+                        <strong>Jefes:</strong> Ignacio Sonrisas y María Lanzuela
                     </div>
 
                 </div>
