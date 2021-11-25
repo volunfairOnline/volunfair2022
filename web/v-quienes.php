@@ -200,56 +200,57 @@ escribe_cabecera();
             $equipazo = [
             
                 "Dirección" => [
-                        ['nombre' => 'María López',				        'foto' => 'je'],
-                        ['nombre' => 'Jose María Seral',				'foto' => 'jefazo2.jpg']
+                        ['nombre' => 'María López',				        'foto' => 'thebossmarialopez'],
+                        ['nombre' => 'Jose María Seral',				'foto' => 'thebosschemaseral']
                     ],
                 
                 "Comunicación" => [
                         ['nombre' => 'Leonor Gómez',			    	'foto' => 'comleonorgomez'],
                         ['nombre' => 'Olivia Alarcón',					'foto' => 'comoiviaalarcon.jpg'],
                         ['nombre' => 'Sonsoles Sánchez-Albornoz',		'foto' => 'comrodrigosalcedo3.jpg'],
-                        ['nombre' => 'Alberto Ramírez',             	'foto' => 'comalbertocabello.jpg'],
-                        ['nombre' => 'Susana Fernández',				'foto' => 'comanavendrell.jpg'],
-                        ['nombre' => 'Jaime Moral',				    	'foto' => 'combegonunez.jpg'],
+                        ['nombre' => 'Alberto Ramírez',             	'foto' => 'comalbertoramirez'],
+                        ['nombre' => 'Susana Fernández',				'foto' => 'comsusanafernandez'],
+                        ['nombre' => 'Jaime Moral',				    	'foto' => 'comjaimemoral],
                         ['nombre' => 'Paco Lanzuela',					'foto' => 'comsantiantunez1.jpg'],
-                        ['nombre' => 'Ana Marcos',	        			'foto' => 'comleonorgomez.jpg'],
-                        ['nombre' => 'Blanca Huidobro',     			'foto' => 'comisadelapuente1.jpg'],
+                        ['nombre' => 'Ana Marcos',	        			'foto' => 'comanamarcos'],
+                        ['nombre' => 'Blanca Huidobro',     			'foto' => 'comblancahuidobro'],
                     ],
                     
                 "Financiación" => [
-                        ['nombre' => 'Gonzalo Castañeda',				'foto' => 'fingonzalocasta.jpg'],
-                        ['nombre' => 'Santi Antúnez',		    	    'foto' => 'finmiguelcallejo.jpg'],
-                        ['nombre' => 'Iñigo Baltar',			        'foto' => 'finantoniohernandezros2.jpg'],
-                        ['nombre' => 'Antonio Hernández-Ros',           'foto' => 'finjaimegutierrez.jpg'],
-                        ['nombre' => 'Ricardo Estremera',  	            'foto' => 'finalvarodesantos2.png'],
-                        ['nombre' => 'Rocío García',		            'foto' => 'fincandelavendrell2.jpg'],
-                        ['nombre' => 'Sofía Zaballa',	                'foto' => 'finedusanchezgallo1.jpg'],
+                        ['nombre' => 'Gonzalo Castañeda',				'foto' => 'fingonzalocastaneda'],
+                        ['nombre' => 'Santi Antúnez',		    	    'foto' => 'finsantiantunez'],
+                        ['nombre' => 'Iñigo Baltar',			        'foto' => 'finantoniohros'],
+                        ['nombre' => 'Antonio Hernández-Ros',           'foto' => 'finantoniohros'],
+                        ['nombre' => 'Ricardo Estremera',  	            'foto' => 'finricardoestremera'],
+                        ['nombre' => 'Rocío García',		            'foto' => 'finrociogarcia'],
+                        ['nombre' => 'Sofía Zaballa',	                'foto' => 'finsofiazaballa'],
                     ],
                     
                 "Gestión y Recursos Humanos" => [
-                        ['nombre' => 'Ana Vendrell',	    			'foto' => 'webpilarbaratech.jpg'],
+                        ['nombre' => 'Ana Vendrell',	    			'foto' => 'gesanavendrell'],
                         ['nombre' => 'Jaime Hernanz',				    'foto' => 'gesjaimehernanz3.jpg'],
-                        ['nombre' => 'Diego Alvarez',			        'foto' => 'gesmariagallo.jpg'],
+                        ['nombre' => 'Diego Alvarez',			        'foto' => 'gesdiegoalvarez'],
                         ['nombre' => 'Isabel de la Puente',             'foto' => 'gesmariagil.jpg'],
-                        ['nombre' => 'Alejandro García',		        'foto' => 'gesjaimehernanz3.jpg'],
-                        ['nombre' => 'María Schupfer',				    'foto' => 'gesmariaschüpfer1.jpg'],
-                        ['nombre' => 'Ana Corrales',				    'foto' => 'gesinesfernandez.jpg'],
-                        ['nombre' => 'Alejandra Gómez',			    	'foto' => 'gesleticiabengoechea1.jpg'],
-                        ['nombre' => 'Rodrigo Salcedo',				    'foto' => 'gesraquelblazquez1.jpg'],
+                        ['nombre' => 'Alejandro García',		        'foto' => 'gesalejandrogarcia'],
+                        ['nombre' => 'María Schupfer',				    'foto' => 'gesmariaschupfer'],
+                        ['nombre' => 'Ana Corrales',				    'foto' => 'gesanacorrales'],
+                        ['nombre' => 'Alejandra Gómez',			    	'foto' => 'gesalejandragomez'],
+                        ['nombre' => 'Rodrigo Salcedo',				    'foto' => 'gesrodrigosalcedo'],
                     ],
 
                 "Marketing" => [
                         ['nombre' => 'Beatriz Lanchares',				'foto' => 'mktanaerquicia2.jpg'],
-                        ['nombre' => 'Carmen Arribas',			        'foto' => 'mktcarmensant.jpg'],
+                        ['nombre' => 'Carmen Arribas',			        'foto' => 'mktcarmenarribas'],
                         ['nombre' => 'Rocío López',			            'foto' => 'mktrociolopez.jpg'],
-                        ['nombre' => 'Natalia Serrano',			        'foto' => 'mktsusanafernandez.jpg'],
-                        ['nombre' => 'Marta Fernández',		            'foto' => 'mktmartafernandez1.jpg'],
+                        ['nombre' => 'Natalia Serrano',			        'foto' => 'mktnataliaserrano'],
+                        ['nombre' => 'Marta Fernández',		            'foto' => 'mktmartafernandez'],
                         ['nombre' => 'María Casanova',			        'foto' => 'mktinigobaltar.jpg'],
                         ['nombre' => 'Ramón Rodríguez',			        'foto' => 'mktinigobaltar.jpg'],
                         ['nombre' => 'Teo Isern',				        'foto' => 'mktinigobaltar.jpg'],
                     ],
 
                 "ONG's" => [
+                        ['nombre' => 'Paula García',			        'foto' => 'ongalmulopez.jpg'],
                         ['nombre' => 'Macarena Cuesta',			        'foto' => 'ongalmulopez.jpg'],
                         ['nombre' => 'Pablo Noblejas',			        'foto' => 'onganadiaz2.jpg'],
                         ['nombre' => 'Carmen Santaliestra',		        'foto' => 'onganuskaalonso1.jpg'],
