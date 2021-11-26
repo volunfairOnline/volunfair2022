@@ -266,7 +266,7 @@ escribe_cabecera();
                 
                 "Web y Feria Online" => [
                         ['nombre' => 'Ana Molina',				        'foto' => 'webanamolina'],
-                        ['nombre' => 'Jorge García',				    'foto' => 'webjorgegarcia.jpg'],
+                        ['nombre' => 'Jorge García',				    'foto' => 'webjorgegarcia'],
                         ['nombre' => 'Alberto Cabello',			    	'foto' => 'webalbertocabello'],
                         ['nombre' => 'Rosa María Mahugo',			    'foto' => 'webrosamahugo'],
                         ['nombre' => 'Nacho Menéndez',					'foto' => 'webnachomenendez'],
