@@ -169,7 +169,7 @@ escribe_cabecera();
 
                     <div class="tl-content">
                         <strong>Lema:</strong> "Desgasta tus zapatillas" <br />
-                        <strong>Jefes:</strong> Ignacio Sonrisas y María Lanzuela
+                        <strong>Jefes:</strong> Ignacio García-Guerra y María Lanzuela
                     </div>
 
                 </div>
