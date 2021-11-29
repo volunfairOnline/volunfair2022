@@ -273,7 +273,7 @@ escribe_cabecera();
                         ['nombre' => 'Pablo Codina',				    'foto' => 'webpablocodina.jpg'],
                         ['nombre' => 'Solete Vendrell',			        'foto' => 'websoletevendrell'],
                         ['nombre' => 'Alba Casanova',			        'foto' => 'webalbacasanova'],
-                        ['nombre' => 'Carmen Acevedo',				    'foto' => 'webpilarbaratech.jpg'],
+                        ['nombre' => 'Carmen Acevedo',				    'foto' => 'webcarmenacevedo'],
                         ['nombre' => 'Lucía Rosado',				    'foto' => 'webluciarosado'],
                     ],
                
