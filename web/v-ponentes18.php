@@ -29,7 +29,7 @@ escribe_cabecera();
 				</div>
 			</div>
             
-            <div class="c-content-box c-size-md c-bg-white">
+            <div class="c-content-box c-size-md c-bg-white" style="margin-top: -60px;">
                 <div class="container">
                     <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
                     
