@@ -131,7 +131,7 @@ escribe_cabecera();
 
                 <div class="tl-item3">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/mares/estrellas.jpg)"></div>
+                <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/mares/estrellas.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes19.php">2019</a></p>
@@ -191,6 +191,66 @@ escribe_cabecera();
                         <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="3" data-slide-speed="8000" data-rtl="false">
                             <div class="item">
                                 <div class="c-content-testimonial-3 c-option-default">
+                                    <div class="c-content"> Es muy gratificante dar algo que nunca más vas a volver a tener, tu tiempo, sin recibir nada a cambio. O eso pensamos... <br/><br/><br/><br/>
+                                    	</div>
+                                    <div class="c-person">
+                                        <div class="c-person-detail c-font-uppercase">
+                                            <h4 class="c-name">Ana</h4>
+                                            <p class="c-position c-font-bold">Estudiante de Industriales</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="c-content-testimonial-3 c-option-default">
+                                    <div class="c-content">Volunfair es el deseo de despertar en los jóvenes el deseo de ayudar, de darse a otros incondicionalmente.  <br/><br/><br/><br/>
+                                    	</div>
+                                    <div class="c-person">
+                                        <div class="c-person-detail c-font-uppercase">
+                                            <h4 class="c-name">Ignacio</h4>
+                                            <p class="c-position c-font-bold">Estudiante de Organización Industrial</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="c-content-testimonial-3 c-option-default">
+                                    <div class="c-content"> Es muy rápido y fácil encontrar el voluntariado que buscas, tienes más de sesenta stands y en el centro de Madrid. Es una labor muy bonita. <br/><br/><br/><br/>
+                                    	</div>
+                                    <div class="c-person">
+                                        <div class="c-person-detail c-font-uppercase">
+                                            <h4 class="c-name">Belén</h4>
+                                            <p class="c-position c-font-bold">Estudiante de Magisterio y Psicología</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                             <div class="item">
+                                <div class="c-content-testimonial-3 c-option-default">
+                                    <div class="c-content"> Siempre he sentido que mi vida era algo más que estudiar y estar en tu forma de confort. Por ello fui a volunfair y ahí encontré el voluntariado que me cambió la vida <br/><br/><br/>
+                                    	</div>
+                                    <div class="c-person">
+                                        <div class="c-person-detail c-font-uppercase">
+                                            <h4 class="c-name">Jaime</h4>
+                                            <p class="c-position c-font-bold">Estudiante de Historia</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="c-content-testimonial-3 c-option-default">
+                                    <div class="c-content">Impresiona ver a tanta gente que saca cualquier hueco en su agenda para darse a los demás incondicionalmente y montar esta feria para facilitar el voluntariado a los demás.  <br/><br/><br/>
+                                    	</div>
+                                    <div class="c-person">
+                                        <div class="c-person-detail c-font-uppercase">
+                                            <h4 class="c-name">Gonzalo</h4>
+                                            <p class="c-position c-font-bold">Estudiante de Económicas</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="c-content-testimonial-3 c-option-default ">
                                     <div class="c-content"> Me llamó la atención que la gente se diese tanto. Cuando les cuentas algo de voluntariado en seguida quieren participar, quieren ayudar… Y eso me impactó bastante. <br/><br/><br/>
                                     	</div>
                                     <div class="c-person">
