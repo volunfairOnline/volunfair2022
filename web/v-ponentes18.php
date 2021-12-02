@@ -109,7 +109,7 @@ escribe_cabecera();
                                 <div class="c-content-title-3 c-theme-border c-left">
                                    <h3 class="c-left c-font-uppercase c-font-bold">Nico Merino </h3>
                                     <h4 class="c-left c-font c-font-bold">
-                                                    <a href="https://kubuka.org/" target="_blank">Kubuka</a>
+                                                    <a href="https://kubuka.org/" target="_blank"><u>Kubuka</a></u>
                                                 </h4>
                                    <div class="c-right c-line-left "> </div>
                                  </div>
@@ -135,7 +135,7 @@ escribe_cabecera();
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Pablo Urbano </h3>
                                     <h4 class="c-right c-font c-font-bold">
-                                                    <a href="https://auara.org/" target="_blank">Auara</a>
+                                                    <a href="https://auara.org/" target="_blank"><u>Auara</u></a>
                                                 </h4>
                                    <div class=" c-right c-line-left "></div>
                                  </div>
@@ -177,7 +177,7 @@ escribe_cabecera();
                                 <div class="c-content-title-3 c-theme-border ">
                                    <h3 class="c-font-uppercase c-font-bold">Alberto Cabanes</h3>
                                    <h4 class="c-left c-font c-font-bold">
-                                                    <a href="http://adoptaunabuelo.org" target="_blank">AdoptaUnAbuelo</a>
+                                                    <a href="http://adoptaunabuelo.org" target="_blank"><u>AdoptaUnAbuelo</u></a>
                                                 </h4>
                                    <div class=" c-line-left "></div>
                                  </div>
