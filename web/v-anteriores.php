@@ -82,7 +82,7 @@ escribe_cabecera();
 
             <section id="timeline">
                 
-                <div class="tl-item3">
+                <div class="tl-item3" onclick="location.href='v-ponentes16.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/flechazo.jpg)"></div>
                     
@@ -96,7 +96,7 @@ escribe_cabecera();
                     </div>
                 </div>
 
-                <div class="tl-item3">
+                <div class="tl-item3" onclick="location.href='v-ponentes17.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/cascada.jpg)"></div>
                     
@@ -111,7 +111,7 @@ escribe_cabecera();
 
                 </div>
 
-                <div class="tl-item3">
+                <div class="tl-item3" onclick="location.href='v-ponentes18.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/juntos.jpg)"></div>
                     
@@ -129,7 +129,7 @@ escribe_cabecera();
 
                 <section id="timeline">
 
-                <div class="tl-item3">
+                <div class="tl-item3" onclick="location.href='v-ponentes19.php';">
                     
                 <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/mares/estrellas.jpg)"></div>
                     
@@ -144,7 +144,7 @@ escribe_cabecera();
 
                 </div>
 
-                <div class="tl-item3">
+                <div class="tl-item3" onclick="location.href='v-ponentes20.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/mares/mar13.jpeg)"></div>
                     
@@ -159,7 +159,7 @@ escribe_cabecera();
 
                 </div>
 
-                <div class="tl-item3">
+                <div class="tl-item3" onclick="location.href='v-ponentes21.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/zapatillas/acera.jpg)"></div>
                     
