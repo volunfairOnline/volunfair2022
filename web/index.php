@@ -100,7 +100,7 @@ escribe_cabecera(1);
 
                    
                     <div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
-                        <div class="c-content-title-1">
+                        <!--<div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
                                 ACCEDE A VOLUNFAIR 2021
                             </h3>
