@@ -214,7 +214,7 @@ escribe_cabecera();
                         ['nombre' => 'Alberto Ramírez',             	'foto' => 'comalbertoramirez'],
                         ['nombre' => 'Susana Fernández',				'foto' => 'comsusanafernandez'],
                         ['nombre' => 'Jaime Moral',				    	'foto' => 'comjaimemoral'],
-                        ['nombre' => 'Paco Lanzuela',					'foto' => 'comsantiantunez1.jpg'],
+                        //['nombre' => 'Paco Lanzuela',					'foto' => 'comsantiantunez1.jpg'],
                         ['nombre' => 'Ana Marcos',	        			'foto' => 'comanamarcos'],
                         ['nombre' => 'Blanca Huidobro',     			'foto' => 'comblancahuidobro'],
                     ],
@@ -257,7 +257,7 @@ escribe_cabecera();
                 "ONG's" => [
                         ['nombre' => 'Paula García',			        'foto' => 'ongpaulagarcia'],
                         ['nombre' => 'Macarena Cuesta',			        'foto' => 'ongmacarenacuesta'],
-                        ['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonorejas'],
+                        //['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonorejas'],
                         ['nombre' => 'Carmen Santaliestra',		        'foto' => 'ongcarmensantaliestra'],
                         ['nombre' => 'Carlos Muñoz',				    'foto' => 'ongcarlosmunoz'],
                         ['nombre' => 'Lucía Tejero',				    'foto' => 'ongluciatejero'],
@@ -274,14 +274,14 @@ escribe_cabecera();
                         ['nombre' => 'Pablo Codina',				    'foto' => 'webpablocodina'],
                         ['nombre' => 'Solete Vendrell',			        'foto' => 'websoletevendrell'],
                         ['nombre' => 'Alba Casanova',			        'foto' => 'webalbacasanova'],
-                        ['nombre' => 'Carmen Acevedo',				    'foto' => 'webcarmenacevedo'],
+                        //['nombre' => 'Carmen Acevedo',				    'foto' => 'webcarmenacevedo'],
                         ['nombre' => 'Lucía Rosado',				    'foto' => 'webluciarosado'],
                     ],
                
 
                 "Redes Sociales" => [
                         ['nombre' => 'Cristina Llordén',				'foto' => 'rrsscrisllorden'],
-                        ['nombre' => 'Ignacio García',			        'foto' => 'rrssignacioarcia'],
+                        //['nombre' => 'Ignacio García',			        'foto' => 'rrssignacioarcia'],
                         //['nombre' => 'Carmen Oché',					    'foto' => 'rrsspaularey3.jpg'],
                         ['nombre' => 'Blanca Verdes',		        	'foto' => 'rrssblancaverdes'],
                         ['nombre' => 'Leticia de Wouters',			    'foto' => 'rrssletidewouters'],
