@@ -209,12 +209,12 @@ escribe_cabecera();
                 
                 "Comunicación" => [
                         ['nombre' => 'Leonor Gómez',			    	'foto' => 'comleonorgomez'],
-                        ['nombre' => 'Olivia Alarcón',					'foto' => 'comoiviaalarcon.jpg'],
+                        //['nombre' => 'Olivia Alarcón',					'foto' => 'comoiviaalarcon.jpg'],
                         ['nombre' => 'Sonsoles Sánchez-Albornoz',		'foto' => 'comsonsolessanchez'],
                         ['nombre' => 'Alberto Ramírez',             	'foto' => 'comalbertoramirez'],
                         ['nombre' => 'Susana Fernández',				'foto' => 'comsusanafernandez'],
                         ['nombre' => 'Jaime Moral',				    	'foto' => 'comjaimemoral'],
-                        ['nombre' => 'Paco Lanzuela',					'foto' => 'comsantiantunez1.jpg'],
+                        //['nombre' => 'Paco Lanzuela',					'foto' => 'comsantiantunez1.jpg'],
                         ['nombre' => 'Ana Marcos',	        			'foto' => 'comanamarcos'],
                         ['nombre' => 'Blanca Huidobro',     			'foto' => 'comblancahuidobro'],
                     ],
@@ -231,9 +231,10 @@ escribe_cabecera();
                     
                 "Gestión y Recursos Humanos" => [
                         ['nombre' => 'Ana Vendrell',	    			'foto' => 'gesanavendrell'],
-                        ['nombre' => 'Jaime Hernanz',				    'foto' => 'gesjaimehernanz3.jpg'],
+                        ['nombre' => 'Miguel Callejo',	    			'foto' => 'gesmiguelcallejo'],
+                        //['nombre' => 'Jaime Hernanz',				    'foto' => 'gesjaimehernanz3.jpg'],
                         ['nombre' => 'Diego Alvarez',			        'foto' => 'gesdiegoalvarez'],
-                        ['nombre' => 'Isabel de la Puente',             'foto' => 'gesmariagil.jpg'],
+                        //['nombre' => 'Isabel de la Puente',             'foto' => 'gesmariagil.jpg'],
                         ['nombre' => 'Alejandro García',		        'foto' => 'gesalejandrogarcia'],
                         ['nombre' => 'María Schupfer',				    'foto' => 'gesmariaschupfer'],
                         ['nombre' => 'Ana Corrales',				    'foto' => 'gesanacorrales'],
@@ -242,22 +243,22 @@ escribe_cabecera();
                     ],
 
                 "Marketing" => [
-                        ['nombre' => 'Beatriz Lanchares',				'foto' => 'mktanaerquicia2.jpg'],
+                        //['nombre' => 'Irene Revuelta',			        'foto' => 'mktirenerevuelta'],
+                        //['nombre' => 'Beatriz Lanchares',				'foto' => 'mktanaerquicia2.jpg'],
                         ['nombre' => 'Carmen Arribas',			        'foto' => 'mktcarmenarribas'],
-                        ['nombre' => 'Rocío López',			            'foto' => 'mktrociolopez.jpg'],
+                        ['nombre' => 'Rocío López',			            'foto' => 'mktrociolopez'],
                         ['nombre' => 'Natalia Serrano',			        'foto' => 'mktnataliaserrano'],
                         ['nombre' => 'Marta Fernández',		            'foto' => 'mktmartafernandez'],
-                        ['nombre' => 'María Casanova',			        'foto' => 'mktinigobaltar.jpg'],
-                        ['nombre' => 'Ramón Rodríguez',			        'foto' => 'mktinigobaltar.jpg'],
+                        //['nombre' => 'María Casanova',			        'foto' => 'mktinigobaltar.jpg'],
+                        //['nombre' => 'Ramón Rodríguez',			        'foto' => 'mktinigobaltar.jpg'],
                         ['nombre' => 'Teo Isern',				        'foto' => 'mktteoisern'],
                     ],
 
                 "ONG's" => [
                         ['nombre' => 'Paula García',			        'foto' => 'ongpaulagarcia'],
                         ['nombre' => 'Macarena Cuesta',			        'foto' => 'ongmacarenacuesta'],
-                        ['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonorejas'],
+                        //['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonorejas'],
                         ['nombre' => 'Carmen Santaliestra',		        'foto' => 'ongcarmensantaliestra'],
-                        ['nombre' => 'Eduardo Misa',				    'foto' => 'ongmariabelengarcia.jpg'],
                         ['nombre' => 'Carlos Muñoz',				    'foto' => 'ongcarlosmunoz'],
                         ['nombre' => 'Lucía Tejero',				    'foto' => 'ongluciatejero'],
                         ['nombre' => 'Juan Lorenzo',			        'foto' => 'ongjuanlorenzo'],
@@ -265,7 +266,7 @@ escribe_cabecera();
                     ],
                 
                 "Web y Feria Online" => [
-                        ['nombre' => 'Ana Molina',				        'foto' => 'webanamolina],
+                        ['nombre' => 'Ana Molina',				        'foto' => 'webanamolina'],
                         ['nombre' => 'Jorge García',				    'foto' => 'webjorgegarcia'],
                         ['nombre' => 'Alberto Cabello',			    	'foto' => 'webalbertocabello'],
                         ['nombre' => 'Rosa María Mahugo',			    'foto' => 'webrosamahugo'],
@@ -273,15 +274,15 @@ escribe_cabecera();
                         ['nombre' => 'Pablo Codina',				    'foto' => 'webpablocodina'],
                         ['nombre' => 'Solete Vendrell',			        'foto' => 'websoletevendrell'],
                         ['nombre' => 'Alba Casanova',			        'foto' => 'webalbacasanova'],
-                        ['nombre' => 'Carmen Acevedo',				    'foto' => 'webcarmenacevedo'],
+                        //['nombre' => 'Carmen Acevedo',				    'foto' => 'webcarmenacevedo'],
                         ['nombre' => 'Lucía Rosado',				    'foto' => 'webluciarosado'],
                     ],
                
 
                 "Redes Sociales" => [
                         ['nombre' => 'Cristina Llordén',				'foto' => 'rrsscrisllorden'],
-                        ['nombre' => 'Ignacio García',			        'foto' => 'rrssignacioarcia'],
-                        ['nombre' => 'Carmen Oché',					    'foto' => 'rrsspaularey3.jpg'],
+                        //['nombre' => 'Ignacio García',			        'foto' => 'rrssignacioarcia'],
+                        //['nombre' => 'Carmen Oché',					    'foto' => 'rrsspaularey3.jpg'],
                         ['nombre' => 'Blanca Verdes',		        	'foto' => 'rrssblancaverdes'],
                         ['nombre' => 'Leticia de Wouters',			    'foto' => 'rrssletidewouters'],
                         ['nombre' => 'Carmen Carrasco',		            'foto' => 'rrsscarmencarrasco'],
