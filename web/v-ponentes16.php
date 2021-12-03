@@ -29,12 +29,12 @@ escribe_cabecera();
 				</div>
             </div>
             
-            <div class="c-content-box c-size-md c-bg-white">
+            <div class="c-content-box c-size-md c-bg-white" style="margin-top: -60px;">
                 <div class="container">
                     <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
                     
                         <p>
-                            Jamás un sueño un nacido en un viaje, en mitad de una autopista, llegó tan lejos. Siete jóvenes y una ilusión: 
+                            Jamás un sueño nacido en un viaje, en mitad de una autopista, llegó tan lejos. Siete jóvenes y una ilusión: 
                             que todos los jóvenes descubran la alegría de DAR. Así deciden montar en su uni  algo inexistente hasta entonces en Madrid: 
                             una feria de voluntariado. Porque todo el mundo quiere hacer voluntariado, pero nadie sabe 
                             dónde encontrarlo.
