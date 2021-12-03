@@ -244,7 +244,7 @@ escribe_cabecera();
                 "Marketing" => [
                         ['nombre' => 'Beatriz Lanchares',				'foto' => 'mktanaerquicia2.jpg'],
                         ['nombre' => 'Carmen Arribas',			        'foto' => 'mktcarmenarribas'],
-                        ['nombre' => 'Rocío López',			            'foto' => 'mktrociolopez.jpg'],
+                        ['nombre' => 'Rocío López',			            'foto' => 'mktrociolopez'],
                         ['nombre' => 'Natalia Serrano',			        'foto' => 'mktnataliaserrano'],
                         ['nombre' => 'Marta Fernández',		            'foto' => 'mktmartafernandez'],
                         ['nombre' => 'María Casanova',			        'foto' => 'mktinigobaltar.jpg'],
