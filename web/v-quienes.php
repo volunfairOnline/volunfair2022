@@ -104,7 +104,9 @@ escribe_cabecera();
             </div>
             <br>
             </br>
-            <div class="parallax-window" data-parallax="scroll" data-bleed="50" data-speed="0.2" data-image-src="assets\base\img\volunfair\anteriores\2020a\2020-Fotos-22.jpg">
+            <br>
+            </br>
+            <div class="parallax-window" data-parallax="scroll" data-bleed="100" data-speed="0.2" data-image-src="assets\base\img\volunfair\anteriores\2020a\2020-Fotos-22.jpg">
                 <div class="c-content-box c-size-md ">
                     <div class="container">
                         <div class="row">
@@ -192,7 +194,8 @@ escribe_cabecera();
             </div>
             <!-- END: VALORES VF -->
 			
- 
+            <br>
+            </br>
             <?php
 				
             // --- Matriz con los miembros del equipo (no poner coma tras cada último corchete porque da error)
@@ -207,11 +210,11 @@ escribe_cabecera();
                 "Comunicación" => [
                         ['nombre' => 'Leonor Gómez',			    	'foto' => 'comleonorgomez'],
                         ['nombre' => 'Olivia Alarcón',					'foto' => 'comoiviaalarcon.jpg'],
-                        ['nombre' => 'Sonsoles Sánchez-Albornoz',		'foto' => 'comrodrigosalcedo3.jpg'],
+                        ['nombre' => 'Sonsoles Sánchez-Albornoz',		'foto' => 'comsonsolessanchez'],
                         ['nombre' => 'Alberto Ramírez',             	'foto' => 'comalbertoramirez'],
                         ['nombre' => 'Susana Fernández',				'foto' => 'comsusanafernandez'],
                         ['nombre' => 'Jaime Moral',				    	'foto' => 'comjaimemoral'],
-                        ['nombre' => 'Paco Lanzuela',				   	'foto' => 'comjaimemoral1.jpg'],
+                        ['nombre' => 'Paco Lanzuela',					'foto' => 'comsantiantunez1.jpg'],
                         ['nombre' => 'Ana Marcos',	        			'foto' => 'comanamarcos'],
                         ['nombre' => 'Blanca Huidobro',     			'foto' => 'comblancahuidobro'],
                     ],
@@ -246,13 +249,13 @@ escribe_cabecera();
                         ['nombre' => 'Marta Fernández',		            'foto' => 'mktmartafernandez'],
                         ['nombre' => 'María Casanova',			        'foto' => 'mktinigobaltar.jpg'],
                         ['nombre' => 'Ramón Rodríguez',			        'foto' => 'mktinigobaltar.jpg'],
-                        ['nombre' => 'Teo Isern',				        'foto' => 'mktinigobaltar.jpg'],
+                        ['nombre' => 'Teo Isern',				        'foto' => 'mktteoisern'],
                     ],
 
                 "ONG's" => [
-                        ['nombre' => 'Paula García',			        'foto' => 'omgpaulagarcia'],
+                        ['nombre' => 'Paula García',			        'foto' => 'ongpaulagarcia'],
                         ['nombre' => 'Macarena Cuesta',			        'foto' => 'ongmacarenacuesta'],
-                        ['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonoblejas'],
+                        ['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonorejas'],
                         ['nombre' => 'Carmen Santaliestra',		        'foto' => 'ongcarmensantaliestra'],
                         ['nombre' => 'Eduardo Misa',				    'foto' => 'ongmariabelengarcia.jpg'],
                         ['nombre' => 'Carlos Muñoz',				    'foto' => 'ongcarlosmunoz'],
@@ -262,28 +265,28 @@ escribe_cabecera();
                     ],
                 
                 "Web y Feria Online" => [
-                        ['nombre' => 'Ana Molina',				        'foto' => 'webanamolina'],
-                        ['nombre' => 'Jorge García',				    'foto' => 'webjorgegarcia.jpg'],
+                        ['nombre' => 'Ana Molina',				        'foto' => 'webanamolina],
+                        ['nombre' => 'Jorge García',				    'foto' => 'webjorgegarcia'],
                         ['nombre' => 'Alberto Cabello',			    	'foto' => 'webalbertocabello'],
                         ['nombre' => 'Rosa María Mahugo',			    'foto' => 'webrosamahugo'],
                         ['nombre' => 'Nacho Menéndez',					'foto' => 'webnachomenendez'],
-                        ['nombre' => 'Pablo Codina',				    'foto' => 'webpablocodina.jpg'],
+                        ['nombre' => 'Pablo Codina',				    'foto' => 'webpablocodina'],
                         ['nombre' => 'Solete Vendrell',			        'foto' => 'websoletevendrell'],
                         ['nombre' => 'Alba Casanova',			        'foto' => 'webalbacasanova'],
-                        ['nombre' => 'Carmen Acevedo',				    'foto' => 'webpilarbaratech.jpg'],
+                        ['nombre' => 'Carmen Acevedo',				    'foto' => 'webcarmenacevedo'],
                         ['nombre' => 'Lucía Rosado',				    'foto' => 'webluciarosado'],
                     ],
                
 
                 "Redes Sociales" => [
                         ['nombre' => 'Cristina Llordén',				'foto' => 'rrsscrisllorden'],
-                        ['nombre' => 'Ignacio García',			        'foto' => 'rrssignaciogarcia'],
+                        ['nombre' => 'Ignacio García',			        'foto' => 'rrssignacioarcia'],
                         ['nombre' => 'Carmen Oché',					    'foto' => 'rrsspaularey3.jpg'],
-                        ['nombre' => 'Blanca Verdes',		        	'foto' => 'rrssblncaverdes'],
+                        ['nombre' => 'Blanca Verdes',		        	'foto' => 'rrssblancaverdes'],
                         ['nombre' => 'Leticia de Wouters',			    'foto' => 'rrssletidewouters'],
                         ['nombre' => 'Carmen Carrasco',		            'foto' => 'rrsscarmencarrasco'],
                         ['nombre' => 'José Vives',				        'foto' => 'rrssjosevives'],
-                        ['nombre' => 'Jimena Cargía',				    'foto' => 'webpilarbaratech.jpg'],
+                        ['nombre' => 'Jimena García',				    'foto' => 'rrssjimenagarcia'],
                     ],
                 ];
 

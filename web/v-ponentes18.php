@@ -29,7 +29,7 @@ escribe_cabecera();
 				</div>
 			</div>
             
-            <div class="c-content-box c-size-md c-bg-white">
+            <div class="c-content-box c-size-md c-bg-white" style="margin-top: -60px;">
                 <div class="container">
                     <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
                     
@@ -67,6 +67,9 @@ escribe_cabecera();
                                 
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Paco Arango</h3>
+                                   <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://aladina.org/" target="_blank"><u>Fundación Aladina</u></a>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                 </div>
                                 <p class="c-right">
@@ -104,8 +107,11 @@ escribe_cabecera();
                                 </div>
                         <div class="col-md-8">
                             <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 300px; background-color: #e8ebeb;">
-                                <div class="c-content-title-3 c-theme-border c-right">
-                                   <h3 class="c-right c-font-uppercase c-font-bold">Nico Merino</h3>
+                                <div class="c-content-title-3 c-theme-border c-left">
+                                   <h3 class="c-left c-font-uppercase c-font-bold">Nico Merino </h3>
+                                    <h4 class="c-left c-font c-font-bold">
+                                                    <a href="https://kubuka.org/" target="_blank"><u>Kubuka</a></u>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                  </div>
                                 <p class="c-right">
@@ -127,12 +133,15 @@ escribe_cabecera();
                     <div class="row">
                         <div class="col-md-8">
                             <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 300px; background-color: #e8ebeb;">
-                                <div class="c-content-title-3 c-theme-border ">
-                                   <h3 class="c-font-uppercase c-font-bold">Pablo Urbano</h3>
-                                   <div class=" c-line-left "></div>
+                                <div class="c-content-title-3 c-theme-border c-right">
+                                   <h3 class="c-right c-font-uppercase c-font-bold">Pablo Urbano </h3>
+                                    <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://auara.org/" target="_blank"><u>Auara</u></a>
+                                                </h4>
+                                   <div class=" c-right c-line-left "></div>
                                  </div>
                                 
-                                <p>
+                                <p class="c-right" >
                                 Un joven comprometido con las necesidades y desigualdad de recursos en el mundo, en 2015 funda Auara, una empresa social
                                 que, vendiendo agua, da de beber tanto a sus clientes como a países del tercer mundo con difícil acceso a agua potable.
                                 Esta start up madrileña destina el 100% de sus dividendos a fines sociales, principalmente a la creación de pozos en países 
@@ -169,7 +178,7 @@ escribe_cabecera();
                                 <div class="c-content-title-3 c-theme-border ">
                                    <h3 class="c-font-uppercase c-font-bold">Alberto Cabanes</h3>
                                    <h4 class="c-left c-font c-font-bold">
-                                                    <a href="http://adoptaunabuelo.org" target="_blank">AdoptaUnAbuelo</a>
+                                                    <a href="http://adoptaunabuelo.org" target="_blank"><u>AdoptaUnAbuelo</u></a>
                                                 </h4>
                                    <div class=" c-line-left "></div>
                                  </div>
