@@ -306,7 +306,7 @@ escribe_cabecera();
                         <div class="row c-content-media-1 wow animated fadeInRight">
                             <div class="c-center">
                                 <h3 class="c-font-uppercase c-font-bold">Pablo España</h3>
-                                <div>Speaker de VOLUNFAIR 2020</div>
+                                <div>Speaker de VOLUNFAIR 2021</div>
                             </div>
                         </div>
                         <br />

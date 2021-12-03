@@ -94,25 +94,45 @@ escribe_cabecera();
 			
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
-                    <div class="col-md-12">
-                        <img src="./assets/base/img/volunfair/anteriores/equipo-2016.jpg" alt="Equipo 2016" title="Equipo 2016" class="animated wow swing" width="100%" />
-                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
-                            El equipo
+                    <div class="row">
+                    <div class="c-content-media-1  c-center wow animated fadeInLeft" >
+                           ¡Nuestro Equipo y los Jefes!
+                        </div>
+                        <div class="col-md-3">
+                            <!-- espacio para cuadrar -->
+                        </div>
+                        <div class="col-md-6">
+                            <img src="./assets/base/img/volunfair/anteriores/equipo-2016.jpg" alt="Equipo 2016" title="Equipo 2016" class="animated wow swing" width="100%" />
+                            <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
+                                Equipo VF16
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <!-- espacio para cuadrar -->
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-2">
+                            <!-- espacio para cuadrar -->
+                        </div>
+                    <div class="col-md-2">
                         <img src="./assets/base/img/volunfair/anteriores/Daniel.png" alt="Daniel Alfaro" title="Daniel Alfaro" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                            Dani Alfaro
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-1">
+                            <!-- espacio para cuadrar -->
+                        </div>
+                    <div class="col-md-2">
                         <img src="./assets/base/img/volunfair/anteriores/Pilar.png" alt="Pilar Aldama" title="Pilar Aldama" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Pilar Aldama
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-1">
+                            <!-- espacio para cuadrar -->
+                        </div>
+                    <div class="col-md-2">
                         <img src="./assets/base/img/volunfair/anteriores/PadreJesus.png" alt="Padre Jesús" title="Padre Jesús" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             P. Jesús Zurita

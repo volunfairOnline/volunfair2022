@@ -261,7 +261,7 @@ escribe_cabecera();
                                     <div class="c-content-title-3 c-theme-border c-right">
                                         <h3 class="c-right c-font-uppercase c-font-bold">Natalia Olaso</h3>
                                         <h4 class="c-right c-font-uppercase c-font-bold">
-                                                    <a href="https://www.instagram.com/villagayumbos/" target="_blank">@villagayumbos</a>
+                                                    <a href="https://www.instagram.com/nataolaso/" target="_blank">@villagayumbos</a>
                                                 </h4>
                                         <div class="c-right c-line-left "> </div>
                                     </div>
