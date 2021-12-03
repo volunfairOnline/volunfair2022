@@ -70,11 +70,12 @@ escribe_cabecera();
                                    <div class="c-right c-line-left "> </div>
                                 </div>
                                 <p class="c-right">
-                                    Nacido en México y con estudios de cinematografía en Boston y Los Ángeles, Paco Arango empezó trabajando como voluntario en hospitales
-                                    infantiles en 2001. Esta necesidad de involucración y ayuda a los más necesitados le llevaría a fundar en 2005 la Fundación Aladina,
-                                    destinada a hacer más felices y mejorar la vida de niños y adolescentes enfermos de cáncer y sus familiares, y que a día de hoy atiende a más de 1.500 niños.
+                                    Paco Arango lleva desde 2001 trabajando como voluntario en hospitales
+                                    infantiles. Ver las necesidades de los niños enfermos y su voluntad de ayudar a estas familias más necesitadas le llevaría a fundar en 2005 la Fundación Aladina,
+                                    destinada a mejorar y, sobre todo, hacer más felices las vidas de niños y adolescentes enfermos de cáncer y sus familiares, y que a día de hoy atiende a más de 1.500 niños.
                                     En 2008 fue elegido miembro de la junta directiva de Serious Fun Children's Network, una organización también dedicada a ayudar a los niños a
-                                    divertirse disfrutar más allá de la enfermedad y todo lo que la rodea
+                                    divertirse disfrutar más allá de la enfermedad y todo lo que la rodea.
+                                    A día de hoy la Fundación Aladina... /%en proceso%/
                                 </p>
                             </div>
                         </div>
