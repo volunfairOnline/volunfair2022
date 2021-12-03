@@ -257,7 +257,6 @@ escribe_cabecera();
                         ['nombre' => 'Macarena Cuesta',			        'foto' => 'ongmacarenacuesta'],
                         ['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonorejas'],
                         ['nombre' => 'Carmen Santaliestra',		        'foto' => 'ongcarmensantaliestra'],
-                        ['nombre' => 'Eduardo Misa',				    'foto' => 'ongmariabelengarcia.jpg'],
                         ['nombre' => 'Carlos Muñoz',				    'foto' => 'ongcarlosmunoz'],
                         ['nombre' => 'Lucía Tejero',				    'foto' => 'ongluciatejero'],
                         ['nombre' => 'Juan Lorenzo',			        'foto' => 'ongjuanlorenzo'],
