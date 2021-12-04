@@ -156,8 +156,8 @@ escribe_cabecera();
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 10</h2>   
-                <p class="c-center" >Acto inaugural de VOLUNFAIR 2021 a las 12:30</p>                      
+                <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 10 de febrero: </h2>   
+                <p class="c-center" >Acto inaugural de VOLUNFAIR 2021 con Toni Nadal</p>             
             </div>
 
             <!-- BEGIN: Toni Nadal -->
@@ -198,8 +198,8 @@ escribe_cabecera();
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase c-font-bold">Jueves 11</h2>   
-                <p class="c-center" >A las 12:30, ¡Desgasta tus zapatillas!</p>                      
+                <h2 class="c-center c-font-uppercase c-font-bold">Jueves 11 de febrero: </h2>   
+                <p class="c-center" > "¡Desgasta tus zapatillas!" con Javier Pérez-Mínguez y Ángeles de Kenia</p>              
             </div>
 
             <!-- BEGIN  -->
@@ -212,17 +212,18 @@ escribe_cabecera();
                             </div>
                             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <!-- BEGIN: Los Angeles de Kenia -->
-                            <div class="col-md-4">
-                                <div class="col-md-12">
-                                    <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets\base\img\volunfair\Fotos2021\angeles.jpeg" width="100%" title="losangelesdekenia" alt="losangelesdekenia" />
+                            <div class="c-content-box c-size-md c-bg-white">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/fotos2021/angeles.jpeg); min-height: 300px;">
+                                        </div>
                                     </div>
-                                    <br />
-                                    <div class="row wow animated bounceInDown">
-                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
-                                            <div class="c-content-title-3 c-theme-border c-right">
-                                                <h3 class="c-right c-font-uppercase c-font-bold">Los Ángeles de Kenia</h3>
-                                                <h4 class="c-right c-font-uppercase c-font-bold">
+                                    <div class="col-md-8">
+                                        <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 300px; background-color: #e8ebeb;">
+                                            <div class="c-content-title-3 c-theme-border ">
+                                                <h3 class="c-left c-font-uppercase c-font-bold">Los Ángeles de Kenia</h3>
+                                                <h4 class="c-left c-font-uppercase c-font-bold">
                                                     <a href="https://www.instagram.com/losangelesdekenia" target="_blank">@losangelesdekenia</a>
                                                 </h4>
                                                 <div class="c-right c-line-left "> </div>
@@ -232,9 +233,8 @@ escribe_cabecera();
                                                 el confort habitual y lanzarse a lo desconocido, sin ninguna otra razón más que la de ayudar al que lo necesita. <br />
                                                Su asociación, Ángeles de Kenia, nace después de su primera visita al país con el objetivo de ayudar a niños y familias.
                                             Con ella, esperan poder multiplicar cualquier ayuda que consigan sus esfuerzos. <br />
-                                             Con el mismo espíritu que Volunfair, buscan la puesta en acción de futuros voluntarios, y nos recuerdan cómo lo único que necesitamos
+                                             Con el mismo espíritu que Volunfair, buscan la puesta en acción de futuros voluntarios, y nos recuerdan que lo único que necesitamos
                                              para ayudar a alguien es la voluntad.
-                                            
                                             </p>
                                         </div>
                                     </div>
@@ -242,18 +242,14 @@ escribe_cabecera();
                             </div>
                             <!-- END: KENIA -->
                             <!-- BEGIN: ANACAR -->
-                            <div class="col-md-4">
-                                <div class="col-md-12">
-                                    <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets\base\img\volunfair\Fotos2021\ponente3.jpeg" width="100%" title="Javier Pérez-Mínguez" alt="Javier Pérez-Mínguez" />
-                                    </div>
-                                    <br />
-                                    <div class="row wow animated bounceInDown">
-                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
-                                            <div class="c-content-title-3 c-theme-border c-left">
-                                                <div class="c-left c-line-right "> </div>
-                                                <h3 class="c-left c-font-uppercase c-font-bold">Javier Pérez-Mínguez</h3>
-                                                <h4 class="c-left c-font-uppercase c-font-bold">
+                            <div class="c-content-box c-size-md c-bg-white">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 300px; background-color: #e8ebeb;">
+                                            <div class="c-content-title-3 c-theme-border ">
+                                                <h3 class="c-right c-font-uppercase c-font-bold">Javier Pérez-Mínguez</h3>
+                                                <h4 class="c-right c-font-uppercase c-font-bold">
                                                     <a href="https://www.instagram.com/fund_anacarolinadm/?hl=es" target="_blank">@fund_anacarolinadm</a>
                                                 </h4>
                                             </div>
@@ -269,9 +265,15 @@ escribe_cabecera();
                                             </p>
                                         </div>
                                     </div>
+                                    <div class="col-md-4">
+                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/fotos2021/ponente3.jpeg); min-height: 300px;">
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
+                        </div>
                             <!-- END:ANACAR -->
+
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <div class="col-md-2">
                             </div>
@@ -283,6 +285,26 @@ escribe_cabecera();
                 <br /><br/>
             </div>
             <!-- END: KENIA &  ANACAROLINA -->
+
+             <!-- BLOQUE EQUIPO Y JEFES -->
+			<div class="c-content-box c-size-md c-bg-white">
+                <div class="container">
+                    <div class="col-md-5">
+                        <img src="./assets/base/img/volunfair/anteriores/jefes-2019.jpg" alt="María Zavala y José Santa Úrsula" title="María Zavala y José Santa Úrsula" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                            Nuestros jefes: María Zavala y José Santa Úrsula
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <img src="./assets/base/img/volunfair/anteriores/equipo-2019.jpg" alt="Equipo 2019" title="Equipo 2019" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
+                            El equipo
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- END: BLOQUE EQUIPO Y JEFES -->
+
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
