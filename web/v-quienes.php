@@ -209,12 +209,12 @@ escribe_cabecera();
                 
                 "Comunicación" => [
                         ['nombre' => 'Leonor Gómez',			    	'foto' => 'comleonorgomez'],
-                        //['nombre' => 'Olivia Alarcón',					'foto' => 'comoiviaalarcon.jpg'],
+                        ['nombre' => 'Olivia Alarcón',					'foto' => 'comoiviaalarcon.jpg'],
                         ['nombre' => 'Sonsoles Sánchez-Albornoz',		'foto' => 'comsonsolessanchez'],
                         ['nombre' => 'Alberto Ramírez',             	'foto' => 'comalbertoramirez'],
                         ['nombre' => 'Susana Fernández',				'foto' => 'comsusanafernandez'],
                         ['nombre' => 'Jaime Moral',				    	'foto' => 'comjaimemoral'],
-                        //['nombre' => 'Paco Lanzuela',					'foto' => 'comsantiantunez1.jpg'],
+                        ['nombre' => 'Paco Lanzuela',					'foto' => 'compacolanzuela'],
                         ['nombre' => 'Ana Marcos',	        			'foto' => 'comanamarcos'],
                         ['nombre' => 'Blanca Huidobro',     			'foto' => 'comblancahuidobro'],
                     ],
@@ -243,7 +243,7 @@ escribe_cabecera();
                     ],
 
                 "Marketing" => [
-                        //['nombre' => 'Irene Revuelta',			        'foto' => 'mktirenerevuelta'],
+                        ['nombre' => 'Irene Revuelta',			        'foto' => 'mktirenerevuelta'],
                         //['nombre' => 'Beatriz Lanchares',				'foto' => 'mktanaerquicia2.jpg'],
                         ['nombre' => 'Carmen Arribas',			        'foto' => 'mktcarmenarribas'],
                         ['nombre' => 'Rocío López',			            'foto' => 'mktrociolopez'],
@@ -257,7 +257,7 @@ escribe_cabecera();
                 "ONG's" => [
                         ['nombre' => 'Paula García',			        'foto' => 'ongpaulagarcia'],
                         ['nombre' => 'Macarena Cuesta',			        'foto' => 'ongmacarenacuesta'],
-                        //['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonorejas'],
+                        ['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonoblejas'],
                         ['nombre' => 'Carmen Santaliestra',		        'foto' => 'ongcarmensantaliestra'],
                         ['nombre' => 'Carlos Muñoz',				    'foto' => 'ongcarlosmunoz'],
                         ['nombre' => 'Lucía Tejero',				    'foto' => 'ongluciatejero'],
@@ -274,7 +274,7 @@ escribe_cabecera();
                         ['nombre' => 'Pablo Codina',				    'foto' => 'webpablocodina'],
                         ['nombre' => 'Solete Vendrell',			        'foto' => 'websoletevendrell'],
                         ['nombre' => 'Alba Casanova',			        'foto' => 'webalbacasanova'],
-                        //['nombre' => 'Carmen Acevedo',				    'foto' => 'webcarmenacevedo'],
+                        ['nombre' => 'Carmen Acevedo',				    'foto' => 'webcarmenacevedo'],
                         ['nombre' => 'Lucía Rosado',				    'foto' => 'webluciarosado'],
                     ],
                
