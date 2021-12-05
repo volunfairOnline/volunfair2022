@@ -171,10 +171,54 @@ img.c-mobile-logo {
 	background-color: rgb(232, 235, 235);
 }
 
+/*******************************************
+	IMÁGENES EQUIPO
+*******************************************/
 /* Para que las imágenes de "Conócenos" sean asimétricas */
-.fotos img {
+/*.fotos img {
 	border-radius: 50% 20%;
+}*/
+/* Para que las imágenes de "Conócenos" sean circulares */
+/*.fotos img {
+	border-radius: 70%;
+}*/
+
+/* Efecto al pasar el ratón */
+.v-invisible {
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	/*transition: .5s ease;*/
 }
+.imagenes:hover .v-invisible {
+	opacity: 1;
+}
+
+/* Ajustes de tamaño */
+@media (max-width: 1200px) {
+	.imagenes:hover .v-invisible {
+		max-width: 205px;
+		left: 15px;
+	}
+	.imagenes img {
+		max-width:205px;
+		max-height: 136px;
+		object-fit: cover;
+	}
+}
+@media (min-width: 1200px) {
+	.imagenes:hover .v-invisible {
+		max-width: 255px;
+		left: 15px;
+	}
+	.imagenes img {
+		max-width:255px;
+		max-height: 170px;
+		object-fit: cover;
+	}
+}
+/* Fin imágenes equipo */
 
 /* Chapuza para que se vea siempre la imagen de inicio */
 @media (min-width: 1200px) {
@@ -260,26 +304,4 @@ a:active, a:hover, a:focus {
 .v-visible {
 	opacity: 1;
 	/*transition: .5s ease;*/
-}
-.v-invisible {
-	opacity: 0;
-	position: absolute;
-	top: 0;
-	left: 0;
-	/*transition: .5s ease;*/
-}
-.imagenes:hover .v-invisible {
-	opacity: 1;
-}
-@media (max-width: 1200px) {
-	.imagenes:hover .v-invisible {
-		max-width: 205px;
-		left: 15px;
-	}
-}
-@media (min-width: 1200px) {
-	.imagenes:hover .v-invisible {
-		max-width: 255px;
-		left: 15px;
-	}
 }
