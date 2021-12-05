@@ -206,14 +206,20 @@ escribe_cabecera();
 
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
-                    <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes-2019.jpg" alt="María Zavala y José Santa Úrsula" title="María Zavala y José Santa Úrsula" class="animated wow swing" width="100%" />
+                    <div class="col-md-2">
+                        <img src="./assets/base/img/volunfair/anteriores/jefes2018/andreso.jpeg" alt="María Zavala y José Santa Úrsula" title="María Zavala y José Santa Úrsula" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            Nuestros jefes: María Zavala y José Santa Úrsula
+                            Andrés Otero
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <img src="./assets/base/img/volunfair/anteriores/jefes2018/beatriza.jpg" alt="María Zavala y José Santa Úrsula" title="María Zavala y José Santa Úrsula" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                            Beatriz Alviño
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/anteriores/equipo-2019.jpg" alt="Equipo 2019" title="Equipo 2019" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/v-quienes/origen.jpg" alt="Equipo 2018" title="Equipo 2018" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo
                         </div>

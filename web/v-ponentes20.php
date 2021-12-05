@@ -337,11 +337,11 @@ escribe_cabecera();
                     <div class="col-md-5">
                         <img src="./assets/base/img/volunfair/anteriores/jefes-2019.jpg" alt="María Zavala y José Santa Úrsula" title="María Zavala y José Santa Úrsula" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            Nuestros jefes: María Zavala y José Santa Úrsula
+                            Nuestros jefes: Maca Álvarez y Edu Amador
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/anteriores/equipo-2019.jpg" alt="Equipo 2019" title="Equipo 2019" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/stand/foto6.jpg" alt="Equipo 2019" title="Equipo 2019" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo
                         </div>
