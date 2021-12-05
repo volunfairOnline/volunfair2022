@@ -78,7 +78,7 @@ escribe_cabecera();
                                     destinada a mejorar y, sobre todo, hacer más felices las vidas de niños y adolescentes enfermos de cáncer y sus familiares, y que a día de hoy atiende a más de 1.500 niños.
                                     En 2008 fue elegido miembro de la junta directiva de Serious Fun Children's Network, una organización también dedicada a ayudar a los niños a
                                     divertirse disfrutar más allá de la enfermedad y todo lo que la rodea.
-                                    A día de hoy la Fundación Aladina... /%en proceso%/
+                                    A día de hoy la Fundación Aladina atiende a más de 1500 menores enfermos de cáncer en los 15 hospitales entre los que trabaja.
                                 </p>
                             </div>
                         </div>
@@ -142,12 +142,12 @@ escribe_cabecera();
                                  </div>
                                 
                                 <p class="c-right" >
-                                Un joven comprometido con las necesidades y desigualdad de recursos en el mundo, en 2015 funda Auara, una empresa social
+                                Ingeniero industrial y emprendedor comprometido con las necesidades y desigualdad de recursos en el mundo; en 2015 funda Auara, una empresa social
                                 que, vendiendo agua, da de beber tanto a sus clientes como a países del tercer mundo con difícil acceso a agua potable.
                                 Esta start up madrileña destina el 100% de sus dividendos a fines sociales, principalmente a la creación de pozos en países 
-                                sumidos en la pobreza; aunque destacan también proyectos enfocados en fomentar la sanidad e higiene en países en desarrollo, 
-                                apoyar la independencia de las mujeres o la protección y escolarización de niños. Auara ha conseguido abastecer ya a más de 
-                                42.000 personas, y su compromiso también se desarrolla en el medio ambiente, ya que son la única marca con botellas de plástico
+                                sumidos en la pobreza; aunque destacan también proyectos enfocados en aumentar la sanidad e higiene en países en desarrollo, 
+                                fomentar la independencia de las mujeres o la protección y escolarización de niños en estos países. Auara ha conseguido abastecer ya a más de 
+                                42.000 personas, y su compromiso también se desarrolla en el medio ambiente, ya que sus botellas son de plástico
                                 100% reciclado.
                                 </p>
  
@@ -203,6 +203,30 @@ escribe_cabecera();
                 </div>
             </div>
             <!-- END: CONTENT/MISC/LATEST-ITEMS-2 -->
+
+			<div class="c-content-box c-size-md c-bg-white">
+                <div class="container">
+                    <div class="col-md-2">
+                        <img src="./assets/base/img/volunfair/anteriores/jefes2018/andreso.jpeg" alt="María Zavala y José Santa Úrsula" title="María Zavala y José Santa Úrsula" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                            Andrés Otero
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <img src="./assets/base/img/volunfair/anteriores/jefes2018/beatriza.jpg" alt="María Zavala y José Santa Úrsula" title="María Zavala y José Santa Úrsula" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                            Beatriz Alviño
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <img src="./assets/base/img/volunfair/v-quienes/origen.jpg" alt="Equipo 2018" title="Equipo 2018" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
+                            El equipo
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
 			
             <!-- END: PAGE CONTENT -->
         </div>
