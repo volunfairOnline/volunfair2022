@@ -1,12 +1,12 @@
-<?php 
+<?php
 
 // --- Archivo con las funciones de configuración (cabeceras, pie, ...)
-include ('./scripts/config.php');
+include ('./scripts/o-config.php');
 
 session_start();
 // --- Iniciar la clase de conexión a la base de datos
-require_once('./mysql/MySQLHandler.class.php');     
-require_once("./mysql/misconexiones.php"); 
+require_once('./mysql/MySQLHandler.class.php');
+require_once("./mysql/misconexiones.php");
 
 // --- Escribimos las cabeceras
 escribe_cabecera();
@@ -14,19 +14,19 @@ escribe_cabecera();
 ?>
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page">
-		
+        
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2021/bosque2.jpg)">
+            <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background:#515151">
                  <!--<div class="container">
-				 
+                 
                     <div class="c-page-title c-pull-left">
-                    	  <p class="c-font-uppercase c-font-bold c-font-white c-font-25 c-font-slim">Quiénes Somos</p>
+                          <p class="c-font-uppercase c-font-bold c-font-white c-font-25 c-font-slim">Quiénes Somos</p>
                         <h4 class="c-font-white c-font-thin c-opacity-07"> Conócenos mejor </h4>
                     </div>
                 </div>-->
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			
+            
             <!-- BEGIN: PAGE CONTENT -->
           
              <!-- BEGIN: CONTENT/TABS/TAB-1 -->
@@ -37,85 +37,100 @@ escribe_cabecera();
                             <div class="c-content-title-1">
                                 <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30"> PARTICIPANTES</h3>
                                 <div class="c-line-center c-theme-bg"></div>
-                                <p class="c-font-center c-font-bold c-font-uppercase c-margin-b-30">¡Selecciona tus intereses y encuentra tus ONGs más afines!</p>
+                                <p class="c-font-center c-font-bold c-font-uppercase c-margin-b-30">¡Selecciona tus intereses y encuentra tus entidades sociales más afines!</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                
+                 
                 <div class="c-container">
-                    <!-- BEGIN: FORMULARIO -->
+                  
                     <div class="row">
-                        <form action="./mysql/buscar-ong.php" class="formulario" method="post">
-                            <!-- BEGIN: LUGARES DE VOLUNTARIADO -->
-                            <div class="col-md-6 c-font-center c-font-bold c-font-uppercase c-margin-b-30">
-                                
-                                <div class="checkbox">
-                                    <p>A que lugar te gustaria irte?</p>
-									
-									<?php
-                                        // --- Abrir la base de datos con usuario visitante
-                                        $sql = Abrir_base();
-                                        $result = $sql->Select(" SELECT `id_voluntariado`, `pais_lugar` FROM `lugar`");
-                                        
-                                        // --- Mostrar por pantalla el listado de posibles destinos
-                                        if($result === false){
-                                            throw new Exception(mysql_error($sql));
-                                        } else {
-                                            while($row = mysqli_fetch_array($result)) {
-                                                echo ('<label><input type="checkbox" value="'.htmlspecialchars(stripslashes($row['id_voluntariado'])).'" name="lugar" id="lugar" />'.htmlspecialchars(stripslashes($row['pais_lugar'])).'</label><br />');
-                                            }
-                                        }
-                                    ?>									
-                                    
-                                </div>
-                                
+                        <div class="container">
+                              
+                            <div class="col-md-12 c-center btn btn-lg btn-outline-secondary">
+                                <a href="#" id="alternar-panel-oculto">Buscador</a>
                             </div>
-                            <!-- END: LUGARES DE VOLUNTARIADO -->
-
-                            <!-- BEGIN: TIPOS DE VOLUNTARIADO -->
-                            <div class="col-md-6 c-font-center c-font-bold c-font-uppercase c-margin-b-30">
-                                
-                                <div class="checkbox">
-                                    <p>Que tipo de proyecto te gustaria hacer?</p>
-                                    <?php
-                                        // --- Mostrar por pantalla el listado de posibles tipos de voluntariado
-                                        $result = $sql->Select ("SELECT `id_proyecto`, `tipo_proyecto` FROM `proyecto`");
-                                        while($row = mysqli_fetch_array($result)) {
-                                            echo '<label><input type="checkbox" value="'.htmlspecialchars(stripslashes($row['id_proyecto'])).'" name="tipo" id="tipo" />'.htmlspecialchars(stripslashes($row['tipo_proyecto'])).'</label><br />';
-                                        }   
-                                    ?>					
-									
-                                </div>
-                                
-                            </div>
-                            <!-- BEGIN: TIPOS DE VOLUNTARIADO -->
+                            <div id="panel-oculto"  class="col-md-4" style="display: none;">
                             
-                            <!-- BEGIN: BOTÓN ENVIAR -->
-                            <div class="col-md-12 c-font-center c-font-bold c-font-uppercase c-margin-b-30">
-                                <input type="button" value="Enviar" onClick="buscar();" />
+                                <!-- BEGIN: FORMULARIO -->
+                                <form class="formulario" method="post">
+                                    <!-- BEGIN: LUGARES DE VOLUNTARIADO -->
+                                    <div class="col-md-6 c-font-center c-font-bold c-font-uppercase c-margin-b-30">
+                                        
+                                        <div class="checkbox">
+                                            <p>¿A qué lugar te gustaría ir?</p>
+                                            
+                                            <?php
+                                                // --- Abrir la base de datos con usuario visitante
+                                                $sql = Abrir_base();
+                                                $result = $sql->Select(" SELECT `id_voluntariado`, `pais_lugar` FROM `lugar`");
+                                                
+                                                // --- Mostrar por pantalla el listado de posibles destinos
+                                                if($result === false){
+                                                    throw new Exception('No se ha podido realizar la consulta.');
+                                                } else {
+                                                    while($row = mysqli_fetch_array($result)) {
+                                                        echo ('<label><input type="checkbox" value="'.htmlspecialchars(stripslashes($row['id_voluntariado'])).'" name="lugar" id="lugar" />'.htmlspecialchars(stripslashes($row['pais_lugar'])).'</label><br />');
+                                                    }
+                                                }
+                                            ?>
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                    <!-- END: LUGARES DE VOLUNTARIADO -->
+
+                                    <!-- BEGIN: TIPOS DE VOLUNTARIADO -->
+                                    <div class="col-md-6 c-font-center c-font-bold c-font-uppercase c-margin-b-30">
+                                        
+                                        <div class="checkbox">
+                                            <p>¿Qué tipo de proyecto te gustaría hacer?</p>
+                                            <?php
+                                                // --- Mostrar por pantalla el listado de posibles tipos de voluntariado
+                                                $result = $sql->Select ("SELECT `id_proyecto`, `tipo_proyecto` FROM `proyecto`");
+                                                while($row = mysqli_fetch_array($result)) {
+                                                    echo '<label><input type="checkbox" value="'.htmlspecialchars(stripslashes($row['id_proyecto'])).'" name="tipo" id="tipo" />'.htmlspecialchars(stripslashes($row['tipo_proyecto'])).'</label><br />';
+                                                }
+                                            ?>
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                    <!-- END: TIPOS DE VOLUNTARIADO -->
+                                    
+                                    <!-- BEGIN: BOTÓN ENVIAR -->
+                                    <div class="col-md-12 c-font-center c-font-bold c-font-uppercase c-margin-b-30">
+                                        <input type="button" value="Enviar" onClick="buscar();" />
+                                    </div>
+                                    <!-- END: BOTÓN ENVIAR -->
+
+                                </form>
+                                <!-- END: FORMULARIO -->
                             </div>
-                            <!-- END: BOTÓN ENVIAR -->
 
-                        </form>
-
+                            <!-- BEGIN: RESULTADOS DE LA BÚSQUEDA (Inicialmente vacío) -->
+                            <div class="col-md-12" id="ongs">
+                            </div>
+                            <!-- END: RESULTADOS DE LA BÚSQUEDA -->
+                        
+                        </div>
                     </div>
-                    <!-- END: FORMULARIO -->
+                    
 
-                    <!-- BEGIN: RESULTADOS DE LA BÚSQUEDA (Inicialmente vacío) -->
-                    <div class="container" id="ongs">
-                    </div>
-                    <!-- END: RESULTADOS DE LA BÚSQUEDA -->
-				</div>			
+                    
+                    
+                    
+                </div>
             <!-- END: PAGE CONTENT -->
-            </div>
+        </div>
         <!-- END: PAGE CONTAINER -->
         <script src="assets/plugins/jquery.min.js" type="text/javascript"></script>
         <script src="assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
         <script>
 
             // --- Función que llama a buscar-ong.php, archivo que hace la consulta a la base de daos y devuelve el texto a escribir (mensaje)
-			function buscar() {
+            function buscar() {
 
                 /* Cogemos los datos de lugar del formulario */
                 var lugar = [];
@@ -139,20 +154,54 @@ escribe_cabecera();
                         tipo = 'AND ' + tipo;
                 }
 
-                /* Enviamos los datos a la página PHP encargada de proesarlos y esta nos devuelve el texto a escribir en el div id="ongs" */
-				if (lugar != "" || tipo != "") {
-					$.post("./mysql/buscar-ong.php", {valorBusqueda: [lugar, tipo]}, function(mensaje) {
-						$("#ongs").html(mensaje);
-					}); 
-				} else { 
-					$("#ongs").html('');
+                /* Enviamos los datos a la página PHP encargada de procesarlos y esta nos devuelve el texto a escribir en el div id="ongs" */
+                if (lugar != "" || tipo != "") {
+                    $.post("./mysql/o-buscar-ong.php", {valorBusqueda: [lugar, tipo]}, function(mensaje) {
+                        $("#ongs").html(mensaje);
+                    });
+                } else {
+                    $("#ongs").html('');
                 }
-			};
+            };
 
             // --- Función que pone el texto cuando aún no ha habido resultados d ela búsqueda
-			function init() {
-				$("#ongs").html('');
-			}
+            function init() {
+                $("#ongs").html('');
+                $.post("./mysql/o-buscar-ong.php", {valorBusqueda: [,]}, function(mensaje) {
+                        $("#ongs").html(mensaje);
+                    });
+                $('#alternar-panel-oculto').toggle(
+                    /*
+                    Primer click.
+                    Función que descubre un panel oculto
+                    y cambia el texto del botón.
+                    */
+                    function(e){
+                        $('#panel-oculto').slideDown();
+                        $(this).text('Cerrar el buscador');
+                        // --- Hacemos la parte con las ONGs más pequeña
+                        $('#ongs').removeClass('col-md-12');
+                        $('#ongs').addClass('col-md-8');
+                        e.preventDefault();
+                    },
+                    
+                    // Separamos las dos funciones con una coma
+                    /*
+                    Segundo click.
+                    Función que oculta el panel
+                    y vuelve a cambiar el texto del botón.
+                    */
+                    function(e){
+                        $('#panel-oculto').slideToggle();
+                        //https://www.tutorialrepublic.com/faq/how-to-create-jquery-slide-left-and-right-toggle-effect.php
+                        $(this).text('Mostrar el buscador');
+                        // --- Hacemos la parte con las ONGs más grande
+                        $('#ongs').removeClass('col-md-8');
+                        $('#ongs').addClass('col-md-12');
+                        e.preventDefault();
+                    }
+                );
+            }
             
             // --- Función que se ejecuta al cargarse la página (llama a init)
             $(document).ready(init);
