@@ -346,7 +346,7 @@ escribe_cabecera(1);
                         <!-- End-->
                         <!-- Begin: Owlcarousel -->
                        
-                        <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="5" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
+                        <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="4" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
                         data-auto-play-hover-pause="true">
                         
                             <div class="item">
@@ -354,26 +354,26 @@ escribe_cabecera(1);
                                     <img src="assets/base/img/volunfair/patrocinadores/logoE.jpg" title ="ETSII Madrid" alt="ETSII Madrid"  width="100%" />
                                 </a>
                             </div>
-                            <div class="item">
+                            <!--<div class="item">
                                 <a href="https://www.talgo.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-talgo.png" title ="Talgo" alt="Talgo" style="padding-top: 10%; padding-left: 10%;" width="90%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div>-->
+                            <!--div class="item">
                             	  <a href="https://fundacionaon.es/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-fundacion-aon.svg" title ="Fundación AON" alt="Fundación AON" style="padding-top: 20%; padding-left: 10%;"  width="100%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div>-->
+                            <!--<div class="item">
                             	<a href="https://www.comunidad.madrid/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-comunidadmadrid.png" title ="Comunidad de Madrid" alt="Comunidad de Madrid"  style=" padding-left: 10%;"width="50%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div>-->
+                            <!--<div class="item">
                             	<a href="https://www.fundaciodamm.cat/es" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/fundacion-damm.jpg" title ="Fundación Damm" alt="Fundación Damm"  width="100%" />
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="item">
                             	  <a href="https://www.weareseekers.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-tribu.png"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
@@ -385,26 +385,26 @@ escribe_cabecera(1);
                                     <img src="assets/base/img/volunfair/patrocinadores/logoE.jpg" title ="ETSII Madrid" alt="ETSII Madrid"  width="100%" />
                                 </a>
                             </div>
-                            <div class="item">
+                            <!--<div class="item">
                                 <a href="https://www.talgo.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-talgo.png" title ="Talgo" alt="Talgo" style="padding-top: 10%; padding-left: 10%;" width="90%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div>-->
+                            <!--<div class="item">
                             	  <a href="https://fundacionaon.es/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-fundacion-aon.svg" title ="Fundación AON" alt="Fundación AON" style="padding-top: 20%; padding-left: 10%;"  width="100%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div>-->
+                            <!--<div class="item">
                             	<a href="https://www.comunidad.madrid/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-comunidadmadrid.png" title ="Comunidad de Madrid" alt="Comunidad de Madrid"  style=" padding-left: 10%;"width="50%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div>-->
+                            <!--<div class="item">
                             	<a href="https://www.fundaciodamm.cat/es" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/fundacion-damm.jpg" title ="Fundación Damm" alt="Fundación Damm"  width="100%" />
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="item">
                             	  <a href="https://www.weareseekers.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-tribu.png"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
