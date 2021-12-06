@@ -51,7 +51,7 @@ escribe_cabecera();
                             <div class="col-md-12 c-center">
                                 <a href="#" id="alternar-panel-oculto">Buscador</a>
                             </div>
-                            <div id="panel-oculto"  class="col-md-4" style="display: none;">
+                            <div id="panel-oculto"  class="col-md-12" style="display: none;">
                             
                                 <!-- BEGIN: FORMULARIO -->
                                 <form class="formulario" method="post">

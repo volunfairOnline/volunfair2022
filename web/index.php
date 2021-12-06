@@ -67,7 +67,7 @@ escribe_cabecera(1);
 
            <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
-                     <!--<div class="c-content-title-1">
+                    <div class="c-content-title-1">
                         <h1 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR </h1>
                         <h2 class="c-center  c-font-bold">Feria universitaria de voluntariado en Madrid</h2>
                         <h3 class="c-center c-font-uppercase c-font-bold">10 y 11 de febrero de 2021</h3>
@@ -96,16 +96,16 @@ escribe_cabecera(1);
 
                         </p> 
 
-                    </div>-->
+                    </div>
 
                    
-                    <div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
+                    <!--<div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
                                 ACCEDE A VOLUNFAIR 2021
                             </h3>
                             <h2 class="c-center  c-font-bold">Feria universitaria de voluntariado en Madrid</h2>
-                        <h3 class="c-center c-font-uppercase c-font-bold">10 y 11 de febrero de 2021</h3>
+                        <h3 class="c-center c-font-uppercase c-font-bold">9 y 10 de febrero de 2022</h3>
                             <h2 class="c-center  c-font-bold">Ambos días de 10:00 a 19:00 será la feria online de entidades sociales. </h2>
                         <h2 class="c-center  c-font-bold"> ¡Haz click en las imágenes para acceder a la feria y ponencias!</h2>
                         <div class="row">

@@ -55,7 +55,7 @@ escribe_cabecera();
 				</div>
 			</div>
 
-            <div class="c-content-box c-size-md c-bg-white">
+            <div class="c-content-box c-size-md c-bg-white" style="margin-top: -60px;">
                 <div class="container">
                     <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
                     
@@ -80,9 +80,147 @@ escribe_cabecera();
             </div>
             <!--- END: TÍTULO -->
 
-           
-            <!-- BEGIN: VÍDEOS AÑO ANTERIOR -->
-            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
+
+            <br /><br />
+
+            <div class="c-content-title-1">
+                <div class="c-line-center c-theme-bg"></div>
+                <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 12 de Febrero: Gran Inauguración con Adol-Essence:</h2>               
+            </div>
+
+            <!-- BEGIN: ADOL-ESSENCE -->
+            <div class="c-content-box c-size-md c-bg-white">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets/base/img/volunfair/mares/mar12.jpeg">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
+                                    <div class="c-content-title-3 c-theme-border c-right">
+                                        <h3 class="c-right c-font-uppercase c-font-bold">Rocío Talavera y Rodrigo Osborne</h3>
+                                        <h4 class="c-right c-font-uppercase c-font-bold">
+                                            <a href="https://www.instagram.com/adolessence.voluntarios" target="_blank"><u>Adol-essence</u></a>
+                                        </h4>
+                                        <div class="c-right c-line-left "> </div>
+                                    </div>
+                                    <p class="c-right">
+                                        Rocío Talavera y Rodrigo Osborne, dos jóvenes sevillanos de 19 años, hicieron realidad su mayor ilusión, consiguiendo así mejorar y facilitar 
+                                        la dura realidad que se le presenta a algunos adolescentes. Ante la enfermedad de Rodrigo, se les ocurrió la idea de fundar Adol-essence, 
+                                        su pequeña gota para cambiar el mundo. Esta plataforma busca tejer redes de contacto que puedan dar apoyo a adolescentes hospitalizados.
+                                        <br />
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-md-4 animated wow fadeInRight">
+                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
+                                </div>-->
+                                <img src="assets/base/img/volunfair/anteriores/adol-essence.jpeg" width="100%" title="Adol-essence: un proyecto de Rocío Talavera y Rodrigo Osborne" alt="Adol-essence: un proyecto de Rocío Talavera y Rodrigo Osborne"/>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                </div>
+            </div>
+            <!-- END: ADOL-ESSENCE -->
+
+            <div class="c-content-title-1">
+                <div class="c-line-center c-theme-bg"></div>
+                <h2 class="c-center c-font-uppercase c-font-bold">Jueves 13 de febrero: "Aportando nuestra gota" con María y Natalia.</h2>   
+                <p class="c-center" >Porque el mar sería menos mar si le faltara esa gota.</p>                      
+            </div>
+
+            <!-- BEGIN: VILLAGAYUMBOS & MI SUPERHÉROE SIN CAPA -->
+            <div class="c-content-box c-size-md">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
+                    <div class="container c-center">
+                        <div class="row">
+                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                            <div class="col-md-2">
+                            </div>
+                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+
+                <!-- EDIT: VILLAGAYUMBOS -->
+                <div class="c-content-box c-size-md c-bg-white">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 300px; background-color: #e8ebeb;">
+                                
+                                
+                                    <div class="c-content-title-3 c-theme-border c-right">
+                                        <h3 class="c-right c-font-uppercase c-font-bold">Natalia Olaso</h3>
+                                        <h4 class="c-right c-font-uppercase c-font-bold">
+                                                    <a href="https://www.instagram.com/nataolaso/" target="_blank"><u>@villagayumbos</u></a>
+                                                </h4>
+                                        <div class="c-right c-line-left "> </div>
+                                    </div>
+                                    <p class="c-right">
+                                                ¿Y tú qué harías si un día te despiertas y ves que influyes en la vida de más de 100.000 personas?<br />
+                                                Para Natalia esto es su día a día. Es madre de tres niños, sus tres más fieles seguidores y los que dan nombre a su cuenta. 
+                                                Natalia nos ha hecho entender el papel de una madre, que a lo mejor son ellos realmente los influencers, porque cualquier mamá será siempre la fan número 
+                                                uno de sus hijos, y son ellos los que van a guiar y determinar su vida de las formas más imprevistas.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/villagayumbos.png); min-height: 300px;">
+                                </div>
+                            </div>
+                         </div>
+                    </div>
+                </div>
+                 <!-- FIN EDIT: VILLAGAYUMBOS -->
+                
+                 <!-- BEGIN: CONTENT/MISC/LATEST-ITEMS-2-->
+                <div class="c-content-box c-size-md c-bg-white">
+                    <div class="container">
+                        <div class="row">
+                    	       <div class="col-md-4">
+                    	   	      <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/misuperheroesincapa.jpeg); min-height: 300px;">
+                                </div>
+                            </div>
+                    	
+                    	
+                            <div class="col-md-8">
+                                <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 300px; background-color: #e8ebeb;">
+                                    <div class="c-content-title-3 c-theme-border ">
+                                    <h3 class="c-left c-font-uppercase c-font-bold ">María Montoya</h3>
+                                    <h4 class="c-left c-font-uppercase c-font-bold">
+                                                    <a href="https://www.instagram.com/misuperheroesincapa/" target="_blank"><u>@misuperheroesincapa</u></a>
+                                    </h4>
+                                    <div class=" c-line-left "></div>
+                                    </div>
+                                
+                                    <p>
+                                    María tenía su trabajo de profesora de colegio, su marido, sus hijos, sus amigas... Y un día, de repente, la vida le regaló
+                                    a Nacho, un superhéroe que todos los días lucha por sobrevivir y que hace que cada uno a su alrededor saque lo mejor de sí mismo
+                                    y se convierta también en otro superhéroe.<br />
+                                    Y es que su hijo tiene síndrome de Ondine, una enfermedad rara que le impide llevar una vida normal y que ha supuesto para María
+                                    descubrir que cada día es un bonito obsequio que disfrutar.
+                                    </p>
+ 
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            <!-- END: CONTENT/MISC/LATEST-ITEMS-2 -->
+
+              
+                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                            <div class="col-md-2">
+                            </div>
+                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                            </div>
+                    </div>
+                </div>
+                    
+                <br /><br/>
+            </div>
+            <!-- END: VILLAGAYUMBOS & MI SUPERHÉROE SIN CAPA -->
+
+                    <!-- BEGIN: VÍDEOS AÑO ANTERIOR -->
+                    <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
                 <div class="container">
                     <div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
                         <div class="c-bg-white c-content-media-1 c-bordered">
@@ -191,146 +329,27 @@ escribe_cabecera();
                     </div> 
                 </div>
             </div>
-            <!-- END: VÍDEOS AÑO ANTERIOR -->
+            <!-- END: VÍDEOS AÑO ANTERIOR -->            
 
-            <br /><br />
-
-            <div class="c-content-title-1">
-                <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 12 de Febrero: Gran Inauguración con Adol-Essence:</h2>               
-            </div>
-
-            <!-- BEGIN: ADOL-ESSENCE -->
-            <div class="c-content-box c-size-md c-bg-white">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets/base/img/volunfair/mares/mar12.jpeg">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-8">
-                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
-                                    <div class="c-content-title-3 c-theme-border c-right">
-                                        <h3 class="c-right c-font-uppercase c-font-bold">Rocío Talavera y Rodrigo Osborne</h3>
-                                        <h4 class="c-right c-font-uppercase c-font-bold">
-                                            <a href="https://www.instagram.com/adolessence.voluntarios" target="_blank">Adol-essence</a>
-                                        </h4>
-                                        <div class="c-right c-line-left "> </div>
-                                    </div>
-                                    <p class="c-right">
-                                        Rocío Talavera y Rodrigo Osborne, dos jóvenes sevillanos de 19 años, hicieron realidad su mayor ilusión, consiguiendo así mejorar y facilitar 
-                                        la dura realidad que se le presenta a algunos adolescentes. Ante la enfermedad de Rodrigo, se les ocurrió la idea de fundar Adol-essence, 
-                                        su pequeña gota para cambiar el mundo. Esta plataforma busca tejer redes de contacto que puedan dar apoyo a adolescentes hospitalizados.
-                                        <br />
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="col-md-4 animated wow fadeInRight">
-                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
-                                </div>-->
-                                <img src="assets/base/img/volunfair/participantes/adol-essence.jpeg" width="100%" title="Adol-essence: un proyecto de Rocío Talavera y Rodrigo Osborne" alt="Adol-essence: un proyecto de Rocío Talavera y Rodrigo Osborne"/>
-                            </div>
+            <!-- BLOQUE EQUIPO Y JEFES -->
+			<div class="c-content-box c-size-md c-bg-white">
+                <div class="container">
+                    <div class="col-md-5">
+                        <img src="./assets/base/img/volunfair/anteriores/jefes-2020.jpg" alt="Maca Álvarez y Edu Amador" title="Maca Álvarez y Edu Amador" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                            Nuestros jefes: Maca Álvarez y Edu Amador
                         </div>
                     </div>
-                    <br />
-                </div>
-            </div>
-            <!-- END: ADOL-ESSENCE -->
-
-            <div class="c-content-title-1">
-                <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase c-font-bold">Jueves 13 de febrero: "Aportando nuestra gota" con María y Natalia.</h2>   
-                <p class="c-center" >Porque el mar sería menos mar si le faltara esa gota.</p>                      
-            </div>
-
-            <!-- BEGIN: VILLAGAYUMBOS & MI SUPERHÉROE SIN CAPA -->
-            <div class="c-content-box c-size-md">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
-                    <div class="container c-center">
-                        <div class="row">
-                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <div class="col-md-2">
-                            </div>
-                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-
-                <!-- EDIT: VILLAGAYUMBOS -->
-                <div class="c-content-box c-size-md c-bg-white">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-8">
-                                <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 300px; background-color: #e8ebeb;">
-                                
-                                
-                                    <div class="c-content-title-3 c-theme-border c-right">
-                                        <h3 class="c-right c-font-uppercase c-font-bold">Natalia Olaso</h3>
-                                        <h4 class="c-right c-font-uppercase c-font-bold">
-                                                    <a href="https://www.instagram.com/villagayumbos/" target="_blank">@villagayumbos</a>
-                                                </h4>
-                                        <div class="c-right c-line-left "> </div>
-                                    </div>
-                                    <p class="c-right">
-                                                ¿Y tú qué harías si un día te despiertas y ves que influyes en la vida de más de 100.000 personas?<br />
-                                                Para Natalia esto es su día a día. Es madre de tres niños, sus tres más fieles seguidores y los que dan nombre a su cuenta. 
-                                                Natalia nos ha hecho entender el papel de una madre, que a lo mejor son ellos realmente los influencers, porque cualquier mamá será siempre la fan número 
-                                                uno de sus hijos, y son ellos los que van a guiar y determinar su vida de las formas más imprevistas.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/villagayumbos.png); min-height: 300px;">
-                                </div>
-                            </div>
-                         </div>
-                    </div>
-                </div>
-                 <!-- FIN EDIT: VILLAGAYUMBOS -->
-                
-                 <!-- BEGIN: CONTENT/MISC/LATEST-ITEMS-2-->
-                <div class="c-content-box c-size-md c-bg-white">
-                    <div class="container">
-                        <div class="row">
-                    	       <div class="col-md-4">
-                    	   	      <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/misuperheroesincapa.jpeg); min-height: 300px;">
-                                </div>
-                            </div>
-                    	
-                    	
-                            <div class="col-md-8">
-                                <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 300px; background-color: #e8ebeb;">
-                                    <div class="c-content-title-3 c-theme-border ">
-                                    <h3 class="c-left c-font-uppercase c-font-bold ">María Montoya</h3>
-                                    <h4 class="c-left c-font-uppercase c-font-bold">
-                                                    <a href="https://www.instagram.com/misuperheroesincapa/" target="_blank">@misuperheroesincapa</a>
-                                    </h4>
-                                    <div class=" c-line-left "></div>
-                                    </div>
-                                
-                                    <p>
-                                    María tenía su trabajo de profesora de colegio, su marido, sus hijos, sus amigas... Y un día, de repente, la vida le regaló
-                                    a Nacho, un superhéroe que todos los días lucha por sobrevivir y que hace que cada uno a su alrededor saque lo mejor de sí mismo
-                                    y se convierta también en otro superhéroe.<br />
-                                    Y es que su hijo tiene síndrome de Ondine, una enfermedad rara que le impide llevar una vida normal y que ha supuesto para María
-                                    descubrir que cada día es un bonito obsequio que disfrutar.
-                                    </p>
- 
-                                </div>
-                            </div>
-
+                    <div class="col-md-7">
+                        <img src="./assets/base/img/volunfair/stand/foto6.jpg" alt="Equipo 2020" title="Equipo 2020" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
+                            El equipo
                         </div>
                     </div>
                 </div>
-            <!-- END: CONTENT/MISC/LATEST-ITEMS-2 -->
-
-              
-                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <div class="col-md-2">
-                            </div>
-                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            </div>
-                    </div>
-                </div>
-                    
-                <br /><br/>
             </div>
-            <!-- END: VILLAGAYUMBOS & MI SUPERHÉROE SIN CAPA -->
-
+            <!-- END: BLOQUE EQUIPO Y JEFES -->
+			
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Y con la colaboración de:</h2>                    
@@ -342,6 +361,8 @@ escribe_cabecera();
             <div class="col-md-4">
             </div>
             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+
+            
             <!-- BEGIN: PABLO Y CLARA -->
             <div class="row">
                 <div class="col-md-2">
@@ -378,6 +399,7 @@ escribe_cabecera();
             <div class="col-md-4">
             </div>
             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+            
 
             <!-- END: PAGE CONTENT -->
         </div>

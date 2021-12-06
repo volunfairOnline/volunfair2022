@@ -29,12 +29,12 @@ escribe_cabecera();
 				</div>
             </div>
             
-            <div class="c-content-box c-size-md c-bg-white">
+            <div class="c-content-box c-size-md c-bg-white" style="margin-top: -60px;">
                 <div class="container">
                     <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
                     
                         <p>
-                            Jamás un sueño un nacido en un viaje, en mitad de una autopista, llegó tan lejos. Siete jóvenes y una ilusión: 
+                            Jamás un sueño nacido en un viaje, en mitad de una autopista, llegó tan lejos. Siete jóvenes y una ilusión: 
                             que todos los jóvenes descubran la alegría de DAR. Así deciden montar en su uni  algo inexistente hasta entonces en Madrid: 
                             una feria de voluntariado. Porque todo el mundo quiere hacer voluntariado, pero nadie sabe 
                             dónde encontrarlo.
@@ -94,16 +94,48 @@ escribe_cabecera();
 			
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
-                    <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/DanielAlfaro.jpg" alt="Daniel Alfaro" title="Daniel Alfaro" class="animated wow swing" width="100%" />
-                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            El fundador: Dani Alfaro
+                    <div class="row">
+                    <div class="c-content-media-1  c-center wow animated fadeInLeft" >
+                           ¡Nuestro Equipo y los Jefes!
+                        </div>
+                        <div class="col-md-3">
+                            <!-- espacio para cuadrar -->
+                        </div>
+                        <div class="col-md-6">
+                            <img src="./assets/base/img/volunfair/anteriores/equipo-2016.jpg" alt="Equipo 2016" title="Equipo 2016" class="animated wow swing" width="100%" />
+                            <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
+                                Equipo VF16
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <!-- espacio para cuadrar -->
                         </div>
                     </div>
-                    <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/anteriores/equipo-2016.jpg" alt="Equipo 2016" title="Equipo 2016" class="animated wow swing" width="100%" />
-                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
-                            El equipo
+                    <div class="col-md-2">
+                            <!-- espacio para cuadrar -->
+                        </div>
+                    <div class="col-md-2">
+                        <img src="./assets/base/img/volunfair/anteriores/Daniel.png" alt="Daniel Alfaro" title="Daniel Alfaro" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                           Dani Alfaro
+                        </div>
+                    </div>
+                    <div class="col-md-1">
+                            <!-- espacio para cuadrar -->
+                        </div>
+                    <div class="col-md-2">
+                        <img src="./assets/base/img/volunfair/anteriores/Pilar.png" alt="Pilar Aldama" title="Pilar Aldama" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                            Pilar Aldama
+                        </div>
+                    </div>
+                    <div class="col-md-1">
+                            <!-- espacio para cuadrar -->
+                        </div>
+                    <div class="col-md-2">
+                        <img src="./assets/base/img/volunfair/anteriores/PadreJesus.png" alt="Padre Jesús" title="Padre Jesús" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                            P. Jesús Zurita
                         </div>
                     </div>
                 </div>
