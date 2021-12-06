@@ -232,9 +232,9 @@ escribe_cabecera();
                 "Gestión y Recursos Humanos" => [
                         ['nombre' => 'Ana Vendrell',	    			'foto' => 'gesanavendrell'],
                         ['nombre' => 'Miguel Callejo',	    			'foto' => 'gesmiguelcallejo'],
-                        //['nombre' => 'Jaime Hernanz',				    'foto' => 'gesjaimehernanz3.jpg'],
+                        ['nombre' => 'Begoña Nuñez',				    'foto' => 'gesbegonunez'],
                         ['nombre' => 'Diego Alvarez',			        'foto' => 'gesdiegoalvarez'],
-                        ['nombre' => 'Isabel de la Puente',             'foto' => 'gesisadelapuente.jpg'],
+                        ['nombre' => 'Isabel de la Puente',             'foto' => 'gesisadelapuente'],
                         ['nombre' => 'Alejandro García',		        'foto' => 'gesalejandrogarcia'],
                         ['nombre' => 'María Schupfer',				    'foto' => 'gesmariaschupfer'],
                         ['nombre' => 'Ana Corrales',				    'foto' => 'gesanacorrales'],
@@ -249,6 +249,7 @@ escribe_cabecera();
                         ['nombre' => 'Rocío López',			            'foto' => 'mktrociolopez'],
                         ['nombre' => 'Natalia Serrano',			        'foto' => 'mktnataliaserrano'],
                         ['nombre' => 'Marta Fernández',		            'foto' => 'mktmartafernandez'],
+                        //['nombre' => 'Paula Lanchares',		            'foto' => 'mktmartafernandez'],
                         ['nombre' => 'María Casanova',			        'foto' => 'mktmariacasanova'],
                         //['nombre' => 'Ramón Rodríguez',			        'foto' => 'mktinigobaltar.jpg'],
                         ['nombre' => 'Teo Isern',				        'foto' => 'mktteoisern'],
@@ -281,7 +282,7 @@ escribe_cabecera();
 
                 "Redes Sociales" => [
                         ['nombre' => 'Cristina Llordén',				'foto' => 'rrsscrisllorden'],
-                        ['nombre' => 'Ignacio García',			        'foto' => 'rrssignacioarcia'],
+                        ['nombre' => 'Ignacio García',			        'foto' => 'rrssignaciogarcia'],
                         //['nombre' => 'Carmen Oché',					    'foto' => 'rrsspaularey3.jpg'],
                         ['nombre' => 'Blanca Verdes',		        	'foto' => 'rrssblancaverdes'],
                         ['nombre' => 'Leticia de Wouters',			    'foto' => 'rrssletidewouters'],
