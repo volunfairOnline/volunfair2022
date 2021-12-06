@@ -170,7 +170,7 @@ escribe_cabecera();
                                     <div class="c-content-title-3 c-theme-border c-right">
                                         <h3 class="c-right c-font-uppercase c-font-bold">Toni Nadal</h3>
                                         <h4 class="c-right c-font-uppercase c-font-bold">
-                                            <a href="https://www.instagram.com/toninadal_oficial" target="_blank">@toninadal_oficial</a>
+                                            <a href="https://www.instagram.com/toninadal_oficial" target="_blank"><u>@toninadal_oficial</u></a>
                                         </h4>
                                         <div class="c-right c-line-left "> </div>
                                     </div>
@@ -224,7 +224,7 @@ escribe_cabecera();
                                             <div class="c-content-title-3 c-theme-border ">
                                                 <h3 class="c-left c-font-uppercase c-font-bold">Los Ángeles de Kenia</h3>
                                                 <h4 class="c-left c-font-uppercase c-font-bold">
-                                                    <a href="https://www.instagram.com/losangelesdekenia" target="_blank">@losangelesdekenia</a>
+                                                    <a href="https://www.instagram.com/losangelesdekenia" target="_blank"><u>@losangelesdekenia</u></a>
                                                 </h4>
                                                 <div class="c-right c-line-left "> </div>
                                             </div>
@@ -250,7 +250,7 @@ escribe_cabecera();
                                             <div class="c-content-title-3 c-theme-border ">
                                                 <h3 class="c-right c-font-uppercase c-font-bold">Javier Pérez-Mínguez</h3>
                                                 <h4 class="c-right c-font-uppercase c-font-bold">
-                                                    <a href="https://www.instagram.com/fund_anacarolinadm/?hl=es" target="_blank">@fund_anacarolinadm</a>
+                                                    <a href="https://www.instagram.com/fund_anacarolinadm/?hl=es" target="_blank"><u>@fund_anacarolinadm</u></a>
                                                 </h4>
                                             </div>
                                             <p class="c-right">
@@ -290,13 +290,13 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes-2019.jpg" alt="María Zavala y José Santa Úrsula" title="María Zavala y José Santa Úrsula" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/jefes-2021.jpg" alt="María Lanzuela e Ignacio García-Guerra" title="María Lanzuela e Ignacio García-Guerra" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Nuestros jefes: María Lanzuela e Ignacio García-Guerra
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/Fotos2021/EQUIPAZO.JPG" alt="Equipo 2019" title="Equipo 2019" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/Fotos2021/EQUIPAZO.JPG" alt="Equipo 2021s" title="Equipo 2021" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo
                         </div>

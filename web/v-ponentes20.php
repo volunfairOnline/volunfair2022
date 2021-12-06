@@ -98,7 +98,7 @@ escribe_cabecera();
                                     <div class="c-content-title-3 c-theme-border c-right">
                                         <h3 class="c-right c-font-uppercase c-font-bold">Rocío Talavera y Rodrigo Osborne</h3>
                                         <h4 class="c-right c-font-uppercase c-font-bold">
-                                            <a href="https://www.instagram.com/adolessence.voluntarios" target="_blank">Adol-essence</a>
+                                            <a href="https://www.instagram.com/adolessence.voluntarios" target="_blank"><u>Adol-essence</u></a>
                                         </h4>
                                         <div class="c-right c-line-left "> </div>
                                     </div>
@@ -149,7 +149,7 @@ escribe_cabecera();
                                     <div class="c-content-title-3 c-theme-border c-right">
                                         <h3 class="c-right c-font-uppercase c-font-bold">Natalia Olaso</h3>
                                         <h4 class="c-right c-font-uppercase c-font-bold">
-                                                    <a href="https://www.instagram.com/nataolaso/" target="_blank">@villagayumbos</a>
+                                                    <a href="https://www.instagram.com/nataolaso/" target="_blank"><u>@villagayumbos</u></a>
                                                 </h4>
                                         <div class="c-right c-line-left "> </div>
                                     </div>
@@ -185,7 +185,7 @@ escribe_cabecera();
                                     <div class="c-content-title-3 c-theme-border ">
                                     <h3 class="c-left c-font-uppercase c-font-bold ">María Montoya</h3>
                                     <h4 class="c-left c-font-uppercase c-font-bold">
-                                                    <a href="https://www.instagram.com/misuperheroesincapa/" target="_blank">@misuperheroesincapa</a>
+                                                    <a href="https://www.instagram.com/misuperheroesincapa/" target="_blank"><u>@misuperheroesincapa</u></a>
                                     </h4>
                                     <div class=" c-line-left "></div>
                                     </div>
@@ -335,7 +335,7 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes-2019.jpg" alt="María Zavala y José Santa Úrsula" title="María Zavala y José Santa Úrsula" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/jefes-2019.jpg" alt="Maca Álvarez y Edu Amador" title="Maca Álvarez y Edu Amador" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Nuestros jefes: Maca Álvarez y Edu Amador
                         </div>
