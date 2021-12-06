@@ -215,7 +215,7 @@ escribe_cabecera();
                     <div class="col-md-2">
                         <img src="./assets/base/img/volunfair/anteriores/jefes2018/beatriza.jpg" alt="Beatriz" title="Beatriz" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            Beatriz Alviño
+                            Beatriz Aviñó
                         </div>
                     </div>
                     <div class="col-md-7">

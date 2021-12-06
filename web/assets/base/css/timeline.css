@@ -39,6 +39,7 @@
   color: #fff;
   overflow: hidden;
   transition: width 0.5s ease;
+  cursor: pointer;
 }
 
 .tl-item a {

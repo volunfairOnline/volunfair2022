@@ -82,7 +82,7 @@ escribe_cabecera();
 
             <section id="timeline">
                 
-                <div class="tl-item3" onclick="location.href='v-ponentes16.php';">
+                <div class="tl-item3" onclick="location.href='v-ponentes16';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/flechazo.jpg)"></div>
                     
@@ -92,11 +92,11 @@ escribe_cabecera();
 
                     <div class="tl-content">
                         Primera edición de VOLUNFAIR <br />
-                        <strong>Jefe:</strong> Pilar Aldama y Daniel Alfaro
+                        <strong>Jefes:</strong> Pilar Aldama y Daniel Alfaro
                     </div>
                 </div>
 
-                <div class="tl-item3" onclick="location.href='v-ponentes17.php';">
+                <div class="tl-item3" onclick="location.href='v-ponentes17';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/cascada.jpg)"></div>
                     
@@ -111,7 +111,7 @@ escribe_cabecera();
 
                 </div>
 
-                <div class="tl-item3" onclick="location.href='v-ponentes18.php';">
+                <div class="tl-item3" onclick="location.href='v-ponentes18';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/juntos.jpg)"></div>
                     
@@ -129,7 +129,7 @@ escribe_cabecera();
 
                 <section id="timeline">
 
-                <div class="tl-item3" onclick="location.href='v-ponentes19.php';">
+                <div class="tl-item3" onclick="location.href='v-ponentes19';">
                     
                 <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/mares/estrellas.jpg)"></div>
                     
@@ -144,7 +144,7 @@ escribe_cabecera();
 
                 </div>
 
-                <div class="tl-item3" onclick="location.href='v-ponentes20.php';">
+                <div class="tl-item3" onclick="location.href='v-ponentes20';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/mares/mar13.jpeg)"></div>
                     
@@ -159,7 +159,7 @@ escribe_cabecera();
 
                 </div>
 
-                <div class="tl-item3" onclick="location.href='v-ponentes21.php';">
+                <div class="tl-item3" onclick="location.href='v-ponentes21';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/zapatillas/acera.jpg)"></div>
                     
@@ -203,7 +203,7 @@ escribe_cabecera();
                             </div>
                             <div class="item">
                                 <div class="c-content-testimonial-3 c-option-default">
-                                    <div class="c-content">Volunfair es el deseo de despertar en los jóvenes el deseo de ayudar, de darse a otros incondicionalmente.  <br/><br/><br/><br/>
+                                    <div class="c-content">VOLUNFAIR es el deseo de despertar en los jóvenes el deseo de ayudar, de darse a otros incondicionalmente.  <br/><br/><br/><br/>
                                     	</div>
                                     <div class="c-person">
                                         <div class="c-person-detail c-font-uppercase">

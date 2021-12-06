@@ -247,7 +247,7 @@ escribe_cabecera();
                                 <div class="row">
                                     <div class="col-md-8">
                                         <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 300px; background-color: #e8ebeb;">
-                                            <div class="c-content-title-3 c-theme-border ">
+                                            <div class="c-content-title-3 c-theme-border c-right">
                                                 <h3 class="c-right c-font-uppercase c-font-bold">Javier Pérez-Mínguez</h3>
                                                 <h4 class="c-right c-font-uppercase c-font-bold">
                                                     <a href="https://www.instagram.com/fund_anacarolinadm/?hl=es" target="_blank"><u>@fund_anacarolinadm</u></a>
