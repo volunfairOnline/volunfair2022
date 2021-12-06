@@ -335,13 +335,13 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes-2019.jpg" alt="Maca Álvarez y Edu Amador" title="Maca Álvarez y Edu Amador" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/jefes-2020.jpg" alt="Maca Álvarez y Edu Amador" title="Maca Álvarez y Edu Amador" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Nuestros jefes: Maca Álvarez y Edu Amador
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/stand/foto6.jpg" alt="Equipo 2019" title="Equipo 2019" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/stand/foto6.jpg" alt="Equipo 2020" title="Equipo 2020" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo
                         </div>
