@@ -84,7 +84,7 @@ escribe_cabecera();
                 
                 <div class="tl-item3" onclick="location.href='v-ponentes16';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/flechazo.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/avionaco2.jpg)"></div>
                     
                     <div class="tl-year">
                         <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2016</a></p>
@@ -98,7 +98,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes17';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/cascada.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/rowing3.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes17.php">2017</a></p>
@@ -113,7 +113,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes18';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/juntos.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/cuadrofumao3.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes18.php">2018</a></p>

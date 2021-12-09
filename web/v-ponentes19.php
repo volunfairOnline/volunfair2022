@@ -66,6 +66,9 @@ escribe_cabecera();
                                 
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Xavi Torres</h3>
+                                   <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://www.instagram.com/xavitorressw/?hl=es" target="_blank"><u>@XAVITORRESSW</a></u>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                 </div>
                                 <p class="c-right">
@@ -126,7 +129,10 @@ escribe_cabecera();
                                 
                                 
                                 <div class="c-content-title-3 c-theme-border c-right">
-                                   <h3 class="c-right c-font-uppercase c-font-bold">Gema Hassen-Bey</h3>
+                                   <h3 class="c-right c-font-uppercase c-font-bold">Gema Hassen-Bey </h3>
+                                    <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://www.instagram.com/gema_hassen_bey/?hl=es" target="_blank"><u>@GEMAHASSEN_BEY</a></u>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                  </div>
                                 <p class="c-right">

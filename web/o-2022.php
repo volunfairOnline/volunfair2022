@@ -32,7 +32,7 @@
 		<div class="text-white">
 			<div class="opciones-header row">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 align-items-center justify-content-center">
-					<h1 class="c-content-title-1 c-center">VOLUNFAIR 2021<br/><p class="text-o">Esperamos que hayáis podido disfrutar de la feria. <strong>¡Os esperamos el año que viene!</strong></p></h1>				
+					<h1 class="c-content-title-1 c-center">VOLUNFAIR 2022<br/><p class="text-o">Esperamos que hayáis podido disfrutar de la feria. <strong>¡Os esperamos el año que viene!</strong></p></h1>				
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7 align-items-center justify-content-center">				                          
 				<!-- <div id="countdown" class="countdown">
