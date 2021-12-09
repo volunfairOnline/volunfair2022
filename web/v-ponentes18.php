@@ -68,7 +68,7 @@ escribe_cabecera();
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Paco Arango</h3>
                                    <h4 class="c-right c-font c-font-bold">
-                                                    <a href="https://aladina.org/" target="_blank"><u>Fundación Aladina</u></a>
+                                                    <a href="https://aladina.org/" target="_blank"><u>FUNDACIÓN ALADINA</u></a>
                                                 </h4>
                                    <div class="c-right c-line-left "> </div>
                                 </div>
@@ -110,7 +110,7 @@ escribe_cabecera();
                                 <div class="c-content-title-3 c-theme-border c-left">
                                    <h3 class="c-left c-font-uppercase c-font-bold">Nico Merino </h3>
                                     <h4 class="c-left c-font c-font-bold">
-                                                    <a href="https://kubuka.org/" target="_blank"><u>Kubuka</a></u>
+                                                    <a href="https://kubuka.org/" target="_blank"><u>KUBUKA</a></u>
                                                 </h4>
                                    <div class="c-right c-line-left "> </div>
                                  </div>
@@ -136,7 +136,7 @@ escribe_cabecera();
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Pablo Urbano </h3>
                                     <h4 class="c-right c-font c-font-bold">
-                                                    <a href="https://auara.org/" target="_blank"><u>Auara</u></a>
+                                                    <a href="https://auara.org/" target="_blank"><u>AUARA</u></a>
                                                 </h4>
                                    <div class=" c-right c-line-left "></div>
                                  </div>
@@ -178,7 +178,7 @@ escribe_cabecera();
                                 <div class="c-content-title-3 c-theme-border ">
                                    <h3 class="c-font-uppercase c-font-bold">Alberto Cabanes</h3>
                                    <h4 class="c-left c-font c-font-bold">
-                                                    <a href="http://adoptaunabuelo.org" target="_blank"><u>AdoptaUnAbuelo</u></a>
+                                                    <a href="http://adoptaunabuelo.org" target="_blank"><u>ADOPTA UN ABUELO</u></a>
                                                 </h4>
                                    <div class=" c-line-left "></div>
                                  </div>

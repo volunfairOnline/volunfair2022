@@ -72,6 +72,9 @@ escribe_cabecera();
                                 
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Jacobo Parages</h3>
+                                   <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://www.instagram.com/jacoboparages/" target="_blank"><u>@JACOBOPARAGES</a></u>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                 </div>
                                 <p class="c-right">
@@ -107,6 +110,9 @@ escribe_cabecera();
                             <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 300px; background-color: #e8ebeb;">
                                 <div class="c-content-title-3 c-theme-border ">
                                    <h3 class="c-font-uppercase c-font-bold">Álvaro Pérez-Pla</h3>
+                                   <h4 class="c-left c-font c-font-bold">
+                                                    <a href="https://kubuka.org/" target="_blank"><u>KUBUKA</a></u>
+                                                </h4>
                                    <div class=" c-line-left "></div>
                                  </div>
                                 
@@ -135,6 +141,9 @@ escribe_cabecera();
                                 
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Javi Nieves</h3>
+                                   <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://www.instagram.com/javinieves/" target="_blank"><u>@JAVINIEVES</a></u>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                  </div>
                                 <p class="c-right">
@@ -195,6 +204,9 @@ escribe_cabecera();
                                 
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Belén Llana</h3>
+                                   <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://www.instagram.com/voluntasvincit/" target="_blank"><u>@VOLUNTASVINCIT</a></u>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                  </div>
                                 <p class="c-right">
