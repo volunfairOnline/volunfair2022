@@ -75,7 +75,7 @@
 						<h3 class="color-text">Entidades</h3>
 					</div>
 				</div>
-				<div class="back row"><p class="textStart">Conoce a las ONGs <br/> presentes en la feria. ¡Inscríbete online a ellas! </p><button onclick="location.href='./o-entidades'" class="button-start col-10"> Quiero ir </button></div>
+				<div class="back row"><p class="textStart">Conoce a las ONGs <br/> presentes en la feria. ¡Inscríbete online a ellas! </p><button onclick="location.href='./v-voluntario'" class="button-start col-10"> Quiero ir </button></div>
 			</div>
 		</div>
 		<div id="flip-container">
