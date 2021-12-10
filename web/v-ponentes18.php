@@ -168,7 +168,7 @@ escribe_cabecera();
                 <div class="container">
                     <div class="row">
                     	   <div class="col-md-4">
-                    	   	  <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/AlbertoCabanes.jpg); min-height: 300px;">
+                    	   	  <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/albertocab2.jpg); min-height: 300px;">
                             </div>
                         </div>
                     	
