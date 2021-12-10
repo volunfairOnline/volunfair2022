@@ -50,12 +50,12 @@ escribe_cabecera(1);
                 
             <!--  Fondos al redimensionar la página -->
                 <div class="solomediano1">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2021\PiesPortada.png" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2022\PiesPortada.png" width="100%">
                 </div>
             
             
                 <div class="solo_peq">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2021\piesmovil.png" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2022\piesmovil.png" width="100%">
                 </div>
 			
             <div class="">
@@ -67,10 +67,10 @@ escribe_cabecera(1);
 
            <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
-                     <!--<div class="c-content-title-1">
+                    <div class="c-content-title-1">
                         <h1 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR </h1>
                         <h2 class="c-center  c-font-bold">Feria universitaria de voluntariado en Madrid</h2>
-                        <h3 class="c-center c-font-uppercase c-font-bold">10 y 11 de febrero de 2021</h3>
+                        <h3 class="c-center c-font-uppercase c-font-bold">2 y 3 de Marzo de 2022</h3>
                             
                     </div>
 
@@ -96,16 +96,16 @@ escribe_cabecera(1);
 
                         </p> 
 
-                    </div>-->
+                    </div>
 
                    
-                    <div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
-                        <!--<div class="c-content-title-1">
+                    <!--<div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
+                        <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
                                 ACCEDE A VOLUNFAIR 2021
                             </h3>
                             <h2 class="c-center  c-font-bold">Feria universitaria de voluntariado en Madrid</h2>
-                        <h3 class="c-center c-font-uppercase c-font-bold">10 y 11 de febrero de 2021</h3>
+                        <h3 class="c-center c-font-uppercase c-font-bold">9 y 10 de febrero de 2022</h3>
                             <h2 class="c-center  c-font-bold">Ambos días de 10:00 a 19:00 será la feria online de entidades sociales. </h2>
                         <h2 class="c-center  c-font-bold"> ¡Haz click en las imágenes para acceder a la feria y ponencias!</h2>
                         <div class="row">
@@ -346,7 +346,7 @@ escribe_cabecera(1);
                         <!-- End-->
                         <!-- Begin: Owlcarousel -->
                        
-                        <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="5" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
+                        <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="4" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
                         data-auto-play-hover-pause="true">
                         
                             <div class="item">
@@ -354,26 +354,26 @@ escribe_cabecera(1);
                                     <img src="assets/base/img/volunfair/patrocinadores/logoE.jpg" title ="ETSII Madrid" alt="ETSII Madrid"  width="100%" />
                                 </a>
                             </div>
-                            <div class="item">
+                            <!--<div class="item">
                                 <a href="https://www.talgo.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-talgo.png" title ="Talgo" alt="Talgo" style="padding-top: 10%; padding-left: 10%;" width="90%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div>-->
+                            <!--div class="item">
                             	  <a href="https://fundacionaon.es/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-fundacion-aon.svg" title ="Fundación AON" alt="Fundación AON" style="padding-top: 20%; padding-left: 10%;"  width="100%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div>-->
+                            <!--<div class="item">
                             	<a href="https://www.comunidad.madrid/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-comunidadmadrid.png" title ="Comunidad de Madrid" alt="Comunidad de Madrid"  style=" padding-left: 10%;"width="50%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div>-->
+                            <!--<div class="item">
                             	<a href="https://www.fundaciodamm.cat/es" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/fundacion-damm.jpg" title ="Fundación Damm" alt="Fundación Damm"  width="100%" />
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="item">
                             	  <a href="https://www.weareseekers.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-tribu.png"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
@@ -385,26 +385,26 @@ escribe_cabecera(1);
                                     <img src="assets/base/img/volunfair/patrocinadores/logoE.jpg" title ="ETSII Madrid" alt="ETSII Madrid"  width="100%" />
                                 </a>
                             </div>
-                            <div class="item">
+                            <!--<div class="item">
                                 <a href="https://www.talgo.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-talgo.png" title ="Talgo" alt="Talgo" style="padding-top: 10%; padding-left: 10%;" width="90%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div>-->
+                            <!--<div class="item">
                             	  <a href="https://fundacionaon.es/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-fundacion-aon.svg" title ="Fundación AON" alt="Fundación AON" style="padding-top: 20%; padding-left: 10%;"  width="100%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div>-->
+                            <!--<div class="item">
                             	<a href="https://www.comunidad.madrid/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-comunidadmadrid.png" title ="Comunidad de Madrid" alt="Comunidad de Madrid"  style=" padding-left: 10%;"width="50%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div>-->
+                            <!--<div class="item">
                             	<a href="https://www.fundaciodamm.cat/es" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/fundacion-damm.jpg" title ="Fundación Damm" alt="Fundación Damm"  width="100%" />
                                 </a>
-                            </div>
+                            </div>-->
                             <div class="item">
                             	  <a href="https://www.weareseekers.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-tribu.png"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />

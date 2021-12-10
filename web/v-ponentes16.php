@@ -35,20 +35,18 @@ escribe_cabecera();
                     
                         <p>
                             Jamás un sueño nacido en un viaje, en mitad de una autopista, llegó tan lejos. Siete jóvenes y una ilusión: 
-                            que todos los jóvenes descubran la alegría de DAR. Así deciden montar en su uni  algo inexistente hasta entonces en Madrid: 
-                            una feria de voluntariado. Porque todo el mundo quiere hacer voluntariado, pero nadie sabe 
-                            dónde encontrarlo.
+                            que todos los jóvenes descubran la alegría de DAR. Así deciden montar en su uni algo inexistente hasta entonces en Madrid: 
+                            una feria de voluntariado. Porque todo el mundo quiere hacer voluntariado, pero nadie sabe dónde encontrarlo.
                         </p>
                         <p>
-                            Fue una locura. No teníamos ni idea de cómo conseguir un patrocinador ni de hacer una campaña de marketing. 
+                            "Fue una locura. No teníamos ni idea de cómo conseguir un patrocinador ni de hacer una campaña de marketing. 
                             Es más, dos semanas antes de la feria pensábamos que las ONGs deberían contentarse con mesas al no haber 
-                            dinero para stands. Hubo muchos milagros: vino el dinero y hasta vino  Enhamed Enhamed (GRACIAS CRACK). 
-                            Vinieron también miles de jóvenes. Así fue como nació un sueño tan grande que nunca terminará de completarse.
+                            dinero para stands. Hubo muchos milagros: vino el dinero y hasta vino Enhamed Enhamed (GRACIAS CRACK). 
+                            Vinieron también miles de jóvenes. Así fue como nació un sueño tan grande que nunca terminará de completarse."
                         </p>
                         <p>
-                            Sin experiencia, ni recursos, únicamente con una idea, VOLUNFAIR 
-                            fue naciendo en reuniones después de clase, hojas de papel y demasiadas ganas de hacer que 
-                            nuestros compañeros pudiesen flipar con lo guay que es hacer voluntariado. 
+                            Sin experiencia, ni recursos, únicamente con una idea, VOLUNFAIR fue naciendo en reuniones después de clase, 
+                            hojas de papel y demasiadas ganas de hacer que nuestros compañeros pudiesen flipar con lo guay que es hacer voluntariado. 
                         </p>
 
                     </div>
@@ -66,32 +64,104 @@ escribe_cabecera();
 				
 				    <div class="row c-content-media-1 c-bordered">
                         <div class="anteriores">
-                            <div class="col-md-3 wow animated bounceIn">
-                                <img src ="./assets/base/img/volunfair/anteriores/EnhamedEnhamed.jpg" alt="Enhamed Enhamed" title="Enhamed Enhamed" />
-                                <br />
-                                Enhamed Enhamed
-                                </div>
-                            <div class="col-md-3 wow animated bounceIn">
-                                <img src ="./assets/base/img/volunfair/anteriores/PepeRuiz.jpg" alt="Pepe Ruiz" title="Pepe Ruiz" />
-                                <br />
-                                Pepe Ruiz
+                            <div class="col-md-12 wow animated bounceIn">
+                            
+                                <!-- BEGIN: ENHAMED ENHAMED -->
+                                <div class="c-content-box c-size-md c-bg-white">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
+                            <div class="c-content-title-3 c-theme-border c-right">
+                                <h3 class="c-right c-font-uppercase c-font-bold">ENHAMED ENHAMED</h3>
+                                <h4 class="c-right c-font-uppercase c-font-bold">
+                                    <a href="https://www.instagram.com/enhamed/?hl=en" target="_blank">@ENHAMED</a>
+                                </h4>
+                                <div class="c-right c-line-left "> </div>
                             </div>
-                            <div class="col-md-3 wow animated bounceIn">
-                                <img src ="./assets/base/img/volunfair/anteriores/DanielAlfaro.jpg" alt="Daniel Alfaro" title="Daniel Alfaro" />
-                                <br />
-                                Daniel Alfaro
-                            </div>
-                            <div class="col-md-3 wow animated bounceIn">
-                                <img src ="./assets/base/img/volunfair/anteriores/ElisaAlbella.jpg" alt="Elisa Albella" title="Elisa Albella" />
-                                <br />
-                                Elisa Albella
-                            </div>
+                            <p class="c-right">
+                                    Nadador, invidente y apasionado vividor, Enhamed Enhamed ha logrado ser toda una eminencia, no solo en el 
+                                    mundo de la natación por ser cuatro veces campeón paralímpico, sino por ser un ejemplo de superación y alegría. 
+                                    Al mismo tiempo, se dedica a la motivación personal, impartiendo charlas centradas en la necesidad de valorar lo 
+                                    que cada uno tiene. Como bien nos recordaba: "No puedo hacer lo mismo que los demás, cierto, pero sí puedo conseguir 
+                                    los mismos resultados que los demás."<br />
+                                    Durante la oportunidad que se nos brindó en Volunfair de entrevistar a este joven canario, nos recordó la importancia 
+                                    de enseñar a otras personas a desarrollar su potencial para que puedan poner sus cualidades al servicio de los demás 
+                                    para conseguir lo que se propongan y más.
+                                    </p>
+                                    </p>
                         </div>
                     </div>
-                    <br />
+                    <div class="col-md-4 animated wow fadeInRight">
+                        <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
+                        </div>-->
+                        <img src="./assets/base/img/volunfair/anteriores/EnhamedEnhamed.jpg" width="100%" title="@ENHAMED" alt="@ENHAMED"/>
+                    </div>                   
                 </div>
             </div>
-			
+            <br/>
+                    <!-- END: ENHAMED ENHAMED -->
+        <div class = "row"> 
+          <div class="c-content-box c-size-md">
+                <div class="container c-center">
+                        <div class="row">
+                                <!-- BEGIN: PEPE RUIZ -->
+                                <div class="col-md-2">
+                            </div>
+                    <div class="col-md-4">
+                        <div class="col-md-12">
+                            <div class="row c-center wow animated bounceInUp">
+                                <img src="assets/base/img/volunfair/anteriores/PepeRuiz.jpg" width="100%" title="Pepe Ruiz" alt="Pepe Ruiz" />
+                            </div>
+                            <br />
+                            <div class="row wow animated bounceInDown">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
+                                    <div class="c-content-title-3 c-theme-border c-right">
+                                        <h3 class="c-right c-font-uppercase c-font-bold">PEPE RUIZ</h3>
+                                        <div class="c-right c-line-left "> </div>
+                                    </div>
+                                    <p class="c-right">
+                                    José Ruiz, Pepe para sus conocidos, es un amante del mundo del cine, el teatro y la comedia. 
+                                    Se subió a su primer escenario en 1967 y desde ese momento no ha hecho otra cosa que actuar. <br />
+                                    Es un habitual colaborador en programas y series de televisión, pero también se siente cómodo 
+                                    en espectáculos cómicos, como por ejemplo Noche de fiesta dirigido por el gran Jose Luis Moreno.
+                                    </p>
+                                </div>
+                            </div>                            
+                        </div>                        
+                    </div>
+                    <!-- END: PEPE RUIZ -->
+                     <!-- BEGIN: ELISA ALBELLA -->
+                 <div class="col-md-4">
+                        <div class="col-md-12">
+                            <div class="row c-center wow animated bounceInUp">
+                                <img src="assets/base/img/volunfair/anteriores/ElisaAlbella.jpg" width="100%" title="@ELISAALBELLA" alt="@ELISAALBELLA" />
+                            </div>
+                            <br/>
+                            <div class="row wow animated bounceInDown">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight" style="min-height: 300px;">                                  
+                                    <div class="c-content-title-3 c-theme-border c-left">
+                                        <div class="c-left c-line-right "></div>
+                                        <h3 class="c-left c-font-uppercase c-font-bold">ELISA ALBELLA</h3>
+                                        <h4 class="c-left c-font-uppercase c-font-bold">
+                                            <a href="https://twitter.com/elisaalbella" target="_blank">@ELISAALBELLA</a>
+                                        </h4>
+                                    </div>
+                                    <p class="c-right">
+                                    Soñar Despierto es más que una fundación, es la ilusión por fomentar la participación social a través del 
+                                    voluntariado.<br /> Es así como Elisa Albella decidió fundar esta institución, con el objetivo de conseguir que 
+                                    aquellos menores que viven en centros de acogida tengan las mismas oportunidades que el resto de niños de 
+                                    su edad.
+                                    </p>
+                                </div>
+                            </div>                            
+                        </div>                        
+                    </div>
+                    <!-- END: ELISA ALBELLA -->
+                </div>
+            </div>
+        </div>
+        </div>
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="row">
