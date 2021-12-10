@@ -29,23 +29,23 @@ escribe_cabecera();
 				</div>
 			</div>
             
-            <div class="c-content-box c-size-md c-bg-white">
+            <div class="c-content-box c-size-md c-bg-white" style="margin-top: -60px;">
                 <div class="container">
                     <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
                     
                         <p>
-                            Esta edición fue una pasada. Hubo aventuras. Por ejemplo, una noche fuimos a pegar carteles a Ciu, en plan delincuentes, 
-                            y nos llamaron para quitarlos al día siguiente. Casi nos da algo. Prometemos públicamente no volver a hacerlo jajajaja
+                            Esta edición fue una pasada. Hubo aventuras. Empapelamos Ciudad Universitaria, con nocturnidad y alevosía, para que todos pudiéseis conocernos.
+                            Aunque al día siguiente nos llamaron para recogerlos. (No prometemos que no volverá a ocurrir).
                         </p>
                         <p>
                             Pasamos de ser 20 en el equipo a ser 40. El lema, "emprende el cambio". 
                             Vinieron Paco Arango, Nico Merino (este tío se hizo Asturias-Kenia en bici y vino a contarnos), Pablo Urbano (VIVA AUARA) y Alberto Cabanes. 
                         </p>
                         <p>
-                            Este año la financiación nos costó que flipas. ¡Montamos hasta un crowdfunding! Pero al final vino McDonalds al salvarnos. OH YEAH
+                            Este año la financiación nos costó que flipas. Montamos hasta un crowdfunding!!! Pero al final vino McDonalds a salvarnos. (taratatatáa)
                         </p>
                         <p>
-                            VOLUNFAIR volvió a hacerse realidad. Hubo milagritos, as usual, y vinieron miles de jóvenes.
+                            VOLUNFAIR volvió a hacerse realidad.  Hubo milagritos, como de costumbre, y vinieron miles de jóvenes.
                         </p>
 
                     </div>
@@ -67,14 +67,18 @@ escribe_cabecera();
                                 
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Paco Arango</h3>
+                                   <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://aladina.org/" target="_blank"><u>FUNDACIÓN ALADINA</u></a>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                 </div>
                                 <p class="c-right">
-                                    Nacido en México y con estudios de cinematografía en Boston y Los Ángeles, Paco Arango empezó trabajando como voluntario en hospitales
-                                    infantiles en 2001. Esta necesidad de involucración y ayuda a los más necesitados le llevaría a fundar en 2005 la Fundación Aladina,
-                                    destinada a hacer más felices y mejorar la vida de niños y adolescentes enfermos de cáncer y sus familiares, y que a día de hoy atiende a más de 1.500 niños.
+                                    Paco Arango lleva desde 2001 trabajando como voluntario en hospitales
+                                    infantiles. Ver las necesidades de los niños enfermos y su voluntad de ayudar a estas familias más necesitadas le llevaría a fundar en 2005 la Fundación Aladina,
+                                    destinada a mejorar y, sobre todo, hacer más felices las vidas de niños y adolescentes enfermos de cáncer y sus familiares, y que a día de hoy atiende a más de 1.500 niños.
                                     En 2008 fue elegido miembro de la junta directiva de Serious Fun Children's Network, una organización también dedicada a ayudar a los niños a
-                                    divertirse disfrutar más allá de la enfermedad y todo lo que la rodea
+                                    divertirse disfrutar más allá de la enfermedad y todo lo que la rodea.
+                                    A día de hoy la Fundación Aladina atiende a más de 1500 menores enfermos de cáncer en los 15 hospitales entre los que trabaja.
                                 </p>
                             </div>
                         </div>
@@ -103,8 +107,11 @@ escribe_cabecera();
                                 </div>
                         <div class="col-md-8">
                             <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 300px; background-color: #e8ebeb;">
-                                <div class="c-content-title-3 c-theme-border c-right">
-                                   <h3 class="c-right c-font-uppercase c-font-bold">Nico Merino</h3>
+                                <div class="c-content-title-3 c-theme-border c-left">
+                                   <h3 class="c-left c-font-uppercase c-font-bold">Nico Merino </h3>
+                                    <h4 class="c-left c-font c-font-bold">
+                                                    <a href="https://kubuka.org/" target="_blank"><u>KUBUKA</a></u>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                  </div>
                                 <p class="c-right">
@@ -126,18 +133,21 @@ escribe_cabecera();
                     <div class="row">
                         <div class="col-md-8">
                             <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 300px; background-color: #e8ebeb;">
-                                <div class="c-content-title-3 c-theme-border ">
-                                   <h3 class="c-font-uppercase c-font-bold">Pablo Urbano</h3>
-                                   <div class=" c-line-left "></div>
+                                <div class="c-content-title-3 c-theme-border c-right">
+                                   <h3 class="c-right c-font-uppercase c-font-bold">Pablo Urbano </h3>
+                                    <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://auara.org/" target="_blank"><u>AUARA</u></a>
+                                                </h4>
+                                   <div class=" c-right c-line-left "></div>
                                  </div>
                                 
-                                <p>
-                                Un joven comprometido con las necesidades y desigualdad de recursos en el mundo, en 2015 funda Auara, una empresa social
+                                <p class="c-right" >
+                                Ingeniero industrial y emprendedor comprometido con las necesidades y desigualdad de recursos en el mundo; en 2015 funda Auara, una empresa social
                                 que, vendiendo agua, da de beber tanto a sus clientes como a países del tercer mundo con difícil acceso a agua potable.
                                 Esta start up madrileña destina el 100% de sus dividendos a fines sociales, principalmente a la creación de pozos en países 
-                                sumidos en la pobreza; aunque destacan también proyectos enfocados en fomentar la sanidad e higiene en países en desarrollo, 
-                                apoyar la independencia de las mujeres o la protección y escolarización de niños. Auara ha conseguido abastecer ya a más de 
-                                42.000 personas, y su compromiso también se desarrolla en el medio ambiente, ya que son la única marca con botellas de plástico
+                                sumidos en la pobreza; aunque destacan también proyectos enfocados en aumentar la sanidad e higiene en países en desarrollo, 
+                                fomentar la independencia de las mujeres o la protección y escolarización de niños en estos países. Auara ha conseguido abastecer ya a más de 
+                                42.000 personas, y su compromiso también se desarrolla en el medio ambiente, ya que sus botellas son de plástico
                                 100% reciclado.
                                 </p>
  
@@ -167,14 +177,22 @@ escribe_cabecera();
                             <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 300px; background-color: #e8ebeb;">
                                 <div class="c-content-title-3 c-theme-border ">
                                    <h3 class="c-font-uppercase c-font-bold">Alberto Cabanes</h3>
+                                   <h4 class="c-left c-font c-font-bold">
+                                                    <a href="http://adoptaunabuelo.org" target="_blank"><u>ADOPTA UN ABUELO</u></a>
+                                                </h4>
                                    <div class=" c-line-left "></div>
                                  </div>
                                 
                                 <p>
-                                Alberto Cabanes, manchego de 24 años, funda en 2014 la fundación "Adopta un Abuelo", dedicada a unir a jóvenes en un voluntariado 
-                                destinado a acompañar a personas mayores, tanto en residencias como en sus casas, que viven sus últimos días en soledad. Su labor 
-                                acerca a los jóvenes a la realidad de una sociedad que, de forma involuntaria, olvida paulatinamente a la tercera edad.
-                                La idea de Alberto, que se gestó en la residencia de mayores de Ciudad Real, se ha desarrollado hasta convertirse en el proyecto
+                                Desde niño, la vida de Alberto ha estado siempre marcada por su relación con su abuelo Clemente. También por Bernardo, a quien
+                                conoció en 2014 y "adoptó" como abuelo por ser ya casi parte de su familia. <br />
+                                
+                                Y es que visitando la residencia para mayores de Ciudad Real se dió cuenta de la solitaria realidad que viven muchos ancianos, 
+                                y de cómo una pequeña conversación y una sonrisa  son cosas que echan de menos en su día a día. <br />
+                                
+                                Con 24 años Alberto crea la fundación "Adopta un Abuelo", destinada a unir a jóvenes en un voluntariado 
+                                para acompañar a personas mayores.
+                                A día de hoy, la iniciativa de Alberto se ha desarrollado hasta convertirse en el proyecto
                                 de más de 22.000 voluntarios y reconocido por 17 premios que es hoy.
                                 </p>
  
@@ -185,6 +203,30 @@ escribe_cabecera();
                 </div>
             </div>
             <!-- END: CONTENT/MISC/LATEST-ITEMS-2 -->
+
+			<div class="c-content-box c-size-md c-bg-white">
+                <div class="container">
+                    <div class="col-md-2">
+                        <img src="./assets/base/img/volunfair/anteriores/jefes2018/andreso.jpeg" alt="Andrés" title="Andrés" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                            Andrés Otero
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <img src="./assets/base/img/volunfair/anteriores/jefes2018/beatriza.jpg" alt="Beatriz" title="Beatriz" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                            Beatriz Aviñó
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <img src="./assets/base/img/volunfair/v-quienes/origen.jpg" alt="Equipo 2018" title="Equipo 2018" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
+                            El equipo
+                        </div>
+                    </div>
+                </div>
+            </div>
+			
 			
             <!-- END: PAGE CONTENT -->
         </div>

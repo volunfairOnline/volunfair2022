@@ -29,7 +29,7 @@ escribe_cabecera();
 				</div>
             </div>
 
-            <div class="c-content-box c-size-md c-bg-white">
+            <div class="c-content-box c-size-md c-bg-white" style="margin-top: -60px;">
                 <div class="container">
                     <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
                     
@@ -72,6 +72,9 @@ escribe_cabecera();
                                 
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Jacobo Parages</h3>
+                                   <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://www.instagram.com/jacoboparages/" target="_blank"><u>@JACOBOPARAGES</a></u>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                 </div>
                                 <p class="c-right">
@@ -110,6 +113,9 @@ escribe_cabecera();
                             <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 300px; background-color: #e8ebeb;">
                                 <div class="c-content-title-3 c-theme-border ">
                                    <h3 class="c-font-uppercase c-font-bold">Álvaro Pérez-Pla</h3>
+                                   <h4 class="c-left c-font c-font-bold">
+                                                    <a href="https://kubuka.org/" target="_blank"><u>KUBUKA</a></u>
+                                                </h4>
                                    <div class=" c-line-left "></div>
                                  </div>
                                 
@@ -141,6 +147,9 @@ escribe_cabecera();
                                 
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Javi Nieves</h3>
+                                   <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://www.instagram.com/javinieves/" target="_blank"><u>@JAVINIEVES</a></u>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                  </div>
                                 <p class="c-right">
@@ -177,12 +186,11 @@ escribe_cabecera();
                                  </div>
                                 
                                 <p>
-								Misionero javierano de origen mejicano, Rolando está destinado a España, que es una "tierra de misión". 
-                                Su labor aquí es la de llevar a cabo una animación misionera, contando en parroquias, colegios e instituciones
-                                qué es ser misionero y alentando en los jóvenes el espíritu de misión.<br />
-                                Entre las numerosas actividades que ha organizado con ese fin, destacan sus campos de trabajo con inmigrantes en Ceuta, 
-                                en los que los voluntarios han organizado durante dos semanas talleres de español, manualidades o deporte, con los inmigrantes 
-                                recién llegados a la España y que esperan en los CETI su paso a la Península en condiciones angustiosas.
+								Como máximo ejemplo de una vida entregada a los demás contamos con Rolando, misionero javierano en España, destinado desde México 
+                                a informar y animar a jóvenes al espíritu de misión.<br />
+                                Su labor destaca sobre todo en la ayuda a las crisis sociales producidas por la entrada de inmigrantes en condiciones angustiosas.
+                                Gracias a su trabajo se han organizado numerosos talleres de formación, entretenimiento y deporte que han ayudado a centenares de 
+                                personas a tener una oportunidad real y darle un tratamiento humano a su situación.
                                 </p>
  
                             </div>
@@ -202,13 +210,16 @@ escribe_cabecera();
                                 
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Belén Llana</h3>
+                                   <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://www.instagram.com/voluntasvincit/" target="_blank"><u>@VOLUNTASVINCIT</a></u>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                  </div>
                                 <p class="c-right">
                                 Con apenas 18 años cumplidos, Belén Llana emprendió un proyecto que, de forma muy similar a nuestra feria, tiene la ambición 
-                                de acercar el voluntariado a jóvenes dispuestos a cambiar el mundo. En 2015 funda "Voluntas Vincit", una ONG que desde sus 
-                                comienzos más humildes, ayuda a futuros voluntarios a encontrar proyectos en los que colaborar de acuerdo a su disponibilidad 
-                                y capacidades. Voluntas Vincit pretende hacer más accesible el primer paso que realizan los voluntarios al buscar una ONG de la que formar 
+                                de acercar el voluntariado a jóvenes dispuestos a cambiar el mundo. En 2015 funda "Voluntas Vincit", una ONG que ayuda a futuros voluntarios a encontrar proyectos en los que colaborar de acuerdo a su disponibilidad 
+                                y capacidades. Voluntas Vincit, desde sus 
+                                comienzos más humildes, pretende hacer más accesible el primer paso que realizan los voluntarios al buscar una ONG de la que formar 
                                 parte, y evitar que se encallen simplemente en la buena intención.
                                 </p>
                             </div>

@@ -1,4 +1,6 @@
 <?php
+// --- AHora lo borramos
+
 
 // --- Escribe el menú principal
 function escribe_menu () {
@@ -9,7 +11,7 @@ function escribe_menu () {
 		["archivo" => "index", 			"nombre" => "Inicio"],
 		["archivo" => "v-quienes", 		"nombre" => "Equipo"],
 		["archivo" => "v-voluntario", 	"nombre" => "ONGs"],
-		["archivo" => "v-viene", 		"nombre" => "Ed. 2021"],
+		["archivo" => "v-viene", 		"nombre" => "Ed. 2022"],
 		["archivo" => "v-anteriores", 	"nombre" => "Anteriores"],
 		["archivo" => "v-premio", 		"nombre" => "Premio VOLUNFAIR"],
 		["archivo" => "v-contactar", 	"nombre" => "Contacto"],
@@ -280,12 +282,15 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 									echo '</div>'."\n";		// --- Sólo se cierra el <div class="row"> cuando ha sido abierto previamente
 								echo '<div class="row" style="margin-left: 0px; margin-right: 0px">'."\n";
 							}
-							echo '<div class="col-md-3">'."\n";
-								echo '<img src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
-								
+							echo '<div class="col-md-3 ">'."\n";
+								echo '<div class="imagenes">'."\n";
+									//AQUI LA FOTO
+									echo '<img class="v-visible" src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'1.jpg" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
+									echo '<img class="v-invisible" src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'2.jpg" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
 								// --- Si hay que poner los nombres, los ponemos
 								echo $poner_nombres ? $miembro['nombre'] : ''."\n";
 
+								echo'</div>'."\n";
 							echo'</div>'."\n";
 							$j++;
 						}

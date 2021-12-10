@@ -69,9 +69,9 @@ escribe_cabecera();
 								
 						<!-- Imagen -->
 						<div class="col-md-4 wow animated fadeInDown">
-							<img src="./assets/base/img/volunfair/premio/premioToniNadal.JPG" width="100%" alt="Toni Nadal recibe el Premio en 2020" />
+							<img src="./assets/base/img/volunfair/premio/premioToniNadal.JPG" width="100%" alt="Toni Nadal recibe el Premio en 2021" />
 							<br /><br />
-							<img src="./assets/base/img/volunfair/premio/premioVicente&Xabi.jpg" width="100%" alt="Vicente del Bosque recibe el Premio en 2019" />
+							<img src="./assets/base/img/volunfair/premio/premioVicente&Xabi.jpg" width="100%" alt="Vicente del Bosque recibe el Premio en 2020" />
 						</div>
 
 						
@@ -93,19 +93,47 @@ escribe_cabecera();
 						$premiados = [
 							["fecha" => "2018", 	"nombre" => "Paco Arango",				"foto" => "PacoArango.jpg",			"razon" => ""],
 							["fecha" => "2019", 	"nombre" => "Xavi Torres",				"foto" => "XaviTorres.jpg",			"razon" => ""],
-							["fecha" => "2019", 	"nombre" => "Vicente del Bosque",		"foto" => "VicenteDelBosque.jpg",	"razon" => ""]
-					
+							["fecha" => "2019", 	"nombre" => "Vicente del Bosque",		"foto" => "VicenteDelBosque.jpg",	"razon" => ""],
+                            ["fecha" => "2020",     "nombre" => "Adol-essence",        		"foto" => "Adol-essence.jpg",    "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Toni Nadal",        		"foto" => "ToniNadal.jpg",    "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Javier Pérez-Minguez",     "foto" => "JavierPerezMinguez_1.jpg",    "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Los Ángeles de Kenia",     "foto" => "LosAngelesDeKenia.jpg",    "razon" => ""]					
 						];
 						
 						// --- Función que escribe los premiados con formato
 						escribe_premiados($premiados);
 					
 					?>
-					s
 					<!-- END: PREMIADOS -->
-				</div>										
-			
+                    <div class="container">
+                    <!-- BEGIN: PADRINOS -->
+                    <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
+                        <div class="c-content-title-1">
+                            <h3 class="c-center c-font-uppercase c-font-bold">Todos los padrinos</h3>
+                            <div class="c-line-center c-theme-bg"></div>
+                        </div>
+                    </div>
+
+                    <?php
+                        
+                        // --- Matriz con los padrinos (no poner coma tras cada último corchete porque da error)
+                        // --- Guardar la foto en assets/base/img/volunfair/anteriores/
+                        $padrinos = [
+                            ["fecha" => "2020",     "nombre" => "Enrique Rueda",                "foto" => "Padre_Enrique.jpg",            "razon" => ""],
+                            ["fecha" => "2020",     "nombre" => "Raquel Martínez",                "foto" => "Raquel_Martinez.jpg",            "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Pablo España",        "foto" => "PabloEspana.jpg",    "razon" => ""]
+
+                        ];
+                        
+                        // --- Función que escribe los padrinos con formato
+                        escribe_premiados($padrinos);
+
+                    ?>
+                    <!-- END: PADRINOS -->
+                    </div>
+                </div>
 			</div>
+                   
             <!-- END: PAGE CONTENT -->
         </div>
         <!-- END: PAGE CONTAINER -->
