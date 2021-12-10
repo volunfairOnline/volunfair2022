@@ -106,7 +106,28 @@ escribe_cabecera();
             <!-- END: CUENTA ATRÁS -->
 
             <!-- BEGIN: RIFA -->
-            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
+            <br /><br /><br />
+
+<div class="row" style="margin-top: -170px;">
+    <div class="col-md-5 ">
+    </div>
+    <div class="col-md-6">
+        <div id="flip-container">
+            <div id="card1" class="card">
+                <div class="front row">
+                    <img class="card-img-top" src="./assets/base/img/volunfair/online-logos/ticket.svg" alt="Rifa">
+                </div>
+                <div class="back row"><p class="textStart">Disfruta de alguno de nuestros premios</p><button onclick="location.href='./o-rifa'" class="button-start col-10"> Quiero ir </button></div>
+            </div>
+        </div>		  
+    </div>
+</div>
+
+<br /><br />
+
+
+
+          <!--  <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
@@ -115,11 +136,11 @@ escribe_cabecera();
                                         <div class="c-content-title-1">
                                             <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa</h3>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     
 
                                     <!-- BEGIN: RESULTADOS DE LA RIFA -->
-                                    <div class="c-center col-md-12 container row" id="buscarRifa">
+                                  <!--  <div class="c-center col-md-12 container row" id="buscarRifa">
                                         Introduce tu número para saber si has tenido suerte:
                                         <br /><br />
 
@@ -134,22 +155,25 @@ escribe_cabecera();
                                                 <input type="button" value="Buscar" onClick="buscar();" >                                       
                                             </form>
                                         </div>
-                                    </div> 
+                                    </div>  
+        -->
                                     <!-- END: RESULTADOS DE LA RIFA -->
 
                                     <!-- BEGIN: AVISO PREVIO CUANDO NO HAY RIFA -->
                                     
-                                    El viernes publicaremos los resultados!<br />
+                                   <!-- El viernes publicaremos los resultados!<br />
                                     Mucha suerte y recuerda....No hay mar sin gotas
 
-                                    <br /><br />  
+                                    <br /><br />
+        -->  
                                     
                                     <!-- END: AVISO PREVIO CUANDO NO HAY RIFA -->                              
-                                </div>
+                               <!-- </div>
                             </div>
                         </div>
                     </div>
                 </div>
+        -->
             <!-- END: RIFA -->
 
             <br /><br />
