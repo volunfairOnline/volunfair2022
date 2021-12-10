@@ -35,17 +35,17 @@ escribe_cabecera();
                     
                         <p>
                             Esta edición fue una pasada. Hubo aventuras. Por ejemplo, una noche fuimos a pegar carteles a Ciu, en plan delincuentes, 
-                            y nos llamaron para quitarlos al día siguiente. Casi nos da algo. Prometemos públicamente no volver a hacerlo jajajajajaj
+                            y nos llamaron para quitarlos al día siguiente. Casi nos da algo. Prometemos públicamente no volver a hacerlo jajajaja
                         </p>
                         <p>
                             Pasamos de ser 20 en el equipo a ser 40. El lema, "emprende el cambio". 
-                            Vinieron Paco Arango, Pablo Urbano (VIVA AUARA), Nico Merino (este tío se hizo Asturias Kenia en bici y vino a contarnos) y Alberto Cabanes. 
+                            Vinieron Paco Arango, Nico Merino (este tío se hizo Asturias-Kenia en bici y vino a contarnos), Pablo Urbano (VIVA AUARA) y Alberto Cabanes. 
                         </p>
                         <p>
-                            Este año la financiación nos costó que flipas. Montamos hasta un crowdfunding!!! Pero al final vino McDonalds al salvarnos. OH YEAH
+                            Este año la financiación nos costó que flipas. ¡Montamos hasta un crowdfunding! Pero al final vino McDonalds al salvarnos. OH YEAH
                         </p>
                         <p>
-                            VOLUNFAIR volvió a hacerse realidad.  Hubo milagritos, as usual, y vinieron miles de jóvenes.
+                            VOLUNFAIR volvió a hacerse realidad. Hubo milagritos, as usual, y vinieron miles de jóvenes.
                         </p>
 
                     </div>
@@ -89,7 +89,7 @@ escribe_cabecera();
 		
              <div class="c-content-title-1">
              	  <p> </p>
-                <h2 class="c-center  c-font-bold">Jueves 8: "Emprende el cambio" con Pablo Urbano (AUARA), Nico Merino (KUBUKA) y Alberto Cabanes (Adopta un abuelo).</h2>   
+                <h2 class="c-center  c-font-bold">Jueves 8: "Emprende el cambio" con Nico Merino (KUBUKA), Pablo Urbano (AUARA) y Alberto Cabanes (Adopta un abuelo).</h2>   
                                   
              </div>           
 
