@@ -39,7 +39,7 @@ escribe_cabecera();
                         </p>
                         <p>
                             Pasamos de ser 20 en el equipo a ser 40. El lema, "emprende el cambio". 
-                            Vinieron Paco Arango, Pablo Urbano (VIVA AUARA), Nico Merino (este tío se hizo Asturias Kenia en bici y vino a contarnos) y Alberto Cabanes. 
+                            Vinieron Paco Arango, Nico Merino (este tío se hizo Asturias-Kenia en bici y vino a contarnos), Pablo Urbano (VIVA AUARA) y Alberto Cabanes. 
                         </p>
                         <p>
                             Este año la financiación nos costó que flipas. Montamos hasta un crowdfunding!!! Pero al final vino McDonalds a salvarnos. (taratatatáa)
@@ -93,7 +93,7 @@ escribe_cabecera();
 		
              <div class="c-content-title-1">
              	  <p> </p>
-                <h2 class="c-center  c-font-bold">Jueves 8: "Emprende el cambio" con Pablo Urbano (AUARA), Nico Merino (KUBUKA) y Alberto Cabanes (Adopta un abuelo).</h2>   
+                <h2 class="c-center  c-font-bold">Jueves 8: "Emprende el cambio" con Nico Merino (KUBUKA), Pablo Urbano (AUARA) y Alberto Cabanes (Adopta un abuelo).</h2>   
                                   
              </div>           
 
@@ -168,7 +168,7 @@ escribe_cabecera();
                 <div class="container">
                     <div class="row">
                     	   <div class="col-md-4">
-                    	   	  <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/AlbertoCabanes.jpg); min-height: 300px;">
+                    	   	  <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/albertocab2.jpg); min-height: 300px;">
                             </div>
                         </div>
                     	

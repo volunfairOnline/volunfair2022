@@ -78,12 +78,15 @@ escribe_cabecera();
                                    <div class="c-right c-line-left "> </div>
                                 </div>
                                 <p class="c-right">
-                                Empresario y licenciado en Gestión Comercial y Marketing, en sus 20 fue diagnosticado de Espondilitis Anquilosante, 
-                                una enfermedad reumatologica, crónica y muy dolorosa con la que tuvo que aprender de nuevo a realizar los actos más 
-                                cotidianos. La superación de este reto gracias a la natación le llevó a perseguir metas deportivas: en 2013 cruzó por 
-                                primera vez el Estrecho de Gibraltar, hazaña que repitió en 2015; en 2014 nadó los 40 kilómetros que separan Mallorca 
-                                de Menorca, paricipó en 2018 en la Copa de España de Aguas Abiertas, y en 2019 unió Asia y Europa, nadando desde la isla griega
-                                de Kastellorizo. Todas estos retos recaudaron fondos para la investigación y tratamiento de la Leucemia Infantil.
+                                Jacobo Parages, empresario y formador, fue diagnosticado de espondilitis anquilosante a los 20, momento 
+                                desde el cual tuvo que reiniciar su vida y aprender de nuevo los actos más cotidianos de su día a día. 
+                                A medida que fue mejorando su enfermedad se convirtió en un referente para la natación, llegando a conseguir 
+                                retos extremos de ultra distancia en el mar: dos veces el Cruce del Estrecho de Gibraltar y una vez el Canal 
+                                de Menorca. <br />
+                                Además de ser un enorme ejemplo de superación y motivación, Jacobo ha conseguido con todos estos admirables 
+                                logros, recaudar fondos para la investigación y tratamiento de la Leucemia Infantil con la Fundación Unoentrecienmil.
+                                Desde Volunfair, siempre le agradeceremos su ejemplo y la motivación que nos transmitió de ayudar a aquellos que 
+                                sufren y necesitan de nosotros.
                                 </p>
                             </div>
                         </div>
@@ -117,9 +120,12 @@ escribe_cabecera();
                                  </div>
                                 
                                 <p>
-                                Álvaro es un joven emprendedor que removió cielo y tierra buscando su forma de mejorar el mundo. Con esta ilusión, y con lo aprendido en la universidad, fundó Kubuka, una ONG que, con la eficiencia de una empresa, actúa en proyectos de empredimiento, educación e inclusión social en Kenia y Zambia.<br />
-                                Gracias a la construcción de colegios, orfanatos y proyectos de formación y apadrinamiento, Kubuka ha mejorado enormemente la calidad de vida de niños y jóvenes en las zonas en las que actúa.
-                                Durante su paso por Volunfair, Álvaro nos recordó la importancia de aportar nuestro granito de arena para empezar a cambiar el mundo.
+                                Álvaro es un joven emprendedor que removió cielo y tierra buscando su forma de mejorar el mundo. Con esta ilusión, y 
+                                con lo aprendido en la universidad, fundó Kubuka, una ONG que, con la eficiencia de una empresa, actúa en proyectos 
+                                de empredimiento, educación e inclusión social en Kenia y Zambia.<br />
+                                Gracias a la construcción de colegios, orfanatos y proyectos de formación y apadrinamiento, Kubuka ha mejorado enormemente 
+                                la calidad de vida de niños y jóvenes en las zonas en las que actúa.Durante su paso por Volunfair, Álvaro nos recordó la 
+                                importancia de aportar nuestro granito de arena para empezar a cambiar el mundo.
                                 </p>
  
                             </div>

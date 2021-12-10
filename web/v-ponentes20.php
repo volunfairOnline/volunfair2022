@@ -331,13 +331,42 @@ escribe_cabecera();
             </div>
             <!-- END: VÍDEOS AÑO ANTERIOR -->            
 
-            <!-- BLOQUE EQUIPO Y JEFES -->
-			<div class="c-content-box c-size-md c-bg-white">
-                <div class="container">
-                    <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes-2020.jpg" alt="Maca Álvarez y Edu Amador" title="Maca Álvarez y Edu Amador" class="animated wow swing" width="100%" />
-                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            Nuestros jefes: Maca Álvarez y Edu Amador
+            <br /><br />
+
+            <div class="c-content-title-1">
+                <div class="c-line-center c-theme-bg"></div>
+                <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 12 de Febrero: Gran Inauguración con Adol-Essence:</h2>               
+            </div>
+
+            <!-- BEGIN: ADOL-ESSENCE -->
+            <div class="c-content-box c-size-md c-bg-white">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets/base/img/volunfair/mares/mar12.jpeg">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
+                                    <div class="c-content-title-3 c-theme-border c-right">
+                                        <h3 class="c-right c-font-uppercase c-font-bold">Rocío Talavera y Rodrigo Osborne</h3>
+                                        <h4 class="c-right c-font-uppercase c-font-bold">
+                                            <a href="https://www.instagram.com/adolessence.voluntarios" target="_blank">Adol-essence</a>
+                                        </h4>
+                                        <div class="c-right c-line-left "> </div>
+                                    </div>
+                                    <p class="c-right">
+                                    Con tan solo 19 años, el osteosarcoma de Rodrigo les llevó a él, y a Rocío, a darse cuenta de que con optimismo, trabajo en equipo y 
+                                    compromiso sí se puede cambiar el mundo. Esta joven pareja sevillana, fundó Adol-Essence, "más que una buena idea, un proyecto necesario" 
+                                    que conecta a jóvenes pacientes y voluntarios para ayudarse mutuamente, fomentando el desarrollo de las capacidades de cada uno a la vez 
+                                    que se apoya en la enfermedad al hospitalizado. <br />
+                                    En Volunfair, compartimos todos los valores que incentivan esta asociación, es por ello que queremos compartir y motivar un voluntariado tan cercano y servicial como el que nos ha enseñado Adol-Essence.
+                                        
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-md-4 animated wow fadeInRight">
+                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
+                                </div>-->
+                                <img src="assets/base/img/volunfair/participantes/adol-essence.jpeg" width="100%" title="Adol-essence: un proyecto de Rocío Talavera y Rodrigo Osborne" alt="Adol-essence: un proyecto de Rocío Talavera y Rodrigo Osborne"/>
+                            </div>
                         </div>
                     </div>
                     <div class="col-md-7">

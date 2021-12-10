@@ -289,7 +289,7 @@ escribe_cabecera();
                                     <div class="c-person">
                                         <div class="c-person-detail c-font-uppercase">
                                             <h4 class="c-name">Álvaro</h4>
-                                            <p class="c-position c-font-bold">Estudiante de Ingeniería la energía</p>
+                                            <p class="c-position c-font-bold">Estudiante de Ingeniería de la energía</p>
                                         </div>
                                     </div>
                                 </div>
