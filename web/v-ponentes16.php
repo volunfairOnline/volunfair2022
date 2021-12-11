@@ -83,7 +83,7 @@ escribe_cabecera();
                             <div class="c-content-title-3 c-theme-border c-right">
                                 <h3 class="c-right c-font-uppercase c-font-bold">ENHAMED ENHAMED</h3>
                                 <h4 class="c-right c-font-uppercase c-font-bold">
-                                    <a href="https://www.instagram.com/enhamed/?hl=en" target="_blank">@ENHAMED</a>
+                                    <a href="https://www.instagram.com/enhamed/?hl=en" target="_blank"><u>@ENHAMED</u></a>
                                 </h4>
                                 <div class="c-right c-line-left "> </div>
                             </div>
@@ -150,7 +150,7 @@ escribe_cabecera();
                                         <div class="c-left c-line-right "></div>
                                         <h3 class="c-left c-font-uppercase c-font-bold">ELISA ALBELLA</h3>
                                         <h4 class="c-left c-font-uppercase c-font-bold">
-                                            <a href="https://twitter.com/elisaalbella" target="_blank">@ELISAALBELLA</a>
+                                            <a href="https://twitter.com/elisaalbella" target="_blank"><u>@ELISAALBELLA</u></a>
                                         </h4>
                                     </div>
                                     <p class="c-right">
