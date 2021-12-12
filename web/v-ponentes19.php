@@ -21,7 +21,21 @@ escribe_cabecera();
                 </div>-->
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			
+			<div style="text-align:left">
+             <br>
+                <div class="col-md-2 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="https://volunfair.com/v-ponentes18"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2018</a> 
+                        </h2>
+                </div>
+            </div>
+            <div style="text-align:right">
+                <div class="col-md-8 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="https://volunfair.com/v-ponentes20"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2020</a> 
+                        </h2>
+                </div>
+            </div>
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2019</h3>

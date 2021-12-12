@@ -46,6 +46,15 @@ escribe_cabecera();
 			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2021/bosque2.jpg)">
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
+            <div style="text-align:left">
+            <br>
+                <div class="col-md-2 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="https://volunfair.com/v-ponentes20"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2020</a> 
+                        </h2>
+                    </div>
+                    </div>
+            </div>
 
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >

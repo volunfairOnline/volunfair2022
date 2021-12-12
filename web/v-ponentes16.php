@@ -21,6 +21,14 @@ escribe_cabecera();
                 </div>-->
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
+            <div style="text-align:right">
+            <br>
+                <div class="col-md-10 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="https://volunfair.com/v-ponentes17"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2017</a> 
+                        </h2>
+                    </div>
+            </div>
 			
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
@@ -93,8 +101,6 @@ escribe_cabecera();
                         </div>
                     </div>
                     <div class="col-md-4 animated wow fadeInRight">
-                        <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
-                        </div>-->
                         <img src="./assets/base/img/volunfair/anteriores/EnhamedEnhamed.jpg" width="100%" title="@ENHAMED" alt="@ENHAMED"/>
                     </div>                   
                 </div>
