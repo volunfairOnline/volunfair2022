@@ -68,15 +68,15 @@ escribe_cabecera();
             </div>
 
             <!-- BEGIN: CONTENT/MISC/LATEST-ITEMS-1-->
-            <div class="c-content-box c-size-md c-bg-white">
+            <!--<div class="c-content-box c-size-md c-bg-white">
                 <div class="container" >
 				
 				    <div class="row c-content-media-1 c-bordered">
                         <div class="anteriores">
-                            <div class="col-md-12 wow animated bounceIn">
+                            <div class="col-md-12 wow animated bounceIn">-->
                             
-                                <!-- BEGIN: ENHAMED ENHAMED -->
-                                <div class="c-content-box c-size-md c-bg-white">
+            <!-- BEGIN: ENHAMED ENHAMED -->
+            <div class="c-content-box c-size-md c-bg-white">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
@@ -172,7 +172,7 @@ escribe_cabecera();
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="row">
-                    <div class="c-content-media-1  c-center wow animated fadeInLeft" >
+                        <div class="c-content-media-1  c-center wow animated fadeInLeft" >
                            ¡Nuestro Equipo y los Jefes!
                         </div>
                         <div class="col-md-3">
@@ -188,6 +188,7 @@ escribe_cabecera();
                             <!-- espacio para cuadrar -->
                         </div>
                     </div>
+                    <br />
                     <div class="col-md-2">
                             <!-- espacio para cuadrar -->
                         </div>
