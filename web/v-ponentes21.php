@@ -226,7 +226,7 @@ escribe_cabecera();
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/fotos2021/angeles.jpeg); min-height: 300px;">
+                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/Fotos2021/angeles.jpeg); min-height: 300px;">
                                         </div>
                                     </div>
                                     <div class="col-md-8">
@@ -276,7 +276,7 @@ escribe_cabecera();
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/fotos2021/ponente3.jpeg); min-height: 300px;">
+                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/Fotos2021/ponente3.jpeg); min-height: 300px;">
                                         </div>
                                     </div>
                                 </div>
