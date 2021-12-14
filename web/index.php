@@ -132,7 +132,7 @@ escribe_cabecera(1);
                             
                         </div>
 
-                    </div> 
+                    </div> -->
 
                     <!-- Vídeos qué es volunfair ordenador-->
                     <div class="solomediano1">
