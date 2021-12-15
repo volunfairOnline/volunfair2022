@@ -23,7 +23,7 @@
 		<h4 class="c-font-white c-font-thin c-opacity-07"> Conócenos mejor </h4>
 	</div>
 </div>-->
-</div>
+</div>volunfair
 <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
 <!-- BEGIN: PAGE CONTENT -->
 <br /><br /><br />
@@ -32,7 +32,7 @@
 		<div class="text-white">
 			<div class="opciones-header row">
 					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 align-items-center justify-content-center">
-					<h1 class="c-content-title-1 c-center">VOLUNFAIR 2021<br/><p class="text-o">Esperamos que hayáis podido disfrutar de la feria. <strong>¡Os esperamos el año que viene!</strong></p></h1>				
+					<h1 class="c-content-title-1 c-center">VOLUNFAIR 2022<br/><p class="text-o">Esperamos que hayáis podido disfrutar de la feria. <strong>¡Os esperamos el año que viene!</strong></p></h1>				
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7 align-items-center justify-content-center">				                          
 				<!-- <div id="countdown" class="countdown">
@@ -75,7 +75,7 @@
 						<h3 class="color-text">Entidades</h3>
 					</div>
 				</div>
-				<div class="back row"><p class="textStart">Conoce a las ONGs <br/> presentes en la feria. ¡Inscríbete online a ellas! </p><button onclick="location.href='./o-entidades'" class="button-start col-10"> Quiero ir </button></div>
+				<div class="back row"><p class="textStart">Conoce a las ONGs <br/> presentes en la feria. ¡Inscríbete online a ellas! </p><button onclick="location.href='./v-voluntario'" class="button-start col-10"> Quiero ir </button></div>
 			</div>
 		</div>
 		<div id="flip-container">

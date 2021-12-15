@@ -10,16 +10,18 @@ escribe_cabecera();
 
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page">
-		 <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-         <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2021/bosque2.jpg)">
-                 <!--<div class="container">
+            <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
+>    
+            <!--<div class="container">
 				 
                     <div class="c-page-title c-pull-left">
                     	  <p class="c-font-uppercase c-font-bold c-font-white c-font-25 c-font-slim">Quiénes Somos</p>
                         <h4 class="c-font-white c-font-thin c-opacity-07"> Conócenos mejor </h4>
                     </div>
                 </div>-->
-                
+                <!-- en 2019 se puso <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="margin-top: 50px; opacity: 0;">
+            </div>-->
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
 			
@@ -84,7 +86,7 @@ escribe_cabecera();
                 
                 <div class="tl-item3" onclick="location.href='v-ponentes16';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/flechazo.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/avionaco2.jpg)"></div>
                     
                     <div class="tl-year">
                         <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2016</a></p>
@@ -98,7 +100,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes17';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/cascada.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/rowing3.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes17.php">2017</a></p>
@@ -113,7 +115,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes18';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/juntos.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/cuadrofumao3.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes18.php">2018</a></p>
@@ -289,7 +291,7 @@ escribe_cabecera();
                                     <div class="c-person">
                                         <div class="c-person-detail c-font-uppercase">
                                             <h4 class="c-name">Álvaro</h4>
-                                            <p class="c-position c-font-bold">Estudiante de Ingeniería la energía</p>
+                                            <p class="c-position c-font-bold">Estudiante de Ingeniería de la energía</p>
                                         </div>
                                     </div>
                                 </div>

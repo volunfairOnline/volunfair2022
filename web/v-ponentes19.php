@@ -11,8 +11,9 @@ escribe_cabecera();
         <div class="c-layout-page">
 		
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2021/bosque2.jpg)">
-                 <!--<div class="container">
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
+>  
+                <!--<div class="container">
 				 
                     <div class="c-page-title c-pull-left">
                     	  <p class="c-font-uppercase c-font-bold c-font-white c-font-25 c-font-slim">Quiénes Somos</p>
@@ -21,7 +22,21 @@ escribe_cabecera();
                 </div>-->
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			
+			<div style="text-align:left">
+             <br>
+                <div class="col-md-2 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="https://volunfair.com/v-ponentes18"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2018</a> 
+                        </h2>
+                </div>
+            </div>
+            <div style="text-align:right">
+                <div class="col-md-8 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="https://volunfair.com/v-ponentes20"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2020</a> 
+                        </h2>
+                </div>
+            </div>
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2019</h3>
@@ -66,6 +81,9 @@ escribe_cabecera();
                                 
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Xavi Torres</h3>
+                                   <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://www.instagram.com/xavitorressw/?hl=es" target="_blank"><u>@XAVITORRESSW</a></u>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                 </div>
                                 <p class="c-right">
@@ -126,7 +144,10 @@ escribe_cabecera();
                                 
                                 
                                 <div class="c-content-title-3 c-theme-border c-right">
-                                   <h3 class="c-right c-font-uppercase c-font-bold">Gema Hassen-Bey</h3>
+                                   <h3 class="c-right c-font-uppercase c-font-bold">Gema Hassen-Bey </h3>
+                                    <h4 class="c-right c-font c-font-bold">
+                                                    <a href="https://www.instagram.com/gema_hassen_bey/?hl=es" target="_blank"><u>@GEMAHASSEN_BEY</a></u>
+                                                </h4>
                                    <div class="c-right c-line-left "> </div>
                                  </div>
                                 <p class="c-right">

@@ -11,7 +11,7 @@ function escribe_menu () {
 		["archivo" => "index", 			"nombre" => "Inicio"],
 		["archivo" => "v-quienes", 		"nombre" => "Equipo"],
 		["archivo" => "v-voluntario", 	"nombre" => "ONGs"],
-		["archivo" => "v-viene", 		"nombre" => "Ed. 2021"],
+		["archivo" => "v-viene", 		"nombre" => "Ed. 2022"],
 		["archivo" => "v-anteriores", 	"nombre" => "Anteriores"],
 		["archivo" => "v-premio", 		"nombre" => "Premio VOLUNFAIR"],
 		["archivo" => "v-contactar", 	"nombre" => "Contacto"],
@@ -83,7 +83,8 @@ function escribe_cabecera ($es_index = 0) {
 			echo '<link href="assets/base/css/custom.css" rel="stylesheet" type="text/css" />'."\n";
 			echo '<link href="assets/base/css/contador.css" rel="stylesheet" type="text/css" />'."\n";					// --- Para el contador
 			echo '<link href="assets/base/css/timeline.css" rel="stylesheet" type="text/css" />'."\n"; 					// --- Para el timeline de "Ediciones anteriores"
-			echo '<link href="assets/base/css/volunfair.css" rel="stylesheet" type="text/css" />'."\n"; 				// --- Estilos propios de VOLUNFAIR (para no destruir nada del tema)
+			echo '<link href="assets/base/css/volunfair.css" rel="stylesheet" type="text/css" />'."\n"; 				// --- Para el timeline de "Ediciones anteriores"
+			echo '<link href="assets/base/css/o-2021.css" rel="stylesheet" type="text/css" />'."\n"; 				// --- Estilos propios de VOLUNFAIR (para no destruir nada del tema)
 			echo '<!-- END THEME STYLES -->'."\n";
 
 			// --- Estilos de página

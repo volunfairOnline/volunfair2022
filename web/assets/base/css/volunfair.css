@@ -305,3 +305,9 @@ a:active, a:hover, a:focus {
 	opacity: 1;
 	/*transition: .5s ease;*/
 }
+
+/*Boton del buscador de ong (el de o-general.css)*/
+.btn-outline-secondary {
+    color: #6c757d;
+    border-color: #6c757d;
+}

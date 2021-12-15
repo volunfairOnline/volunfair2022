@@ -50,12 +50,12 @@ escribe_cabecera(1);
                 
             <!--  Fondos al redimensionar la página -->
                 <div class="solomediano1">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2021\PiesPortada.png" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2022\FotoPortada1_11.png" width="100%">
                 </div>
             
             
                 <div class="solo_peq">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2021\piesmovil.png" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2022\FotoPortadaMovil1_1.png" width="100%">
                 </div>
 			
             <div class="">
@@ -70,7 +70,7 @@ escribe_cabecera(1);
                     <div class="c-content-title-1">
                         <h1 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR </h1>
                         <h2 class="c-center  c-font-bold">Feria universitaria de voluntariado en Madrid</h2>
-                        <h3 class="c-center c-font-uppercase c-font-bold">10 y 11 de febrero de 2021</h3>
+                        <h3 class="c-center c-font-uppercase c-font-bold">2 y 3 de Marzo de 2022</h3>
                             
                     </div>
 
@@ -132,7 +132,7 @@ escribe_cabecera(1);
                             
                         </div>
 
-                    </div> 
+                    </div> -->
 
                     <!-- Vídeos qué es volunfair ordenador-->
                     <div class="solomediano1">

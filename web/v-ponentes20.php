@@ -43,9 +43,25 @@ escribe_cabecera();
         <div class="c-layout-page">
 		
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2021/bosque2.jpg)">
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
+>  
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
+            <div style="text-align:left">
+             <br>
+                <div class="col-md-2 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="https://volunfair.com/v-ponentes19"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2019</a> 
+                        </h2>
+                </div>
+            </div>
+            <div style="text-align:right">
+                <div class="col-md-8 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="https://volunfair.com/v-ponentes21"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2021</a> 
+                        </h2>
+                </div>
+            </div>
 
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
@@ -330,6 +346,8 @@ escribe_cabecera();
                 </div>
             </div>
             <!-- END: VÍDEOS AÑO ANTERIOR -->            
+
+            <br /><br />
 
             <!-- BLOQUE EQUIPO Y JEFES -->
 			<div class="c-content-box c-size-md c-bg-white">

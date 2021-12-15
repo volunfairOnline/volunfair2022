@@ -11,8 +11,9 @@ escribe_cabecera();
         <div class="c-layout-page">
 		
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2021/bosque2.jpg)">
-                 <!--<div class="container">
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
+>  
+                <!--<div class="container">
 				 
                     <div class="c-page-title c-pull-left">
                     	  <p class="c-font-uppercase c-font-bold c-font-white c-font-25 c-font-slim">Quiénes Somos</p>
@@ -21,7 +22,22 @@ escribe_cabecera();
                 </div>-->
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			
+			<div style="text-align:left">
+             <br>
+                <div class="col-md-2 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="https://volunfair.com/v-ponentes17"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2017</a> 
+                        </h2>
+                </div>
+            </div>
+            <div style="text-align:right">
+                <div class="col-md-8 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="https://volunfair.com/v-ponentes19"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2019</a> 
+                        </h2>
+                </div>
+            </div>
+
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2018</h3>
@@ -39,7 +55,7 @@ escribe_cabecera();
                         </p>
                         <p>
                             Pasamos de ser 20 en el equipo a ser 40. El lema, "emprende el cambio". 
-                            Vinieron Paco Arango, Pablo Urbano (VIVA AUARA), Nico Merino (este tío se hizo Asturias Kenia en bici y vino a contarnos) y Alberto Cabanes. 
+                            Vinieron Paco Arango, Nico Merino (este tío se hizo Asturias-Kenia en bici y vino a contarnos), Pablo Urbano (VIVA AUARA) y Alberto Cabanes. 
                         </p>
                         <p>
                             Este año la financiación nos costó que flipas. Montamos hasta un crowdfunding!!! Pero al final vino McDonalds a salvarnos. (taratatatáa)
@@ -68,7 +84,7 @@ escribe_cabecera();
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Paco Arango</h3>
                                    <h4 class="c-right c-font c-font-bold">
-                                                    <a href="https://aladina.org/" target="_blank"><u>Fundación Aladina</u></a>
+                                                    <a href="https://aladina.org/" target="_blank"><u>FUNDACIÓN ALADINA</u></a>
                                                 </h4>
                                    <div class="c-right c-line-left "> </div>
                                 </div>
@@ -93,7 +109,7 @@ escribe_cabecera();
 		
              <div class="c-content-title-1">
              	  <p> </p>
-                <h2 class="c-center  c-font-bold">Jueves 8: "Emprende el cambio" con Pablo Urbano (AUARA), Nico Merino (KUBUKA) y Alberto Cabanes (Adopta un abuelo).</h2>   
+                <h2 class="c-center  c-font-bold">Jueves 8: "Emprende el cambio" con Nico Merino (KUBUKA), Pablo Urbano (AUARA) y Alberto Cabanes (Adopta un abuelo).</h2>   
                                   
              </div>           
 
@@ -110,7 +126,7 @@ escribe_cabecera();
                                 <div class="c-content-title-3 c-theme-border c-left">
                                    <h3 class="c-left c-font-uppercase c-font-bold">Nico Merino </h3>
                                     <h4 class="c-left c-font c-font-bold">
-                                                    <a href="https://kubuka.org/" target="_blank"><u>Kubuka</a></u>
+                                                    <a href="https://kubuka.org/" target="_blank"><u>KUBUKA</a></u>
                                                 </h4>
                                    <div class="c-right c-line-left "> </div>
                                  </div>
@@ -136,7 +152,7 @@ escribe_cabecera();
                                 <div class="c-content-title-3 c-theme-border c-right">
                                    <h3 class="c-right c-font-uppercase c-font-bold">Pablo Urbano </h3>
                                     <h4 class="c-right c-font c-font-bold">
-                                                    <a href="https://auara.org/" target="_blank"><u>Auara</u></a>
+                                                    <a href="https://auara.org/" target="_blank"><u>AUARA</u></a>
                                                 </h4>
                                    <div class=" c-right c-line-left "></div>
                                  </div>
@@ -178,7 +194,7 @@ escribe_cabecera();
                                 <div class="c-content-title-3 c-theme-border ">
                                    <h3 class="c-font-uppercase c-font-bold">Alberto Cabanes</h3>
                                    <h4 class="c-left c-font c-font-bold">
-                                                    <a href="http://adoptaunabuelo.org" target="_blank"><u>AdoptaUnAbuelo</u></a>
+                                                    <a href="http://adoptaunabuelo.org" target="_blank"><u>ADOPTA UN ABUELO</u></a>
                                                 </h4>
                                    <div class=" c-line-left "></div>
                                  </div>
