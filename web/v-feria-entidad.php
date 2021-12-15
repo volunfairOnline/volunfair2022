@@ -106,12 +106,12 @@ escribe_cabecera();
         ?>
         
         <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background:<?php echo $color; ?>">
-            </div>
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
+<            </div>
         <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
 
         <!-- BEGIN PAGE CONTENT -->
-
+<br/>
             <!-- Logo ong -->
                 <?php
                     echo '<div class="row">'."\n";

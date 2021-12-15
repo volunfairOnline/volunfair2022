@@ -160,7 +160,7 @@ escribe_cabecera();
 
                 /* Enviamos los datos a la página PHP encargada de procesarlos y esta nos devuelve el texto a escribir en el div id="ongs" */
                 if (lugar != "" || tipo != "") {
-                    $.post("./mysql/o-buscar-ong.php", {valorBusqueda: [lugar, tipo]}, function(mensaje) {
+                    $.post("./mysql/v-buscar-ong.php", {valorBusqueda: [lugar, tipo]}, function(mensaje) {
                         $("#ongs").html(mensaje);
                     });
                 } else {
@@ -171,7 +171,7 @@ escribe_cabecera();
             // --- Función que pone el texto cuando aún no ha habido resultados d ela búsqueda
             function init() {
                 $("#ongs").html('');
-                $.post("./mysql/o-buscar-ong.php", {valorBusqueda: [,]}, function(mensaje) {
+                $.post("./mysql/v-buscar-ong.php", {valorBusqueda: [,]}, function(mensaje) {
                         $("#ongs").html(mensaje);
                     });
                 $('#alternar-panel-oculto').toggle(
