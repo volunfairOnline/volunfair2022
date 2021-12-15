@@ -227,7 +227,7 @@ escribe_cabecera();
                             </div>
                              <div class="item">
                                 <div class="c-content-testimonial-3 c-option-default">
-                                    <div class="c-content"> Siempre he sentido que mi vida era algo más que estudiar y estar en tu forma de confort. Por ello fui a volunfair y ahí encontré el voluntariado que me cambió la vida <br/><br/><br/>
+                                    <div class="c-content"> Siempre he sentido que mi vida era algo más que estudiar y estar en tu forma de confort. Por ello fui a VOLUNFAIR y ahí encontré el voluntariado que me cambió la vida <br/><br/><br/>
                                     	</div>
                                     <div class="c-person">
                                         <div class="c-person-detail c-font-uppercase">
