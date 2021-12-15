@@ -26,7 +26,7 @@ escribe_cabecera();
             <br>
                 <div class="col-md-10 wow animated bounceIn">
                     <h2 class="c-right c-font-uppercase c-font-bold">
-                    <a href="https://volunfair.com/v-ponentes17"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2017</a> 
+                    <a href="v-ponentes17"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2017</a> 
                         </h2>
                     </div>
             </div>
