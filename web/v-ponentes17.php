@@ -202,11 +202,8 @@ escribe_cabecera();
                                  </div>
                                 
                                 <p>
-								Como máximo ejemplo de una vida entregada a los demás contamos con Rolando, misionero javierano en España, destinado desde México 
-                                a informar y animar a jóvenes al espíritu de misión.<br />
-                                Su labor destaca sobre todo en la ayuda a las crisis sociales producidas por la entrada de inmigrantes en condiciones angustiosas.
-                                Gracias a su trabajo se han organizado numerosos talleres de formación, entretenimiento y deporte que han ayudado a centenares de 
-                                personas a tener una oportunidad real y darle un tratamiento humano a su situación.
+								Misionero javierano de origen mejicano, Rolando está destinado a España, como "tierra de misión". Su labor aquí es ser alma misionera, transmitiendo en parroquias, colegios e instituciones el concepto y esencia de ser misionero, y alentando en los jóvenes el espíritu de misión. <br />
+                                Entre las numerosas actividades que ha organizado con ese fin, destacan sus campos de trabajo con inmigrantes en Ceuta, en los que los voluntarios organizan talleres de español, manualidades y deporte con los inmigrantes recién llegados a España que esperan en los CETI, su paso a la Península en condiciones abrumadoras.
                                 </p>
  
                             </div>
