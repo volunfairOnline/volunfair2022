@@ -2,24 +2,18 @@
 # ------------------ Sustituciones -----------------------------------------------
 #
 # Buscar todas las apariciones del nombre de
-# 	* La base de datos y sustituirla por el nombre de la base de datos 
-#         de este año, para esta asignatura. Nº sustituciones 2
-#	* El nombre de usuario alumno para esta asignatura y año. Nº sustituciones 
+# 	* La base de datos y sustituirla por el nombre de la base de datos nueva
+#	* Los nombres de usuario (PequeLiante y GranLiante)
 #
-# Este sustitución debe hacerse tambien en los ficheros
+# Este sustituciï¿½n debe hacerse tambien en los ficheros
 #	* Creacion de la base de datos
-#	* Clase de php que maneja la base de datos (./funciones/MySqlHandler.Class.php)
+#	* Clase de php que maneja la base de datos (../../web/mysql/MySqlHandler.Class.php)
 #
 # --------------------------------------------------------------------------------
 
 
-# --- Seleccionar la base de datos de administración
+# --- Seleccionar la base de datos de administraciï¿½n
 USE mysql;
-
-# --- Sustituciones que hay que hacer manualmente
-# @MiBase:='LaLiamos';
-# @MiAlumno:='PequeLiante';
-# @MiAlumnoPass:='H@y59ONGs';
 
 # --- Crear el usuario alumnos accesible desde cualquier lado
 DELETE FROM user WHERE user ='PequeLiante';
@@ -28,7 +22,7 @@ INSERT INTO user SET host='%', user ='PequeLiante', authentication_string=PASSWO
 DELETE FROM db WHERE Db='LaLiamos'AND User='PequeLiante';
 INSERT INTO db SET Host='%', Db='LaLiamos', User='PequeLiante', Select_priv='Y';
 
-# --- Actualización necesaria de lo anterior NO OLVIDAR antes del grant
+# --- Actualizaciï¿½n necesaria de lo anterior NO OLVIDAR antes del grant
 FLUSH PRIVILEGES;
 
 # -----------------------------------
@@ -51,5 +45,5 @@ GRANT SELECT, INSERT, UPDATE, DELETE ON LaLiamos.sorteorifa TO PequeLiante;
 
 # -----------------------------------
 
-# --- Actualización necesaria de lo anterior NO OLVIDAR
+# --- Actualizaciï¿½n necesaria de lo anterior NO OLVIDAR
 FLUSH PRIVILEGES;
