@@ -11,7 +11,7 @@ function escribe_menu () {
 		["archivo" => "index", 			"nombre" => "Inicio"],
 		["archivo" => "v-quienes", 		"nombre" => "Equipo"],
 		["archivo" => "v-voluntario", 	"nombre" => "ONGs"],
-		["archivo" => "v-viene", 		"nombre" => "Ed. 2022"],
+		["archivo" => "v-viene", 		"nombre" => "<u>Ed. 2022</u>"],
 		["archivo" => "v-anteriores", 	"nombre" => "Anteriores"],
 		["archivo" => "v-premio", 		"nombre" => "Premio VOLUNFAIR"],
 		["archivo" => "v-contactar", 	"nombre" => "Contacto"],

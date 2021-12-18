@@ -119,10 +119,8 @@ escribe_cabecera();
                                         <div class="c-right c-line-left "> </div>
                                     </div>
                                     <p class="c-right">
-                                        Rocío Talavera y Rodrigo Osborne, dos jóvenes sevillanos de 19 años, hicieron realidad su mayor ilusión, consiguiendo así mejorar y facilitar 
-                                        la dura realidad que se le presenta a algunos adolescentes. Ante la enfermedad de Rodrigo, se les ocurrió la idea de fundar Adol-essence, 
-                                        su pequeña gota para cambiar el mundo. Esta plataforma busca tejer redes de contacto que puedan dar apoyo a adolescentes hospitalizados.
-                                        <br />
+                                    Con tan solo 19 años, el osteosarcoma de Rodrigo les llevó a él y a Rocío, a darse cuenta de que con optimismo, trabajo en equipo y compromiso sí se puede cambiar el mundo. Esta joven pareja sevillana, fundó Adol-Essence, "más que una buena idea, un proyecto necesario" que conecta a jóvenes pacientes y voluntarios para ayudarse mutuamente, fomentando el desarrollo de las capacidades de cada uno a la vez que se apoya en la enfermedad al hospitalizado. 
+                                    <br />En Volunfair, compartimos todos los valores que incentivan esta asociación, es por ello que queremos compartir y motivar un voluntariado tan cercano y servicial como el que nos ha enseñado Adol-Essence.
                                     </p>
                                 </div>
                             </div>
