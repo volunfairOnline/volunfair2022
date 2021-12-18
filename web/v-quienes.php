@@ -227,6 +227,7 @@ escribe_cabecera();
                         ['nombre' => 'Ricardo Estremera',  	            'foto' => 'finricardoestremera'],
                         ['nombre' => 'Rocío García',		            'foto' => 'finrociogarcia'],
                         ['nombre' => 'Sofía Zaballa',	                'foto' => 'finsofiazaballa'],
+                        ['nombre' => 'Silvia Assmuth',	                'foto' => 'finsilviaassmuth'],
                     ],
                     
                 "Gestión y Recursos Humanos" => [
