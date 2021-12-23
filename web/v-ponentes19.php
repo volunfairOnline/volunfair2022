@@ -26,14 +26,14 @@ escribe_cabecera();
              <br>
                 <div class="col-md-2 wow animated bounceIn">
                     <h2 class="c-right c-font-uppercase c-font-bold">
-                    <a href="https://volunfair.com/v-ponentes18"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2018</a> 
+                    <a href="v-ponentes18"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2018</a> 
                         </h2>
                 </div>
             </div>
             <div style="text-align:right">
                 <div class="col-md-8 wow animated bounceIn">
                     <h2 class="c-right c-font-uppercase c-font-bold">
-                    <a href="https://volunfair.com/v-ponentes20"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2020</a> 
+                    <a href="v-ponentes20"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2020</a> 
                         </h2>
                 </div>
             </div>
