@@ -33,6 +33,22 @@ function escribe_menu () {
 	echo '</nav>'."\n";
 }
 
+// --- Asignar al final de los archivos un número de versión para que el navegador lo actualice cuando haya cambios
+// --- https://codeburst.io/auto-versioning-javascript-and-css-files-in-php-892d05c82d58
+function auto_version($file) {
+	// Obtenemos la dirección absoluta del archivo
+	$file_dir = str_replace('\\', '/', realpath(null));
+
+    // Si no es una ruta válida, no hace nada
+	if (!file_exists($file_dir.'/'.$file)) return $file;
+
+    // El código de versión será su fecha de última modificación
+    // https://www.php.net/manual/en/function.filemtime.php
+	$mtime = filemtime($file_dir.'/'.$file);
+
+    return sprintf("%s?v=%d", $file, $mtime);
+}
+
 // --- Cabecera de las páginas
 function escribe_cabecera ($es_index = 0) {
 	
@@ -81,10 +97,10 @@ function escribe_cabecera ($es_index = 0) {
 			echo '<link href="assets/base/css/components.css" id="style_components" rel="stylesheet" type="text/css" />'."\n";
 			echo '<link href="assets/base/css/themes/default.css" rel="stylesheet" id="style_theme" type="text/css" />'."\n";
 			echo '<link href="assets/base/css/custom.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/base/css/contador.css" rel="stylesheet" type="text/css" />'."\n";					// --- Para el contador
-			echo '<link href="assets/base/css/timeline.css" rel="stylesheet" type="text/css" />'."\n"; 					// --- Para el timeline de "Ediciones anteriores"
-			echo '<link href="assets/base/css/volunfair.css" rel="stylesheet" type="text/css" />'."\n"; 				// --- Para el timeline de "Ediciones anteriores"
-			echo '<link href="assets/base/css/o-2021.css" rel="stylesheet" type="text/css" />'."\n"; 				// --- Estilos propios de VOLUNFAIR (para no destruir nada del tema)
+			echo '<link href="'.auto_version('assets/base/css/contador.css').'" rel="stylesheet" type="text/css" />'."\n";					// --- Para el contador
+			echo '<link href="'.auto_version('assets/base/css/timeline.css').'" rel="stylesheet" type="text/css" />'."\n"; 					// --- Para el timeline de "Ediciones anteriores"
+			echo '<link href="'.auto_version('assets/base/css/volunfair.css').'" rel="stylesheet" type="text/css" />'."\n"; 				// --- Para el timeline de "Ediciones anteriores"
+			echo '<link href="'.auto_version('assets/base/css/o-2021.css').'" rel="stylesheet" type="text/css" />'."\n"; 					// --- Estilos propios de VOLUNFAIR (para no destruir nada del tema)
 			echo '<!-- END THEME STYLES -->'."\n";
 
 			// --- Estilos de página
@@ -513,7 +529,7 @@ function escribe_pie($galeria = '', $es_index = false) {
 		echo '<!-- END: THEME SCRIPTS -->'."\n";
 
 		// --- Plugins propios
-		echo '<script src="assets/base/js/contador.js"></script>'."\n";
+		echo '<script src="'.auto_version('assets/base/js/contador.js').'"></script>'."\n";
 		//echo '<script src="assets/base/js/counterStats.js"></script>'."\n";
         
 	echo '</body>'."\n";
