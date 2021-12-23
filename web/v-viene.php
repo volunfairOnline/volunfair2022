@@ -52,6 +52,7 @@ escribe_cabecera();
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2022</h3>
+                    <div class="c-line-center c-theme-bg"></div>
                     <p class="c-center" ><b><u>¡¡CAMBIAR!!</u></b>Ya está aquí la séptima edición de <b>VOLUNFAIR</b>. ¡La primera en formato digital! ¿Te la vas a perder? <br />Pásate este miércoles y jueves de <b>10:00 a 19:00</b> por el link que pondremos dentro de poco para conocer a todas las entidades sociales que nos acompañan este año.
                     <br /> Este año contamos con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
 					
@@ -128,7 +129,7 @@ escribe_cabecera();
 
 
 
-          <!--  <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
+           <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
@@ -137,11 +138,11 @@ escribe_cabecera();
                                         <div class="c-content-title-1">
                                             <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa</h3>
                                         </div>
-                                    </div> -->
+                                    </div> 
                                     
 
                                     <!-- BEGIN: RESULTADOS DE LA RIFA -->
-                                  <!--  <div class="c-center col-md-12 container row" id="buscarRifa">
+                                    <div class="c-center col-md-12 container row" id="buscarRifa">
                                         Introduce tu número para saber si has tenido suerte:
                                         <br /><br />
 
@@ -157,38 +158,38 @@ escribe_cabecera();
                                             </form>
                                         </div>
                                     </div>  
-        -->
+        
                                     <!-- END: RESULTADOS DE LA RIFA -->
 
                                     <!-- BEGIN: AVISO PREVIO CUANDO NO HAY RIFA -->
                                     
-                                   <!-- El viernes publicaremos los resultados!<br />
+                                    El viernes publicaremos los resultados!<br />
                                     Mucha suerte y recuerda....No hay mar sin gotas
 
                                     <br /><br />
-        -->  
+          
                                     
                                     <!-- END: AVISO PREVIO CUANDO NO HAY RIFA -->                              
-                               <!-- </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-        -->
+        
             <!-- END: RIFA -->
 
             <!-- PONENTES ACTUALES-->
-<!--            <br /><br />
+            <br /><br />
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 10</h2>   
                 <p class="c-center" >Acto inaugural de VOLUNFAIR 2021 a las 12:30</p>                      
             </div>
--->
+
 
             <!-- BEGIN: Toni Nadal -->
-<!--        <div class="c-content-box c-size-md c-bg-white">
+        <div class="c-content-box c-size-md c-bg-white">
                 <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets\base\img\volunfair\Fotos2021\bosque.jpg">
                     <div class="container">
                         <div class="row">
@@ -212,35 +213,35 @@ escribe_cabecera();
                                 </div>
                             </div>
                             <div class="col-md-4 animated wow fadeInRight">
--->
+
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
                                 </div> -->
-<!--                                <img src="assets\base\img\volunfair\Fotos2021\toni2.jpg" width="130%" title="Toni Nadal" alt="Toni Nadal"/>
+                                <img src="assets\base\img\volunfair\Fotos2021\toni2.jpg" width="130%" title="Toni Nadal" alt="Toni Nadal"/>
                             </div>
                         </div>
                     </div>
                     <br />
                 </div>
             </div>
--->             <!-- END: Toni Nadal -->
+             <!-- END: Toni Nadal -->
 
-<!--            <div class="c-content-title-1">
+            <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Jueves 11</h2>   
                 <p class="c-center" >A las 12:30, ¡Desgasta tus zapatillas!</p>                      
             </div>
--->
+
             <!-- BEGIN  -->
-<!--            <div class="c-content-box c-size-md">
+            <div class="c-content-box c-size-md">
                 <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets\base\img\volunfair\Fotos2021\bosque.jpg">
                     <div class="container c-center">
                         <div class="row">
--->                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-<!--                            <div class="col-md-2">
+                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                            <div class="col-md-2">
                             </div>
--->                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <!-- BEGIN: Los Angeles de Kenia -->
-<!--                            <div class="col-md-4">
+                            <div class="col-md-4">
                                 <div class="col-md-12">
                                     <div class="row c-center wow animated bounceInUp">
                                         <img src="assets\base\img\volunfair\Fotos2021\angeles.jpeg" width="100%" title="losangelesdekenia" alt="losangelesdekenia" />
@@ -268,9 +269,9 @@ escribe_cabecera();
                                     </div>
                                 </div>
                             </div>
--->                            <!-- END: KENIA -->
+                            <!-- END: KENIA -->
                             <!-- BEGIN: ANACAR -->
-<!--                            <div class="col-md-4">
+                            <div class="col-md-4">
                                 <div class="col-md-12">
                                     <div class="row c-center wow animated bounceInUp">
                                         <img src="assets\base\img\volunfair\Fotos2021\ponente3.jpeg" width="100%" title="Javier Pérez-Mínguez" alt="Javier Pérez-Mínguez" />
@@ -299,33 +300,33 @@ escribe_cabecera();
                                     </div>
                                 </div>
                             </div>
--->                            <!-- END:ANACAR -->
+                            <!-- END:ANACAR -->
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-<!--                            <div class="col-md-2">
+                            <div class="col-md-2">
                             </div>
--->                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-<!--                            </div>
+                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                           </div>
                     </div>
                 </div>
                     
                 <br /><br/>
             </div>
--->            <!-- END: KENIA &  ANACAROLINA -->
+            <!-- END: KENIA &  ANACAROLINA -->
 
-<!--            <div class="c-content-title-1">
+            <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Y con la colaboración de:</h2>                    
             </div>
 
             <br />
 
--->            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-<!--            <div class="col-md-5">
+            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+            <div class="col-md-5">
             </div>
 
--->            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
             <!-- BEGIN: PABLO Y CLARA -->
-<!--            <div class="row">
+            <div class="row">
                 <div class="col-md-2">
                     <div class="col-md-12">
                         <div class="row c-center fotos wow animated fadeInLetf">
@@ -342,18 +343,18 @@ escribe_cabecera();
                 </div>
                 
             </div>
--->            <!-- END: PABLO Y CLARA -->
+            <!-- END: PABLO Y CLARA -->
             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-<!--            <div class="col-md-4">
+            <div class="col-md-4">
             </div>
 
--->            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
             
             <!-- END: PAGE CONTENT -->
-<!--        </div>
--->        <!-- END: PAGE CONTAINER -->
-<!--        <br /><br/>
--->
+        </div>
+        <!-- END: PAGE CONTAINER -->
+        <br /><br/>
+
 <?php
 
 // --- Escribimos el pie de página (el archivo de configuración ya está incluido)
