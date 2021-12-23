@@ -70,7 +70,7 @@ escribe_cabecera(1);
                     <div class="c-content-title-1">
                         <h1 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR </h1>
                         <h2 class="c-center  c-font-bold">Feria universitaria de voluntariado en Madrid</h2>
-                        <h3 class="c-center c-font-uppercase c-font-bold">2 y 3 de Marzo de 2022</h3>
+                        <h3 class="c-center c-font-uppercase c-font-bold">1 y 2 de Marzo de 2022</h3>
                             
                     </div>
 
