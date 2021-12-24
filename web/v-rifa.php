@@ -1,34 +1,35 @@
-<?php 
-    // --- Archivo con las funciones de configuración (cabeceras, pie, ...)
-    include ('./scripts/config.php');
-    session_start();
-    // --- Iniciar la clase de conexión a la base de datos
-    require_once('./mysql/MySQLHandler.class.php');     
-    require_once("./mysql/misconexiones.php");
-    // --- Abrir la base de datos con usuario visitante
-	$sql = Abrir_base();
-    // --- Escribimos las cabeceras
-    escribe_cabecera();
-?>
+<?php
 
-    <!-- BEGIN: PAGE CONTAINER -->
-    <div class="c-layout-page">    
-        <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-        <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
-            >
-        </div>
-        <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
+// --- Archivo con las funciones de configuración (cabeceras, pie, ...)
+include ('./scripts/config.php');
+
+session_start();
+// --- Iniciar la clase de conexión a la base de datos
+require_once('./mysql/MySQLHandler.class.php');
+require_once("./mysql/misconexiones.php");
+
+// --- Escribimos las cabeceras
+escribe_cabecera();
+
+?>
+        <!-- BEGIN: PAGE CONTAINER -->
+        <div class="c-layout-page">
         
-            <!-- BEGIN: TITULO -->
-                <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
-                    <div class="c-content-title-1">
-                        <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">RIFA</h3>
-                        <div class="c-line-center c-theme-bg"></div>
-                        <p class="c-font-center c-font-bold c-font-uppercase c-margin-b-30" >¡Seguro que estás deseando de poder disfrutar de algunos de estos premios!</p>  
-                        
-                    </div>
-                </div>
-            <!--- END: TÍTULO -->
+            <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
+            <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
+>           </div>
+            <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
+        
+        <!-- BEGIN: TITULO -->
+        <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
+            <div class="c-content-title-1">
+                <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">RIFA</h3>
+                <div class="c-line-center c-theme-bg"></div>
+                <p class="c-font-center c-font-bold c-font-uppercase c-margin-b-30" >¡Seguro que estás deseando de poder disfrutar de algunos de estos premios!</p>  
+                
+            </div>
+        </div>
+        <!--- END: TÍTULO -->
 
         <!-- BEGIN: PAGE CONTENT --> 
         <!-- BEGIN: CONTENT/TABS/TAB-1 -->
