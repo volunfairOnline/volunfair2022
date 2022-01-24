@@ -89,8 +89,7 @@ escribe_cabecera(1);
                             <br></br>
 
                             PRÓXIMAMENTE… <br></br> 
-                            <b>#LoTienesDelante <br></br>
-                            #EsElMomento #Levántate</b>
+                            <b>#pequeñosGESTOS  #GRANDEScambios <br>
 
                         
 
