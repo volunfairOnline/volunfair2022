@@ -17,6 +17,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script src = "./assets/plugins/intforms/intForms.js"></script>
 	<link rel="stylesheet" href="./assets/base/css/o-registro.css">
+	<link rel="shortcut icon" href="favicon.ico?v=2" />
 </head>
 <body>
     <div class="root">
@@ -26,7 +27,7 @@
                     <li class="progressbar__option active"></li>
                     <li class="progressbar__option"></li>
                     <li class="progressbar__option"></li>
-					<li class="progressbar__option"></li>
+                    <li class="progressbar__option"></li>
                 </ul>
                 <h1 class="form-register__title">Inscripción para VOLUNFAIR</h1>
             </div>
@@ -52,7 +53,7 @@
 								</div>								
 							</div>
 							<div class="col-md-6 colum">
-								<h3 class="input-title">Descripción del proyecto</h3>
+								<h3 class="input-title">Descripción detallada del proyecto</h3>
 								<div class="form-group">
 									<textarea id="voluntariado_ong" name="voluntariado_ong" placeholder="Escribe aquí de qué va tu voluntariado..." value="" class="step__input"></textarea> 
 								</div>
@@ -84,13 +85,13 @@
 								<div class="form-group m-checkbox step__input">
 									 <input type="checkbox" id="proyecto1" name="proyecto[]" value="1"><label for="proyecto1">&nbsp; Personas mayores</label><br>
 									 <input type="checkbox" id="proyecto2" name="proyecto[]" value="2"><label for="proyecto2">&nbsp; Personas sin recursos</label><br>
-									 <input type="checkbox" id="proyecto3" name="proyecto[]" value="3"><label for="proyecto3">&nbsp; Enfermos</label><br>
+									 <input type="checkbox" id="proyecto3" name="proyecto[]" value="3"><label for="proyecto3">&nbsp; Personas enfermas</label><br>
 									 <input type="checkbox" id="proyecto4" name="proyecto[]" value="4"><label for="proyecto4">&nbsp; Cooperación Social</label><br>
 									 <input type="checkbox" id="proyecto5" name="proyecto[]" value="5"><label for="proyecto5">&nbsp; Misión religiosa</label><br>
-									 <input type="checkbox" id="proyecto6" name="proyecto[]" value="6"><label for="proyecto6">&nbsp; Niños</label><br>
+									 <input type="checkbox" id="proyecto6" name="proyecto[]" value="6"><label for="proyecto6">&nbsp; Con niños/as</label><br>
 									 <input type="checkbox" id="proyecto7" name="proyecto[]" value="7"><label for="proyecto7">&nbsp; Personas con discapacidad</label><br>
 									 <input type="checkbox" id="proyecto8" name="proyecto[]" value="8"><label for="proyecto8">&nbsp; Personas con addiciones</label><br>
-									 <input type="checkbox" id="proyecto9" name="proyecto[]" value="9"><label for="proyecto9">&nbsp; Animales</label><br>
+									 <input type="checkbox" id="proyecto9" name="proyecto[]" value="9"><label for="proyecto9">&nbsp; Con animales</label><br>
 									 <input type="checkbox" id="proyecto10" name="proyecto[]" value="10"><label for="proyecto10">&nbsp; Medioambiente</label><br>
 									 <input type="checkbox" id="proyecto11" name="proyecto[]" value="11"><label for="proyecto11">&nbsp; Otros</label><br>			  				
 								</div>
@@ -100,8 +101,20 @@
 								<div class="form-group m-checkbox step__input">
 								  <input type="checkbox" id="lugar1" name="lugar[]" value="1"><label for="lugar1">&nbsp; España</label><br>
 								  <input type="checkbox" id="lugar2" name="lugar[]" value="2"><label for="lugar2">&nbsp; Madrid</label><br>
-								  <input type="checkbox" id="lugar3" name="lugar[]" value="3"><label for="lugar3">&nbsp; Fuera de España</label><br>
-								  <input type="checkbox" id="lugar10" name="lugar[]" value="10"><label for="lugar10">&nbsp; Otro</label><br>						
+								  <input type="checkbox" id="lugar3" name="lugar[]" value="3"><label for="lugar3">&nbsp; Fuera de España</label><br>						
+								</div>	
+								<h3 class="input-title">Perfil de voluntario:</h3>
+								<div class="form-group m-checkbox step__input">
+								  <input type="checkbox" id="`perfil1" name="perfil[]" value="1"><label for="perfil1">&nbsp; Voluntario para jóvenes universitarios</label><br>
+								  <input type="checkbox" id="`perfil2" name="perfil[]" value="2"><label for="perfil2">&nbsp; Voluntariado para hacer en familia</label><br>
+								  <input type="checkbox" id="`perfil3" name="perfil[]" value="3"><label for="perfil3">&nbsp; Sin un perfil en concreto de España</label><br>
+								  <input type="checkbox" id="`perfil3" name="perfil[]" value="4"><label for="perfil3">&nbsp; Otro</label><br>						
+								</div>	
+								<h3 class="input-title">Es una entidad:</h3>
+								<div class="form-group m-checkbox step__input">
+								  <input type="checkbox" id="categoria1" name="categoria[]" value="1"><label for="categoria1">&nbsp; ONG</label><br>
+								  <input type="checkbox" id="categoria2" name="categoria[]" value="2"><label for="categoria2">&nbsp; Empresa Social</label><br>
+								  <input type="checkbox" id="categoria3" name="categoria[]" value="3"><label for="categoria3">&nbsp; Otro</label><br>						
 								</div>	
 							</div>
 						</div>
@@ -146,96 +159,35 @@
 								</div>										
 							</div>						
 						</div>										
-					</div>                   
+					</div>
 					<div class="step__footer">
                         <button type="button" class="step__button step__button--back" data-to_step="2" data-step="3">Regresar</button>
                         <button type="button" class="step__button step__button--next" data-to_step="4" data-step="3">Siguiente</button>
                     </div>
                 </div>
-				<div class="step" id="step-4">
+				<div class="step" id="step-3">
                     <div class="step__header">
-                        <h2 class="step__title">Dirección<small> (Paso 4)</small></h2>
+                        <h2 class="step__title">Información adicional<small> (Paso 4)</small></h2>
                     </div>
                     <div class="step__body">
-						<input  id ="searchInput" name='searchInput' class ="controls"  type ="text"  placeholder ="Introduce tu localización">					
-						<div  id="map"></div>					
-						<script  src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyAIIJ-QoTAbrzNE7T9c3e2eCNy57YWL0wE&callback=initMap" async defer></script><br>								
-						<tr  class = "geo-data"> 
-							<td>Dirección completa: <span  id ="location" name ="location"></span></td> 
-					    <!-- <li>Código postal: <span  id ="postal_code"></span></li> 
-							<li>País: <span  id ="country"></span></li>  -->
-						</tr>								
-<script>
-function initMap() {
-    var map = new google.maps.Map(document.getElementById('map'), {
-      center: {lat: -33.8688, lng: 151.2195},
-      zoom: 13
-    });
-    var input = document.getElementById('searchInput');
-    //map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
-
-    var autocomplete = new google.maps.places.Autocomplete(input);
-    autocomplete.bindTo('bounds', map);
-
-    var infowindow = new google.maps.InfoWindow();
-    var marker = new google.maps.Marker({
-        map: map,
-        anchorPoint: new google.maps.Point(0, -29)
-    });
-
-    autocomplete.addListener('place_changed', function() {
-        infowindow.close();
-        marker.setVisible(false);
-        var place = autocomplete.getPlace();
-        if (!place.geometry) {
-            window.alert("Autocomplete's returned place contains no geometry");
-            return;
-        }
-  
-        // If the place has a geometry, then present it on a map.
-        if (place.geometry.viewport) {
-            map.fitBounds(place.geometry.viewport);
-        } else {
-            map.setCenter(place.geometry.location);
-            map.setZoom(17);
-        }
-        marker.setIcon(({
-            url: place.icon,
-            size: new google.maps.Size(71, 71),
-            origin: new google.maps.Point(0, 0),
-            anchor: new google.maps.Point(17, 34),
-            scaledSize: new google.maps.Size(35, 35)
-        }));
-        marker.setPosition(place.geometry.location);
-        marker.setVisible(true);
-    
-        var address = '';
-        if (place.address_components) {
-            address = [
-              (place.address_components[0] && place.address_components[0].short_name || ''),
-              (place.address_components[1] && place.address_components[1].short_name || ''),
-              (place.address_components[2] && place.address_components[2].short_name || '')
-            ].join(' ');
-        }
-    
-        infowindow.setContent('<div><strong>' + place.name + '</strong><br>' + address);
-        infowindow.open(map, marker);
-      
-        // Location details
-        /*for (var i = 0; i < place.address_components.length; i++) {
-            if(place.address_components[i].types[0] == 'postal_code'){
-                document.getElementById('postal_code').innerHTML = place.address_components[i].long_name;
-            }
-            if(place.address_components[i].types[0] == 'country'){
-                document.getElementById('country').innerHTML = place.address_components[i].long_name;
-            }
-        }*/
-        document.getElementById('location').innerHTML = place.formatted_address;      
-		
-    });
-}
-</script>
-
+                        <div class="row">
+							<div class="col-md-6 colum">
+								<h3 class="input-title">Color que identifique a la entidad</h3>
+								<div class="form-group">
+									<input type="color" id="color_ong" name="color_ong" placeholder="color" value="" class="step__input"> 
+								</div>			
+								<h3 class="input-title">¿Edad recomendada de las personas voluntarias?</h3>
+								<div class="form-group">
+									<input type="text" id="edad_ong" name="edad_ong" placeholder="25" value="" class="step__input"> 
+								</div>							
+							</div>
+							<div class="col-md-6 colum">
+								<h3 class="input-title">¿Lugar al que ir a conoceros?</h3>
+								<div class="form-group">
+									<input type="text" id="lugar_ong" name="lugar_ong_ong" placeholder="Lugar" value="" class="step__input"> 
+								</div>										
+							</div>						
+						</div>										
 					</div>
                     <div class="step__footer">
                         <button type="button" class="step__button step__button--back" data-to_step="3" data-step="4">Regresar</button>
@@ -256,20 +208,15 @@ function initMap() {
 		$nombre_ong =$_POST["nombre_ong"];
 		$email_ong=$_POST["email_ong"];
 		$descripcion_ong=$_POST["descripcion_ong"];
-		$voluntariado_ong=$_POST["voluntariado_ong"];		
-		$location=$_POST["searchInput"];		
+		$voluntariado_ong=$_POST["voluntariado_ong"];			
 		$web_ong =$_POST["web_ong"];
 		$facebook_ong =$_POST["facebook_ong"];
 		$twitter_ong =$_POST["twitter_ong"];
 		$instagram_ong =$_POST["instagram_ong"];
 		$linkedin_ong =$_POST["linkedin_ong"];
 		$video_ong =$_POST["video_ong"];		
-				
-	echo 'hola';
 	
 		$insertarongs = "INSERT INTO ongs (nombre_ong, descripcion_ong, voluntariado_ong, email_ong, web_ong, facebook_ong, twitter_ong, instagram_ong, linkedin_ong, video_ong) VALUES('$nombre_ong', '$descripcion_ong', '$voluntariado_ong', '$email_ong', '$web_ong', '$facebook_ong', '$twitter_ong', '$instagram_ong', '$linkedin_ong', '$video_ong')";
-	
-	echo $insertarongs;
 	
 	$ejecutarInsertar = $sql->query($insertarongs);
 	$id_insertado = mysqli_insert_id($sql->CONNECTION);
