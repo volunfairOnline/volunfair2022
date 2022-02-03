@@ -9,6 +9,11 @@ escribe_cabecera();
 
 ?>
 
+<!--<link href="assets/base/css/o-main.css" rel="stylesheet" type="text/css" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel="stylesheet" href="./assets/base/css/o-2021.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+-->
         <script>
             // --- Acciones a hacer nada más cargar la página
             $(document).ready(function() {
@@ -51,12 +56,10 @@ escribe_cabecera();
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2022</h3>
+					<h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">LA EDICIÓN 2022</h3>
                     <div class="c-line-center c-theme-bg"></div>
-                    <p class="c-center" >Ya está aquí la séptima edición de <b>VOLUNFAIR</b>.</p>  
-					
-				</div>
-                
+                    <p class="c-font-center c-font-bold c-font-uppercase c-margin-b-30" >Ya está aquí la séptima edición de <b>VOLUNFAIR</b>.</p>
+				</div> 
 			</div>
             <!--- END: TÍTULO -->
 
@@ -64,7 +67,8 @@ escribe_cabecera();
             <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets\base\img\volunfair\Fotos2022\ninos.jpg">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-12">
+                            <div class="col-md-2"></div>
+                            <div class="col-md-8">
                                 <div class="c-content-media-1 c-center c-bordered wow animated flash">
                                     <div class="col-md-12">
                                         <div class="c-content-title-1">
@@ -107,26 +111,43 @@ escribe_cabecera();
             <!-- END: CUENTA ATRÁS -->
 
             <!-- BEGIN: RIFA -->
-            <br /><br /><br />
-
-<!--            <div class="row" style="margin-top: -170px;">
-                <div class="col-md-5 ">
-                </div>
-                <div class="col-md-6">
-                    <div id="flip-container">
-                        <div id="card1" class="card">
-                            <div class="front row">
-                                <img class="card-img-top" src="./assets/base/img/volunfair/online-logos/ticket.svg" alt="Rifa">
-                            </div>
-                            <div class="back row"><p class="textStart">Disfruta de alguno de nuestros premios</p><button onclick="location.href='./o-rifa'" class="button-start col-10"> Quiero ir </button></div>
+            <br /><br />
+            <div class="row w-100 align-items-center justify-content-center m-auto">
+            <div class="col-md-1"> </div>
+                <div class="col-md-3">
+                <h3 class="color-text c-center">Rifa</h3>
+                <div id="flip-container">
+                    <div id="card1" class="card">
+                        <div class="img-centrada front row">
+                            <img class="card-img-top w-50" src="./assets/base/img/volunfair/online-logos/ticket.svg" alt="Rifa">
                         </div>
-                    </div>		  
+                        <div class="back row"><p class="textStart">Disfruta de alguno de nuestros premios</p><button onclick="location.href='./v-rifa'" class="button-start col-10"> Quiero ir </button></div>
+                    </div>
                 </div>
+                </div>
+                <div class="col-md-4">
+                <h3 class="color-text c-center">Reserva</h3>
+                <div id="flip-container">
+                    <div id="card1" class="card">
+                        <div class="img-centrada front row">
+                            <img class="card-img-top w-50" src="./assets/base/img/volunfair/online-logos/patrocinadores.svg" alt="Patrocinadores">
+                        </div>
+                        <div class="back row"><p class="textStart">Conoce a las empresas que han ayudado a hacer realidad este sueño</p><button onclick="location.href='./o-patrocinadores'" class="button-start col-10"> Quiero ir </button></div>
+                    </div>
+                </div>
+                </div>
+                <div class="col-md-3">
+                <h3 class="color-text c-center">Ponencias</h3>
+                <div id="flip-container" class="visibility1">
+                    <div id="card1" class="card">
+                        <div class="img-centrada front row">
+                            <img class="card-img-top w-50" src="./assets/base/img/volunfair/online-logos/world-wide-web.svg" alt="Web Volunfair">
+                        </div>
+                        <div class="back row"><p class="textStart">Visita nuestra web para encontrar toda la información y preguntarnos cualquier duda</p><button onclick="location.href='https://volunfair.com/'" class="button-start col-10"> Quiero ir </button></div>
+                    </div>
+                </div>
+                </div>	  
             </div>
-
--->            <br /><br />
-
-
 
           <!--  <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
                     <div class="container">

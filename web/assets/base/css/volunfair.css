@@ -311,3 +311,193 @@ a:active, a:hover, a:focus {
     color: #6c757d;
     border-color: #6c757d;
 }
+
+/*Contenido de o-general*/
+body {
+    overflow-x: hidden;
+}
+
+/* Iconos centrados */
+.c-icons-center {
+    display: flex;
+    justify-content: center;
+}
+
+.bg-secondary {
+    background-color: lightgray;
+}
+
+.btn-outline-secondary {
+    color: #6c757d;
+    border-color: #6c757d;
+}
+
+/* Para Google Maps */
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+
+    .map-container iframe{
+        left:0;
+        top:0;
+        height:100%;
+        width:100%;
+        position:absolute;
+    }
+
+    
+/* Que las col-md- de una misma row se alineen verticalmente. Se aplica AL ROW */
+.align-items-center {
+	display: flex;
+    align-items: center;
+}
+
+/*Fin Contenido de o-general*/
+
+/*Contenido de o-2021 */
+#flip-container{
+  -webkit-perspective: 1000px;
+  perspective: 1000px;
+}
+.visibility2{
+  display: none;
+}
+.card {
+  transition: 0.6s;
+  transform-style: preserve-3d;
+  transform-origin: 100% 150px;  
+}
+.card:hover, .card.flip{
+  transform: rotateX(180deg);
+}
+.front, .back{
+  position: center;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  text-align: center;
+}
+.front{
+  transform: rotateX(0deg);
+  z-index: 2;  
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.back{
+  transform: rotateX(180deg);
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  background-color: #330737;
+  color: white;
+  
+}
+.textStart{
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.button-start{
+	float: center;
+	align-items: center;
+	margin-left: 2%;
+	border-radius: 5px;
+	color: white;
+	background-color: #157771;
+	border-radius: 10rem;
+	border-width: 0px;
+}
+.color-text{
+	color: #075364;
+	font-size: 24px;
+	text-align: center;
+}
+.color-text2{
+	color: #3C0B71;
+	font-size: 24px;
+	text-align: center;
+}
+@media (min-width: 577px) and (max-width: 992px) {
+  .visibility1 {
+    display: none;
+  }
+  .visibility2{
+    display: inline-flex;
+  }
+  .card {
+    width: 200px !important;
+  }
+  #flip-container{
+    margin-right: 4%;
+  }
+  .textTitle{
+    text-align: center;
+  }
+}
+@media (min-width: 380px) and (max-width: 576px) {
+  .visibility1 {
+    display: none;
+  }
+  .visibility2{
+    display: inline-flex;
+  }
+  .card {
+    width: 160px !important;
+  }
+  #flip-container{
+    margin-right: 3%;
+  }
+  .color-text{
+    font-size: 18px;
+  }
+  .card-body-vf{
+    padding-right: 0 !important;
+  }
+  .textTitle{
+    text-align: center;
+  }
+}
+@media (max-width: 379px) {
+  .visibility1 {
+    display: none;
+  }
+  .visibility2{
+    display: inline-flex;
+  }
+  .card {
+    width: 120px !important;
+  }
+  #flip-container{
+    margin-right: 2%;
+  }
+  .color-text{
+    font-size: 14px;
+  }
+  .card-body-vf{
+    padding-right: 0 !important;
+  }
+  .textTitle{
+    text-align: center;
+  }
+}
+@media (min-aspect-ratio: 16/9) {
+    #videoBG {
+        width:100%;
+        height: auto;
+    }
+}
+@media (max-aspect-ratio: 16/9) {
+    #videoBG { 
+        width:auto;
+        height: 100%;
+    }
+}
+
+/*Fin Contenido de o-2021 */
