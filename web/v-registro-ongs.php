@@ -174,7 +174,7 @@
 							<div class="col-md-6 colum">
 								<h3 class="input-title">Color que identifique a la entidad</h3>
 								<div class="form-group">
-									<input type="color" id="color_ong" name="color_ong" placeholder="color" value="" class="step__input"> 
+									<input type="color" id="color_ong" name="color_ong" placeholder="color" value="#3371B6" class="step__input"> 
 								</div>			
 								<h3 class="input-title">¿Edad recomendada de las personas voluntarias?</h3>
 								<div class="form-group">
@@ -227,7 +227,7 @@
 	if(!($_FILES['imagen']["error"]))
 	{
 		//$nombreImagen = $_POST['nombreImagen'];
-		$nombreImagen = 'temp_'.$id_insertado.'.jpg';		
+		$nombreImagen = $_FILES['imagen']["tmp_name"];		
 		if(!empty($_POST['id_img']))
 		{			
 			$id_maximo=$_POST['id_img'];
@@ -258,9 +258,9 @@
 		if(is_uploaded_file($tmpimagen))
 		{
 			copy($tmpimagen,$urlnueva);
-			echo '<script type="text/javascript">alert("IMAGEN CARGADA CON EXITO")</script>';				
+			echo '<script type="text/javascript">alert("Imagen cargada con éxito")</script>';				
 		}else{
-			echo '<script type="text/javascript">alert("ERROR AL CARGAR LA IMAGEN")</script>';	
+			echo '<script type="text/javascript">alert("Error al cargar la imagen")</script>';	
 		}
 	}  
 	//$sql->query("UPDATE ongs SET direccion_ong='$location' WHERE id_ong='$id_insertado'");		

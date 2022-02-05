@@ -93,7 +93,7 @@
                 echo '<div class="row">'."\n";
 				echo '	<div class="col-sm-6 c-content-media-1 c-bordered c-center wow fadeIn animated">'."\n";
 				echo '		<a href="v-feria-entidad?id='.$fila_ong[$i]['id_ong'].'&nombre='.$fila_ong[$i]['id_ong'].'"><img src = "./assets/base/img/volunfair/ong2/logo_'.$fila_ong[$i]['logo_ong'].'.jpg" width="180" title="'.htmlspecialchars(stripslashes($fila_ong[$i]['nombre_ong'])).'" /></a>'."\n";
-				echo '		<a href="v-feria-entidadd?id='.$fila_ong[$i]['id_ong'].'"><h2 class="c-font-24  c-font-bold"> '.$fila_ong[$i]['nombre_ong']."\n";
+				echo '		<a href="v-feria-entidad?id='.$fila_ong[$i]['id_ong'].'"><h2 class="c-font-24  c-font-bold"> '.$fila_ong[$i]['nombre_ong']."\n";
 				echo '		<br></h2></a>'."\n";
 				echo '	</div>'."\n";
                 echo '	<div class="col-sm-6 c-content-media-1 c-bordered c-center wow fadeIn animated">'."\n";
