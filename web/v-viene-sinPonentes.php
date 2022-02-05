@@ -113,8 +113,7 @@ escribe_cabecera();
             <!-- BEGIN: RIFA -->
             <br /><br />
             <div class="row w-100 align-items-center justify-content-center m-auto">
-            <div class="col-md-1"> </div>
-                <div class="col-md-3">
+                <div class="col-md-4">
                 <h3 class="color-text c-center">Rifa</h3>
                 <div id="flip-container">
                     <div id="card1" class="card">
@@ -136,7 +135,7 @@ escribe_cabecera();
                     </div>
                 </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-4">
                 <h3 class="color-text c-center">Ponencias</h3>
                 <div id="flip-container" class="visibility1">
                     <div id="card1" class="card">

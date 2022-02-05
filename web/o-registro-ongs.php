@@ -184,7 +184,7 @@
 							<div class="col-md-6 colum">
 								<h3 class="input-title">¿Lugar al que ir a conoceros?</h3>
 								<div class="form-group">
-									<input type="text" id="lugar_ong" name="lugar_ong_ong" placeholder="Lugar" value="" class="step__input"> 
+									<input type="text" id="direccion_ong" name="direccion_ong" placeholder="Dirección" value="" class="step__input"> 
 								</div>										
 							</div>						
 						</div>										
@@ -214,9 +214,12 @@
 		$twitter_ong =$_POST["twitter_ong"];
 		$instagram_ong =$_POST["instagram_ong"];
 		$linkedin_ong =$_POST["linkedin_ong"];
-		$video_ong =$_POST["video_ong"];		
+		$video_ong =$_POST["video_ong"];
+		$color_ong =$_POST["color_ong"];
+		$edad_ong =$_POST["edad_ong"];
+		$direccion_ong =$_POST["direccion_ong"];		
 	
-		$insertarongs = "INSERT INTO ongs (nombre_ong, descripcion_ong, voluntariado_ong, email_ong, web_ong, facebook_ong, twitter_ong, instagram_ong, linkedin_ong, video_ong) VALUES('$nombre_ong', '$descripcion_ong', '$voluntariado_ong', '$email_ong', '$web_ong', '$facebook_ong', '$twitter_ong', '$instagram_ong', '$linkedin_ong', '$video_ong')";
+		$insertarongs = "INSERT INTO ongs (nombre_ong, descripcion_ong, voluntariado_ong, email_ong, web_ong, facebook_ong, twitter_ong, instagram_ong, linkedin_ong, video_ong, color_ong, edad_ong, direccion_ong) VALUES('$nombre_ong', '$descripcion_ong', '$voluntariado_ong', '$email_ong', '$web_ong', '$facebook_ong', '$twitter_ong', '$instagram_ong', '$linkedin_ong', '$video_ong', '$color_ong', '$edad_ong', '$direccion_ong')";
 	
 	$ejecutarInsertar = $sql->query($insertarongs);
 	$id_insertado = mysqli_insert_id($sql->CONNECTION);
@@ -274,6 +277,18 @@
 	{
 		$insertarongs3 = "INSERT INTO voluntariado_lugar (id_ong, id_voluntariado) VALUES ('$id_insertado', '$id_voluntariado')";
 		$sql->query($insertarongs3);
+	}		
+	
+	foreach($_POST['perfil'] as $id_perfil)
+	{
+		$insertarongs4 = "INSERT INTO voluntariado_perfil (id_ong, id_perfil) VALUES ('$id_insertado', '$id_perfil')";
+		$sql->query($insertarongs4);
+	}		
+	
+	foreach($_POST['categoria'] as $id_categoria)
+	{
+		$insertarongs5 = "INSERT INTO voluntariado_categoria (id_ong, id_categoria) VALUES ('$id_insertado', '$id_categoria')";
+		$sql->query($insertarongs5);
 	}	
 	
 		if($insertarongs )
