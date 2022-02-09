@@ -365,27 +365,17 @@ escribe_cabecera(1);
                             </div>
                             <div class="item">
                             	  <a href="https://fundacionaon.es/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-fundacion-aon.svg" title ="Fundación AON" alt="Fundación AON" width="100%" />
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo-fundacion-aon.png" title ="Fundación AON" alt="Fundación AON" width="100%" />
                                 </a>
                             </div>
                             <div class="item">
-                            	<a href="https://www.fundaciodamm.cat/es" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/fundacion-damm.jpg" title ="Fundación Damm" alt="Fundación Damm"  width="100%" />
-                                </a>
-                            </div>
-                            <div class="item">
-                            	  <a href="https://www.aseguradossolidarios.com/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-asegurados-solidarios.png" title ="Asegurados Solidarios" alt="Asegurados Soldiarios" width="100%" />
+                            	<a href="https://www.damm.com/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo-damm.jpg" title ="Damm" alt="Damm" width="100%" />
                                 </a>
                             </div>
                             <div class="item">
                             	  <a href="https://www.weareseekers.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-tribu.png"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
-                                </a>
-                            </div>
-                            <div class="item">
-                            	  <a href="https://fundacionaon.es/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-fundacion-aon.svg" title ="Fundación AON" alt="Fundación AON"  width="100%" />
                                 </a>
                             </div>							
                         </div>
