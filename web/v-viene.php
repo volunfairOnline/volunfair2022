@@ -196,7 +196,7 @@ escribe_cabecera();
                             <div class="col-md-8">
                                 <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
                                     <div class="c-content-title-3 c-theme-border c-right">
-                                        <h3 class="c-right c-font-uppercase c-font-bold">Joaquín Echevarría</h3>
+                                        <h3 class="c-right c-font-uppercase c-font-bold">Padre de Joaquín Echeverría</h3>
                                         <h4 class="c-right c-font-uppercase c-font-bold">
                                             <!--<a href="https://www.instagram.com/toninadal_oficial" target="_blank">@toninadal_oficial</a>
                                         </h4> -->
@@ -213,35 +213,36 @@ escribe_cabecera();
 
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
                                 </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2022\joaquín.jpg" width="57%" title="Toni Nadal" alt="Toni Nadal"/>
+                                <img src="assets\base\img\volunfair\Fotos2022\joaquin.jpeg" width="57%" title="Padre de Joaquín Echeverría" alt="Padre de Joaquín Echeverría"/>
                                 <br /><br />
                             </div>
                         </div>
                     </div>
+                    <br/>
                     <div class="container">
                         <div class="row">
+                            <div class="col-md-4 animated wow fadeInLeft">
+
+                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
+                                </div> -->
+                                <img src="assets\base\img\volunfair\Fotos2022\alvaro.jpeg" width="100%" title="Álvaro Trigo" alt="Álvaro Trigo" />
+                            </div>
                             <div class="col-md-8">
-                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
-                                    <div class="c-content-title-3 c-theme-border c-right">
-                                        <h3 class="c-right c-font-uppercase c-font-bold">Álvaro Trigo</h3>
-                                        <h4 class="c-right c-font-uppercase c-font-bold">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight" style="min-height: 300px;">                                  
+                                    <div class="c-content-title-3 c-theme-border c-left">
+                                        <h3 class="c-left c-font-uppercase c-font-bold">Álvaro Trigo</h3>
+                                        <h4 class="c-left c-font-uppercase c-font-bold">
                                             <!--<a href="https://www.instagram.com/toninadal_oficial" target="_blank">@toninadal_oficial</a>
                                         </h4> -->
-                                        <div class="c-right c-line-left "> </div>
+                                        <div class="c-left c-line-right "> </div>
                                     </div>
-                                    <p class="c-right">
+                                    <p class="c-left">
                                     Un atleta superviviente. Álvaro, natural de Madrid, con 23 años sufrió un accidente en un incendio que le provocó graves quemaduras en el 63% de su cuerpo.
                                     Pero esto no fue suficiente para pararle los pies; tan solo un año después pudo correr la maratón de Sevilla, seis meses más tarde cruzó a nado desde Formentera a Ibiza y en 2021 nadó desde las Islas Cíes hasta Vigo con los pies encadenados.
                                     Y como todo héroe, desde entonces ha elegido ayudar a aquellos que lo necesitan, colaborando con ONGs y fundaciones. Esta es la elección que le ha cambiado la vida por completo.
                                     
                                     </p>
                                 </div>
-                            </div>
-                            <div class="col-md-4 animated wow fadeInRight">
-
-                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
-                                </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2022\alvaro.jpg" width="125%" title="Toni Nadal" alt="Toni Nadal"/>
                             </div>
                         </div>
                     </div>
@@ -358,7 +359,7 @@ escribe_cabecera();
                         <div class="row c-content-media-1 wow animated fadeInRight">
                             <div class="c-center">
                                 <h3 class="c-font-uppercase c-font-bold">Pablo España</h3>
-                                <div>Speaker de VOLUNFAIR 2020</div>
+                                <div>Speaker de VOLUNFAIR 2022</div>
                             </div>
                         </div>
                         <br />
