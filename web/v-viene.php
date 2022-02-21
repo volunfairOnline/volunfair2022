@@ -53,7 +53,7 @@ escribe_cabecera();
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2022</h3>
                     <div class="c-line-center c-theme-bg"></div>
-                    <p class="c-center" ><b><u>¡¡CAMBIAR!!</u></b>Ya está aquí la séptima edición de <b>VOLUNFAIR</b>. ¡La primera en formato digital! ¿Te la vas a perder? <br />Pásate este miércoles y jueves de <b>10:00 a 19:00</b> por el link que pondremos dentro de poco para conocer a todas las entidades sociales que nos acompañan este año.
+                    <p class="c-center" ><b><u>¡¡CAMBIAR!!</u></b>Ya está aquí la séptima edición de <b>VOLUNFAIR</b>. ¿Te la vas a perder? <br />Pásate este martes y miércoles de <b>10:00 a 19:00</b> para conocer a todas las entidades sociales que nos acompañan este año.
                     <br /> Este año contamos con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
 					
 				</div>
@@ -183,12 +183,12 @@ escribe_cabecera();
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 10</h2>   
+                <h2 class="c-center c-font-uppercase  c-font-bold">Martes 1</h2>   
                 <p class="c-center" >Acto inaugural de VOLUNFAIR 2021 a las 12:30</p>                      
             </div>
 
 
-            <!-- BEGIN: Toni Nadal -->
+            <!-- BEGIN: Joaquín Echevarría y Álvaro Trigo-->
         <div class="c-content-box c-size-md c-bg-white">
                 <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets\base\img\volunfair\Fotos2021\bosque.jpg">
                     <div class="container">
@@ -196,19 +196,16 @@ escribe_cabecera();
                             <div class="col-md-8">
                                 <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
                                     <div class="c-content-title-3 c-theme-border c-right">
-                                        <h3 class="c-right c-font-uppercase c-font-bold">Toni Nadal</h3>
+                                        <h3 class="c-right c-font-uppercase c-font-bold">Joaquín Echevarría</h3>
                                         <h4 class="c-right c-font-uppercase c-font-bold">
-                                            <a href="https://www.instagram.com/toninadal_oficial" target="_blank">@toninadal_oficial</a>
-                                        </h4>
+                                            <!--<a href="https://www.instagram.com/toninadal_oficial" target="_blank">@toninadal_oficial</a>
+                                        </h4> -->
                                         <div class="c-right c-line-left "> </div>
                                     </div>
                                     <p class="c-right">
-                                        Toni Nadal 
-                                        ha preparado y acompañado toda la carrera de su sobrino Rafa Nadal, hasta convertirse en uno de los mayores nombres
-                                        de la historia del tenis profesional y una leyenda del deporte español. Presume de haber trabajado con un chico que "supo afrontar su realidad", y que, a pesar de la dificultad, 
-                                        estuvo siempre dispuesto a trabajar para mejorarla.<br/>
-                                        Tanto desde el micrófono de Volunfair, como en una pista de Montecarlo, Toni siempre ha defendido la necesidad de conocerse
-                                        a uno mismo, de ser consciente de nuestras fortalezas y debilidades, y trabajar desde ahí para sacar lo mejor de uno mismo.
+                                    También conocido como "El padre del héroe del monopatín", Joaquín Echevarría tuvo que decir adiós a su valiente hijo Ignacio tras fallecer en un atentado cuando intentaba defender a una mujer.
+                                    Él mismo explica que su muerte y las circunstancias en las que se encontraba, le han hecho reflexionar sobre su vida y reforzar su fe: "(...) 
+                                    Estoy seguro de que si él, ahora mismo, pudiese razonar no se arrepentiría de lo que hizo". En VOLUNFAIR nos enorgullece tener entre nosotros a superhéroes como Joaquín, que demuestran ser el palo de tal astilla.
                                     </p>
                                 </div>
                             </div>
@@ -216,19 +213,51 @@ escribe_cabecera();
 
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
                                 </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2021\toni2.jpg" width="130%" title="Toni Nadal" alt="Toni Nadal"/>
+                                <img src="assets\base\img\volunfair\Fotos2022\joaquín.jpg" width="57%" title="Toni Nadal" alt="Toni Nadal"/>
+                                <br /><br />
                             </div>
                         </div>
                     </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
+                                    <div class="c-content-title-3 c-theme-border c-right">
+                                        <h3 class="c-right c-font-uppercase c-font-bold">Álvaro Trigo</h3>
+                                        <h4 class="c-right c-font-uppercase c-font-bold">
+                                            <!--<a href="https://www.instagram.com/toninadal_oficial" target="_blank">@toninadal_oficial</a>
+                                        </h4> -->
+                                        <div class="c-right c-line-left "> </div>
+                                    </div>
+                                    <p class="c-right">
+                                    Un atleta superviviente. Álvaro, natural de Madrid, con 23 años sufrió un accidente en un incendio que le provocó graves quemaduras en el 63% de su cuerpo.
+                                    Pero esto no fue suficiente para pararle los pies; tan solo un año después pudo correr la maratón de Sevilla, seis meses más tarde cruzó a nado desde Formentera a Ibiza y en 2021 nadó desde las Islas Cíes hasta Vigo con los pies encadenados.
+                                    Y como todo héroe, desde entonces ha elegido ayudar a aquellos que lo necesitan, colaborando con ONGs y fundaciones. Esta es la elección que le ha cambiado la vida por completo.
+                                    
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-md-4 animated wow fadeInRight">
+
+                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
+                                </div> -->
+                                <img src="assets\base\img\volunfair\Fotos2022\alvaro.jpg" width="125%" title="Toni Nadal" alt="Toni Nadal"/>
+                            </div>
+                        </div>
+                    </div>
+                               
                     <br />
                 </div>
-            </div>
-             <!-- END: Toni Nadal -->
 
+                
+                                    
+            </div>
+             <!-- END: Joaquín Echevarría y Álvaro Trigo-->
+             
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase c-font-bold">Jueves 11</h2>   
-                <p class="c-center" >A las 12:30, ¡Desgasta tus zapatillas!</p>                      
+                <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 2</h2>   
+                <p class="c-center" >A las 12:30</p>                      
             </div>
 
             <!-- BEGIN  -->
@@ -240,61 +269,55 @@ escribe_cabecera();
                             <div class="col-md-2">
                             </div>
                             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <!-- BEGIN: Los Angeles de Kenia -->
+                            <!-- BEGIN: Sara -->
                             <div class="col-md-4">
                                 <div class="col-md-12">
                                     <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets\base\img\volunfair\Fotos2021\angeles.jpeg" width="100%" title="losangelesdekenia" alt="losangelesdekenia" />
+                                        <img src="assets\base\img\volunfair\Fotos2022\sara.jpeg" width="100%" title="losangelesdekenia" alt="losangelesdekenia" />
                                     </div>
                                     <br />
                                     <div class="row wow animated bounceInDown">
                                         <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
                                             <div class="c-content-title-3 c-theme-border c-right">
-                                                <h3 class="c-right c-font-uppercase c-font-bold">Los Ángeles de Kenia</h3>
+                                                <h3 class="c-right c-font-uppercase c-font-bold"> Sara Andrés Barrio</h3>
                                                 <h4 class="c-right c-font-uppercase c-font-bold">
-                                                    <a href="https://www.instagram.com/losangelesdekenia" target="_blank">@losangelesdekenia</a>
-                                                </h4>
+                                                   <!-- <a href="https://www.instagram.com/losangelesdekenia" target="_blank">@losangelesdekenia</a>
+                                                </h4> -->
                                                 <div class="c-right c-line-left "> </div>
                                             </div>
-                                            <p class="c-right">
-                                            Patricia y María son dos jóvenes estudiantes que, con apenas 20 años cumplidos, decidieron abandonar
-                                                el confort habitual y lanzarse a lo desconocido, sin ninguna otra razón más que la de ayudar al que lo necesita. <br />
-                                               Su asociación, Ángeles de Kenia, nace después de su primera visita al país con el objetivo de ayudar a niños y familias.
-                                            Con ella, esperan poder multiplicar cualquier ayuda que consigan sus esfuerzos. <br />
-                                             Con el mismo espíritu que Volunfair, buscan la puesta en acción de futuros voluntarios, y nos recuerdan cómo lo único que necesitamos
-                                             para ayudar a alguien es la voluntad.
+                                            <p class="c-right">                                            
+                                            Sara tenía toda su vida encaminada... pero un accidente de tráfico a los 25 años, donde perdió sus dos pies, le dio la vuelta a su mundo y a su manera de vivir.
+                                            Durante el tiempo en que estuvo ingresada aprendió tres cosas, con las que en VOLUNFAIR nos quitamos el sombrero: ser humilde, ser paciente, y vivir el aquí y el ahora.
+                                            Con estas ganas de vivir, se preparó durante meses para competir en los Juegos Paralímpicos de Río de Janeiro en la disciplina de atletismo, meses en los cuales le fue diagnosticado un cáncer de tiroides, y más tarde cáncer de piel.
+                                            Sin embargo, esta heroína biónica que vuela más allá de los límites tiene claro su lema de vida: "Prefiero no tener pies y saber a dónde voy, que tenerlos y estar perdida"
                                             
                                             </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <!-- END: KENIA -->
+                            <!-- END: SARA-->
                             <!-- BEGIN: ANACAR -->
                             <div class="col-md-4">
                                 <div class="col-md-12">
                                     <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets\base\img\volunfair\Fotos2021\ponente3.jpeg" width="100%" title="Javier Pérez-Mínguez" alt="Javier Pérez-Mínguez" />
+                                        <img src="assets\base\img\volunfair\Fotos2022\guille.jpeg" width="100%" title="Javier Pérez-Mínguez" alt="Javier Pérez-Mínguez" />
                                     </div>
                                     <br />
                                     <div class="row wow animated bounceInDown">
                                         <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
                                             <div class="c-content-title-3 c-theme-border c-left">
                                                 <div class="c-left c-line-right "> </div>
-                                                <h3 class="c-left c-font-uppercase c-font-bold">Javier Pérez-Mínguez</h3>
+                                                <h3 class="c-left c-font-uppercase c-font-bold">Guillermo Martínez</h3>
                                                 <h4 class="c-left c-font-uppercase c-font-bold">
-                                                    <a href="https://www.instagram.com/fund_anacarolinadm/?hl=es" target="_blank">@fund_anacarolinadm</a>
-                                                </h4>
+                                                   <!-- <a href="https://www.instagram.com/fund_anacarolinadm/?hl=es" target="_blank">@fund_anacarolinadm</a>
+                                                </h4> -->
                                             </div>
                                             <p class="c-right">
-                                                Javier Pérez-Minguez es el director de la Fundación Ana Carolina Díez Mahou, 
-                                                destinada a mejorar la calidad de vida de niños con enfermedades neuromusculares genéticas.<br /> 
-                                                Desde 2011, motivada gracias al nacimiento de su hijo Javi, la fundación busca aliviar los 
-                                                grandes retos que presenta el día a día para estas familias, contribuir a su inclusión social,
-                                                y fomentar la investigación y tratamiento de estas enfermedades. <br />
-                                                Con ella, y gracias a toda la experiencia de la enfermedad mitocondrial de Javi, Javier busca que 
-                                                ninguna familia se sienta sola ante la dificultad, y que los niños no dejen de serlo, aunque 
-                                                todo parezca ir en contra. 
+                                            De niño, Guillermo Martínez diseñaba los juguetes que deseaba con el sueño de poder crearlos algún día. 
+                                            De adolescente, fabricaba artilugios con cables, tornillos o tuercas de aparatos. De joven, con 27 años creó el primer brazo impreso en 3D para alguien sin codo.
+                                            Todo empezó con un viaje a Kenia y una idea creativa y soñadora de llevar juguetes, que se transformó en un proyecto de prótesis para personas sin alguna articulación. 
+                                            Finalmente, en 2017 fundó Ayúdame3D, una ONG que hoy reparte gratuitamente estas piezas en más de 55 países. Una gran muestra de que no todos los superhéroes llevan capa, algunos llevan una impresora 3D bajo el brazo
                                             </p>
                                         </div>
                                     </div>
