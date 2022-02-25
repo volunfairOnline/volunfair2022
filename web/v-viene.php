@@ -196,7 +196,7 @@ escribe_cabecera();
                             <div class="col-md-8">
                                 <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
                                     <div class="c-content-title-3 c-theme-border c-right">
-                                        <h3 class="c-right c-font-uppercase c-font-bold">Padre de Joaquín Echeverría</h3>
+                                        <h3 class="c-right c-font-uppercase c-font-bold">Joaquín Echeverría</h3>
                                         <h4 class="c-right c-font-uppercase c-font-bold">
                                             <!--<a href="https://www.instagram.com/toninadal_oficial" target="_blank">@toninadal_oficial</a>
                                         </h4> -->
@@ -213,7 +213,7 @@ escribe_cabecera();
 
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
                                 </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2022\joaquin.jpeg" width="57%" title="Padre de Joaquín Echeverría" alt="Padre de Joaquín Echeverría"/>
+                                <img src="assets\base\img\volunfair\Fotos2022\joaquin.jpeg" width="100%" title="Joaquín Echeverría" alt="Joaquín Echeverría"/>
                                 <br /><br />
                             </div>
                         </div>
@@ -274,7 +274,7 @@ escribe_cabecera();
                             <div class="col-md-4">
                                 <div class="col-md-12">
                                     <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets\base\img\volunfair\Fotos2022\sara.jpeg" width="100%" title="losangelesdekenia" alt="losangelesdekenia" />
+                                        <img src="assets\base\img\volunfair\Fotos2022\sara.jpeg" width="100%" title="Sara Andrés" alt="Sara Andrés" />
                                     </div>
                                     <br />
                                     <div class="row wow animated bounceInDown">
@@ -302,7 +302,7 @@ escribe_cabecera();
                             <div class="col-md-4">
                                 <div class="col-md-12">
                                     <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets\base\img\volunfair\Fotos2022\guille.jpeg" width="100%" title="Javier Pérez-Mínguez" alt="Javier Pérez-Mínguez" />
+                                        <img src="assets\base\img\volunfair\Fotos2022\guille.jpeg" width="100%" title="Guillermo Martínez" alt="Guillermo Martínez" />
                                     </div>
                                     <br />
                                     <div class="row wow animated bounceInDown">

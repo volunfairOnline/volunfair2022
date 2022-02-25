@@ -354,13 +354,18 @@ escribe_cabecera(1);
                                 </a>
                             </div>
                             <div class="item">
-                            	  <a href="https://www.aseguradossolidarios.com/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-asegurados-solidarios.png" title ="Asegurados Solidarios" alt="Asegurados Soldiarios" width="100%" />
+                            	  <a href="https://www.cbre.es/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo-cbre.png" title ="CBRE" alt="CBRE" style=" padding-top: 20%;" width="100%" />
                                 </a>
                             </div>
                             <div class="item">
-                            	<a href="https://www.redmadre.es/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo_redmadre.png" title ="Red Madre" alt="Red Madre"  style=" padding-top: 20%;"width="50%" />
+                            	  <a href="https://www.cantabrialabs.es/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo-cantabria-labs.png" title ="Cantabria Labs" alt="Cantabria Labs" style=" padding-top: 5%;" width="100%" />
+                                </a>
+                            </div>
+                            <div class="item">
+                            	  <a href="https://www.aseguradossolidarios.com/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo-asegurados-solidarios.png" title ="Asegurados Solidarios" alt="Asegurados Soldiarios" style=" padding-top: 10%;" width="100%" />
                                 </a>
                             </div>
                             <div class="item">
@@ -369,8 +374,18 @@ escribe_cabecera(1);
                                 </a>
                             </div>
                             <div class="item">
+                            	<a href="http://www.caritasmadrid.org/categorias/caritas-universitaria" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/logoA.jpg" title ="Cáritas Madrid Universitaria" alt="Cáritas Madrid Universitaria"  width="100%" />
+                                </a>
+                            </div>
+                            <div class="item">
                             	<a href="https://www.damm.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-damm.jpg" title ="Damm" alt="Damm" width="100%" />
+                                </a>
+                            </div>
+                            <div class="item">
+                            	<a href="https://www.redmadre.es/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo_redmadre.png" title ="Red Madre" alt="Red Madre" style=" padding-top: 20%;" width="50%" />
                                 </a>
                             </div>
                             <div class="item">

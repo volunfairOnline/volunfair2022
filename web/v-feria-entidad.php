@@ -93,7 +93,7 @@ $matrizImagenes = [
     '09-49-59-zapatillas-grises-mesa-madera-negra_44073-97.jpg',
     'Zapas2.jpg'
 ];
-$imagen = 'Fotos2021/'.$matrizImagenes[random_int(0, sizeof($matrizImagenes))];
+$imagen = 'Fotos2022/'.$matrizImagenes[random_int(0, sizeof($matrizImagenes))];
 
 // --- Escribimos las cabeceras
 escribe_cabecera();
