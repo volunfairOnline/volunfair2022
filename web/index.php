@@ -80,8 +80,10 @@ escribe_cabecera(1);
                             Nos hemos dado cuenta de que hay muchos universitarios, comprometidos con la realidad social en la que viven, que buscan hacer más por ella pero no encuentran el <b>¿Cómo?</b> O el <b>¿Dónde?</b> <br></br>
                             En <b>VOLUNFAIR</b> conseguimos dar respuesta a estas dos preguntas creando anualmente un espacio al que acuden <b>más de 50 ONG´s y entidades sociales</b> permitiendo a los jóvenes ponerse en contacto con ellas. <br></br>
                     
-                            Creemos que no siempre es necesario hacer grandes cosas, ni cosas súper lejos. Lo importante es hacer. Actualmente es más necesaria que nunca nuestra ayuda. <b>Desgasta tus zapatillas</b>.
+                            Creemos que no siempre es necesario hacer grandes cosas, ni cosas súper lejos. Lo importante es hacer. Actualmente es más necesaria que nunca nuestra ayuda.
                             Por ello no nos quedamos quietos, pasivos. Nos levantamos. Actuamos. Porque no hay mejor momento que <b>AHORA</b> para empezar a caminar. <br></br>
+
+                            <b>Haz de lo ordinario algo extraordinario</b><br></br>
                             
                             Entonces… <b>¿Qué es VOLUNFAIR?</b> <br></br>
                             <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante dos jornadas completas a mediados de febrero. Este año, debido a la situación actual nos hemos tenido que <b>reinventar</b> y movernos al formato online, pero seguimos con la ilusión de siempre!<br></br>
@@ -223,7 +225,7 @@ escribe_cabecera(1);
                     <br/> 
                     <br/>
                     <br/>    
-<!--
+
                     <div class="c-content-title-1 c-center">
                        <h3 class="c-font-uppercase c-font-bold">Horario</h3>
                        <div class="c-line-center c-theme-bg"></div>
@@ -260,22 +262,22 @@ escribe_cabecera(1);
                     </div>
 					
 					<br />
-					<br /> -->
+					<br />
 				
 					<!-- PLANO STANDS -->
                     
-                        <!-- <p></p> 
+                        <p></p> 
                 		<p></p>
                 		 <div class="c-content-title-1">
                        <h3 class="c-font-uppercase c-center c-font-bold">Plano de la feria</h3>
-                       <div class="c-line-left c-theme-bg"></div>
+                       <div class="c-line-center c-theme-bg"></div>
                     </div>
                      <div class="row">
                         <div class="col-md-12">
-                            <div class="animated fadeInLeft" style="min-height: 380px;">
-                             <img alt="" src="assets/base/img/volunfair/plano-2020.jpg" width="100%">
+                            <div class="animated fadeInLeft c-center" style="min-height: 380px;">
+                             <img alt="" src="assets/base/img/volunfair/Plano_2022.png" width="80%">
                             </div>
-                        </div> -->
+                        </div>
 						<!--
                         <div class="col-md-4">
                             <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
@@ -287,9 +289,12 @@ escribe_cabecera(1);
                              <img alt="" src="assets/base/img/volunfair/lista1.png" width="100%">
                             </div>
                         </div>-->
-                    <!-- </div> -->
+                     </div>
 				
                 	<!-- FINAL PLANO STANDS -->
+                    <br />
+                    <br />
+                    <br />
  
 
                     <p></p>
@@ -354,11 +359,6 @@ escribe_cabecera(1);
                                 </a>
                             </div>
                             <div class="item">
-                            	  <a href="https://www.cbre.es/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-cbre.png" title ="CBRE" alt="CBRE" style=" padding-top: 20%;" width="100%" />
-                                </a>
-                            </div>
-                            <div class="item">
                             	  <a href="https://www.cantabrialabs.es/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-cantabria-labs.png" title ="Cantabria Labs" alt="Cantabria Labs" style=" padding-top: 5%;" width="100%" />
                                 </a>
@@ -392,7 +392,12 @@ escribe_cabecera(1);
                             	  <a href="https://www.weareseekers.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-tribu.png"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
                                 </a>
-                            </div>							
+                            </div>
+                            <div class="item">
+                            	  <a href="https://www.cbre.es/es-es/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/Logo_CBRE.png"title ="CBRE" alt="CBRE" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
+                                </a>
+                            </div>				
                         </div>
                         
                         <!-- End-->
