@@ -53,8 +53,8 @@ escribe_cabecera();
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2022</h3>
                     <div class="c-line-center c-theme-bg"></div>
-                    <p class="c-center" ><b><u>¡¡CAMBIAR!!</u></b>Ya está aquí la séptima edición de <b>VOLUNFAIR</b>. ¿Te la vas a perder? <br />Pásate este martes y miércoles de <b>10:00 a 19:00</b> para conocer a todas las entidades sociales que nos acompañan este año.
-                    <br /> Este año contamos con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
+                    <p class="c-center" >Ya está aquí la séptima edición de <b>VOLUNFAIR</b>. ¿Te la vas a perder? <br />El martes 1 y el miércoles 2 de <b>10:00 a 19:00</b> podrás conocer a todas las entidades sociales que nos acompañan este año.
+                    <br /> Además, con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
 					
 				</div>
                 
@@ -62,7 +62,7 @@ escribe_cabecera();
             <!--- END: TÍTULO -->
 
             <!-- BEGIN: CUENTA ATRÁS -->
-            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets\base\img\volunfair\Fotos2022\ninos.jpg">
+            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/ninos.jpg">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
@@ -110,18 +110,30 @@ escribe_cabecera();
             <!-- BEGIN: RIFA -->
             <br /><br /><br />
 
-            <div class="row" style="margin-top: -170px;">
-                <div class="col-md-5 ">
+            <div class="row" style="margin-top: 0px;">
+                <div class="col-md-4 ">
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div id="flip-container">
                         <div id="card1" class="card">
                             <div class="front row">
                                 <img class="card-img-top" src="./assets/base/img/volunfair/online-logos/ticket.svg" alt="Rifa">
                             </div>
-                            <div class="back row"><p class="textStart">Disfruta de alguno de nuestros premios</p><button onclick="location.href='./o-rifa'" class="button-start col-10"> Quiero ir </button></div>
+                            <div class="back row"><p class="textStart">Disfruta de alguno de nuestros premios</p><button onclick="location.href='./o-rifa'" class="button-start col-10"> ¡Quiero! </button></div>
                         </div>
                     </div>		  
+                </div>
+                <div class="col-md-4">
+                    <div id="flip-container">
+                        <div id="card1" class="card">
+                            <div class="front row">
+                                <img class="card-img-top" src="./assets/base/img/volunfair/online-logos/ticket.svg" alt="Rifa">
+                            </div>
+                            <div class="back row"><p class="textStart">Disfruta de alguno de nuestros premios</p><button onclick="location.href='./o-rifa'" class="button-start col-10"> ¡Quiero! </button></div>
+                        </div>
+                    </div>		  
+                </div>
+                <div class="col-md-4 ">
                 </div>
             </div>
 
@@ -129,7 +141,7 @@ escribe_cabecera();
 
 
 
-           <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
+           <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/atardecer-ciudad.jpg">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
@@ -142,7 +154,7 @@ escribe_cabecera();
                                     
 
                                     <!-- BEGIN: RESULTADOS DE LA RIFA -->
-                                    <div class="c-center col-md-12 container row" id="buscarRifa">
+                                    <!--<div class="c-center col-md-12 container row" id="buscarRifa">
                                         Introduce tu número para saber si has tenido suerte:
                                         <br /><br />
 
@@ -157,7 +169,7 @@ escribe_cabecera();
                                                 <input type="button" value="Buscar" onClick="buscar();" >                                       
                                             </form>
                                         </div>
-                                    </div>  
+                                    </div>  -->
         
                                     <!-- END: RESULTADOS DE LA RIFA -->
 
@@ -184,13 +196,13 @@ escribe_cabecera();
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase  c-font-bold">Martes 1</h2>   
-                <p class="c-center" >Acto inaugural de VOLUNFAIR 2021 a las 12:30</p>                      
+                <p class="c-center" >Acto inaugural de VOLUNFAIR 2022 a las <em>12:30</em> en el <em>Salón de Actos</em></p>                      
             </div>
 
 
             <!-- BEGIN: Joaquín Echevarría y Álvaro Trigo-->
-        <div class="c-content-box c-size-md c-bg-white">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets\base\img\volunfair\Fotos2021\bosque.jpg">
+            <div class="c-content-box c-size-md c-bg-white">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/atardecer-ciudad.jpg">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-8">
@@ -253,17 +265,17 @@ escribe_cabecera();
                 
                                     
             </div>
-             <!-- END: Joaquín Echevarría y Álvaro Trigo-->
+            <!-- END: Joaquín Echevarría y Álvaro Trigo-->
              
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 2</h2>   
-                <p class="c-center" >A las 12:30</p>                      
+                <p class="c-center" >A las <em>12:30</em> en el <em>Salón de Actos</em> podrás conocer a dos superhéroes fascinantes</p>                      
             </div>
 
             <!-- BEGIN  -->
             <div class="c-content-box c-size-md">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets\base\img\volunfair\Fotos2021\bosque.jpg">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/atardecer-ciudad.jpg">
                     <div class="container c-center">
                         <div class="row">
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
