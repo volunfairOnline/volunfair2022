@@ -57,11 +57,11 @@ escribe_cabecera();
                                     <br/>  -->             
                                     <p class="textResRifa"> Participar en la rifa es <b>muy sencillo</b>. Cada papeleta cuesta <b>1 euro</b> y puedes adquirirla por estas tres vías:
                                         <ul>
-                                            <li><b>Feria</b> de forma</li>
-                                            <li><b>Bizum</b> al número +34 657 81 29 16 (Ignacio)</li>
+                                            <li>En la feria, <b>forma presencial</b> (efectivo o Bizum)</li>
+                                            <li><b>Bizum</b> al número +34 657 81 29 16 (Ana)</li>
                                             <li><b>Transferencia bancaria</b> a nuestro número de cuenta ES85 3025 0003 9414 3335 5605</li>
                                         </ul>
-                                        En ambos casos debes especificar en el asunto <b>tu número de teléfono</b> para que te enviemos por WhatsApp y puedas consultar aquí tu papeleta.<br /><br />
+                                        Si compras la rifa telemáticamente, debes especificar en el asunto <b>tu número de teléfono</b> para que te enviemos por WhatsApp y puedas consultar aquí tu papeleta.<br /><br />
                                         ¡Mucha suerte!</p>
                                     <br/><br/>                               
                                 </div>
@@ -76,36 +76,38 @@ escribe_cabecera();
         <div class="c-container">            
             <!-- BEGIN: FORMULARIO -->
             <div class="row">
-                <form class="formulario" method="post">
-                    <!-- BEGIN:MOSTRAR TABLA RIFA -->
-                    <div class="col-md-12 c-font-center c-font-bold c-margin-b-30">                            
-                        <?php
-                            // --- Abrir la base de datos con usuario visitante
-                            $sql = Abrir_base();
-                            // cambiado por *
-                            $result = $sql->Select(" SELECT `id_rifa`, `articulo_rifa`,`descripcion_rifa`, `foto_rifa`, `empresa_rifa` FROM `rifa` ORDER BY `importancia_rifa` DESC");
+                <form class="formulario" method="post"
+                    <div class="c-content">
+                        <!-- BEGIN:MOSTRAR TABLA RIFA -->
+                        <div class="col-md-12 c-font-center c-font-bold c-margin-b-30">                            
+                            <?php
+                                // --- Abrir la base de datos con usuario visitante
+                                $sql = Abrir_base();
+                                // cambiado por *
+                                $result = $sql->Select(" SELECT `id_rifa`, `articulo_rifa`,`descripcion_rifa`, `foto_rifa`, `empresa_rifa` FROM `rifa` ORDER BY `importancia_rifa` DESC");
 
-                            // --- Mostrar por pantalla el listado de posibles destinos
-                            if($result === false){
-                                throw new Exception('Error en la consulta');
-                            } 
-                            else {
-                                echo '<div class="row">'."\n";
-                                while($row = mysqli_fetch_array($result)) {
-                                    echo '	<div class="col-md-3 c-content-media-1 c-bordered wow fadeIn animated">'."\n";
-                                    // --- Solo ponemos imagen si no está vacía
-                                    if($row['foto_rifa']) {echo '		<img width=100% src = "./assets/base/img/volunfair/rifa/'.$row['foto_rifa'].'" />'."\n";}
-                                    echo '		<p> <b>'.$row['articulo_rifa'].'</b> de '.$row['empresa_rifa'];
-                                    //echo '		<br>'."\n";
-                                    //echo '		<b>Descripci&oacute;n</b>: '.htmlspecialchars(stripslashes($row['descripcion_rifa']))."\n";
-                                    echo '		</p>'."\n";
-                                    echo '	</div>'."\n";
+                                // --- Mostrar por pantalla el listado de posibles destinos
+                                if($result === false){
+                                    throw new Exception('Error en la consulta');
+                                } 
+                                else {
+                                    echo '<div class="row">'."\n";
+                                    while($row = mysqli_fetch_array($result)) {
+                                        echo '	<div class="col-md-3 c-content-media-1 c-bordered wow fadeIn animated">'."\n";
+                                        // --- Solo ponemos imagen si no está vacía
+                                        if($row['foto_rifa']) {echo '		<img width=100% src = "./assets/base/img/volunfair/rifa/'.$row['foto_rifa'].'" />'."\n";}
+                                        echo '		<p> <b>'.$row['articulo_rifa'].'</b> de '.$row['empresa_rifa'];
+                                        //echo '		<br>'."\n";
+                                        //echo '		<b>Descripci&oacute;n</b>: '.htmlspecialchars(stripslashes($row['descripcion_rifa']))."\n";
+                                        echo '		</p>'."\n";
+                                        echo '	</div>'."\n";
+                                    }
+                                    echo '</div>'."\n";
                                 }
-                                echo '</div>'."\n";
-                            }
-                        ?> 
+                            ?> 
+                        </div>
+                        <!-- END: MOSTRAR TABLA RIFA -->
                     </div>
-                    <!-- END: MOSTRAR TABLA RIFA -->
                 </form>
             </div>
             <!-- END: FORMULARIO -->

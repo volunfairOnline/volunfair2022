@@ -111,29 +111,29 @@ escribe_cabecera();
             <br /><br /><br />
 
             <div class="row" style="margin-top: 0px;">
-                <div class="col-md-4 ">
+                <div class="col-md-3 ">
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div id="flip-container">
                         <div id="card1" class="card">
                             <div class="front row">
                                 <img class="card-img-top" src="./assets/base/img/volunfair/online-logos/ticket.svg" alt="Rifa">
                             </div>
-                            <div class="back row"><p class="textStart">Disfruta de alguno de nuestros premios</p><button onclick="location.href='./o-rifa'" class="button-start col-10"> ¡Quiero! </button></div>
+                            <div class="back row"><p class="textStart">Disfruta de alguno de nuestros premios</p><button onclick="location.href='./v-rifa'" class="button-start col-10"> ¡Quiero! </button></div>
                         </div>
                     </div>		  
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-3">
                     <div id="flip-container">
                         <div id="card1" class="card">
                             <div class="front row">
-                                <img class="card-img-top" src="./assets/base/img/volunfair/online-logos/ticket.svg" alt="Rifa">
+                                <img class="card-img-top" src="./assets/base/img/volunfair/online-logos/world-wide-web.svg" alt="Ponencias">
                             </div>
-                            <div class="back row"><p class="textStart">Disfruta de alguno de nuestros premios</p><button onclick="location.href='./o-rifa'" class="button-start col-10"> ¡Quiero! </button></div>
+                            <div class="back row"><p class="textStart">Conéctate en directo a las historias de nuestros ponentes</p><button onclick="location.href='#'" class="button-start col-10"> ¡Quiero! </button></div>
                         </div>
                     </div>		  
                 </div>
-                <div class="col-md-4 ">
+                <div class="col-md-3 ">
                 </div>
             </div>
 
