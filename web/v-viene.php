@@ -110,7 +110,7 @@ escribe_cabecera();
             <!-- BEGIN: RIFA -->
             <br /><br /><br />
 
-            <div class="row" style="margin-top: 0px;">
+            <div class="row c-content-box c-size" style="margin-top: 0px;">
                 <div class="col-md-3 ">
                 </div>
                 <div class="col-md-3">
