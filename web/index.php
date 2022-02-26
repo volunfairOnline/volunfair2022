@@ -254,7 +254,7 @@ escribe_cabecera(1);
                                 	<u>09:15 </u> <br/>Recibimiento del segundo grupo de ONGs <br/><br/>
                                 	<u>10:00</u> <br/>Apertura de los stands - Actividad ininterrumpida <br/><br/>
                                 	<u>12:30-14:15 </u> <br/>Charla con Sara Andrés Barrio y Guillermo Martínez<em><br/>(Salón de Actos)</em><br/><br/>
-                                	<u>19:00-19:30 </u> <br/>Acto de clausura del evento
+                                	<u>19:00 </u> <br/>Cierre de los stands
                                 	</p>
  
                             </div>
@@ -365,7 +365,7 @@ escribe_cabecera(1);
                             </div>
                             <div class="item">
                             	  <a href="https://www.cantabrialabs.es/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-cantabria-labs.png" title ="Cantabria Labs" alt="Cantabria Labs" style=" padding-top: 5%;" width="100%" />
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo_cantabrialabs.png" title ="Cantabria Labs" alt="Cantabria Labs" style=" padding-top: 5%;" width="100%" />
                                 </a>
                             </div>
                             <div class="item">
