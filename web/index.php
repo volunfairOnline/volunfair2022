@@ -235,12 +235,12 @@ escribe_cabecera(1);
                         <div class="col-md-6">
                             <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 520px;">
                             	 <div class="c-right">
-                                <p><b>Miércoles</b></p>
+                                <p><b>Martes</b></p>
                                 <p></p>
                                 <p>
                                 	<u>9:15 </u> <br/>Recibimiento del primer grupo de ONGs <br/><br/>
                                 	<u>10:00</u> <br/> Apertura de los stands - Actividad ininterrumpida <br/><br/>
-                                	<u>12:30-14:15 </u> <br/>Charla con Rocío Talavara y Rodrigo Osborne - Adol-essence<br /><em>(Salón de Actos)</em><br/><br/>
+                                	<u>12:30-14:15 </u> <br/>Charla con Joaquín Echeverría y Alvaro Trigo<br /><em>(Salón de Actos)</em><br/><br/>
                                 	<u>19:00 </u> <br/>Cierre de los stands
                                 	</p>
                                 </div>
@@ -248,12 +248,12 @@ escribe_cabecera(1);
                         </div>
                         <div class="col-md-6">
                             <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 520px;">
-                                <p><b>Jueves</b></p>
+                                <p><b>Miércoles</b></p>
                                 <p></p>
                                 <p>
                                 	<u>09:15 </u> <br/>Recibimiento del segundo grupo de ONGs <br/><br/>
                                 	<u>10:00</u> <br/>Apertura de los stands - Actividad ininterrumpida <br/><br/>
-                                	<u>12:30-14:15 </u> <br/>"No hay mar sin gotas #Mójate" <br/>@villagayumbos y @misuperheroesincapa <em><br/>(Aula C)</em><br/><br/>
+                                	<u>12:30-14:15 </u> <br/>Charla con Sara Andrés Barrio y Guillermo Martínez<em><br/>(Salón de Actos)</em><br/><br/>
                                 	<u>19:00-19:30 </u> <br/>Acto de clausura del evento
                                 	</p>
  
