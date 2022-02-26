@@ -55,7 +55,7 @@ escribe_cabecera(1);
             
             
                 <div class="solo_peq">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2022\FotoPortadaMovil1_1.png" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2022\FotoPortadaMovil2.png" width="100%">
                 </div>
 			
             <div class="">
