@@ -1,7 +1,7 @@
 <?php
 
 // --- Archivo con las funciones de configuración (cabeceras, pie, ...)
-include ('./scripts/o-config.php');
+include ('./scripts/config.php');
 
 session_start();
 // --- Iniciar la clase de conexión a la base de datos
@@ -80,20 +80,9 @@ if ($nfilas_pagina == 0) {
     $video=$fila_pagina[0]['video'];
 }
 
-// --- Chapuza para las imágenes: se coge una aleatoria de esta matriz
-$matrizImagenes = [
-    'carpetaanteriores/flechazo.jpg',
-    'carpetaanteriores/juntos.jpg',
-    'carpetaanteriores/casacada.jpg',
-    'carpetaanteriores/ballet.jpg',
-    'carpetaanteriores/puente.jpg',
-    'bosque.jpg',
-    '09-40-54-seis-pares-zapatillas-viejas-desgastadas-superficie-madera-lila_116441-1606 (2).jpg',
-    '09-42-54-antiguos-entrenadores-deportivos_266732-13215 (2).jpg',
-    '09-49-59-zapatillas-grises-mesa-madera-negra_44073-97.jpg',
-    'Zapas2.jpg'
-];
-$imagen = 'Fotos2022/'.$matrizImagenes[random_int(0, sizeof($matrizImagenes))];
+// --- Chapuza para las imágenes: se coge una aleatoria de este directorio
+$matrizImagenes = scandir('./assets/base/img/volunfair/Fotos2022/Fondos');
+$imagen = 'Fotos2022/Fondos/'.$matrizImagenes[random_int(2, sizeof($matrizImagenes))];
 
 // --- Escribimos las cabeceras
 escribe_cabecera();
@@ -216,22 +205,22 @@ escribe_cabecera();
 
                             if($hayredes==1){
                                 if($rsface!=NULL){
-                                    echo '<a href="'.$rsface.'" target="blank">
+                                    echo '<a href="https://es-es.facebook.com/'.$rsface.'" target="blank">
                                     <i class="icon-social-facebook fa-2x"></i>
                                     </a>'."\n";
                                 }
                                 if($rstwit!=NULL){
-                                    echo '<a href="'.$rstwit.'" target="blank">
+                                    echo '<a href="twitter.com/'.$rstwit.'" target="blank">
                                     <i class="icon-social-twitter fa-2x"></i>
                                     </a>'."\n";
                                 }
                                 if($rsinsta!=NULL){
-                                    echo '<a href="'.$rsinsta.'" target="blank">
+                                    echo '<a href="https://www.instagram.com/'.$rsinsta.'" target="blank">
                                     <i class="fab fa-instagram fa-2x"></i>
                                     </a>'."\n";
                                 }
                                 if($rslinked!=NULL){
-                                    echo '<a href="'.$rslinked.'" target="blank">
+                                    echo '<a href="https://www.linkedin.com/company/'.$rslinked.'" target="blank">
                                     <i class="fab fa-linkedin fa-2x"></i>
                                     </a>'."\n";
                                 }
