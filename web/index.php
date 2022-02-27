@@ -99,6 +99,84 @@ escribe_cabecera(1);
 
                     </div>
 
+                    <br/>
+                    <br/>
+                    <br/> 
+                    <br/>
+                    <br/>    
+
+                    <div class="c-content-title-1 c-center">
+                       <h3 class="c-font-uppercase c-font-bold">Horario</h3>
+                       <div class="c-line-center c-theme-bg"></div>
+                    </div>
+
+                    <div class="row horario">
+                        <div class="col-md-6">
+                            <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 520px;">
+                            	 <div class="c-right">
+                                <p><b>Martes</b></p>
+                                <p></p>
+                                <p>
+                                	<u>9:15 </u> <br/>Recibimiento del primer grupo de ONGs <br/><br/>
+                                	<u>10:00</u> <br/> Apertura de los stands - Actividad ininterrumpida <br/><br/>
+                                	<u>12:30-14:15 </u> <br/>Charla con Joaquín Echeverría y Alvaro Trigo<br /><em>(Salón de Actos)</em><br/><br/>
+                                	<u>19:00 </u> <br/>Cierre de los stands
+                                	</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 520px;">
+                                <p><b>Miércoles</b></p>
+                                <p></p>
+                                <p>
+                                	<u>09:15 </u> <br/>Recibimiento del segundo grupo de ONGs <br/><br/>
+                                	<u>10:00</u> <br/>Apertura de los stands - Actividad ininterrumpida <br/><br/>
+                                	<u>12:30-14:15 </u> <br/>Charla con Sara Andrés Barrio y Guillermo Martínez<em><br/>(Salón de Actos)</em><br/><br/>
+                                	<u>19:00 </u> <br/>Cierre de los stands
+                                	</p>
+ 
+                            </div>
+                        </div>
+                    </div>
+					
+					<br />
+					<br />
+				
+					<!-- PLANO STANDS -->
+                    
+                        <p></p> 
+                		<p></p>
+                		 <div class="c-content-title-1">
+                       <h3 class="c-font-uppercase c-center c-font-bold">Plano de la feria</h3>
+                       <div class="c-line-center c-theme-bg"></div>
+                    </div>
+                     <div class="row">
+                        <div class="col-md-12">
+                            <div class="animated fadeInLeft c-center" style="min-height: 380px;">
+                             <img alt="" src="assets/base/img/volunfair/Plano_2022.png" width="80%">
+                            </div>
+                        </div>
+						<!--
+                        <div class="col-md-4">
+                            <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
+                            	<img alt="" src="assets/base/img/volunfair/Plano-sala-maquina.jpg" width="100%">
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="animated fadeInLeft" style="min-height: 380px;">
+                             <img alt="" src="assets/base/img/volunfair/lista1.png" width="100%">
+                            </div>
+                        </div>-->
+                     </div>
+                     <br/>
+                    <br/>
+                    <br/> 
+                    <br/>
+                    <br/>  
+				
+                	<!-- FINAL PLANO STANDS -->
+
                    
                     <!--<div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
                         <div class="c-content-title-1">
@@ -220,83 +298,7 @@ escribe_cabecera(1);
                     </div> 
                     <!-- Fin Premios y Reconocimientos -->
 
-                    <br/>
-                    <br/>
-                    <br/> 
-                    <br/>
-                    <br/>    
-
-                    <div class="c-content-title-1 c-center">
-                       <h3 class="c-font-uppercase c-font-bold">Horario</h3>
-                       <div class="c-line-center c-theme-bg"></div>
-                    </div>
-
-                    <div class="row horario">
-                        <div class="col-md-6">
-                            <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 520px;">
-                            	 <div class="c-right">
-                                <p><b>Miércoles</b></p>
-                                <p></p>
-                                <p>
-                                	<u>9:15 </u> <br/>Recibimiento del primer grupo de ONGs <br/><br/>
-                                	<u>10:00</u> <br/> Apertura de los stands - Actividad ininterrumpida <br/><br/>
-                                	<u>12:30-14:15 </u> <br/>Charla con Rocío Talavara y Rodrigo Osborne - Adol-essence<br /><em>(Salón de Actos)</em><br/><br/>
-                                	<u>19:00 </u> <br/>Cierre de los stands
-                                	</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 520px;">
-                                <p><b>Jueves</b></p>
-                                <p></p>
-                                <p>
-                                	<u>09:15 </u> <br/>Recibimiento del segundo grupo de ONGs <br/><br/>
-                                	<u>10:00</u> <br/>Apertura de los stands - Actividad ininterrumpida <br/><br/>
-                                	<u>12:30-14:15 </u> <br/>"No hay mar sin gotas #Mójate" <br/>@villagayumbos y @misuperheroesincapa <em><br/>(Aula C)</em><br/><br/>
-                                	<u>19:00-19:30 </u> <br/>Acto de clausura del evento
-                                	</p>
- 
-                            </div>
-                        </div>
-                    </div>
-					
-					<br />
-					<br />
-				
-					<!-- PLANO STANDS -->
                     
-                        <p></p> 
-                		<p></p>
-                		 <div class="c-content-title-1">
-                       <h3 class="c-font-uppercase c-center c-font-bold">Plano de la feria</h3>
-                       <div class="c-line-center c-theme-bg"></div>
-                    </div>
-                     <div class="row">
-                        <div class="col-md-12">
-                            <div class="animated fadeInLeft c-center" style="min-height: 380px;">
-                             <img alt="" src="assets/base/img/volunfair/Plano_2022.png" width="80%">
-                            </div>
-                        </div>
-						<!--
-                        <div class="col-md-4">
-                            <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
-                            	<img alt="" src="assets/base/img/volunfair/Plano-sala-maquina.jpg" width="100%">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="animated fadeInLeft" style="min-height: 380px;">
-                             <img alt="" src="assets/base/img/volunfair/lista1.png" width="100%">
-                            </div>
-                        </div>-->
-                     </div>
-                     <br/>
-                    <br/>
-                    <br/> 
-                    <br/>
-                    <br/>  
-				
-                	<!-- FINAL PLANO STANDS -->
                     <br />
                     <br />
                     <br />
@@ -365,7 +367,7 @@ escribe_cabecera(1);
                             </div>
                             <div class="item">
                             	  <a href="https://www.cantabrialabs.es/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-cantabria-labs.png" title ="Cantabria Labs" alt="Cantabria Labs" style=" padding-top: 5%;" width="100%" />
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo_cantabrialabs.png" title ="Cantabria Labs" alt="Cantabria Labs" style=" padding-top: 5%;" width="100%" />
                                 </a>
                             </div>
                             <div class="item">
