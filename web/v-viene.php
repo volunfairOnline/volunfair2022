@@ -129,7 +129,7 @@ escribe_cabecera();
                             <div class="front row">
                                 <img class="card-img-top" src="./assets/base/img/volunfair/online-logos/world-wide-web.svg" alt="Ponencias">
                             </div>
-                            <div class="back row"><p class="textStart">Conéctate en directo a las historias de nuestros ponentes</p><button onclick="location.href='#'" class="button-start col-10"> ¡Quiero! </button></div>
+                            <div class="back row"><p class="textStart">Conéctate en directo a las historias de nuestros ponentes</p><button onclick="window.open('https://www.youtube.com/watch?v=AzWOxlWli5g')" class="button-start col-10"> ¡Quiero! </button></div>
                         </div>
                     </div>		  
                 </div>
