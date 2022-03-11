@@ -27,11 +27,12 @@ escribe_cabecera();
             // --- Función para activar la consulta de los premios de la rifa
 			function buscar() {
                 var numero = $("#numero").val();
-                var serie = $("#serie").val();
+                //var serie = $("#serie").val();
+                serie = 'un';
                 
                 // --- Llama al documento buscar-rifa.php, encargado de buscar si el número ha sido o no premiado y escribe el mensaje correspondiente
                 // --- En buscar-rifa.php está definido qué sale cuando no ha tocado nada
-				if (numero != "" && serie != "") {
+				if (numero != "" /*&& serie != ""*/) {
 					$.post("./mysql/buscar-rifa.php", {valorBusqueda: [numero, serie]}, function(mensaje) {
 						$("#buscarRifa").html(mensaje);
 					}); 
@@ -62,6 +63,7 @@ escribe_cabecera();
             <!--- END: TÍTULO -->
 
             <!-- BEGIN: CUENTA ATRÁS -->
+            <!--
             <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/ninos.jpg">
                     <div class="container">
                         <div class="row">
@@ -101,6 +103,7 @@ escribe_cabecera();
                         </div>
                     </div>
                 </div>
+                -->
                 <!-- 
                     https://denis-creative.com/jstimer/
                     https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
@@ -109,7 +112,7 @@ escribe_cabecera();
 
             <!-- BEGIN: RIFA -->
             <br /><br /><br />
-
+            <!--
             <div class="row c-content-box c-size" style="margin-top: 0px;">
                 <div class="col-md-3 ">
                 </div>
@@ -136,11 +139,11 @@ escribe_cabecera();
                 <div class="col-md-3 ">
                 </div>
             </div>
-
+            -->
             <br /><br />
 
             <!-- BEGIN: RIFA -->
-            <!--<div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/atardecer-ciudad.jpg">
+            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/atardecer-ciudad.jpg">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -153,22 +156,22 @@ escribe_cabecera();
                                 
 
                                 <!-- BEGIN: RESULTADOS DE LA RIFA -->
-                                <!--<div class="c-center col-md-12 container row" id="buscarRifa">
+                                <div class="c-center col-md-12 container row" id="buscarRifa">
                                     Introduce tu número para saber si has tenido suerte:
                                     <br /><br />
 
                                     <div class="c-center">
                                         <form>
-                                            <label>Número:<label> <input type="number" id="numero" min="0" max="499" placeholder="" required="required" />
-                                            <label>Serie:<label> 
+                                            <label>Número:<label> <input type="number" id="numero" min="0" max="999" placeholder="" required="required" />
+                                            <!--<label>Serie:<label> 
                                             <select id="serie" required="required" >
                                                 <option value="am">Amarillo</option>
                                                 <option value="az">Azul</option>
-                                            </select>
+                                            </select>-->
                                             <input type="button" value="Buscar" onClick="buscar();" >                                       
                                         </form>
                                     </div>
-                                </div>  -->
+                                </div>
     
                                 <!-- END: RESULTADOS DE LA RIFA -->
 
@@ -181,7 +184,7 @@ escribe_cabecera();
         
                                 
                                 <!-- END: AVISO PREVIO CUANDO NO HAY RIFA -->                              
-                            <!--</div>
+                            </div>
                         </div>
                     </div>
                 </div>
