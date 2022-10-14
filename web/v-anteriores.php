@@ -31,7 +31,7 @@ escribe_cabecera();
 			
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">Selecciona tu provincia</h3>
+					<h3 class="c-center c-font-uppercase c-font-bold">Ediciones anteriores</h3>
 					<div class="c-line-center c-theme-bg"></div>
 				</div>
 			</div>
@@ -86,10 +86,10 @@ escribe_cabecera();
                 
                 <div class="tl-item3" onclick="location.href='v-ponentes16';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/banderasprov/banderamadrid.png)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/avionaco2.jpg")"></div>
                     
                     <div class="tl-year">
-                        <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">Madrid</a></p>
+                        <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2016</a></p>
                     </div>
 
                     <div class="tl-content">
@@ -103,7 +103,7 @@ escribe_cabecera();
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/rowing3.jpg)"></div>
                     
                     <div class="tl-year">
-                    <p class="f2 heading--sanSerif"><a href="v-ponentes17.php">Barcelona</a></p>
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes17.php">2017</a></p>
                     </div>
 
                     <div class="tl-content">
