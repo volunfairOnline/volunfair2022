@@ -86,7 +86,7 @@ escribe_cabecera();
                 
                 <div class="tl-item3" onclick="location.href='v-ponentes16';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/banderasprov/banderamadrid.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/banderasprov/banderamadrid.png)"></div>
                     
                     <div class="tl-year">
                         <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">Madrid</a></p>
@@ -103,7 +103,7 @@ escribe_cabecera();
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/rowing3.jpg)"></div>
                     
                     <div class="tl-year">
-                    <p class="f2 heading--sanSerif"><a href="v-ponentes17.php">2017</a></p>
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes17.php">Barcelona</a></p>
                     </div>
 
                     <div class="tl-content">
