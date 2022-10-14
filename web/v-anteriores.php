@@ -86,7 +86,7 @@ escribe_cabecera();
                 
                 <div class="tl-item3" onclick="location.href='v-ponentes16';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets\base\img\volunfair\Fotos2021\carpetaanteriores\avionaco2.jpg")"></div>
+                    <div class="tl-bg" style="background-image: url(.\assets\base\img\volunfair\Fotos2021\carpetaanteriores\avionaco2.jpg")"></div>
                     
                     <div class="tl-year">
                         <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2016</a></p>
