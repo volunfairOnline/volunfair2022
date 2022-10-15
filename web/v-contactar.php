@@ -35,7 +35,7 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold">Contacta con nosotros</h3>
                                         <div class="c-line-left"></div>
-                                        <p class="c-font-lowercase">Si quieres contactar con nosotros y comentarnos algo, puedes usar el siguiente formulario.</p>
+                                        <p class="c-font-lowercase">Si quieres contactar con nosotros y comentarnos algo, puedes usar el siguiente formulario:</p>
                                     </div>
                                     <form method="post" action="#" id="contactform">
                                         <div class="form-group">
