@@ -118,7 +118,7 @@ escribe_cabecera();
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/cuadrofumao3.jpg)"></div>
                     
                     <div class="tl-year">
-                    <p class="f2 heading--sanSerif"><a href="v-ponentes18.php">Valencia</a></p>
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes18.php">2018</a></p>
                     </div>
 
                     <div class="tl-content">
