@@ -55,9 +55,9 @@ escribe_cabecera();
                             	  <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold">Para hablar con nosotros</h3>
                                         <div class="c-line-left"></div>
-                                  <p class="c-font-lowercase">Si eres ONG: 655 53 93 29 (Dani) <br/>
+                                  <p class="c-font-lowercase">Si eres ONG: 629 76 06 00 (Pablo) <br/>
                                                               Si eres medio de comunicación: 656 32 70 55 (Bea) <br/>
-                                                              Para cualquier gestión: 601 20 07 71 (María) o 638 96 56 31 (Chema)</p>
+                                                              Para cualquier gestión: 601 20 07 71 (María) o 616 20 92 81 (Jorge)</p>
                                 </div>
                                 <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
                                 
