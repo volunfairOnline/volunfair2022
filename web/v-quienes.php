@@ -230,6 +230,7 @@ escribe_cabecera();
                         ['nombre' => 'Silvia Assmuth',	                'foto' => 'finsilviaassmuth'],
                     ],
                     
+                    //este año Gestion y RRHH son dos departamentos distintos, por lo que hay que hacer una matriz distinta para cada uno
                 "Gestión y Recursos Humanos" => [
                         ['nombre' => 'Ana Vendrell',	    			'foto' => 'gesanavendrell'],
                         ['nombre' => 'Miguel Callejo',	    			'foto' => 'gesmiguelcallejo'],
