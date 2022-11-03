@@ -178,7 +178,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes22';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2022/Fondos/ninos.jpg")"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2022/Fondos/ninos22.jpg")"></div>
                     
                     <div class="tl-year">
                         <p class="f2 heading--sanSerif"><a href="v-ponentes22.php">2022</a></p>
