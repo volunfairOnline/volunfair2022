@@ -204,7 +204,7 @@ escribe_cabecera();
             
                 "Dirección" => [
                         ['nombre' => 'Paula García',				        'foto' => 'paulagarciajefaza'],
-                        ['nombre' => 'Jorge García',				'foto' => 'jorgegarciajefazo'],
+                        ['nombre' => 'Jorge García',				        'foto' => 'jorgegarciajefazo'],
                     ],
                 
                 "Comunicación" => [
@@ -245,27 +245,24 @@ escribe_cabecera();
                     ],
 
                 "Marketing" => [
-                        ['nombre' => 'Irene Revuelta',			        'foto' => 'mktirenerevuelta'],
-                        //['nombre' => 'Beatriz Lanchares',				'foto' => 'mktanaerquicia2.jpg'],
-                        ['nombre' => 'Carmen Arribas',			        'foto' => 'mktcarmenarribas'],
-                        ['nombre' => 'Rocío López',			            'foto' => 'mktrociolopez'],
-                        ['nombre' => 'Natalia Serrano',			        'foto' => 'mktnataliaserrano'],
-                        ['nombre' => 'Marta Fernández',		            'foto' => 'mktmartafernandez'],
-                        //['nombre' => 'Paula Lanchares',		            'foto' => 'mktmartafernandez'],
-                        ['nombre' => 'María Casanova',			        'foto' => 'mktmariacasanova'],
-                        //['nombre' => 'Ramón Rodríguez',			        'foto' => 'mktinigobaltar.jpg'],
-                        ['nombre' => 'Teo Isern',				        'foto' => 'mktteoisern'],
+                        ['nombre' => 'Blanca Verdes',			        'foto' => 'mktblancaverdes'],
+                        ['nombre' => 'Daniel Rosado',			        'foto' => 'mktdanirosado'],
+                        ['nombre' => 'Inés Prados',			            'foto' => 'mktinesprados'],
+                        ['nombre' => 'María Urraca',			        'foto' => 'mktmariaurraca'],
+                        ['nombre' => 'Nico Lorenzo',		            'foto' => 'mktnicolorenzo'],
+                        ['nombre' => 'Pablo Sanchez',			        'foto' => 'mktpablosanchezpobre'],
+                        ['nombre' => 'Victoria Sarabia',				'foto' => 'mktvictoriasarabia'],
                     ],
 
-                "ONG's" => [
-                        ['nombre' => 'Paula García',			        'foto' => 'ongpaulagarcia'],
-                        ['nombre' => 'Macarena Cuesta',			        'foto' => 'ongmacarenacuesta'],
+                "ONG's y EESS" => [
                         ['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonoblejas'],
-                        ['nombre' => 'Carmen Santaliestra',		        'foto' => 'ongcarmensantaliestra'],
-                        ['nombre' => 'Carlos Muñoz',				    'foto' => 'ongcarlosmunoz'],
-                        ['nombre' => 'Lucía Tejero',				    'foto' => 'ongluciatejero'],
-                        ['nombre' => 'Juan Lorenzo',			        'foto' => 'ongjuanlorenzo'],
-                        ['nombre' => 'Laura San Juan',			        'foto' => 'onglaurasanjuan'],
+                        ['nombre' => 'Ainhoa Orta',			            'foto' => 'ongainhoaorta'],
+                        ['nombre' => 'Blaca Bravo',			            'foto' => 'ongblancabravo'],
+                        ['nombre' => 'Ines Torres',		                'foto' => 'onginestorres'],
+                        ['nombre' => 'Isabel de Bloteau',				'foto' => 'ongisabeldebloteau'],
+                        ['nombre' => 'Paula Creis',				        'foto' => 'ongpaulacreis'],
+                        ['nombre' => 'Rocio Jimenez',			        'foto' => 'ongrociojimenez'],
+                        ['nombre' => 'Santiago Pedrero',			    'foto' => 'ongsantiagopedrero'],
                     ],
                 
                 "Web y Feria Online" => [
