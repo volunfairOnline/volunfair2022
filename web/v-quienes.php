@@ -261,7 +261,7 @@ escribe_cabecera();
                         ['nombre' => 'Ines Torres',		                'foto' => 'onginestorres'],
                         ['nombre' => 'Isabel de Bloteau',				'foto' => 'ongisabeldebloteau'],
                         ['nombre' => 'Paula Creis',				        'foto' => 'ongpaulacreis'],
-                        ['nombre' => 'Rocio Jimenez',			        'foto' => 'ongrociojimenez'],
+                        ['nombre' => 'Rocio Giménez',			        'foto' => 'ongrociogimenez'],
                         ['nombre' => 'Santiago Pedrero',			    'foto' => 'ongsantiagopedrero'],
                     ],
                 
