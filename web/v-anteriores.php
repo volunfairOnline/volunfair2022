@@ -178,7 +178,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes22';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/avionaco2.jpg")"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2022/Fondos/ninos.jpg")"></div>
                     
                     <div class="tl-year">
                         <p class="f2 heading--sanSerif"><a href="v-ponentes22.php">2022</a></p>
@@ -186,7 +186,7 @@ escribe_cabecera();
 
                     <div class="tl-content">
                         <strong>Lema:</strong> "En lo ordinario está lo extraordinario" <br />
-                        <strong>Jefes:</strong> Chema y María López
+                        <strong>Jefes:</strong> Chema Seral y María López
                     </div>
                 </div>
 
