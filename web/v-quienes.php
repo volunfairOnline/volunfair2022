@@ -266,16 +266,18 @@ escribe_cabecera();
                     ],
                 
                 "Web y Feria Online" => [
-                        ['nombre' => 'Ana Molina',				        'foto' => 'webanamolina'],
-                        ['nombre' => 'Jorge García',				    'foto' => 'webjorgegarciasamartin'],
-                        ['nombre' => 'Alberto Cabello',			    	'foto' => 'webalbertocabello'],
-                        ['nombre' => 'Rosa María Mahugo',			    'foto' => 'webrosamahugo'],
-                        ['nombre' => 'Nacho Menéndez',					'foto' => 'webnachomenendez'],
-                        ['nombre' => 'Pablo Codina',				    'foto' => 'webpablocodina'],
-                        ['nombre' => 'Solete Vendrell',			        'foto' => 'websoletevendrell'],
-                        ['nombre' => 'Alba Casanova',			        'foto' => 'webalbacasanova'],
-                        ['nombre' => 'Carmen Acevedo',				    'foto' => 'webcarmenacevedo'],
-                        ['nombre' => 'Lucía Rosado',				    'foto' => 'comluciarosado'],
+                        ['nombre' => 'Nacho Menéndez',				        'foto' => 'webnachomenendez'],
+                        ['nombre' => 'Solete Vendrell',			    	    'foto' => 'webjorgegarciasamartin'],
+                        ['nombre' => 'Laura García',			        	'foto' => 'webalbertocabello'],
+                        ['nombre' => 'Beatriz Domínguez',			        'foto' => 'webrosamahugo'],
+                        ['nombre' => 'Jesús Lorenzo',				    	'foto' => ''],
+                        ['nombre' => 'Daniel Claessens',			   	    'foto' => 'webpablocodina'],
+                        ['nombre' => 'Juan de Haro',	    		        'foto' => 'websoletevendrell'],
+                        ['nombre' => 'Miguel Botella',		    	        'foto' => 'webalbacasanova'],
+                        ['nombre' => 'Ana Molina',				            'foto' => 'webanamolina'],
+                        ['nombre' => 'Marta Fernández',				        'foto' => 'comluciarosado'],
+                        ['nombre' => 'Jaime Barea',				            'foto' => 'comluciarosado'],
+                        ['nombre' => 'Martín Sainz-Trápaga',			    'foto' => 'comluciarosado'],
                     ],
                
 
