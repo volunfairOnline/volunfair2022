@@ -267,8 +267,8 @@ escribe_cabecera();
                 
                 "Web y Feria Online" => [
                         ['nombre' => 'Nacho Menéndez',				        'foto' => 'webnacho'],
-                        ['nombre' => 'Solete Vendrell',			    	    'foto' => 'webjorgegarciasamartin'],
-                        ['nombre' => 'Laura García',			        	'foto' => 'weblauragarcia'],
+                        ['nombre' => 'Solete Vendrell',			    	    'foto' => 'websolete'],
+                        ['nombre' => 'Laura García',			        	'foto' => 'weblaura'],
                         ['nombre' => 'Beatriz Domínguez',			        'foto' => 'webbeadominguez'],
                         ['nombre' => 'Daniel Claessens',			   	    'foto' => 'webdanielclaessens'],
                         ['nombre' => 'Jesús Lorenzo',				    	'foto' => 'webjesuslorenzo'],
