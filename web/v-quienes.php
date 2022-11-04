@@ -275,7 +275,7 @@ escribe_cabecera();
                         ['nombre' => 'Juan de Haro',	    		        'foto' => 'webjuandeharo'],
                         ['nombre' => 'Miguel Botella',		    	        'foto' => 'webmiguelbotella'],
                         ['nombre' => 'Ana Molina',				            'foto' => 'webanamolina'],
-                        ['nombre' => 'Marta Fernández',				        'foto' => 'webmartafernandez'],
+                        ['nombre' => 'Marta Fernández',				        'foto' => 'webmarta'],
                         ['nombre' => 'Jaime Barea',				            'foto' => 'comluciarosado'],
                         ['nombre' => 'Martín Sainz-Trápaga',			    'foto' => 'comluciarosado'],
                     ],
