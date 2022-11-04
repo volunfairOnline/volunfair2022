@@ -271,7 +271,7 @@ escribe_cabecera();
                         ['nombre' => 'Laura García',			        	'foto' => 'webalbertocabello'],
                         ['nombre' => 'Beatriz Domínguez',			        'foto' => 'webbeadominguez'],
                         ['nombre' => 'Jesús Lorenzo',				    	'foto' => ''],
-                        ['nombre' => 'Daniel Claessens',			   	    'foto' => 'webpablocodina'],
+                        ['nombre' => 'Daniel Claessens',			   	    'foto' => 'webdanielclaessens'],
                         ['nombre' => 'Juan de Haro',	    		        'foto' => 'websoletevendrell'],
                         ['nombre' => 'Miguel Botella',		    	        'foto' => 'webalbacasanova'],
                         ['nombre' => 'Ana Molina',				            'foto' => 'webanamolina'],
