@@ -220,14 +220,15 @@ escribe_cabecera();
                     ],
                     
                 "Financiación" => [
-                        ['nombre' => 'Gonzalo Castañeda',				'foto' => 'fingonzalocastaneda'],
-                        ['nombre' => 'Santi Antúnez',		    	    'foto' => 'finsantiantunez'],
-                        ['nombre' => 'Iñigo Baltar',			        'foto' => 'fintinigobaltar'],
-                        ['nombre' => 'Antonio Hernández-Ros',           'foto' => 'finantoniohros'],
-                        ['nombre' => 'Ricardo Estremera',  	            'foto' => 'finricardoestremera'],
-                        ['nombre' => 'Rocío García',		            'foto' => 'finrociogarcia'],
-                        ['nombre' => 'Sofía Zaballa',	                'foto' => 'finsofiazaballa'],
-                        ['nombre' => 'Silvia Assmuth',	                'foto' => 'finsilviaassmuth'],
+                        ['nombre' => 'Santi Antúnez',		    		'foto' => 'finsanti'],
+                        ['nombre' => 'Cande Vendrell',		    	    'foto' => 'fincande'],
+                        ['nombre' => 'Gabriel Callejo',			        'foto' => 'fingabrielcallejo'],
+                        ['nombre' => 'Gonzalo Halcón',                  'foto' => 'fingonzalo'],
+                        ['nombre' => 'Hugo',  	                        'foto' => 'finhugo'],
+                        ['nombre' => 'Lara Rodríguez',		            'foto' => 'finlara'],
+                        ['nombre' => 'Manuel Arcala',	                'foto' => 'finmanuel'],
+                        ['nombre' => 'Ricardo Estremera',	            'foto' => 'finricardoestremera'],
+                        ['nombre' => 'Rocío García',	                'foto' => 'finrociogarcia'],
                     ],
                     
                     //este año Gestion y RRHH son dos departamentos distintos, por lo que hay que hacer una matriz distinta para cada uno
