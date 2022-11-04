@@ -269,7 +269,7 @@ escribe_cabecera();
                         ['nombre' => 'Nacho Menéndez',				        'foto' => 'webnachomenendez'],
                         ['nombre' => 'Solete Vendrell',			    	    'foto' => 'webjorgegarciasamartin'],
                         ['nombre' => 'Laura García',			        	'foto' => 'webalbertocabello'],
-                        ['nombre' => 'Beatriz Domínguez',			        'foto' => 'webrosamahugo'],
+                        ['nombre' => 'Beatriz Domínguez',			        'foto' => 'webbeadominguez'],
                         ['nombre' => 'Jesús Lorenzo',				    	'foto' => ''],
                         ['nombre' => 'Daniel Claessens',			   	    'foto' => 'webpablocodina'],
                         ['nombre' => 'Juan de Haro',	    		        'foto' => 'websoletevendrell'],
