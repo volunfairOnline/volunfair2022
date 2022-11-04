@@ -220,14 +220,17 @@ escribe_cabecera();
                     ],
                     
                 "Financiación" => [
-                        ['nombre' => 'Gonzalo Castañeda',				'foto' => 'fingonzalocastaneda'],
                         ['nombre' => 'Santi Antúnez',		    	    'foto' => 'finsantiantunez'],
-                        ['nombre' => 'Iñigo Baltar',			        'foto' => 'fintinigobaltar'],
-                        ['nombre' => 'Antonio Hernández-Ros',           'foto' => 'finantoniohros'],
-                        ['nombre' => 'Ricardo Estremera',  	            'foto' => 'finricardoestremera'],
-                        ['nombre' => 'Rocío García',		            'foto' => 'finrociogarcia'],
-                        ['nombre' => 'Sofía Zaballa',	                'foto' => 'finsofiazaballa'],
-                        ['nombre' => 'Silvia Assmuth',	                'foto' => 'finsilviaassmuth'],
+                        ['nombre' => 'Candela Vendrell',			    'foto' => 'candelavendrell'],
+                        ['nombre' => 'Gabriel Callejo',                 'foto' => 'gabrielcallejo'],
+                        ['nombre' => 'Gonzalo Halcón',  	            'foto' => 'gonzalohalcon'],
+                        ['nombre' => 'Hugo',		                    'foto' => 'hugo'],
+                        ['nombre' => 'Lara Rodriguez',	                'foto' => 'lararodriguez_'],
+                        ['nombre' => 'Manuel Arcala',	                'foto' => 'manuelarcala'],
+                        ['nombre' => 'Ricardo Estremera',	                'foto' => 'ricardoestremera'],
+                        ['nombre' => 'Rocío García',	                'foto' => 'rociogarcia'],
+
+
                     ],
                     
                     //este año Gestion y RRHH son dos departamentos distintos, por lo que hay que hacer una matriz distinta para cada uno
@@ -269,16 +272,20 @@ escribe_cabecera();
                     ],
                 
                 "Web y Feria Online" => [
-                        ['nombre' => 'Ana Molina',				        'foto' => 'webanamolina'],
-                        ['nombre' => 'Jorge García',				    'foto' => 'webjorgegarciasamartin'],
-                        ['nombre' => 'Alberto Cabello',			    	'foto' => 'webalbertocabello'],
-                        ['nombre' => 'Rosa María Mahugo',			    'foto' => 'webrosamahugo'],
-                        ['nombre' => 'Nacho Menéndez',					'foto' => 'webnachomenendez'],
-                        ['nombre' => 'Pablo Codina',				    'foto' => 'webpablocodina'],
-                        ['nombre' => 'Solete Vendrell',			        'foto' => 'websoletevendrell'],
-                        ['nombre' => 'Alba Casanova',			        'foto' => 'webalbacasanova'],
-                        ['nombre' => 'Carmen Acevedo',				    'foto' => 'webcarmenacevedo'],
-                        ['nombre' => 'Lucía Rosado',				    'foto' => 'webluciarosado'],
+                        ['nombre' => 'Nacho Menéndez',					'foto' => 'nachomenéndez'],
+                        ['nombre' => 'Solete Vendrell',				        'foto' => 'soletevendrell'],
+                        ['nombre' => 'Laura García',				    'foto' => 'lauragarcia'],
+                        ['nombre' => 'Juan de Haro',			    	'foto' => 'juandeharo'],
+                        ['nombre' => 'Bea Domínguez',					'foto' => 'beadomínguez'],
+                        ['nombre' => 'Jesús Lorenzo',			    'foto' => 'jesúslorenzo'],
+                        ['nombre' => 'Daniel Claessens',				    'foto' => 'danielclaessens'],
+                        ['nombre' => 'Miguel Botella',				    'foto' => 'miguelbotella'],
+                        ['nombre' => 'Ana Molina',					'foto' => 'webanamolina'],
+                        ['nombre' => 'Marta Fernández',				    'foto' => 'mktmartafernandez'],
+                        ['nombre' => 'Jaime Barea',			        'foto' => 'webjorgegarciasamartin'],
+                        ['nombre' => 'Martín Sainz-Trápaga',			        'foto' => 'webalbacasanova'],
+
+
                     ],
                
 
