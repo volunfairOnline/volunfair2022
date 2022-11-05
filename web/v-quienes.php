@@ -230,17 +230,25 @@ escribe_cabecera();
                         ['nombre' => 'Silvia Assmuth',	                'foto' => 'finsilviaassmuth'],
                     ],
                     
-                "Gestión y Recursos Humanos" => [
-                        ['nombre' => 'Ana Vendrell',	    			'foto' => 'gesanavendrell'],
-                        ['nombre' => 'Miguel Callejo',	    			'foto' => 'gesmiguelcallejo'],
-                        ['nombre' => 'Begoña Nuñez',				    'foto' => 'gesbegonunez'],
-                        ['nombre' => 'Diego Alvarez',			        'foto' => 'gesdiegoalvarez'],
-                        ['nombre' => 'Isabel de la Puente',             'foto' => 'gesisadelapuente'],
-                        ['nombre' => 'Alejandro García',		        'foto' => 'gesalejandrogarcia'],
-                        ['nombre' => 'María Schupfer',				    'foto' => 'gesmariaschupfer'],
-                        ['nombre' => 'Ana Corrales',				    'foto' => 'gesanacorrales'],
-                        ['nombre' => 'Alejandra Gómez',			    	'foto' => 'gesalejandragomez'],
-                        ['nombre' => 'Rodrigo Salcedo',				    'foto' => 'gesrodrigosalcedo'],
+                "Gestión" => [
+                        ['nombre' => 'Diego Álvarez',	    			'foto' => 'diegoalvarez'],
+                        ['nombre' => 'Enrique de Miguel',	    	    'foto' => 'enriquedemiguel'],
+                        ['nombre' => 'Jaime Moral',				        'foto' => 'jaimemoral'],
+                        ['nombre' => 'Javier Latorre',			        'foto' => 'javierlatorre'],
+                        ['nombre' => 'Lucia Sepúlveda',                 'foto' => 'luciasepulveda'],
+                        ['nombre' => 'Macarena Cuesta',		            'foto' => 'macarenacuesta'],
+                    ],
+
+                "Recursos Humanos" => [
+                        ['nombre' => 'Cristina Barceló',	    	    'foto' => 'cristinabarcelo'],
+                        ['nombre' => 'Inés Piedrola',	    			'foto' => 'inespiedrola'],
+                        ['nombre' => 'Iñigo Arreytunandia2',		    'foto' => 'iñigoarreytunandia'],
+                        ['nombre' => 'José Vives',			            'foto' => 'josévives'],
+                        ['nombre' => 'Pilar González Aller',            'foto' => 'pilargonzalezaller'],
+                        ['nombre' => 'Rosa Mahugo',		                'foto' => 'rosamahugo'],
+                        ['nombre' => 'Santiago Puelles',	            'foto' => 'santiagopuelles'],
+                        ['nombre' => 'Tito Ramirez',				    'foto' => 'titoramirez'],
+                        ['nombre' => 'Tito Ramirez',				    'foto' => 'titoramirez'],
                     ],
 
                 "Marketing" => [
