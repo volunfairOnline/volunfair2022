@@ -56,13 +56,6 @@ escribe_cabecera();
                     </div>
                     </div>
 
-                <div style="text-align:right">
-                    <div class="col-md-8 wow animated bounceIn">
-                    <h2 class="c-right c-font-uppercase c-font-bold">
-                    <a href="v-ponentes22"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2022</a> 
-                        </h2>
-                    </div>
-                </div>
             </div>
 
             <!-- BEGIN: TITULO -->
