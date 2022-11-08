@@ -31,7 +31,7 @@ escribe_cabecera();
 			
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">Ediciones anteriores</h3>
+					<h3 class="c-center c-font-uppercase c-font-bold">iones anteriores</h3>
 					<div class="c-line-center c-theme-bg"></div>
 				</div>
 			</div>
@@ -174,6 +174,20 @@ escribe_cabecera();
                         <strong>Jefes:</strong> Ignacio García-Guerra y María Lanzuela
                     </div>
 
+                </div>
+
+                <div class="tl-item3" onclick="location.href='v-ponentes22';">
+                    
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2022/ninos22.jpg")"></div>
+                    
+                    <div class="tl-year">
+                        <p class="f2 heading--sanSerif"><a href="v-ponentes22.php">2022</a></p>
+                    </div>
+
+                    <div class="tl-content">
+                        <strong>Lema:</strong> "En lo ordinario está lo extraordinario" <br />
+                        <strong>Jefes:</strong> Chema Seral y María López
+                    </div>
                 </div>
 
             </section>
