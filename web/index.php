@@ -50,12 +50,12 @@ escribe_cabecera(1);
                 
             <!--  Fondos al redimensionar la página -->
                 <div class="solomediano1">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2022\FotoPortada2.png" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\inicio\FotoPortada2.png" width="100%">
                 </div>
             
             
                 <div class="solo_peq">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2022\FotoPortadaMovil2.png" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\inicio\FotoPortadaMovil2.png" width="100%">
                 </div>
 			
             <div class="">
@@ -166,7 +166,7 @@ escribe_cabecera(1);
                      <div class="row">
                         <div class="col-md-12">
                             <div class="animated fadeInLeft c-center" style="min-height: 380px;">
-                             <img alt="" src="assets/base/img/volunfair/Plano_2022.png" width="80%">
+                             <img alt="" src="assets/base/img/volunfair/inicio/Plano_2022.png" width="80%">
                             </div>
                         </div>
 						<!--
@@ -294,12 +294,12 @@ escribe_cabecera(1);
                             <div class="row">
                                 <a href="https://www.fundaciontelefonica.com/noticias/2a-edicion-de-los-premiosvoluntariado/" target="blank">
                                     <div class="col-md-6 wow animated fadeInBottom">
-                                        <img src="./assets/base/img/volunfair/premio-telefonica.jpg" width=100%" class="img-centrada" alt="Premios Fundación Telefónica al Voluntariado 2019" title="Premios Fundación Telefónica al Voluntariado 2019" />
+                                        <img src="./assets/base/img/volunfair/inicio/premio-telefonica.jpg" width=100%" class="img-centrada" alt="Premios Fundación Telefónica al Voluntariado 2019" title="Premios Fundación Telefónica al Voluntariado 2019" />
                                     </div>
                                 </a>
                                 <a href="https://www.fundaciontelefonica.com/noticias/2a-edicion-de-los-premiosvoluntariado/" target="blank">
                                     <div class="col-md-6 wow animated fadeInBottom">
-                                        <img src="./assets/base/img/volunfair/premio-telefonica1.jpg" width=100%" class="img-centrada" alt="Premios Fundación Telefónica al Voluntariado 2019" title="Premios Fundación Telefónica al Voluntariado 2019" style="padding-top: 1.75em;" />
+                                        <img src="./assets/base/img/volunfair/inicio/premio-telefonica1.jpg" width=100%" class="img-centrada" alt="Premios Fundación Telefónica al Voluntariado 2019" title="Premios Fundación Telefónica al Voluntariado 2019" style="padding-top: 1.75em;" />
                                     </div>
                                 </a>
                             </div>

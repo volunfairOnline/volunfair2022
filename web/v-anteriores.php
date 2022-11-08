@@ -86,7 +86,7 @@ escribe_cabecera();
                 
                 <div class="tl-item3" onclick="location.href='v-ponentes16';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/avionaco2.jpg")"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/avionaco2.jpg")"></div>
                     
                     <div class="tl-year">
                         <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2016</a></p>
@@ -100,7 +100,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes17';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/rowing3.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/rowing3.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes17.php">2017</a></p>
@@ -115,7 +115,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes18';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2021/carpetaanteriores/cuadrofumao3.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/cuadrofumao3.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes18.php">2018</a></p>
@@ -133,7 +133,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes19';">
                     
-                <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/mares/estrellas.jpg)"></div>
+                <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/estrellas.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes19.php">2019</a></p>
@@ -148,7 +148,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes20';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/mares/mar13.jpeg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/mar13.jpeg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes20.php">2020</a></p>
@@ -163,7 +163,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes21';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/zapatillas/acera.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/acera.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes21.php">2021</a></p>
@@ -176,19 +176,6 @@ escribe_cabecera();
 
                 </div>
 
-                <div class="tl-item3" onclick="location.href='v-ponentes22';">
-                    
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2022/ninos22.jpg")"></div>
-                    
-                    <div class="tl-year">
-                        <p class="f2 heading--sanSerif"><a href="v-ponentes22.php">2022</a></p>
-                    </div>
-
-                    <div class="tl-content">
-                        <strong>Lema:</strong> "En lo ordinario está lo extraordinario" <br />
-                        <strong>Jefes:</strong> Chema Seral y María López
-                    </div>
-                </div>
 
             </section>
 
