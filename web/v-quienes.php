@@ -220,14 +220,15 @@ escribe_cabecera();
                     ],
                     
                 "Financiación" => [
-                        ['nombre' => 'Gonzalo Castañeda',				'foto' => 'fingonzalocastaneda'],
-                        ['nombre' => 'Santi Antúnez',		    	    'foto' => 'finsantiantunez'],
-                        ['nombre' => 'Iñigo Baltar',			        'foto' => 'fintinigobaltar'],
-                        ['nombre' => 'Antonio Hernández-Ros',           'foto' => 'finantoniohros'],
-                        ['nombre' => 'Ricardo Estremera',  	            'foto' => 'finricardoestremera'],
-                        ['nombre' => 'Rocío García',		            'foto' => 'finrociogarcia'],
-                        ['nombre' => 'Sofía Zaballa',	                'foto' => 'finsofiazaballa'],
-                        ['nombre' => 'Silvia Assmuth',	                'foto' => 'finsilviaassmuth'],
+                        ['nombre' => 'Santi Antúnez',				        'foto' => 'finsanti'],
+                        ['nombre' => 'Cande Vendrell',		    	        'foto' => 'fincande'],
+                        ['nombre' => 'Gabriel Callejo',			            'foto' => 'fingabrielcallejo'],
+                        ['nombre' => 'Gonzalo Halcón',                      'foto' => 'fingonzalo'],
+                        ['nombre' => 'Hugo',  	                            'foto' => 'finhugo'],
+                        ['nombre' => 'Lara Rodríguez',		                'foto' => 'finlara'],
+                        ['nombre' => 'Manuel Arcala',	                    'foto' => 'finmanuel'],
+                        ['nombre' => 'Ricardo Estremera',	                'foto' => 'finricardoestremera'],
+                        ['nombre' => 'Rocío García',	                    'foto' => 'finrociogarcia'],
                     ],
                     
                     //este año Gestion y RRHH son dos departamentos distintos, por lo que hay que hacer una matriz distinta para cada uno
@@ -266,16 +267,18 @@ escribe_cabecera();
                     ],
                 
                 "Web y Feria Online" => [
-                        ['nombre' => 'Ana Molina',				        'foto' => 'webanamolina'],
-                        ['nombre' => 'Jorge García',				    'foto' => 'webjorgegarciasamartin'],
-                        ['nombre' => 'Alberto Cabello',			    	'foto' => 'webalbertocabello'],
-                        ['nombre' => 'Rosa María Mahugo',			    'foto' => 'webrosamahugo'],
-                        ['nombre' => 'Nacho Menéndez',					'foto' => 'webnachomenendez'],
-                        ['nombre' => 'Pablo Codina',				    'foto' => 'webpablocodina'],
-                        ['nombre' => 'Solete Vendrell',			        'foto' => 'websoletevendrell'],
-                        ['nombre' => 'Alba Casanova',			        'foto' => 'webalbacasanova'],
-                        ['nombre' => 'Carmen Acevedo',				    'foto' => 'webcarmenacevedo'],
-                        ['nombre' => 'Lucía Rosado',				    'foto' => 'comluciarosado'],
+                        ['nombre' => 'Nacho Menéndez',				        'foto' => 'webnacho'],
+                        ['nombre' => 'Solete Vendrell',			    	    'foto' => 'websolete'],
+                        ['nombre' => 'Laura García',			        	'foto' => 'weblaura'],
+                        ['nombre' => 'Bea Domínguez',			            'foto' => 'webbeadominguez'],
+                        ['nombre' => 'Daniel Claessens',					'foto' => 'webdanielclaessens'],
+                        ['nombre' => 'Jesús Lorenzo',				        'foto' => 'webjesuslorenzo'],
+                        ['nombre' => 'Ana Molina',		        		    'foto' => 'webanamolina'],
+                        ['nombre' => 'Miguel Botella',			            'foto' => 'webmiguelbotella'],
+                        ['nombre' => 'Juan de Haro',			            'foto' => 'webjuandeharo'],
+                        ['nombre' => 'Jaime Barea',				            'foto' => 'webjuandeharo'],
+                        ['nombre' => 'Martín Sainz-Trápaga',			    'foto' => 'webjuandeharo'],
+                        ['nombre' => 'Marta Fernández',				        'foto' => 'webmarta'],
                     ],
                
 
