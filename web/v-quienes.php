@@ -258,11 +258,11 @@ escribe_cabecera();
                 "ONG's y EESS" => [
                         ['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonoblejas'],
                         ['nombre' => 'Ainhoa Orta',			            'foto' => 'ongainhoaorta'],
-                        ['nombre' => 'Blaca Bravo',			            'foto' => 'ongblancabravo'],
-                        ['nombre' => 'Ines Torres',		                'foto' => 'onginestorres'],
+                        ['nombre' => 'Blanca Bravo',			        'foto' => 'ongblancabravo'],
+                        ['nombre' => 'Inés Torres',		                'foto' => 'onginestorres'],
                         ['nombre' => 'Isabel de Bloteau',				'foto' => 'ongisabeldebloteau'],
                         ['nombre' => 'Paula Creis',				        'foto' => 'ongpaulacreis'],
-                        ['nombre' => 'Rocio Giménez',			        'foto' => 'ongrociogimenez'],
+                        ['nombre' => 'Rocío Giménez',			        'foto' => 'ongrociogimenez'],
                         ['nombre' => 'Santiago Pedrero',			    'foto' => 'ongsantiagopedrero'],
                     ],
                 
