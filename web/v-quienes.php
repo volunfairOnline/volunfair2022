@@ -233,16 +233,12 @@ escribe_cabecera();
                     
                     //este año Gestion y RRHH son dos departamentos distintos, por lo que hay que hacer una matriz distinta para cada uno
                 "Gestión y Recursos Humanos" => [
-                        ['nombre' => 'Ana Vendrell',	    			'foto' => 'gesanavendrell'],
-                        ['nombre' => 'Miguel Callejo',	    			'foto' => 'gesmiguelcallejo'],
-                        ['nombre' => 'Begoña Nuñez',				    'foto' => 'gesbegonunez'],
-                        ['nombre' => 'Diego Alvarez',			        'foto' => 'gesdiegoalvarez'],
-                        ['nombre' => 'Isabel de la Puente',             'foto' => 'gesisadelapuente'],
-                        ['nombre' => 'Alejandro García',		        'foto' => 'gesalejandrogarcia'],
-                        ['nombre' => 'María Schupfer',				    'foto' => 'gesmariaschupfer'],
-                        ['nombre' => 'Ana Corrales',				    'foto' => 'gesanacorrales'],
-                        ['nombre' => 'Alejandra Gómez',			    	'foto' => 'gesalejandragomez'],
-                        ['nombre' => 'Rodrigo Salcedo',				    'foto' => 'gesrodrigosalcedo'],
+                        ['nombre' => 'Diego Álvarez',	    			'foto' => 'gesdiego'],
+                        ['nombre' => 'Enrique de Miguel',	    		'foto' => 'gesenrique'],
+                        ['nombre' => 'Jaime Moral',				        'foto' => 'gesjaime'],
+                        ['nombre' => 'Lucía Sepúlveda',			        'foto' => 'geslucia'],
+                        ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarena'],
+                        ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
                     ],
 
                 "Marketing" => [
@@ -276,8 +272,8 @@ escribe_cabecera();
                         ['nombre' => 'Ana Molina',		        		    'foto' => 'webanamolina'],
                         ['nombre' => 'Miguel Botella',			            'foto' => 'webmiguelbotella'],
                         ['nombre' => 'Juan de Haro',			            'foto' => 'webjuandeharo'],
-                        ['nombre' => 'Jaime Barea',				            'foto' => 'webjuandeharo'],
-                        ['nombre' => 'Martín Sainz-Trápaga',			    'foto' => 'webjuandeharo'],
+                        ['nombre' => 'Jaime Barea',				            'foto' => 'webjaime'],
+                        ['nombre' => 'Martín Sainz-Trápaga',			    'foto' => 'webmartin'],
                         ['nombre' => 'Marta Fernández',				        'foto' => 'webmarta'],
                     ],
                
