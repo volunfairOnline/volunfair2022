@@ -54,7 +54,7 @@ escribe_cabecera();
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2023</h3>
                     <div class="c-line-center c-theme-bg"></div>
-                    <p class="c-center" >Ya está aquí la octava edición de <b>VOLUNFAIR</b>. ¿Te la vas a perder? <br />El el miércoles 15 y jueves 16 de Febrero de <b>10:00 a 19:00</b> podrás conocer a todas las entidades sociales que nos acompañan este año.
+                    <p class="c-center" >Ya está aquí la octava edición de <b>VOLUNFAIR</b>. ¿Te la vas a perder? <br />El miércoles 15 y jueves 16 de febrero de <b>10:00 a 19:00</b> podrás conocer a todas las entidades sociales que nos acompañan este año.
                     <br /> Además, con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
 					
 				</div>
