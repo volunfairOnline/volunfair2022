@@ -232,6 +232,7 @@ escribe_cabecera();
                     ],
                     
                     //este año Gestion y RRHH son dos departamentos distintos, por lo que hay que hacer una matriz distinta para cada uno
+<<<<<<< HEAD
                 "Gestión y Recursos Humanos" => [
                         ['nombre' => 'Ana Vendrell',	    			'foto' => 'gesanavendrell'],
                         ['nombre' => 'Miguel Callejo',	    			'foto' => 'gesmiguelcallejo'],
@@ -239,6 +240,15 @@ escribe_cabecera();
                         ['nombre' => 'Diego Alvarez',			        'foto' => 'gesdiegoalvarez'],
                         ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarenacuesta'],
                         
+=======
+                "Gestión" => [
+                        ['nombre' => 'Diego Álvarez',	    			'foto' => 'gesdiego'],
+                        ['nombre' => 'Enrique de Miguel',	    		'foto' => 'gesenrique'],
+                        ['nombre' => 'Jaime Moral',				        'foto' => 'gesjaime'],
+                        ['nombre' => 'Lucía Sepúlveda',			        'foto' => 'geslucia'],
+                        ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarena'],
+                        ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
+>>>>>>> a379d8aaed00dd9b47f8a64530ea8d9dc2a1dd0d
                     ],
                 "Recursos Humanos"=>[
                         ['nombre' => 'Cristina Barcelo',		        'foto' => 'rhcristinabarcelo'],
@@ -265,11 +275,11 @@ escribe_cabecera();
                 "ONG's y EESS" => [
                         ['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonoblejas'],
                         ['nombre' => 'Ainhoa Orta',			            'foto' => 'ongainhoaorta'],
-                        ['nombre' => 'Blaca Bravo',			            'foto' => 'ongblancabravo'],
-                        ['nombre' => 'Ines Torres',		                'foto' => 'onginestorres'],
+                        ['nombre' => 'Blanca Bravo',			        'foto' => 'ongblancabravo'],
+                        ['nombre' => 'Inés Torres',		                'foto' => 'onginestorres'],
                         ['nombre' => 'Isabel de Bloteau',				'foto' => 'ongisabeldebloteau'],
                         ['nombre' => 'Paula Creis',				        'foto' => 'ongpaulacreis'],
-                        ['nombre' => 'Rocio Giménez',			        'foto' => 'ongrociogimenez'],
+                        ['nombre' => 'Rocío Giménez',			        'foto' => 'ongrociogimenez'],
                         ['nombre' => 'Santiago Pedrero',			    'foto' => 'ongsantiagopedrero'],
                     ],
                 
@@ -283,8 +293,8 @@ escribe_cabecera();
                         ['nombre' => 'Ana Molina',		        		    'foto' => 'webanamolina'],
                         ['nombre' => 'Miguel Botella',			            'foto' => 'webmiguelbotella'],
                         ['nombre' => 'Juan de Haro',			            'foto' => 'webjuandeharo'],
-                        ['nombre' => 'Jaime Barea',				            'foto' => 'webjuandeharo'],
-                        ['nombre' => 'Martín Sainz-Trápaga',			    'foto' => 'webjuandeharo'],
+                        ['nombre' => 'Jaime Barea',				            'foto' => 'webjaime'],
+                        ['nombre' => 'Martín Sainz-Trápaga',			    'foto' => 'webmartin'],
                         ['nombre' => 'Marta Fernández',				        'foto' => 'webmarta'],
                     ],
                
@@ -298,6 +308,17 @@ escribe_cabecera();
                         ['nombre' => 'Carmen Carrasco',		            'foto' => 'rrsscarmencarrasco'],
                         ['nombre' => 'José Vives',				        'foto' => 'rrssjosevives'],
                         ['nombre' => 'Jimena García',				    'foto' => 'rrssjimenagarcia'],
+                    ],
+
+                    "Recursos Humanos" => [
+                        ['nombre' => 'José Vives',				        'foto' => 'rrhhjose'],
+                        ['nombre' => 'Pilar González',			        'foto' => 'rrhhpilar'],
+                        ['nombre' => 'Cristina Barceló',			    'foto' => 'rrhhcris'],
+                        ['nombre' => 'Íñigo Arreytunandia',		        'foto' => 'rrhhinigo'],
+                        ['nombre' => 'Inés Piédrola',				    'foto' => 'rrhhines'],
+                        ['nombre' => 'Rosa Mahugo',				        'foto' => 'rrhhrosa'],
+                        ['nombre' => 'Santiago Puelles',			    'foto' => 'rrhhsanti'],
+                        ['nombre' => 'Tito Ramírez',				    'foto' => 'rrhhtito'],
                     ],
                 ];
 
