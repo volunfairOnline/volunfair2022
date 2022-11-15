@@ -241,6 +241,17 @@ escribe_cabecera();
                         ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarena'],
                         ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
                     ],
+                "Recursos Humanos"=>[
+                        ['nombre' => 'Cristina Barcelo',		        'foto' => 'rhcristinabarcelo'],
+                        ['nombre' => 'Ines Piedrola',				    'foto' => 'rhinespiedrola'],
+                        ['nombre' => 'iñigo Arreytunandia',				'foto' => 'rhiñigoarreytunandia'],
+                        ['nombre' => 'José Vives',			    	    'foto' => 'rhjosévives'],
+                        ['nombre' => 'Pilar Gonzalez',				    'foto' => 'rhpilargonzalezaller'],
+                        ['nombre' => 'Rosa Mahugo',				        'foto' => 'rhrosamahugo'],
+                        ['nombre' => 'Santiago Puelles',				'foto' => 'rhsantiagopuelles'],
+                        ['nombre' => 'Tito Ramírez',				    'foto' => 'rhtitoramirez'],
+                       
+                ],
 
                 "Marketing" => [
                         ['nombre' => 'Blanca Verdes',			        'foto' => 'mktblancaverdes'],
