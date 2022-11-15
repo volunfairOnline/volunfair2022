@@ -232,15 +232,6 @@ escribe_cabecera();
                     ],
                     
                     //este año Gestion y RRHH son dos departamentos distintos, por lo que hay que hacer una matriz distinta para cada uno
-<<<<<<< HEAD
-                "Gestión y Recursos Humanos" => [
-                        ['nombre' => 'Ana Vendrell',	    			'foto' => 'gesanavendrell'],
-                        ['nombre' => 'Miguel Callejo',	    			'foto' => 'gesmiguelcallejo'],
-                        ['nombre' => 'Begoña Nuñez',				    'foto' => 'gesbegonunez'],
-                        ['nombre' => 'Diego Alvarez',			        'foto' => 'gesdiegoalvarez'],
-                        ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarenacuesta'],
-                        
-=======
                 "Gestión" => [
                         ['nombre' => 'Diego Álvarez',	    			'foto' => 'gesdiego'],
                         ['nombre' => 'Enrique de Miguel',	    		'foto' => 'gesenrique'],
@@ -248,7 +239,6 @@ escribe_cabecera();
                         ['nombre' => 'Lucía Sepúlveda',			        'foto' => 'geslucia'],
                         ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarena'],
                         ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
->>>>>>> a379d8aaed00dd9b47f8a64530ea8d9dc2a1dd0d
                     ],
                 "Recursos Humanos"=>[
                         ['nombre' => 'Cristina Barcelo',		        'foto' => 'rhcristinabarcelo'],
