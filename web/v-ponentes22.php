@@ -51,7 +51,7 @@ escribe_cabecera();
             <br>
                 <div class="col-md-2 wow animated bounceIn">
                     <h2 class="c-right c-font-uppercase c-font-bold">
-                    <a href="v-ponentes20"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2020</a> 
+                    <a href="v-ponentes21"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2021</a> 
                         </h2>
                     </div>
                     </div>
@@ -61,8 +61,8 @@ escribe_cabecera();
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2021</h3>
-                    <p class="c-center" >Ya está aquí la sexta edición de <b>VOLUNFAIR</b>. ¡La primera en formato digital! ¿Te la vas a perder? <br />Pásate este miércoles y jueves de <b>10:00 a 19:00</b> por el link que pondremos dentro de poco para conocer a todas las entidades sociales que nos acompañan este año.
+					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2022</h3>
+                    <p class="c-center" >Ya está aquí la séptima edición de <b>VOLUNFAIR</b>. ¡La primera en formato digital! ¿Te la vas a perder? <br />Pásate este miércoles y jueves de <b>10:00 a 19:00</b> por el link que pondremos dentro de poco para conocer a todas las entidades sociales que nos acompañan este año.
                     <br /> Este año contamos con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
 					
 				</div>
