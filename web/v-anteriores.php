@@ -31,7 +31,7 @@ escribe_cabecera();
 			
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">Ediciones anteriores</h3>
+					<h3 class="c-center c-font-uppercase c-font-bold">Ediciones Anteriores</h3>
 					<div class="c-line-center c-theme-bg"></div>
 				</div>
 			</div>
