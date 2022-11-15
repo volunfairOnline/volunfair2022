@@ -208,7 +208,7 @@ escribe_cabecera();
                     ],
                 
                 "Comunicación" => [
-                        ['nombre' => 'Isabel de la Puente',			    	'foto' => 'comisabeldelapuente'],
+                        ['nombre' => 'Isa de la Puente',			    	'foto' => 'comisabeldelapuente'],
                         ['nombre' => 'Ignacio Calvo',					    'foto' => 'comignaciocalvo'],
                         ['nombre' => 'Sonsoles Sánchez-Albornoz',		    'foto' => 'comsonsolessanchez'],
                         ['nombre' => 'Jaime Escrig',             	        'foto' => 'comjaimeescrig'],
@@ -241,17 +241,6 @@ escribe_cabecera();
                         ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarena'],
                         ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
                     ],
-                "Recursos Humanos"=>[
-                        ['nombre' => 'Cristina Barcelo',		        'foto' => 'rhcristinabarcelo'],
-                        ['nombre' => 'Ines Piedrola',				    'foto' => 'rhinespiedrola'],
-                        ['nombre' => 'iñigo Arreytunandia',				'foto' => 'rhiñigoarreytunandia'],
-                        ['nombre' => 'José Vives',			    	    'foto' => 'rhjosévives'],
-                        ['nombre' => 'Pilar Gonzalez',				    'foto' => 'rhpilargonzalezaller'],
-                        ['nombre' => 'Rosa Mahugo',				        'foto' => 'rhrosamahugo'],
-                        ['nombre' => 'Santiago Puelles',				'foto' => 'rhsantiagopuelles'],
-                        ['nombre' => 'Tito Ramírez',				    'foto' => 'rhtitoramirez'],
-                       
-                ],
 
                 "Marketing" => [
                         ['nombre' => 'Blanca Verdes',			        'foto' => 'mktblancaverdes'],
@@ -291,14 +280,19 @@ escribe_cabecera();
                
 
                 "Redes Sociales" => [
-                        ['nombre' => 'Cristina Llordén',				'foto' => 'rrsscrisllorden'],
-                        ['nombre' => 'Ignacio García',			        'foto' => 'rrssignaciogarcia'],
-                        //['nombre' => 'Carmen Oché',					    'foto' => 'rrsspaularey3.jpg'],
-                        ['nombre' => 'Blanca Verdes',		        	'foto' => 'rrssblancaverdes'],
-                        ['nombre' => 'Leticia de Wouters',			    'foto' => 'rrssletidewouters'],
-                        ['nombre' => 'Carmen Carrasco',		            'foto' => 'rrsscarmencarrasco'],
-                        ['nombre' => 'José Vives',				        'foto' => 'rrssjosevives'],
-                        ['nombre' => 'Jimena García',				    'foto' => 'rrssjimenagarcia'],
+                        ['nombre' => 'Sufle',				    'foto' => 'rrssmariaschupfer'],
+                        ['nombre' => 'Almu Alonso',			    'foto' => 'rrssalmudenaalonso'],
+                        ['nombre' => 'Reyes Valdecantos',		'foto' => 'rrssreyesvaldecantos'],
+                        ['nombre' => 'Jana del Rio',		    'foto' => 'rrssjanadelrio'],
+                        ['nombre' => 'Alba Casanova',			'foto' => 'rrssalbacasanova'],
+                        ['nombre' => 'Almudena Salas',		    'foto' => 'rrssalmudenasalas'],
+                        ['nombre' => 'Francesca Nadalini',	    'foto' => 'rrssfrancescanadalini'],
+                        ['nombre' => 'Giovanni Borghi',		    'foto' => 'rrssgiovanniborghi'],
+                        ['nombre' => 'Juan Pablo Leal',         'foto' => 'rrssjuanpabloleal'],
+                        ['nombre' => 'Telmo Ocina',     		'foto' => 'rrsstelmoocina'],
+                        ['nombre' => 'Jaime Rico',     			'foto' => 'rrssjaimerico'],
+                        ['nombre' => 'María Pérez',     		'foto' => 'rrssmariaperez'],
+                        //['nombre' => 'Belén Cabello',     			'foto' => 'rrssbelencabello'],
                     ],
 
                     "Recursos Humanos" => [
