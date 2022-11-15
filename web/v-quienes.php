@@ -208,15 +208,16 @@ escribe_cabecera();
                     ],
                 
                 "Comunicación" => [
-                        ['nombre' => 'Leonor Gómez',			    	'foto' => 'comleonorgomez'],
-                        ['nombre' => 'Olivia Alarcón',					'foto' => 'comoliviaalarcon'],
-                        ['nombre' => 'Sonsoles Sánchez-Albornoz',		'foto' => 'comsonsolessanchez'],
-                        ['nombre' => 'Alberto Ramírez',             	'foto' => 'comalbertoramirez'],
-                        ['nombre' => 'Susana Fernández',				'foto' => 'comsusanafernandez'],
-                        ['nombre' => 'Jaime Moral',				    	'foto' => 'comjaimemoral'],
-                        ['nombre' => 'Paco Lanzuela',					'foto' => 'compacolanzuela'],
-                        ['nombre' => 'Ana Marcos',	        			'foto' => 'comanamarcos'],
-                        ['nombre' => 'Blanca Huidobro',     			'foto' => 'comblancahuidobro'],
+                        ['nombre' => 'Isabel de la Puente',			    	'foto' => 'comisabeldelapuente'],
+                        ['nombre' => 'Ignacio Calvo',					    'foto' => 'comignaciocalvo'],
+                        ['nombre' => 'Sonsoles Sánchez-Albornoz',		    'foto' => 'comsonsolessanchez'],
+                        ['nombre' => 'Jaime Escrig',             	        'foto' => 'comjaimeescrig'],
+                        ['nombre' => 'Laura de Juan',				        'foto' => 'comlauradejuan'],
+                        ['nombre' => 'Lucía Rosado',				    	'foto' => 'comluciarosado'],
+                        ['nombre' => 'Paco Lanzuela',					    'foto' => 'compacolanzuela'],
+                        ['nombre' => 'Nico Montero',	        			'foto' => 'comnicomontero'],
+                        ['nombre' => 'Carmen Santaliestra',     			'foto' => 'comcarmensantalietra'],
+                        ['nombre' => 'Nico Yubero',     			        'foto' => 'comnicoyubero'],
                     ],
                     
                 "Financiación" => [
