@@ -55,12 +55,13 @@ escribe_cabecera();
                         </h2>
                     </div>
                     </div>
+
             </div>
 
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2021</h3>
+					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2021</h3>
                     <p class="c-center" >Ya está aquí la sexta edición de <b>VOLUNFAIR</b>. ¡La primera en formato digital! ¿Te la vas a perder? <br />Pásate este miércoles y jueves de <b>10:00 a 19:00</b> por el link que pondremos dentro de poco para conocer a todas las entidades sociales que nos acompañan este año.
                     <br /> Este año contamos con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
 					
