@@ -168,10 +168,10 @@ escribe_cabecera();
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 10 de febrero: </h2>   
-                <p class="c-center" >Acto inaugural de VOLUNFAIR 2021 con Toni Nadal</p>             
+                <p class="c-center" >Se realizo el acto inaugural de VOLUNFAIR 2022 con Joaquín Echevarría y Álvaro Trigo</p>             
             </div>
 
-            <!-- BEGIN: Toni Nadal -->
+            <!-- BEGIN: Joaquin Echevarria -->
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets\base\img\volunfair\Fotos2021\bosque.jpg">
                     <div class="container">
@@ -179,33 +179,32 @@ escribe_cabecera();
                             <div class="col-md-8">
                                 <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
                                     <div class="c-content-title-3 c-theme-border c-right">
-                                        <h3 class="c-right c-font-uppercase c-font-bold">Toni Nadal</h3>
-                                        <h4 class="c-right c-font-uppercase c-font-bold">
-                                            <a href="https://www.instagram.com/toninadal_oficial" target="_blank"><u>@toninadal_oficial</u></a>
-                                        </h4>
+                                        <h3 class="c-right c-font-uppercase c-font-bold">Joaquín Echevarría</h3>
                                         <div class="c-right c-line-left "> </div>
                                     </div>
                                     <p class="c-right">
-                                        Toni Nadal 
-                                        ha preparado y acompañado toda la carrera de su sobrino Rafa Nadal, hasta convertirse en uno de los mayores nombres
-                                        de la historia del tenis profesional y una leyenda del deporte español. Presume de haber trabajado con un chico que "supo afrontar su realidad", y que, a pesar de la dificultad, 
-                                        estuvo siempre dispuesto a trabajar para mejorarla.<br/>
-                                        Tanto desde el micrófono de Volunfair, como en una pista de Montecarlo, Toni siempre ha defendido la necesidad de conocerse
-                                        a uno mismo, de ser consciente de nuestras fortalezas y debilidades, y trabajar desde ahí para sacar lo mejor de uno mismo.
+                                    También conocido como "El padre del héroe del monopatín",
+                                     Joaquín Echevarría tuvo que decir adiós a su valiente hijo Ignacio 
+                                     tras fallecer en un atentado cuando intentaba defender a una mujer. 
+                                     Él mismo explica que su muerte y las circunstancias en las que se encontraba, 
+                                     le han hecho reflexionar sobre su vida y reforzar su fe: "(...) 
+                                    Estoy seguro de que si él, ahora mismo, pudiese razonar no se arrepentiría de lo que hizo".
+                                    En VOLUNFAIR nos enorgullece tener entre nosotros a superhéroes como Joaquín, 
+                                    que demuestran ser el palo de tal astilla.
                                     </p>
                                 </div>
                             </div>
                             <div class="col-md-4 animated wow fadeInRight">
-                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
+                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2022/sara.jpg); /*min-height: 300px;*/">
                                 </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2021\toni2.jpg" width="130%" title="Toni Nadal" alt="Toni Nadal"/>
+                                <img src="assets\base\img\volunfair\Fotos2022\joaquin.jpeg" width="100%" title="Joaquín Echevarría" alt="Joaquín Echevarría"/>
                             </div>
                         </div>
                     </div>
                     <br />
                 </div>
             </div>
-            <!-- END: Toni Nadal -->
+            <!-- END: Joaquin Echevarria -->
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
