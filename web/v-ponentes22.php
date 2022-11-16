@@ -262,8 +262,8 @@ escribe_cabecera();
                                             <div class="c-content-title-3 c-theme-border c-right">
                                                 <h3 class="c-right c-font-uppercase c-font-bold"> Sara Andrés Barrio</h3>
                                                 <h4 class="c-right c-font-uppercase c-font-bold">
-                                                   <!-- <a href="https://www.instagram.com/losangelesdekenia" target="_blank">@losangelesdekenia</a>
-                                                </h4> -->
+                                                 <a href="https://www.instagram.com/saraandressport/" target="_blank"><u>@saraandressport</u></a>
+                                                </h4> 
                                                 <div class="c-right c-line-left "> </div>
                                             </div>
                                             <p class="c-right">                                            
@@ -291,8 +291,8 @@ escribe_cabecera();
                                                 <div class="c-left c-line-right "> </div>
                                                 <h3 class="c-left c-font-uppercase c-font-bold">Guillermo Martínez</h3>
                                                 <h4 class="c-left c-font-uppercase c-font-bold">
-                                                   <!-- <a href="https://www.instagram.com/fund_anacarolinadm/?hl=es" target="_blank">@fund_anacarolinadm</a>
-                                                </h4> -->
+                                                 <a href="https://www.instagram.com/guillermogaunavivas/" target="_blank"><u>@guillermogaunavivas</u></a>
+                                                </h4>
                                             </div>
                                             <p class="c-right">
                                             De niño, Guillermo Martínez diseñaba los juguetes que deseaba con el sueño de poder crearlos algún día. 
