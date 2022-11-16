@@ -212,8 +212,8 @@ escribe_cabecera();
                                     <div class="c-content-title-3 c-theme-border c-left">
                                         <h3 class="c-left c-font-uppercase c-font-bold">Álvaro Trigo</h3>
                                         <h4 class="c-left c-font-uppercase c-font-bold">
-                                            <!--<a href="https://www.instagram.com/toninadal_oficial" target="_blank">@toninadal_oficial</a>
-                                        </h4> -->
+                                            <a href="https://www.instagram.com/alvarotrigopuig" target="_blank"><u>@alvarotrigopuig</u></a>
+                                        </h4>
                                         <div class="c-left c-line-right "> </div>
                                     </div>
                                     <p class="c-left">
