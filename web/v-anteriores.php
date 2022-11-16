@@ -93,7 +93,7 @@ escribe_cabecera();
                     </div>
 
                     <div class="tl-content">
-                        Primera edición de VOLUNFAIR <br />
+                        Primera edición de ge <br />
                         <strong>Jefes:</strong> Pilar Aldama y Daniel Alfaro
                     </div>
                 </div>
