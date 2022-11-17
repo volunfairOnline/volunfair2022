@@ -193,7 +193,7 @@ escribe_cabecera();
 
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2022/joaquin.jpeg); /*min-height: 300px;*/">
                                 </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2022\joaquin.jpeg" width="100%" title="Joaquín Echeverría" alt="Joaquín Echeverría"/>
+                                <img src="assets\base\img\volunfair\Fotos2022\joaquinm.jpg" width="100%" title="Joaquín Echeverría" alt="Joaquín Echeverría"/>
                                 <br /><br />
                             </div>
                         </div>
@@ -270,7 +270,7 @@ escribe_cabecera();
                                             Sara tenía toda su vida encaminada... pero un accidente de tráfico a los 25 años, donde perdió sus dos pies, le dio la vuelta a su mundo y a su manera de vivir.
                                             Durante el tiempo en que estuvo ingresada aprendió tres cosas, con las que en VOLUNFAIR nos quitamos el sombrero: ser humilde, ser paciente, y vivir el aquí y el ahora.
                                             Con estas ganas de vivir, se preparó durante meses para competir en los Juegos Paralímpicos de Río de Janeiro en la disciplina de atletismo, meses en los cuales le fue diagnosticado un cáncer de tiroides, y más tarde cáncer de piel.
-                                            Sin embargo, esta heroína biónica que vuela más allá de los límites tiene claro su lema de vida: "Prefiero no tener pies y saber a dónde voy, que tenerlos y estar perdida"
+                                            Sin embargo, esta heroína biónica que vuela más allá de los límites tiene claro su lema de vida: "Prefiero no tener pies y saber a dónde voy, que tenerlos y estar perdida".
                                             
                                             </p>
                                         </div>
@@ -298,7 +298,7 @@ escribe_cabecera();
                                             De niño, Guillermo Martínez diseñaba los juguetes que deseaba con el sueño de poder crearlos algún día. 
                                             De adolescente, fabricaba artilugios con cables, tornillos o tuercas de aparatos. De joven, con 27 años creó el primer brazo impreso en 3D para alguien sin codo.
                                             Todo empezó con un viaje a Kenia y una idea creativa y soñadora de llevar juguetes, que se transformó en un proyecto de prótesis para personas sin alguna articulación. 
-                                            Finalmente, en 2017 fundó Ayúdame3D, una ONG que hoy reparte gratuitamente estas piezas en más de 55 países. Una gran muestra de que no todos los superhéroes llevan capa, algunos llevan una impresora 3D bajo el brazo
+                                            Finalmente, en 2017 fundó Ayúdame3D, una ONG que hoy reparte gratuitamente estas piezas en más de 55 países. Una gran muestra de que no todos los superhéroes llevan capa, algunos llevan una impresora 3D bajo el brazo.
                                             </p>
                                         </div>
                                     </div>
@@ -321,17 +321,17 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/Fotos2022/jefazos.jpeg" alt="María Lanzuela e Ignacio García-Guerra" title="María Lanzuela e Ignacio García-Guerra" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/Fotos2022/jefes2022.jpeg" alt="María Lanzuela e Ignacio García-Guerra" title="María Lanzuela e Ignacio García-Guerra" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Nuestros jefes: María López y Chema Seral
                         </div>
                     </div>
-                    <div class="col-md-7">
+                   <!-- <div class="col-md-7">
                         <img src="./assets/base/img/volunfair/Fotos2021/EQUIPAZO.JPG" alt="Equipo 2021s" title="Equipo 2021" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo INDUFORUM 2022
                         </div>
-                    </div>
+                    </div>-->
                 </div>
             </div>
             <!-- END: BLOQUE EQUIPO Y JEFES -->
