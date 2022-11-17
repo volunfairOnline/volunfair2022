@@ -90,7 +90,7 @@ escribe_cabecera();
                                         <div class="c-right c-line-left "> </div>
                                     </div>
                                     <p class="c-right">
-                                    También conocido como "El padre del héroe del monopatín", Joaquín Echevarría tuvo que decir adiós a su valiente hijo Ignacio tras fallecer en un atentado cuando intentaba defender a una mujer.
+                                    También conocido como "El padre del héroe del monopatín", Joaquín Echeverría tuvo que decir adiós a su valiente hijo Ignacio tras fallecer en un atentado cuando intentaba defender a una mujer.
                                     Él mismo explica que su muerte y las circunstancias en las que se encontraba, le han hecho reflexionar sobre su vida y reforzar su fe: "(...) 
                                     Estoy seguro de que si él, ahora mismo, pudiese razonar no se arrepentiría de lo que hizo". En VOLUNFAIR nos enorgullece tener entre nosotros a superhéroes como Joaquín, que demuestran ser el palo de tal astilla.
                                     </p>
