@@ -51,18 +51,17 @@ escribe_cabecera();
             <br>
                 <div class="col-md-2 wow animated bounceIn">
                     <h2 class="c-right c-font-uppercase c-font-bold">
-                    <a href="v-ponentes20"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2020</a> 
+                    <a href="v-ponentes21"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2021</a> 
                         </h2>
-                    </div>
-                    </div>
+                </div>
 
             </div>
 
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2021</h3>
-                    <p class="c-center" >Ya está aquí la sexta edición de <b>VOLUNFAIR</b>. ¡La primera en formato digital! ¿Te la vas a perder? <br />Pásate este miércoles y jueves de <b>10:00 a 19:00</b> por el link que pondremos dentro de poco para conocer a todas las entidades sociales que nos acompañan este año.
+					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2022</h3>
+                    <p class="c-center" >Ya está aquí la séptima edición de <b>VOLUNFAIR</b>. ¡La primera en formato digital! ¿Te la vas a perder? <br />Pásate este miércoles y jueves de <b>10:00 a 19:00</b> por el link que pondremos dentro de poco para conocer a todas las entidades sociales que nos acompañan este año.
                     <br /> Este año contamos con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
 					
 				</div>
@@ -70,226 +69,153 @@ escribe_cabecera();
 			</div>
             <!--- END: TÍTULO -->
 
-            <!-- BEGIN: CUENTA ATRÁS -->
-            <!--    <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets\base\img\volunfair\Fotos2021\bosque.jpg">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="c-content-media-1 c-center c-bordered wow animated flash">
-                                    <div class="col-md-12">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2021 será realidad en ... </h3>
-                                        </div>
-                                    </div>
-                                    
-                                    <div id="deadline-message" class="deadline-message">
-                                    ¡Ya está aquí!
-                                    </div>
-                                    <div id="countdown" class="countdown">
-                                        <div class="countdown-number">
-                                            <span class="days countdown-time"></span>
-                                            <span class="countdown-text">Días</span>
-                                        </div>
-                                        <div class="countdown-number">
-                                            <span class="hours countdown-time"></span>
-                                            <span class="countdown-text">Horas</span>
-                                        </div>
-                                        <div class="countdown-number">
-                                            <span class="minutes countdown-time"></span>
-                                            <span class="countdown-text">Minutos</span>
-                                        </div>
-                                        <div class="countdown-number">
-                                            <span class="seconds countdown-time"></span>
-                                            <span class="countdown-text">Segundos</span>
-                                        </div>
-                                    </div>
-                                    
-                                    <br /><br />                                
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-                <!-- 
-                    https://denis-creative.com/jstimer/
-                    https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
-                -->
-            <!-- END: CUENTA ATRÁS -->
-
-            <!-- BEGIN: RIFA -->
-            <!--<div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="animated c-bordered c-center c-content-media-1 flash row wow">
-                                    <div class="col-md-12">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa</h3>
-                                        </div>
-                                    </div>
-                                    -->
-
-                                    <!-- BEGIN: RESULTADOS DE LA RIFA -->
-                                    <!--<div class="c-center col-md-12 container row" id="buscarRifa">
-                                        Introduce tu número para saber si has tenido suerte:
-                                        <br /><br />
-
-                                        <div class="c-center">
-                                            <form>
-                                                <label>Número:<label> <input type="number" id="numero" min="0" max="499" placeholder="" required="required" />
-                                                <label>Serie:<label> 
-                                                <select id="serie" required="required" >
-                                                    <option value="am">Amarillo</option>
-                                                    <option value="az">Azul</option>
-                                                </select>
-                                                <input type="button" value="Buscar" onClick="buscar();" >                                       
-                                            </form>
-                                        </div>
-                                    </div> -->
-                                    <!-- END: RESULTADOS DE LA RIFA -->
-
-                                    <!-- BEGIN: AVISO PREVIO CUANDO NO HAY RIFA -->
-                                    <!--
-                                    El viernes publicaremos los resultados!<br />
-                                    Mucha suerte y recuerda....No hay mar sin gotas
-
-                                    <br /><br />  
-                                    -->
-                                    <!-- END: AVISO PREVIO CUANDO NO HAY RIFA -->                              
-                                <!--</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>-->
-            <!-- END: RIFA -->
-
             <br /><br />
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 10 de febrero: </h2>   
-                <p class="c-center" >Acto inaugural de VOLUNFAIR 2021 con Toni Nadal</p>             
+                <h2 class="c-center c-font-uppercase  c-font-bold">Martes 1 de marzo: Q&A con Joaquín Echeverría y Álvaro Trigo</h2>   
+                <p class="c-center" >Se realizó el acto inaugural con dos ejemplazos extraordinarios en el mundo ordinario</p>             
             </div>
 
-            <!-- BEGIN: Toni Nadal -->
-            <div class="c-content-box c-size-md c-bg-white">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets\base\img\volunfair\Fotos2021\bosque.jpg">
+           <!-- BEGIN: Joaquín Echevarría y Álvaro Trigo-->
+           <div class="c-content-box c-size-md c-bg-white">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/atardecer-ciudad.jpg">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-8">
                                 <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
                                     <div class="c-content-title-3 c-theme-border c-right">
-                                        <h3 class="c-right c-font-uppercase c-font-bold">Toni Nadal</h3>
-                                        <h4 class="c-right c-font-uppercase c-font-bold">
-                                            <a href="https://www.instagram.com/toninadal_oficial" target="_blank"><u>@toninadal_oficial</u></a>
-                                        </h4>
+                                        <h3 class="c-right c-font-uppercase c-font-bold">Joaquín Echeverría</h3>
                                         <div class="c-right c-line-left "> </div>
                                     </div>
                                     <p class="c-right">
-                                        Toni Nadal 
-                                        ha preparado y acompañado toda la carrera de su sobrino Rafa Nadal, hasta convertirse en uno de los mayores nombres
-                                        de la historia del tenis profesional y una leyenda del deporte español. Presume de haber trabajado con un chico que "supo afrontar su realidad", y que, a pesar de la dificultad, 
-                                        estuvo siempre dispuesto a trabajar para mejorarla.<br/>
-                                        Tanto desde el micrófono de Volunfair, como en una pista de Montecarlo, Toni siempre ha defendido la necesidad de conocerse
-                                        a uno mismo, de ser consciente de nuestras fortalezas y debilidades, y trabajar desde ahí para sacar lo mejor de uno mismo.
+                                    También conocido como "El padre del héroe del monopatín", Joaquín Echeverría tuvo que decir adiós a su valiente hijo Ignacio tras fallecer en un atentado cuando intentaba defender a una mujer.
+                                    Él mismo nos explicaba que su muerte y las circunstancias en las que se encontraba, le hicieron reflexionar sobre su vida y reforzar su fe: "(...) 
+                                    Estoy seguro de que si él, ahora mismo, pudiese razonar no se arrepentiría de lo que hizo". <br>En VOLUNFAIR nos enorgullece tener entre nosotros a superhéroes como Joaquín, que demuestran ser el palo de tal astilla.
                                     </p>
                                 </div>
                             </div>
                             <div class="col-md-4 animated wow fadeInRight">
-                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
+
+                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2022/joaquin.jpeg); /*min-height: 300px;*/">
                                 </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2021\toni2.jpg" width="130%" title="Toni Nadal" alt="Toni Nadal"/>
+                                <img src="assets\base\img\volunfair\Fotos2022\joaquinm.jpg" width="100%" title="Joaquín Echeverría" alt="Joaquín Echeverría"/>
+                                <br /><br />
                             </div>
                         </div>
                     </div>
+                    <br/>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4 animated wow fadeInLeft">
+
+                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
+                                </div> -->
+                                <img src="assets\base\img\volunfair\Fotos2022\alvar.jpeg" width="100%" title="Álvaro Trigo" alt="Álvaro Trigo" />
+                            </div>
+                            <div class="col-md-8">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight" style="min-height: 300px;">                                  
+                                    <div class="c-content-title-3 c-theme-border c-left">
+                                        <h3 class="c-left c-font-uppercase c-font-bold">Álvaro Trigo</h3>
+                                        <h4 class="c-left c-font-uppercase c-font-bold">
+                                            <a href="https://www.instagram.com/alvarotrigopuig" target="_blank"><u>@alvarotrigopuig</u></a>
+                                        </h4>
+                                        <div class="c-left c-line-right "> </div>
+                                    </div>
+                                    <p class="c-left">
+                                    Un atleta superviviente. Álvaro, natural de Madrid, con 23 años sufrió un accidente en un incendio que le provocó graves quemaduras en el 63% de su cuerpo.
+                                    Pero esto no fue suficiente para pararle los pies; tan solo un año después pudo correr la maratón de Sevilla, seis meses más tarde cruzó a nado desde Formentera a Ibiza y en 2021 nadó desde las Islas Cíes hasta Vigo con los pies encadenados.
+                                    <br>Y como todo héroe, desde entonces ha elegido ayudar a aquellos que lo necesitan, colaborando con ONGs y fundaciones. Esta es la elección que le ha cambiado la vida por completo.
+                                    
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                               
                     <br />
                 </div>
-            </div>
-            <!-- END: Toni Nadal -->
 
+                
+                                    
+            </div>
+            <!-- END: Joaquín Echevarría y Álvaro Trigo-->
+             
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase c-font-bold">Jueves 11 de febrero: </h2>   
-                <p class="c-center" > "¡Desgasta tus zapatillas!" con Javier Pérez-Mínguez y Ángeles de Kenia</p>              
+                <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 2 de marzo</h2>   
+                <p class="c-center" >Durante el día vinieron dos superhéroes fascinantes...</p>                      
             </div>
 
             <!-- BEGIN  -->
             <div class="c-content-box c-size-md">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets\base\img\volunfair\Fotos2021\bosque.jpg">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/atardecer-ciudad.jpg">
                     <div class="container c-center">
                         <div class="row">
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <div class="col-md-2">
                             </div>
                             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <!-- BEGIN: Los Angeles de Kenia -->
-                            <div class="c-content-box c-size-md c-bg-white">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/Fotos2021/angeles.jpeg); min-height: 300px;">
-                                        </div>
+                            <!-- BEGIN: Sara -->
+                            <div class="col-md-4">
+                                <div class="col-md-12">
+                                    <div class="row c-center wow animated bounceInUp">
+                                        <img src="assets\base\img\volunfair\Fotos2022\saraandress.jpeg" width="100%" title="Sara Andrés" alt="Sara Andrés" />
                                     </div>
-                                    <div class="col-md-8">
-                                        <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 300px; background-color: #e8ebeb;">
-                                            <div class="c-content-title-3 c-theme-border ">
-                                                <h3 class="c-left c-font-uppercase c-font-bold">Los Ángeles de Kenia</h3>
-                                                <h4 class="c-left c-font-uppercase c-font-bold">
-                                                    <a href="https://www.instagram.com/losangelesdekenia" target="_blank"><u>@losangelesdekenia</u></a>
-                                                </h4>
+                                    <br />
+                                    <div class="row wow animated bounceInDown">
+                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
+                                            <div class="c-content-title-3 c-theme-border c-right">
+                                                <h3 class="c-right c-font-uppercase c-font-bold"> Sara Andrés Barrio</h3>
+                                                <h4 class="c-right c-font-uppercase c-font-bold">
+                                                 <a href="https://www.instagram.com/saraandressport/" target="_blank"><u>@saraandressport</u></a>
+                                                </h4> 
                                                 <div class="c-right c-line-left "> </div>
                                             </div>
-                                            <p class="c-right">
-                                            Patricia y María son dos jóvenes estudiantes que, con apenas 20 años cumplidos, decidieron abandonar
-                                                el confort habitual y lanzarse a lo desconocido, sin ninguna otra razón más que la de ayudar al que lo necesita. <br />
-                                               Su asociación, Ángeles de Kenia, nace después de su primera visita al país con el objetivo de ayudar a niños y familias.
-                                            Con ella, esperan poder multiplicar cualquier ayuda que consigan sus esfuerzos. <br />
-                                             Con el mismo espíritu que Volunfair, buscan la puesta en acción de futuros voluntarios, y nos recuerdan que lo único que necesitamos
-                                             para ayudar a alguien es la voluntad.
+                                            <p class="c-right">                                            
+                                            Sara tenía toda su vida encaminada... pero un accidente de tráfico a los 25 años, donde perdió sus dos pies, le dio la vuelta a su mundo y a su manera de vivir.
+                                            Durante el tiempo en que estuvo ingresada aprendió tres cosas, con las que en VOLUNFAIR nos quitamos el sombrero: ser humilde, ser paciente, y vivir el aquí y el ahora.
+                                            Con estas ganas de vivir, se preparó durante meses para competir en los Juegos Paralímpicos de Río de Janeiro en la disciplina de atletismo, meses en los cuales le fue diagnosticado un cáncer de tiroides, y más tarde cáncer de piel.
+                                            Sin embargo, esta heroína biónica que vuela más allá de los límites tiene claro su lema de vida: "Prefiero no tener pies y saber a dónde voy, que tenerlos y estar perdida".
+                                            
                                             </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <!-- END: KENIA -->
+                            <!-- END: SARA-->
                             <!-- BEGIN: ANACAR -->
-                            <div class="c-content-box c-size-md c-bg-white">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-8">
-                                        <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 300px; background-color: #e8ebeb;">
-                                            <div class="c-content-title-3 c-theme-border c-right">
-                                                <h3 class="c-right c-font-uppercase c-font-bold">Javier Pérez-Mínguez</h3>
-                                                <h4 class="c-right c-font-uppercase c-font-bold">
-                                                    <a href="https://www.instagram.com/fund_anacarolinadm/?hl=es" target="_blank"><u>@fund_anacarolinadm</u></a>
+                            <div class="col-md-4">
+                                <div class="col-md-12">
+                                    <div class="row c-center wow animated bounceInUp">
+                                        <img src="assets\base\img\volunfair\Fotos2022\guille.jpeg" width="100%" title="Guillermo Martínez" alt="Guillermo Martínez" />
+                                    </div>
+                                    <br />
+                                    <div class="row wow animated bounceInDown">
+                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
+                                            <div class="c-content-title-3 c-theme-border c-left">
+                                                <div class="c-left c-line-right "> </div>
+                                                <h3 class="c-left c-font-uppercase c-font-bold">Guillermo Martínez</h3>
+                                                <h4 class="c-left c-font-uppercase c-font-bold">
+                                                 <a href="https://www.instagram.com/guillermogaunavivas/" target="_blank"><u>@guillermogaunavivas</u></a>
                                                 </h4>
                                             </div>
                                             <p class="c-right">
-                                                Javier Pérez-Minguez es el director de la Fundación Ana Carolina Díez Mahou, 
-                                                destinada a mejorar la calidad de vida de niños con enfermedades neuromusculares genéticas.<br /> 
-                                                Desde 2011, motivada gracias al nacimiento de su hijo Javi, la fundación busca aliviar los 
-                                                grandes retos que presenta el día a día para estas familias, contribuir a su inclusión social,
-                                                y fomentar la investigación y tratamiento de estas enfermedades. <br />
-                                                Con ella, y gracias a toda la experiencia de la enfermedad mitocondrial de Javi, Javier busca que 
-                                                ninguna familia se sienta sola ante la dificultad, y que los niños no dejen de serlo, aunque 
-                                                todo parezca ir en contra. 
+                                            De niño, Guillermo Martínez diseñaba los juguetes que deseaba con el sueño de poder crearlos algún día. 
+                                            De adolescente, fabricaba artilugios con cables, tornillos o tuercas de aparatos. De joven, con 27 años creó el primer brazo impreso en 3D para alguien sin codo.
+                                            Todo empezó con un viaje a Kenia y una idea creativa y soñadora de llevar juguetes, que se transformó en un proyecto de prótesis para personas sin alguna articulación. 
+                                            Finalmente, en 2017 fundó Ayúdame3D, una ONG que hoy reparte gratuitamente estas piezas en más de 55 países. Una gran muestra de que no todos los superhéroes llevan capa, algunos llevan una impresora 3D bajo el brazo.
                                             </p>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/Fotos2021/ponente3.jpeg); min-height: 300px;">
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
                             <!-- END:ANACAR -->
-
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <div class="col-md-2">
                             </div>
                             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            </div>
+                           </div>
                     </div>
                 </div>
                     
@@ -301,17 +227,17 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes-2021.jpg" alt="María Lanzuela e Ignacio García-Guerra" title="María Lanzuela e Ignacio García-Guerra" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/Fotos2022/jefes2022.jpeg" alt="María Lanzuela e Ignacio García-Guerra" title="María Lanzuela e Ignacio García-Guerra" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            Nuestros jefes: María Lanzuela e Ignacio García-Guerra
+                            Nuestros jefes: María López y Chema Seral
                         </div>
                     </div>
-                    <div class="col-md-7">
+                   <!-- <div class="col-md-7">
                         <img src="./assets/base/img/volunfair/Fotos2021/EQUIPAZO.JPG" alt="Equipo 2021s" title="Equipo 2021" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
-                            El equipo
+                            El equipo INDUFORUM 2022
                         </div>
-                    </div>
+                    </div>-->
                 </div>
             </div>
             <!-- END: BLOQUE EQUIPO Y JEFES -->
@@ -339,7 +265,7 @@ escribe_cabecera();
                         <div class="row c-content-media-1 wow animated fadeInRight">
                             <div class="c-center">
                                 <h3 class="c-font-uppercase c-font-bold">Pablo España</h3>
-                                <div>Speaker de VOLUNFAIR 2021</div>
+                                <div>Speaker de VOLUNFAIR 2022</div>
                             </div>
                         </div>
                         <br />

@@ -93,7 +93,7 @@ escribe_cabecera();
                     </div>
 
                     <div class="tl-content">
-                        Primera edición de VOLUNFAIR <br />
+                        Primera edición de ge <br />
                         <strong>Jefes:</strong> Pilar Aldama y Daniel Alfaro
                     </div>
                 </div>
@@ -172,6 +172,21 @@ escribe_cabecera();
                     <div class="tl-content">
                         <strong>Lema:</strong> "Desgasta tus zapatillas" <br />
                         <strong>Jefes:</strong> Ignacio García-Guerra y María Lanzuela
+                    </div>
+
+                </div>
+
+                <div class="tl-item3" onclick="location.href='v-ponentes22';">
+                    
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/ninos22.jpg)"></div>
+                    
+                    <div class="tl-year">
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes21.php">2022</a></p>
+                    </div>
+
+                    <div class="tl-content">
+                        <strong>Lema:</strong> "En lo Ordinario está lo Extraordinario" <br />
+                        <strong>Jefes:</strong> Chema Seral y María López
                     </div>
 
                 </div>

@@ -48,15 +48,21 @@ escribe_cabecera();
         </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
             <div style="text-align:left">
-            <br>
+             <br>
                 <div class="col-md-2 wow animated bounceIn">
                     <h2 class="c-right c-font-uppercase c-font-bold">
                     <a href="v-ponentes20"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2020</a> 
                         </h2>
-                    </div>
-                    </div>
-
+                </div>
             </div>
+            <div style="text-align:right">
+                <div class="col-md-8 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="v-ponentes22"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2022</a> 
+                        </h2>
+                </div>
+            </div>
+
 
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
@@ -70,105 +76,12 @@ escribe_cabecera();
 			</div>
             <!--- END: TÍTULO -->
 
-            <!-- BEGIN: CUENTA ATRÁS -->
-            <!--    <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets\base\img\volunfair\Fotos2021\bosque.jpg">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="c-content-media-1 c-center c-bordered wow animated flash">
-                                    <div class="col-md-12">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2021 será realidad en ... </h3>
-                                        </div>
-                                    </div>
-                                    
-                                    <div id="deadline-message" class="deadline-message">
-                                    ¡Ya está aquí!
-                                    </div>
-                                    <div id="countdown" class="countdown">
-                                        <div class="countdown-number">
-                                            <span class="days countdown-time"></span>
-                                            <span class="countdown-text">Días</span>
-                                        </div>
-                                        <div class="countdown-number">
-                                            <span class="hours countdown-time"></span>
-                                            <span class="countdown-text">Horas</span>
-                                        </div>
-                                        <div class="countdown-number">
-                                            <span class="minutes countdown-time"></span>
-                                            <span class="countdown-text">Minutos</span>
-                                        </div>
-                                        <div class="countdown-number">
-                                            <span class="seconds countdown-time"></span>
-                                            <span class="countdown-text">Segundos</span>
-                                        </div>
-                                    </div>
-                                    
-                                    <br /><br />                                
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-                <!-- 
-                    https://denis-creative.com/jstimer/
-                    https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
-                -->
-            <!-- END: CUENTA ATRÁS -->
-
-            <!-- BEGIN: RIFA -->
-            <!--<div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="animated c-bordered c-center c-content-media-1 flash row wow">
-                                    <div class="col-md-12">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa</h3>
-                                        </div>
-                                    </div>
-                                    -->
-
-                                    <!-- BEGIN: RESULTADOS DE LA RIFA -->
-                                    <!--<div class="c-center col-md-12 container row" id="buscarRifa">
-                                        Introduce tu número para saber si has tenido suerte:
-                                        <br /><br />
-
-                                        <div class="c-center">
-                                            <form>
-                                                <label>Número:<label> <input type="number" id="numero" min="0" max="499" placeholder="" required="required" />
-                                                <label>Serie:<label> 
-                                                <select id="serie" required="required" >
-                                                    <option value="am">Amarillo</option>
-                                                    <option value="az">Azul</option>
-                                                </select>
-                                                <input type="button" value="Buscar" onClick="buscar();" >                                       
-                                            </form>
-                                        </div>
-                                    </div> -->
-                                    <!-- END: RESULTADOS DE LA RIFA -->
-
-                                    <!-- BEGIN: AVISO PREVIO CUANDO NO HAY RIFA -->
-                                    <!--
-                                    El viernes publicaremos los resultados!<br />
-                                    Mucha suerte y recuerda....No hay mar sin gotas
-
-                                    <br /><br />  
-                                    -->
-                                    <!-- END: AVISO PREVIO CUANDO NO HAY RIFA -->                              
-                                <!--</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>-->
-            <!-- END: RIFA -->
-
             <br /><br />
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 10 de febrero: </h2>   
-                <p class="c-center" >Acto inaugural de VOLUNFAIR 2021 con Toni Nadal</p>             
+                <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 10 de febrero: Q&A con Toni Nadal</h2>   
+                <p class="c-center" >Aprendiendo a desgastar nuestras zapatillas de diario, de andar por casa... y las de tenis</p>             
             </div>
 
             <!-- BEGIN: Toni Nadal -->

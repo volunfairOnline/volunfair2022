@@ -66,32 +66,14 @@ escribe_cabecera();
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2020</h3>
-					<div class="c-line-center c-theme-bg"></div>
-				</div>
-			</div>
-
-            <div class="c-content-box c-size-md c-bg-white" style="margin-top: -60px;">
-                <div class="container">
-                    <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
-                    
-                      <p>
-                      2020 fue sin duda un año especial, no solo contamos con la presencia de Rocío y Rodrigo, fundadores de Adol-Essence,
-                      explicándonos su experiencia y proyecto, sino que María (@misuperheroesincapa) y Natalia (@villagayumbos) nos hicieron el
-                      favorazo de asistir como ponentes para contarnos cómo es vivir entregándose y dando lo mejor de tí a los demás.
-                      </p>
-
-                      <p>
-                      Nuestro equipazo no dejó de crecer, superando los 100 integrantes dispuestos a hacer de esta edición la más grande y memorable
+					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2020</h3>                    
+                      <p class="c-center" >
+                      2020 fue sin duda un año especial, no solo contamos con la presencia de Rocío y Rodrigo, fundadores de Adol-Essence, sino que<br> María (@misuperheroesincapa) y Natalia (@villagayumbos)
+                      vinieron para contarnos cómo es vivir entregándose y dando lo mejor de ti a los demás.<br>
+                      Nuestro equipazo no dejó de crecer, superando los <b>100 integrantes</b> dispuestos a hacer de esta edición la más grande<br> y memorable
                       hasta la fecha.
+                      Sin duda 2020 resultó una de nuestras mejores ediciones... por ahora.
                       </p>
-
-                      <p>
-                      Sin duda 2020 resultó una de nuestras mejores ediciones hasta la fecha. A continuación te explicamos por qué y quiénes 
-                      fueron los actores que hicieron tan importante esta edición:
-                      </p>
-
-                    </div>
                 </div>
             </div>
             <!--- END: TÍTULO -->
