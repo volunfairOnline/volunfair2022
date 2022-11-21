@@ -64,19 +64,7 @@ escribe_cabecera(1);
 
             <!-- END: LAYOUT/SLIDERS/REVO-SLIDER-6 -->
 
-            <div class="c-content-box c-size-md c-bg-white">
-                <div class="container">
-                    <div class="c-content-title-1">
-                        <h3 class="c-center c-font-uppercase c-font-bold">PONENCIAS</h3>
-
-                    <div class="row c-center wow animated fadeInUp">
-                        <iframe width="1060" height="630" src="https://www.youtube.com/embed/AzWOxlWli5g?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        <br />
-                        <iframe width="1060" height="630" src="https://www.youtube.com/embed/yRVFeqtADEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </div>        
-
+            
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="c-content-title-1">
@@ -116,6 +104,18 @@ escribe_cabecera(1);
                     <br/> 
                     <br/>
                     <br/>    
+                    <div class="c-content-box c-size-md c-bg-white">
+                <div class="container">
+                    <div class="c-content-title-1">
+                        <h3 class="c-center c-font-uppercase c-font-bold">PONENCIAS</h3>
+
+                    <div class="row c-center wow animated fadeInUp">
+                        <iframe width="1060" height="630" src="https://www.youtube.com/embed/AzWOxlWli5g?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <br />
+                        <iframe width="1060" height="630" src="https://www.youtube.com/embed/yRVFeqtADEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>    
 
                     <div class="c-content-title-1 c-center">
                        <h3 class="c-font-uppercase c-font-bold">Horario</h3>
