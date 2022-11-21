@@ -53,8 +53,7 @@ escribe_cabecera();
                     <h2 class="c-right c-font-uppercase c-font-bold">
                     <a href="v-ponentes21"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2021</a> 
                         </h2>
-                    </div>
-                    </div>
+                </div>
 
             </div>
 
@@ -74,8 +73,8 @@ escribe_cabecera();
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase  c-font-bold">MARTES 1 </h2>   
-                <p class="c-center" >Se realizó el acto inaugural de VOLUNFAIR 2022 con Joaquín Echevarría y Álvaro Trigo</p>             
+                <h2 class="c-center c-font-uppercase  c-font-bold">Martes 1 de marzo: Q&A con Joaquín Echeverría y Álvaro Trigo</h2>   
+                <p class="c-center" >Se realizó el acto inaugural con dos ejemplazos extraordinarios en el mundo ordinario</p>             
             </div>
 
            <!-- BEGIN: Joaquín Echevarría y Álvaro Trigo-->
@@ -144,7 +143,7 @@ escribe_cabecera();
              
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase c-font-bold">MIÉRCOLES 2</h2>   
+                <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 2 de marzo</h2>   
                 <p class="c-center" >Durante el día vinieron dos superhéroes fascinantes...</p>                      
             </div>
 
