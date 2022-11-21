@@ -75,7 +75,8 @@ escribe_cabecera(1);
                             
                     </div>
 
-                    <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
+                    <div class="c-content-media-1 c-bordered wow animated que-es">
+                        <!-- para que el texto rebote añadir "bounceIn"--> 
             
                         <p>
                             Nos hemos dado cuenta de que hay muchos universitarios, comprometidos con la realidad social en la que viven, que buscan hacer más por ella pero no encuentran el <b>¿Cómo?</b> O el <b>¿Dónde?</b> <br></br>
@@ -191,7 +192,7 @@ escribe_cabecera(1);
                 	<!-- FINAL PLANO STANDS -->
 
                    
-                    <!--<div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
+                    <!--<div class="col-md-12 c-content-box c-size-md c-bordered wow bounceIn animated">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
                                 ACCEDE A VOLUNFAIR 2021
@@ -228,7 +229,7 @@ escribe_cabecera(1);
 
                     <!-- Vídeos qué es volunfair ordenador-->
                     <div class="solomediano1">
-                    <div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
+                    <div class="col-md-12 c-content-box c-size-md c-bordered wow animated">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
                                 QUÉ ES VOLUNFAIR
@@ -250,7 +251,7 @@ escribe_cabecera(1);
 
                     <!-- Vídeos qué es volunfair movil-->
                     <div class="solo_peq">
-                    <div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
+                    <div class="col-md-12 c-content-box c-size-md c-bordered wow animated">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
                                 QUÉ ES VOLUNFAIR
@@ -270,7 +271,7 @@ escribe_cabecera(1);
                     <!-- Fin Vídeos Año anterior -->
 
                     <!-- Premios y Reconocimientos -->
-                    <div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
+                    <div class="col-md-12 c-content-box c-size-md c-bordered wow  animated">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
                                 Premios y Reconocimientos
@@ -281,7 +282,7 @@ escribe_cabecera(1);
                         <!--Fundación Telefónica -->
                         <div class="c-bg-white c-content-media-1 c-bordered">
                             <div class="row">
-                                <div class="col-md-12 c-size-md c-bg-white wow  bounceIn animated">
+                                <div class="col-md-12 c-size-md c-bg-white wow animated">
                                     <a href="https://www.fundaciontelefonica.com/noticias/2a-edicion-de-los-premiosvoluntariado/" target="blank">
                                     <h4 class="c-center c-font-bold">
                                         Premios Fundación Telefónica al Voluntariado 2019
