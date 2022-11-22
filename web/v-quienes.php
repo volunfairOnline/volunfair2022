@@ -106,7 +106,7 @@ escribe_cabecera();
             </br>
             <br>
             </br>
-            <div class="parallax-window" data-parallax="scroll" data-bleed="50" data-speed="0.2" data-image-src="assets\base\img\volunfair\anteriores\2020a\2020-Fotos-22.jpg">
+            <div class="parallax-window" data-parallax="scroll" data-bleed="50" data-speed="0.2" data-image-src="assets\base\img\volunfair\Fotos2022\equipo2022.jpeg">
                 <div class="c-content-box c-size-md ">
                     <div class="container">
                         <div class="row">

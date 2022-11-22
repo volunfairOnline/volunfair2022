@@ -62,7 +62,8 @@ escribe_cabecera();
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2022</h3>
-                    <p class="c-center" >Ya está aquí la séptima edición de <b>VOLUNFAIR</b>. ¡La primera en formato digital! ¿Te la vas a perder? <br />Pásate este miércoles y jueves de <b>10:00 a 19:00</b> por el link que pondremos dentro de poco para conocer a todas las entidades sociales que nos acompañan este año.
+                    <p class="c-center" > El año pasado se celebró la septima edición de <b>VOLUNFAIR</b>. <br> Se trató de la primera edición en de la feria 
+                    en formato digital y como lo petamos!! Quédate por aquí para conocer a todas <br> las entidades sociales que asistieron, así  como los ponentes encargados de liderar la feria y que nos iluminaron con sus grandes ideas.
                     <br /> Este año contamos con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
 					
 				</div>
@@ -233,12 +234,12 @@ escribe_cabecera();
                             Nuestros jefes: María López y Chema Seral
                         </div>
                     </div>
-                   <!-- <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/Fotos2021/EQUIPAZO.JPG" alt="Equipo 2021s" title="Equipo 2021" class="animated wow swing" width="100%" />
+                    <div class="col-md-7">
+                        <img src="./assets/base/img/volunfair/Fotos2022/equipo2022.jpeg" alt="Equipo 2021s" title="Equipo 2021" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
-                            El equipo INDUFORUM 2022
+                            El equipo VOLUNFAIR 2022
                         </div>
-                    </div>-->
+                    </div>
                 </div>
             </div>
             <!-- END: BLOQUE EQUIPO Y JEFES -->
