@@ -244,7 +244,15 @@ escribe_cabecera();
             </div>
             <!-- END: BLOQUE EQUIPO Y JEFES -->
 
+            <h3 class="c-center c-font-uppercase c-font-bold">PONENCIAS</h3>
 
+                    <div class="row c-center wow animated fadeInUp">
+                        <iframe width="1060" height="630" src="https://www.youtube.com/embed/AzWOxlWli5g?autoplay=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <br />
+                        <iframe width="1060" height="630" src="https://www.youtube.com/embed/yRVFeqtADEs" frameborder="0" allow="accelerometer;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>    
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Y con la colaboración de:</h2>                    
