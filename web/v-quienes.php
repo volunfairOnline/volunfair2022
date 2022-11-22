@@ -12,7 +12,7 @@ escribe_cabecera();
         <div class="c-layout-page">
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
 			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
->    
+
             <!--<div class="container">
 				 
                     <div class="c-page-title c-pull-left">
@@ -231,8 +231,7 @@ escribe_cabecera();
                         ['nombre' => 'Ricardo Estremera',	                'foto' => 'finricardoestremera'],
                         ['nombre' => 'Rocío García',	                    'foto' => 'finrociogarcia'],
                     ],
-                    
-<<<<<<< HEAD
+
                 "Gestión" => [
                         ['nombre' => 'Diego Álvarez',	    			'foto' => 'diegoalvarez'],
                         ['nombre' => 'Enrique de Miguel',	    	    'foto' => 'enriquedemiguel'],
@@ -240,28 +239,6 @@ escribe_cabecera();
                         ['nombre' => 'Javier Latorre',			        'foto' => 'javierlatorre'],
                         ['nombre' => 'Lucia Sepúlveda',                 'foto' => 'luciasepulveda'],
                         ['nombre' => 'Macarena Cuesta',		            'foto' => 'macarenacuesta'],
-                    ],
-
-                "Recursos Humanos" => [
-                        ['nombre' => 'Cristina Barceló',	    	    'foto' => 'cristinabarcelo'],
-                        ['nombre' => 'Inés Piedrola',	    			'foto' => 'inespiedrola'],
-                        ['nombre' => 'Iñigo Arreytunandia2',		    'foto' => 'iñigoarreytunandia'],
-                        ['nombre' => 'José Vives',			            'foto' => 'josévives'],
-                        ['nombre' => 'Pilar González Aller',            'foto' => 'pilargonzalezaller'],
-                        ['nombre' => 'Rosa Mahugo',		                'foto' => 'rosamahugo'],
-                        ['nombre' => 'Santiago Puelles',	            'foto' => 'santiagopuelles'],
-                        ['nombre' => 'Tito Ramirez',				    'foto' => 'titoramirez'],
-                        ['nombre' => 'Tito Ramirez',				    'foto' => 'titoramirez'],
-=======
-                    //este año Gestion y RRHH son dos departamentos distintos, por lo que hay que hacer una matriz distinta para cada uno
-                "Gestión" => [
-                        ['nombre' => 'Diego Álvarez',	    			'foto' => 'gesdiego'],
-                        ['nombre' => 'Enrique de Miguel',	    		'foto' => 'gesenrique'],
-                        ['nombre' => 'Jaime Moral',				        'foto' => 'gesjaime'],
-                        ['nombre' => 'Lucía Sepúlveda',			        'foto' => 'geslucia'],
-                        ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarena'],
-                        ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
->>>>>>> 8e4c9b624ecf0473dbaf1e4a498902d47a56dcbb
                     ],
 
                 "Marketing" => [
