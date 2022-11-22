@@ -41,40 +41,16 @@ escribe_cabecera();
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2017</h3>
-					<div class="c-line-center c-theme-bg"></div>
-				</div>
-            </div>
-
-            <div class="c-content-box c-size-md c-bg-white" style="margin-top: -60px;">
-                <div class="container">
-                    <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
-                    
-                        <p>
-                            2017 fue un año de escuchar muchos “están locos”. Sin recursos, sin grandes equipos, pero con una idea muy clara: acercar el voluntariado a 
-                            los estudiantes. Nuestro tema: Don’t stand still, volunteer!
-                        </p>
-                        <p>
-                            Tras momentos de sufrimiento y de pensar que nada salía, volvió a pasar. Volvió a salir todo bien. 
+				    <p class="c-center" >2017 fue un año de escuchar muchos “están locos”. Sin recursos, sin grandes equipos, pero con una idea muy clara: acercar el voluntariado a 
+                            los estudiantes.<br> Nuestro tema: <b>Don’t stand still, volunteer!</b>Tras momentos de sufrimiento y de pensar que nada salía, volvió a pasar. Volvió a salir todo bien. <br>
                             Como siempre, todo mereció la pena. Aprendimos lo que era trabajar con ilusión, a perseguir un sueño y cómo con poco podemos hacer mucho. 
-                            Vinieron cientos de personas. Volvimos a flipar. VOLUNFAIR era imparable.
-                        </p>
-                        <p>
-                            Lo que sí podemos afirmar desde entonces es que sabemos que miente aquél que dice que la juventud está perdida.
-                        </p>
-
-                    </div>
+                            Vinieron cientos de personas. <br>Volvimos a flipar. <b>VOLUNFAIR</b> era imparable.<br>
+                            Lo que sí podemos afirmar desde entonces es que sabemos que miente aquél que dice que la juventud está perdida.</p>
                 </div>
             </div>
             
-            <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
-				<div class="c-content-title-1">
-					<h3 class="c-center c-font-bold">Ponentes</h3>
-					<div class="c-line-center c-theme-bg"></div>
-				</div>
-            </div>
-            
 			<div class="c-content-title-1">
-                <h2 class="c-center  c-font-bold">Miércoles 8 de febrero</h2>   
+                <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 8 de febrero: ¡Qué poco es una vida para darla!</h2>   
                 <p class="c-center" >La experencia de una vida a los demás. Vivir para servir</p>                      
              </div>
 
@@ -152,6 +128,10 @@ escribe_cabecera();
             </div>
             <!-- END: CONTENT/MISC/LATEST-ITEMS-2 -->
 
+            <div class="c-content-title-1">
+                <h2 class="c-center c-font-uppercase c-font-bold">Jueves 9 de febrero</h2>   
+                <p class="c-center">Foros diversos: "Desplazados" y "Testimonios"</p>                      
+             </div>
 
             <!-- BEGIN: CONTENT/MISC/LATEST-ITEMS-3-->
             <div class="c-content-box c-size-md c-bg-white">
@@ -246,10 +226,6 @@ escribe_cabecera();
             </div>
             <!-- END: CONTENT/MISC/LATEST-ITEMS-3-->
 
-			<div class="c-content-title-1">
-                <h2 class="c-center  c-font-bold">Jueves 9 de febrero</h2>   
-                <p class="c-center">Foros diversos: "Desplazados" y "Testimonios"</p>                      
-             </div>
 
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">

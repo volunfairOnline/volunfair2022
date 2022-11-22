@@ -50,12 +50,12 @@ escribe_cabecera(1);
                 
             <!--  Fondos al redimensionar la página -->
                 <div class="solomediano1">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2022\FotoPortada2.png" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\inicio\FotoPortada2.png" width="100%">
                 </div>
             
             
                 <div class="solo_peq">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2022\FotoPortadaMovil2.png" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\inicio\FotoPortadaMovil2.png" width="100%">
                 </div>
 			
             <div class="">
@@ -64,18 +64,7 @@ escribe_cabecera(1);
 
             <!-- END: LAYOUT/SLIDERS/REVO-SLIDER-6 -->
 
-            <div class="c-content-box c-size-md c-bg-white">
-                <div class="container">
-                    <div class="c-content-title-1">
-                        <h3 class="c-center c-font-uppercase c-font-bold">PONENCIAS</h3>
-
-                    <div class="row c-center wow animated fadeInUp">
-                        <iframe width="1060" height="630" src="https://www.youtube.com/embed/AzWOxlWli5g?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        <br />
-                        <iframe width="1060" height="630" src="https://www.youtube.com/embed/yRVFeqtADEs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </div>        
+           
 
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
@@ -86,7 +75,8 @@ escribe_cabecera(1);
                             
                     </div>
 
-                    <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
+                    <div class="c-content-media-1 c-bordered wow animated que-es">
+                        <!-- para que el texto rebote añadir "bounceIn"--> 
             
                         <p>
                             Nos hemos dado cuenta de que hay muchos universitarios, comprometidos con la realidad social en la que viven, que buscan hacer más por ella pero no encuentran el <b>¿Cómo?</b> O el <b>¿Dónde?</b> <br></br>
@@ -116,6 +106,18 @@ escribe_cabecera(1);
                     <br/> 
                     <br/>
                     <br/>    
+                    <div class="c-content-box c-size-md c-bg-white">
+                <div class="container">
+                    <div class="c-content-title-1">
+                        <h3 class="c-center c-font-uppercase c-font-bold">PONENCIAS</h3>
+
+                    <div class="row c-center wow animated fadeInUp">
+                        <iframe width="1060" height="630" src="https://www.youtube.com/embed/AzWOxlWli5g?autoplay=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <br />
+                        <iframe width="1060" height="630" src="https://www.youtube.com/embed/yRVFeqtADEs" frameborder="0" allow="accelerometer;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>    
 
                     <div class="c-content-title-1 c-center">
                        <h3 class="c-font-uppercase c-font-bold">Horario</h3>
@@ -166,7 +168,7 @@ escribe_cabecera(1);
                      <div class="row">
                         <div class="col-md-12">
                             <div class="animated fadeInLeft c-center" style="min-height: 380px;">
-                             <img alt="" src="assets/base/img/volunfair/Plano_2022.png" width="80%">
+                             <img alt="" src="assets/base/img/volunfair/inicio/Plano_2022.png" width="80%">
                             </div>
                         </div>
 						<!--
@@ -190,7 +192,7 @@ escribe_cabecera(1);
                 	<!-- FINAL PLANO STANDS -->
 
                    
-                    <!--<div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
+                    <!--<div class="col-md-12 c-content-box c-size-md c-bordered wow bounceIn animated">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
                                 ACCEDE A VOLUNFAIR 2021
@@ -227,7 +229,7 @@ escribe_cabecera(1);
 
                     <!-- Vídeos qué es volunfair ordenador-->
                     <div class="solomediano1">
-                    <div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
+                    <div class="col-md-12 c-content-box c-size-md c-bordered wow animated">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
                                 QUÉ ES VOLUNFAIR
@@ -249,7 +251,7 @@ escribe_cabecera(1);
 
                     <!-- Vídeos qué es volunfair movil-->
                     <div class="solo_peq">
-                    <div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
+                    <div class="col-md-12 c-content-box c-size-md c-bordered wow animated">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
                                 QUÉ ES VOLUNFAIR
@@ -269,7 +271,7 @@ escribe_cabecera(1);
                     <!-- Fin Vídeos Año anterior -->
 
                     <!-- Premios y Reconocimientos -->
-                    <div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
+                    <div class="col-md-12 c-content-box c-size-md c-bordered wow  animated">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
                                 Premios y Reconocimientos
@@ -280,7 +282,7 @@ escribe_cabecera(1);
                         <!--Fundación Telefónica -->
                         <div class="c-bg-white c-content-media-1 c-bordered">
                             <div class="row">
-                                <div class="col-md-12 c-size-md c-bg-white wow  bounceIn animated">
+                                <div class="col-md-12 c-size-md c-bg-white wow animated">
                                     <a href="https://www.fundaciontelefonica.com/noticias/2a-edicion-de-los-premiosvoluntariado/" target="blank">
                                     <h4 class="c-center c-font-bold">
                                         Premios Fundación Telefónica al Voluntariado 2019
@@ -294,12 +296,12 @@ escribe_cabecera(1);
                             <div class="row">
                                 <a href="https://www.fundaciontelefonica.com/noticias/2a-edicion-de-los-premiosvoluntariado/" target="blank">
                                     <div class="col-md-6 wow animated fadeInBottom">
-                                        <img src="./assets/base/img/volunfair/premio-telefonica.jpg" width=100%" class="img-centrada" alt="Premios Fundación Telefónica al Voluntariado 2019" title="Premios Fundación Telefónica al Voluntariado 2019" />
+                                        <img src="./assets/base/img/volunfair/inicio/premio-telefonica.jpg" width=100%" class="img-centrada" alt="Premios Fundación Telefónica al Voluntariado 2019" title="Premios Fundación Telefónica al Voluntariado 2019" />
                                     </div>
                                 </a>
                                 <a href="https://www.fundaciontelefonica.com/noticias/2a-edicion-de-los-premiosvoluntariado/" target="blank">
                                     <div class="col-md-6 wow animated fadeInBottom">
-                                        <img src="./assets/base/img/volunfair/premio-telefonica1.jpg" width=100%" class="img-centrada" alt="Premios Fundación Telefónica al Voluntariado 2019" title="Premios Fundación Telefónica al Voluntariado 2019" style="padding-top: 1.75em;" />
+                                        <img src="./assets/base/img/volunfair/inicio/premio-telefonica1.jpg" width=100%" class="img-centrada" alt="Premios Fundación Telefónica al Voluntariado 2019" title="Premios Fundación Telefónica al Voluntariado 2019" style="padding-top: 1.75em;" />
                                     </div>
                                 </a>
                             </div>

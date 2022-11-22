@@ -41,35 +41,18 @@ escribe_cabecera();
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2018</h3>
-					<div class="c-line-center c-theme-bg"></div>
-				</div>
-			</div>
-            
-            <div class="c-content-box c-size-md c-bg-white" style="margin-top: -60px;">
-                <div class="container">
-                    <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
                     
-                        <p>
-                            Esta edición fue una pasada. Hubo aventuras. Empapelamos Ciudad Universitaria, con nocturnidad y alevosía, para que todos pudiéseis conocernos.
+                        <p class="c-center" >
+                            Esta edición fue una pasada. Hubo aventuras. Empapelamos Ciudad Universitaria, con nocturnidad y alevosía, para que todos pudiéseis conocernos.<br>
                             Aunque al día siguiente nos llamaron para recogerlos. (No prometemos que no volverá a ocurrir).
+                            Pasamos de ser 20 en el equipo a ser 40. Montamos hasta un crowdfunding!!! <br> Pero al final vino McDonalds a salvarnos. (taratatatáa)
+                            <b>VOLUNFAIR</b> volvió a hacerse realidad. Hubo milagritos, como de costumbre, y vinieron miles de jóvenes.
                         </p>
-                        <p>
-                            Pasamos de ser 20 en el equipo a ser 40. El lema, "emprende el cambio". 
-                            Vinieron Paco Arango, Nico Merino (este tío se hizo Asturias-Kenia en bici y vino a contarnos), Pablo Urbano (VIVA AUARA) y Alberto Cabanes. 
-                        </p>
-                        <p>
-                            Este año la financiación nos costó que flipas. Montamos hasta un crowdfunding!!! Pero al final vino McDonalds a salvarnos. (taratatatáa)
-                        </p>
-                        <p>
-                            VOLUNFAIR volvió a hacerse realidad.  Hubo milagritos, como de costumbre, y vinieron miles de jóvenes.
-                        </p>
-
-                    </div>
                 </div>
             </div>
             
 			<div class="c-content-title-1">
-                <h2 class="c-center  c-font-bold">Miércoles 7: Q&A con Paco Arango</h2>   
+                <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 7: Q&A con Paco Arango</h2>   
                 <p class="c-center" >Una sesión dinámica en formato preguntas y respuestas con la participación del público. </p>                      
              </div>
 
@@ -109,7 +92,7 @@ escribe_cabecera();
 		
              <div class="c-content-title-1">
              	  <p> </p>
-                <h2 class="c-center  c-font-bold">Jueves 8: "Emprende el cambio" con Nico Merino (KUBUKA), Pablo Urbano (AUARA) y Alberto Cabanes (Adopta un abuelo).</h2>   
+                <h2 class="c-center c-font-uppercase c-font-bold">Jueves 8: "Emprende el cambio" con Nico Merino, Pablo Urbano y Alberto Cabanes.</h2>   
                                   
              </div>           
 

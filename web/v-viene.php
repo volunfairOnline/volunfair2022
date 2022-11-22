@@ -44,7 +44,7 @@ escribe_cabecera();
         <div class="c-layout-page">
 		
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_6.png)">
 >
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
@@ -52,9 +52,9 @@ escribe_cabecera();
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2022</h3>
+					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2023</h3>
                     <div class="c-line-center c-theme-bg"></div>
-                    <p class="c-center" >Ya está aquí la séptima edición de <b>VOLUNFAIR</b>. ¿Te la vas a perder? <br />El martes 1 y el miércoles 2 de <b>10:00 a 19:00</b> podrás conocer a todas las entidades sociales que nos acompañan este año.
+                    <p class="c-center" >Ya está aquí la octava edición de <b>VOLUNFAIR</b>. ¿Te la vas a perder? <br />El miércoles 15 y jueves 16 de febrero de <b>10:00 a 19:00</b> podrás conocer a todas las entidades sociales que nos acompañan este año.
                     <br /> Además, con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
 					
 				</div>
@@ -63,7 +63,7 @@ escribe_cabecera();
             <!--- END: TÍTULO -->
 
             <!-- BEGIN: CUENTA ATRÁS -->
-            <!--
+            
             <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/ninos.jpg">
                     <div class="container">
                         <div class="row">
@@ -71,10 +71,10 @@ escribe_cabecera();
                                 <div class="c-content-media-1 c-center c-bordered wow animated flash">
                                     <div class="col-md-12">
                                         <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2022 será realidad en ... </h3>
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2023 será realidad en ... </h3>
                                         </div>
                                     </div>
-                                    
+
                                     <div id="deadline-message" class="deadline-message">
                                     ¡Ya está aquí!
                                     </div>
@@ -103,7 +103,7 @@ escribe_cabecera();
                         </div>
                     </div>
                 </div>
-                -->
+                
                 <!-- 
                     https://denis-creative.com/jstimer/
                     https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
@@ -143,14 +143,14 @@ escribe_cabecera();
             <br /><br />
 
             <!-- BEGIN: RIFA -->
-            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/atardecer-ciudad.jpg">
+            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2023/Fondos/magia15.jpeg">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
                             <div class="animated c-bordered c-center c-content-media-1 flash row wow">
                                 <div class="col-md-12">
                                     <div class="c-content-title-1">
-                                        <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa</h3>
+                                        <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa de 2022</h3>
                                     </div>
                                 </div> 
                                 
@@ -193,6 +193,7 @@ escribe_cabecera();
             <!-- END: RIFA -->
 
             <!-- PONENTES ACTUALES-->
+<!-- decomentar cuando se quiera ponentes actuales
             <br /><br />
 
             <div class="c-content-title-1">
@@ -200,9 +201,10 @@ escribe_cabecera();
                 <h2 class="c-center c-font-uppercase  c-font-bold">Martes 1</h2>   
                 <p class="c-center" >Acto inaugural de VOLUNFAIR 2022 a las <em>12:30</em> en el <em>Salón de Actos</em></p>                      
             </div>
-
+-->
 
             <!-- BEGIN: Joaquín Echevarría y Álvaro Trigo-->
+<!-- decomentar cuando se quiera ponentes actuales      
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/atardecer-ciudad.jpg">
                     <div class="container">
@@ -212,8 +214,10 @@ escribe_cabecera();
                                     <div class="c-content-title-3 c-theme-border c-right">
                                         <h3 class="c-right c-font-uppercase c-font-bold">Joaquín Echeverría</h3>
                                         <h4 class="c-right c-font-uppercase c-font-bold">
+-->
                                             <!--<a href="https://www.instagram.com/toninadal_oficial" target="_blank">@toninadal_oficial</a>
                                         </h4> -->
+<!-- decomentar cuando se quiera ponentes actuales 
                                         <div class="c-right c-line-left "> </div>
                                     </div>
                                     <p class="c-right">
@@ -224,9 +228,11 @@ escribe_cabecera();
                                 </div>
                             </div>
                             <div class="col-md-4 animated wow fadeInRight">
+-->
 
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
                                 </div> -->
+<!-- decomentar cuando se quiera ponentes actuales
                                 <img src="assets\base\img\volunfair\Fotos2022\joaquin.jpeg" width="100%" title="Joaquín Echeverría" alt="Joaquín Echeverría"/>
                                 <br /><br />
                             </div>
@@ -236,9 +242,11 @@ escribe_cabecera();
                     <div class="container">
                         <div class="row">
                             <div class="col-md-4 animated wow fadeInLeft">
+-->
 
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
                                 </div> -->
+<!-- decomentar cuando se quiera ponentes actuales
                                 <img src="assets\base\img\volunfair\Fotos2022\alvaro.jpeg" width="100%" title="Álvaro Trigo" alt="Álvaro Trigo" />
                             </div>
                             <div class="col-md-8">
@@ -246,8 +254,10 @@ escribe_cabecera();
                                     <div class="c-content-title-3 c-theme-border c-left">
                                         <h3 class="c-left c-font-uppercase c-font-bold">Álvaro Trigo</h3>
                                         <h4 class="c-left c-font-uppercase c-font-bold">
+-->
                                             <!--<a href="https://www.instagram.com/toninadal_oficial" target="_blank">@toninadal_oficial</a>
                                         </h4> -->
+<!-- decomentar cuando se quiera ponentes actuales
                                         <div class="c-left c-line-right "> </div>
                                     </div>
                                     <p class="c-left">
@@ -267,24 +277,31 @@ escribe_cabecera();
                 
                                     
             </div>
+-->
             <!-- END: Joaquín Echevarría y Álvaro Trigo-->
-             
+<!-- decomentar cuando se quiera ponentes actuales
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 2</h2>   
                 <p class="c-center" >A las <em>12:30</em> en el <em>Salón de Actos</em> podrás conocer a dos superhéroes fascinantes</p>                      
             </div>
+-->
 
             <!-- BEGIN  -->
+<!-- decomentar cuando se quiera ponentes actuales
             <div class="c-content-box c-size-md">
                 <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/atardecer-ciudad.jpg">
                     <div class="container c-center">
                         <div class="row">
+-->
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+<!-- decomentar cuando se quiera ponentes actuales
                             <div class="col-md-2">
                             </div>
+-->
                             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <!-- BEGIN: Sara -->
+<!-- decomentar cuando se quiera ponentes actuales
                             <div class="col-md-4">
                                 <div class="col-md-12">
                                     <div class="row c-center wow animated bounceInUp">
@@ -296,8 +313,10 @@ escribe_cabecera();
                                             <div class="c-content-title-3 c-theme-border c-right">
                                                 <h3 class="c-right c-font-uppercase c-font-bold"> Sara Andrés Barrio</h3>
                                                 <h4 class="c-right c-font-uppercase c-font-bold">
+-->
                                                    <!-- <a href="https://www.instagram.com/losangelesdekenia" target="_blank">@losangelesdekenia</a>
                                                 </h4> -->
+<!-- decomentar cuando se quiera ponentes actuales
                                                 <div class="c-right c-line-left "> </div>
                                             </div>
                                             <p class="c-right">                                            
@@ -311,8 +330,10 @@ escribe_cabecera();
                                     </div>
                                 </div>
                             </div>
+-->
                             <!-- END: SARA-->
                             <!-- BEGIN: ANACAR -->
+<!-- decomentar cuando se quiera ponentes actuales
                             <div class="col-md-4">
                                 <div class="col-md-12">
                                     <div class="row c-center wow animated bounceInUp">
@@ -325,8 +346,10 @@ escribe_cabecera();
                                                 <div class="c-left c-line-right "> </div>
                                                 <h3 class="c-left c-font-uppercase c-font-bold">Guillermo Martínez</h3>
                                                 <h4 class="c-left c-font-uppercase c-font-bold">
+-->
                                                    <!-- <a href="https://www.instagram.com/fund_anacarolinadm/?hl=es" target="_blank">@fund_anacarolinadm</a>
                                                 </h4> -->
+<!-- decomentar cuando se quiera ponentes actuales
                                             </div>
                                             <p class="c-right">
                                             De niño, Guillermo Martínez diseñaba los juguetes que deseaba con el sueño de poder crearlos algún día. 
@@ -338,19 +361,25 @@ escribe_cabecera();
                                     </div>
                                 </div>
                             </div>
+-->
                             <!-- END:ANACAR -->
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+<!-- decomentar cuando se quiera ponentes actuales
                             <div class="col-md-2">
                             </div>
+-->
                             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+<!-- decomentar cuando se quiera ponentes actuales
                            </div>
                     </div>
                 </div>
                     
                 <br /><br/>
             </div>
+-->
             <!-- END: KENIA &  ANACAROLINA -->
 
+<!-- decomentar cuando se quiera ponentes actuales            
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Y con la colaboración de:</h2>                    
@@ -358,12 +387,16 @@ escribe_cabecera();
 
             <br />
 
+-->    
             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+<!-- decomentar cuando se quiera ponentes actuales
             <div class="col-md-5">
             </div>
+-->
 
             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
             <!-- BEGIN: PABLO Y CLARA -->
+<!-- decomentar cuando se quiera ponentes actuales
             <div class="row">
                 <div class="col-md-2">
                     <div class="col-md-12">
@@ -381,13 +414,19 @@ escribe_cabecera();
                 </div>
                 
             </div>
+-->
             <!-- END: PABLO Y CLARA -->
             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+<!-- decomentar cuando se quiera ponentes actuales
             <div class="col-md-4">
             </div>
+-->
 
             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-            
+
+         <!-- END: PONENTES ACTUALES-->
+        
+
             <!-- END: PAGE CONTENT -->
         </div>
         <!-- END: PAGE CONTAINER -->
