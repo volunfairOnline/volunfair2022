@@ -61,9 +61,10 @@ escribe_cabecera();
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2022</h3>
-                    <p class="c-center" > El año pasado se celebró la septima edición de <b>VOLUNFAIR</b>. <br> Se trató de la primera edición en de la feria 
-                    en formato digital y como lo petamos!! Quédate por aquí para conocer a todas <br> las entidades sociales que asistieron, así  como los ponentes encargados de liderar la feria y que nos iluminaron con sus grandes ideas.
-                    <br /> Este año contamos con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
+                    <p class="c-center" > 2022 entró pisando fuerte con la séptima edición de <b>VOLUNFAIR</b> en marzo. 6 meses de preparación, 4 ponentes con <br>auténticos poderes de servicio,
+                    2 superhéroes rondando la universidad con trajes de superman y miles de personas conociendo nuevas ONGs...<br>Y en ese momento nos dimos cuenta de que, de algo tan sencillo y ordinario
+                    como es <b>darse a los demás</b>, habíamos conseguido hacer algo<br> <b>muy extraordinario</b>. Porque con #pequeñosGESTOS se hacen #GRANDEScambios
+                     </p>
 					
 				</div>
                 
@@ -75,7 +76,7 @@ escribe_cabecera();
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase  c-font-bold">Martes 1 de marzo: Q&A con Joaquín Echeverría y Álvaro Trigo</h2>   
-                <p class="c-center" >Se realizó el acto inaugural con dos ejemplazos extraordinarios en el mundo ordinario</p>             
+                <p class="c-center" >Acto inaugural con dos ejemplazos extraordinarios en el mundo ordinario</p>             
             </div>
 
            <!-- BEGIN: Joaquín Echevarría y Álvaro Trigo-->
@@ -228,13 +229,13 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/Fotos2022/jefes2022.jpeg" alt="María Lanzuela e Ignacio García-Guerra" title="María Lanzuela e Ignacio García-Guerra" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/Fotos2022/jefes2022.jpeg" alt="María López y Chema Seral" title="María López y Chema Seral" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Nuestros jefes: María López y Chema Seral
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/Fotos2022/equipo2022.jpeg" alt="Equipo 2021s" title="Equipo 2021" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/Fotos2022/equipo2022.jpeg" alt="Equipo 2022" title="Equipo 2022" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo VOLUNFAIR 2022
                         </div>

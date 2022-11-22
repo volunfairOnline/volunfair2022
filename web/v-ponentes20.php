@@ -83,7 +83,8 @@ escribe_cabecera();
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 12 de Febrero: Gran Inauguración con Adol-Essence:</h2>               
+                <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 12 de Febrero: Q&A con Rocío y Rodrigo</h2>
+                <p class="c-center" >Gran inauguración con Adol-Essence: "más que una buena idea, un proyecto necesario"</p>                                     
             </div>
 
             <!-- BEGIN: ADOL-ESSENCE -->

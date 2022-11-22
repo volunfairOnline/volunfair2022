@@ -50,6 +50,7 @@ escribe_cabecera();
             </div>
             
 			<div class="c-content-title-1">
+                <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 8 de febrero: ¡Qué poco es una vida para darla!</h2>   
                 <p class="c-center" >La experencia de una vida a los demás. Vivir para servir</p>                      
              </div>

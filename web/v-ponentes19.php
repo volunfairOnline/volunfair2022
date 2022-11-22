@@ -51,6 +51,7 @@ escribe_cabecera();
             </div>
 			
 			<div class="c-content-title-1">
+                <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 13 de febrero: Q&A con Xavi Torres y Vicente del Bosque</h2>   
                 <p class="c-center" >Una sesión dinámica en formato preguntas y respuestas con la participación del público. </p>                      
             </div>

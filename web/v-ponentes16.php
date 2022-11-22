@@ -48,6 +48,7 @@ escribe_cabecera();
             </div>
 			
 			<div class="c-content-title-1">
+                <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 17 de febrero: La experiencia de una vida por los demás</h2>   
                 <p class="c-center" >Conjunto de ponencias de diversas personas que han dedicado su vida a los demás: deportistas, estudiantes, misioneros...</p>                      
             </div>
