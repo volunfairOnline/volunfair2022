@@ -232,6 +232,27 @@ escribe_cabecera();
                         ['nombre' => 'Rocío García',	                    'foto' => 'finrociogarcia'],
                     ],
                     
+<<<<<<< HEAD
+                "Gestión" => [
+                        ['nombre' => 'Diego Álvarez',	    			'foto' => 'diegoalvarez'],
+                        ['nombre' => 'Enrique de Miguel',	    	    'foto' => 'enriquedemiguel'],
+                        ['nombre' => 'Jaime Moral',				        'foto' => 'jaimemoral'],
+                        ['nombre' => 'Javier Latorre',			        'foto' => 'javierlatorre'],
+                        ['nombre' => 'Lucia Sepúlveda',                 'foto' => 'luciasepulveda'],
+                        ['nombre' => 'Macarena Cuesta',		            'foto' => 'macarenacuesta'],
+                    ],
+
+                "Recursos Humanos" => [
+                        ['nombre' => 'Cristina Barceló',	    	    'foto' => 'cristinabarcelo'],
+                        ['nombre' => 'Inés Piedrola',	    			'foto' => 'inespiedrola'],
+                        ['nombre' => 'Iñigo Arreytunandia2',		    'foto' => 'iñigoarreytunandia'],
+                        ['nombre' => 'José Vives',			            'foto' => 'josévives'],
+                        ['nombre' => 'Pilar González Aller',            'foto' => 'pilargonzalezaller'],
+                        ['nombre' => 'Rosa Mahugo',		                'foto' => 'rosamahugo'],
+                        ['nombre' => 'Santiago Puelles',	            'foto' => 'santiagopuelles'],
+                        ['nombre' => 'Tito Ramirez',				    'foto' => 'titoramirez'],
+                        ['nombre' => 'Tito Ramirez',				    'foto' => 'titoramirez'],
+=======
                     //este año Gestion y RRHH son dos departamentos distintos, por lo que hay que hacer una matriz distinta para cada uno
                 "Gestión" => [
                         ['nombre' => 'Diego Álvarez',	    			'foto' => 'gesdiego'],
@@ -240,6 +261,7 @@ escribe_cabecera();
                         ['nombre' => 'Lucía Sepúlveda',			        'foto' => 'geslucia'],
                         ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarena'],
                         ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
+>>>>>>> 8e4c9b624ecf0473dbaf1e4a498902d47a56dcbb
                     ],
 
                 "Marketing" => [
