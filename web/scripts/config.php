@@ -264,7 +264,7 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 			echo '<!-- '.$departamento[$i].' -->'."\n";
 			echo '<li>'."\n";
 				echo '<a href="#c-tab2-opt1-00'.($i+1).'" data-toggle="tab">'."\n";
-					echo '<img src="assets/base/img/volunfair/staff2/boton'.($i+1).'.png" alt="'.$departamento[$i].'" class="c-desktop-logo">'."\n";
+					echo '<img src="assets/base/img/volunfair/staff2/Buton'.($i+1).'.png" alt="'.$departamento[$i].'" class="c-desktop-logo">'."\n";
 				echo '<span class="c-title"> &nbsp; &nbsp; &nbsp;</span>'."\n";
 				echo '</a>'."\n";
 				echo '<div class="c-arrow"></div>'."\n";
