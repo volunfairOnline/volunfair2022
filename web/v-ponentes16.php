@@ -34,36 +34,21 @@ escribe_cabecera();
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2016</h3>
-					<div class="c-line-center c-theme-bg"></div>
-				</div>
-            </div>
-            
-            <div class="c-content-box c-size-md c-bg-white" style="margin-top: -60px;">
-                <div class="container">
-                    <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
-                    
-                        <p>
+                        <p class="c-center">
                             Jamás un sueño nacido en un viaje, en mitad de una autopista, llegó tan lejos. Siete jóvenes y una ilusión: 
-                            que todos los jóvenes descubran la alegría de DAR. Así deciden montar en su uni algo inexistente hasta entonces en Madrid: 
-                            una feria de voluntariado. Porque todo el mundo quiere hacer voluntariado, pero nadie sabe dónde encontrarlo.
-                        </p>
-                        <p>
+                            que todos los jóvenes descubran <b>la alegría de DAR</b>. <br>Porque todo el mundo quiere hacer voluntariado, pero no saben dónde encontrarlo.
                             "Fue una locura. No teníamos ni idea de cómo conseguir un patrocinador ni de hacer una campaña de marketing. 
-                            Es más, dos semanas antes de la feria pensábamos que las ONGs deberían contentarse con mesas al no haber 
-                            dinero para stands. Hubo muchos milagros: vino el dinero y hasta vino Enhamed Enhamed (GRACIAS CRACK). 
-                            Vinieron también miles de jóvenes. Así fue como nació un sueño tan grande que nunca terminará de completarse."
-                        </p>
-                        <p>
-                            Sin experiencia, ni recursos, únicamente con una idea, VOLUNFAIR fue naciendo en reuniones después de clase, 
+                            <br>Es más, dos semanas antes de la feria pensábamos que las ONGs deberían contentarse con mesas al no haber 
+                            dinero para stands. Hubo muchos milagros.
+                            <br>Vinieron también miles de jóvenes. Así fue como nació un sueño tan grande que nunca terminará de completarse."
+                            Sin experiencia, ni recursos, únicamente con una idea,<br> <b>VOLUNFAIR</b> fue naciendo en reuniones después de clase, 
                             hojas de papel y demasiadas ganas de hacer que nuestros compañeros pudiesen flipar con lo guay que es hacer voluntariado. 
                         </p>
-
-                    </div>
                 </div>
             </div>
 			
 			<div class="c-content-title-1">
-                <h2 class="c-center  c-font-bold">Miércoles 17 de febrero: La experiencia de una vida por los demás</h2>   
+                <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 17 de febrero: La experiencia de una vida por los demás</h2>   
                 <p class="c-center" >Conjunto de ponencias de diversas personas que han dedicado su vida a los demás: deportistas, estudiantes, misioneros...</p>                      
             </div>
 

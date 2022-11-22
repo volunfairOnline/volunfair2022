@@ -39,35 +39,19 @@ escribe_cabecera();
             </div>
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2019</h3>
-					<div class="c-line-center c-theme-bg"></div>
-				</div>
-            </div>
-            
-            <div class="c-content-box c-size-md c-bg-white" style="margin-top: -60px;">
-                <div class="container">
-                    <div class="c-content-media-1 c-bordered wow bounceIn animated que-es">
-                    
-                        <p>
-                            En 2019 flipamos. De repente éramos 50 en el equipo soñando en la misma dirección.
+					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2019</h3>                    
+                        <p class="c-center" >
+                            En 2019 flipamos. De repente éramos 50 en el equipo de <b>VOLUNFAIR</b> soñando en la misma dirección.
+                            Nos visitaron unos astronautas.<br> Volvimos a hacer llenazo. Las ONGs venían a nosotros antes de que les llamáramos.
+                            Los dineros costaron pero menos. Todo rodaba.<br>
+                            Vinieron los cracks de Xavi Torres y Vicente del Bosque a contarnos que ellos seguían queriendo ser astronautas. Nunca olvidaremos a la gente <br>saliendo de aquél momentazo con lágrimas en los ojos.
+                            Nuestra conclusión: <b>el mundo será lo que nosotros queramos que sea.</b>
                         </p>
-                        <p>
-                            Nos visitaron unos astronautas. Volvimos a hacer llenazo. Las ONGs venían a nosotros antes de que les llamáramos.
-                            Los dineros costaron pero menos. Todo rodaba.
-                        </p>
-                        <p>
-                            Vinieron los cracks de Xavi Torres y Vicente del Bosque a contarnos que ellos seguían queriendo ser astronautas. Nunca olvidaremos a la gente saliendo de aquél momentazo con lágrimas en los ojos.
-                        </p>
-                        <p>
-                            Nuestra conclusión: el mundo será lo que nosotros queramos que sea.
-                        </p>
-
-                    </div>
                 </div>
             </div>
 			
 			<div class="c-content-title-1">
-                <h2 class="c-center  c-font-bold">Miércoles 13 de febrero: Q&A con Xavi Torres y Vicente del Bosque</h2>   
+                <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 13 de febrero: Q&A con Xavi Torres y Vicente del Bosque</h2>   
                 <p class="c-center" >Una sesión dinámica en formato preguntas y respuestas con la participación del público. </p>                      
             </div>
 
@@ -131,7 +115,7 @@ escribe_cabecera();
 
              <div class="c-content-title-1">
              	  <p> </p>
-                <h2 class="c-center  c-font-bold">Jueves 14 de febrero: "¿Sigues queriendo ser astronauta?" con Gema Hassen-Bey y Jose Enrique Fernández del Campo</h2>   
+                <h2 class="c-center c-font-uppercase c-font-bold">Jueves 14 de febrero: "¿Sigues queriendo ser astronauta?" con Gema Hassen-Bey y Jose Enrique Fernández del Campo</h2>   
                                   
              </div>           
 

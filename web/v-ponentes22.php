@@ -53,8 +53,7 @@ escribe_cabecera();
                     <h2 class="c-right c-font-uppercase c-font-bold">
                     <a href="v-ponentes21"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2021</a> 
                         </h2>
-                    </div>
-                    </div>
+                </div>
 
             </div>
 
@@ -75,8 +74,8 @@ escribe_cabecera();
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase  c-font-bold">MARTES 1 </h2>   
-                <p class="c-center" >Se realizo el acto inaugural de VOLUNFAIR 2022 con Joaquín Echevarría y Álvaro Trigo</p>             
+                <h2 class="c-center c-font-uppercase  c-font-bold">Martes 1 de marzo: Q&A con Joaquín Echeverría y Álvaro Trigo</h2>   
+                <p class="c-center" >Se realizó el acto inaugural con dos ejemplazos extraordinarios en el mundo ordinario</p>             
             </div>
 
            <!-- BEGIN: Joaquín Echevarría y Álvaro Trigo-->
@@ -92,8 +91,8 @@ escribe_cabecera();
                                     </div>
                                     <p class="c-right">
                                     También conocido como "El padre del héroe del monopatín", Joaquín Echeverría tuvo que decir adiós a su valiente hijo Ignacio tras fallecer en un atentado cuando intentaba defender a una mujer.
-                                    Él mismo explica que su muerte y las circunstancias en las que se encontraba, le han hecho reflexionar sobre su vida y reforzar su fe: "(...) 
-                                    Estoy seguro de que si él, ahora mismo, pudiese razonar no se arrepentiría de lo que hizo". En VOLUNFAIR nos enorgullece tener entre nosotros a superhéroes como Joaquín, que demuestran ser el palo de tal astilla.
+                                    Él mismo nos explicaba que su muerte y las circunstancias en las que se encontraba, le hicieron reflexionar sobre su vida y reforzar su fe: "(...) 
+                                    Estoy seguro de que si él, ahora mismo, pudiese razonar no se arrepentiría de lo que hizo". <br>En VOLUNFAIR nos enorgullece tener entre nosotros a superhéroes como Joaquín, que demuestran ser el palo de tal astilla.
                                     </p>
                                 </div>
                             </div>
@@ -127,7 +126,7 @@ escribe_cabecera();
                                     <p class="c-left">
                                     Un atleta superviviente. Álvaro, natural de Madrid, con 23 años sufrió un accidente en un incendio que le provocó graves quemaduras en el 63% de su cuerpo.
                                     Pero esto no fue suficiente para pararle los pies; tan solo un año después pudo correr la maratón de Sevilla, seis meses más tarde cruzó a nado desde Formentera a Ibiza y en 2021 nadó desde las Islas Cíes hasta Vigo con los pies encadenados.
-                                    Y como todo héroe, desde entonces ha elegido ayudar a aquellos que lo necesitan, colaborando con ONGs y fundaciones. Esta es la elección que le ha cambiado la vida por completo.
+                                    <br>Y como todo héroe, desde entonces ha elegido ayudar a aquellos que lo necesitan, colaborando con ONGs y fundaciones. Esta es la elección que le ha cambiado la vida por completo.
                                     
                                     </p>
                                 </div>
@@ -145,7 +144,7 @@ escribe_cabecera();
              
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase c-font-bold">MIÉRCOLES 2</h2>   
+                <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 2 de marzo</h2>   
                 <p class="c-center" >Durante el día vinieron dos superhéroes fascinantes...</p>                      
             </div>
 
