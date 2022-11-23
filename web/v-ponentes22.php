@@ -101,7 +101,7 @@ escribe_cabecera();
 
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2022/joaquin.jpeg); /*min-height: 300px;*/">
                                 </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2022\joaquinm.jpg" width="100%" title="Joaquín Echeverría" alt="Joaquín Echeverría"/>
+                                <img src="assets/base/img/volunfair/anteriores/2022/joaquinm.jpg" width="100%" title="Joaquín Echeverría" alt="Joaquín Echeverría"/>
                                 <br /><br />
                             </div>
                         </div>
@@ -113,7 +113,7 @@ escribe_cabecera();
 
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
                                 </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2022\alvar.jpeg" width="100%" title="Álvaro Trigo" alt="Álvaro Trigo" />
+                                <img src="assets/base/img/volunfair/anteriores/2022/alvar.jpeg" width="100%" title="Álvaro Trigo" alt="Álvaro Trigo" />
                             </div>
                             <div class="col-md-8">
                                 <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight" style="min-height: 300px;">                                  
@@ -162,7 +162,7 @@ escribe_cabecera();
                             <div class="col-md-4">
                                 <div class="col-md-12">
                                     <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets\base\img\volunfair\Fotos2022\saraandress.jpeg" width="100%" title="Sara Andrés" alt="Sara Andrés" />
+                                        <img src="assets/base/img/volunfair/anteriores/2022/saraandress.jpeg" width="100%" title="Sara Andrés" alt="Sara Andrés" />
                                     </div>
                                     <br />
                                     <div class="row wow animated bounceInDown">
@@ -190,7 +190,7 @@ escribe_cabecera();
                             <div class="col-md-4">
                                 <div class="col-md-12">
                                     <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets\base\img\volunfair\Fotos2022\guille.jpeg" width="100%" title="Guillermo Martínez" alt="Guillermo Martínez" />
+                                        <img src="assets/base/img/volunfair/anteriores/2022/guille.jpeg" width="100%" title="Guillermo Martínez" alt="Guillermo Martínez" />
                                     </div>
                                     <br />
                                     <div class="row wow animated bounceInDown">
@@ -229,13 +229,13 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/Fotos2022/jefes2022.jpeg" alt="María López y Chema Seral" title="María López y Chema Seral" class="animated wow swing" width="100%" />
+                        <img src="assets/base/img/volunfair/anteriores/2022/jefes2022.jpeg" alt="María López y Chema Seral" title="María López y Chema Seral" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Nuestros jefes: María López y Chema Seral
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/Fotos2022/equipo2022.jpeg" alt="Equipo 2022" title="Equipo 2022" class="animated wow swing" width="100%" />
+                        <img src="assets/base/img/volunfair/anteriores/2022/equipo2022.jpeg" alt="Equipo 2022" title="Equipo 2022" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo VOLUNFAIR 2022
                         </div>

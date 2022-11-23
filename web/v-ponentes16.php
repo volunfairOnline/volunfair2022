@@ -88,7 +88,7 @@ escribe_cabecera();
                         </div>
                     </div>
                     <div class="col-md-4 animated wow fadeInRight">
-                        <img src="./assets/base/img/volunfair/anteriores/EnhamedEnhamed.jpg" width="100%" title="@ENHAMED" alt="@ENHAMED"/>
+                        <img src="./assets/base/img/volunfair/anteriores/2016/EnhamedEnhamed.jpg" width="100%" title="@ENHAMED" alt="@ENHAMED"/>
                     </div>                   
                 </div>
             </div>
@@ -104,7 +104,7 @@ escribe_cabecera();
                     <div class="col-md-4">
                         <div class="col-md-12">
                             <div class="row c-center wow animated bounceInUp">
-                                <img src="assets/base/img/volunfair/anteriores/PepeRuiz.jpg" width="100%" title="Pepe Ruiz" alt="Pepe Ruiz" />
+                                <img src="assets/base/img/volunfair/anteriores/2016/PepeRuiz.jpg" width="100%" title="Pepe Ruiz" alt="Pepe Ruiz" />
                             </div>
                             <br />
                             <div class="row wow animated bounceInDown">
@@ -128,7 +128,7 @@ escribe_cabecera();
                  <div class="col-md-4">
                         <div class="col-md-12">
                             <div class="row c-center wow animated bounceInUp">
-                                <img src="assets/base/img/volunfair/anteriores/ElisaAlbella.jpg" width="100%" title="@ELISAALBELLA" alt="@ELISAALBELLA" />
+                                <img src="assets/base/img/volunfair/anteriores/2016/ElisaAlbella.jpg" width="100%" title="@ELISAALBELLA" alt="@ELISAALBELLA" />
                             </div>
                             <br/>
                             <div class="row wow animated bounceInDown">
@@ -165,7 +165,7 @@ escribe_cabecera();
                             <!-- espacio para cuadrar -->
                         </div>
                         <div class="col-md-6">
-                            <img src="./assets/base/img/volunfair/anteriores/equipo-2016.jpg" alt="Equipo 2016" title="Equipo 2016" class="animated wow swing" width="100%" />
+                            <img src="./assets/base/img/volunfair/anteriores/2016/equipo-2016.jpg" alt="Equipo 2016" title="Equipo 2016" class="animated wow swing" width="100%" />
                             <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                                 Equipo VF16
                             </div>
@@ -179,7 +179,7 @@ escribe_cabecera();
                             <!-- espacio para cuadrar -->
                         </div>
                     <div class="col-md-2">
-                        <img src="./assets/base/img/volunfair/anteriores/Daniel.png" alt="Daniel Alfaro" title="Daniel Alfaro" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2016/Daniel.png" alt="Daniel Alfaro" title="Daniel Alfaro" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                            Dani Alfaro
                         </div>
@@ -188,7 +188,7 @@ escribe_cabecera();
                             <!-- espacio para cuadrar -->
                         </div>
                     <div class="col-md-2">
-                        <img src="./assets/base/img/volunfair/anteriores/Pilar.png" alt="Pilar Aldama" title="Pilar Aldama" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2016/Pilar.png" alt="Pilar Aldama" title="Pilar Aldama" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Pilar Aldama
                         </div>
@@ -197,7 +197,7 @@ escribe_cabecera();
                             <!-- espacio para cuadrar -->
                         </div>
                     <div class="col-md-2">
-                        <img src="./assets/base/img/volunfair/anteriores/PadreJesus.png" alt="Padre Jesús" title="Padre Jesús" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2016/PadreJesus.png" alt="Padre Jesús" title="Padre Jesús" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             P. Jesús Zurita
                         </div>

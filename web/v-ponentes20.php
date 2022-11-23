@@ -110,7 +110,7 @@ escribe_cabecera();
                             <div class="col-md-4 animated wow fadeInRight">
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
                                 </div>-->
-                                <img src="assets/base/img/volunfair/anteriores/adol-essence.jpeg" width="100%" title="Adol-essence: un proyecto de Rocío Talavera y Rodrigo Osborne" alt="Adol-essence: un proyecto de Rocío Talavera y Rodrigo Osborne"/>
+                                <img src="assets/base/img/volunfair/anteriores/2020/adol-essence.jpeg" width="100%" title="Adol-essence: un proyecto de Rocío Talavera y Rodrigo Osborne" alt="Adol-essence: un proyecto de Rocío Talavera y Rodrigo Osborne"/>
                             </div>
                         </div>
                     </div>
@@ -159,7 +159,7 @@ escribe_cabecera();
                                 </div>
                             </div>
                             <div class="col-md-4">
-                                <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/villagayumbos.png); min-height: 300px;">
+                                <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/2020/villagayumbos.png); min-height: 300px;">
                                 </div>
                             </div>
                          </div>
@@ -172,7 +172,7 @@ escribe_cabecera();
                     <div class="container">
                         <div class="row">
                     	       <div class="col-md-4">
-                    	   	      <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/misuperheroesincapa.jpeg); min-height: 300px;">
+                    	   	      <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/2020/misuperheroesincapa.jpeg); min-height: 300px;">
                                 </div>
                             </div>
                     	
@@ -255,68 +255,68 @@ escribe_cabecera();
                             </div>
                             <div id="galFotos" style="margin-top: 65px;">
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-22.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-22.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-2.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-2.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-3.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-3.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-4.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-4.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-5.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-5.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-6.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-6.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-7.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-7.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-8.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-8.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-9.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-9.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-10.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-10.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-11.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-11.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-12.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-12.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-13.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-13.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-14.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-14.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-15.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-15.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-16.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-16.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-17.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-17.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-18.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-18.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-19.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-19.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-20.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-20.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                                
                                 <div>
-                                    <img src="./assets/base/img/volunfair/anteriores/2020a/2020-Fotos-21.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
+                                    <img src="./assets/base/img/volunfair/anteriores/2020/2020-Fotos-21.jpg" alt="VOLUNFAIR 2020" tilte="VOLUNFAIR 2020" />
                                 </div>
                             
                             
@@ -334,13 +334,13 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes-2020.jpg" alt="Maca Álvarez y Edu Amador" title="Maca Álvarez y Edu Amador" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2020/jefes-2020.jpg" alt="Maca Álvarez y Edu Amador" title="Maca Álvarez y Edu Amador" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Nuestros jefes: Maca Álvarez y Edu Amador
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/stand/foto6.jpg" alt="Equipo 2020" title="Equipo 2020" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2020/equipo2020.jpg" alt="Equipo 2020" title="Equipo 2020" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo
                         </div>

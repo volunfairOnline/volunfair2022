@@ -111,7 +111,7 @@ escribe_cabecera();
                             <div class="col-md-4 animated wow fadeInRight">
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
                                 </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2021\toni2.jpg" width="130%" title="Toni Nadal" alt="Toni Nadal"/>
+                                <img src="./assets/base/img/volunfair/anteriores/2021/toni2.jpg" width="130%" title="Toni Nadal" alt="Toni Nadal"/>
                             </div>
                         </div>
                     </div>
@@ -140,7 +140,7 @@ escribe_cabecera();
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/Fotos2021/angeles.jpeg); min-height: 300px;">
+                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/2021/angeles.jpeg); min-height: 300px;">
                                         </div>
                                     </div>
                                     <div class="col-md-8">
@@ -190,7 +190,7 @@ escribe_cabecera();
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/Fotos2021/ponente3.jpeg); min-height: 300px;">
+                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/2021/ponente3.jpeg); min-height: 300px;">
                                         </div>
                                     </div>
                                 </div>
@@ -214,13 +214,13 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes-2021.jpg" alt="María Lanzuela e Ignacio García-Guerra" title="María Lanzuela e Ignacio García-Guerra" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2021/jefes-2021.jpg" alt="María Lanzuela e Ignacio García-Guerra" title="María Lanzuela e Ignacio García-Guerra" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Nuestros jefes: María Lanzuela e Ignacio García-Guerra
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/Fotos2021/EQUIPAZO.JPG" alt="Equipo 2021s" title="Equipo 2021" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2021/EQUIPAZO.JPG" alt="Equipo 2021s" title="Equipo 2021" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo
                         </div>
