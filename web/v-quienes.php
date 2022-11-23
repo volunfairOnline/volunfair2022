@@ -233,12 +233,12 @@ escribe_cabecera();
                     ],
 
                 "Gestión" => [
-                        ['nombre' => 'Diego Álvarez',	    			'foto' => 'diegoalvarez'],
-                        ['nombre' => 'Enrique de Miguel',	    	    'foto' => 'enriquedemiguel'],
-                        ['nombre' => 'Jaime Moral',				        'foto' => 'jaimemoral'],
-                        ['nombre' => 'Javier Latorre',			        'foto' => 'javierlatorre'],
-                        ['nombre' => 'Lucia Sepúlveda',                 'foto' => 'luciasepulveda'],
-                        ['nombre' => 'Macarena Cuesta',		            'foto' => 'macarenacuesta'],
+                        ['nombre' => 'Diego Álvarez',	    			'foto' => 'gesdiego'],
+                        ['nombre' => 'Enrique de Miguel',	    	    'foto' => 'gesenrique'],
+                        ['nombre' => 'Jaime Moral',				        'foto' => 'gesjaime'],
+                        ['nombre' => 'Javier Latorre',			        'foto' => 'gesjavier'],
+                        ['nombre' => 'Lucia Sepúlveda',                 'foto' => 'geslucia'],
+                        ['nombre' => 'Macarena Cuesta',		            'foto' => 'gesmacarena'],
                     ],
 
                 "Marketing" => [

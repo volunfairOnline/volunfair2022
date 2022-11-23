@@ -78,7 +78,7 @@ escribe_cabecera();
                                 de Menorca. <br />
                                 Además de ser un enorme ejemplo de superación y motivación, Jacobo ha conseguido con todos estos admirables 
                                 logros, recaudar fondos para la investigación y tratamiento de la Leucemia Infantil con la Fundación Unoentrecienmil.
-                                Desde Volunfair, siempre le agradeceremos su ejemplo y la motivación que nos transmitió de ayudar a aquellos que 
+                                Desde VOLUNFAIR, siempre le agradeceremos su ejemplo y la motivación que nos transmitió de ayudar a aquellos que 
                                 sufren y necesitan de nosotros.
                                 </p>
                             </div>
