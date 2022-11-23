@@ -83,7 +83,7 @@ escribe_cabecera();
                             </div>
                         </div>
                     	   <div class="col-md-4">
-                    	   	  <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/PacoArango.jpg); min-height: 300px;">
+                    	   	  <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/2018/PacoArango.jpg); min-height: 300px;">
                             </div>
                         </div>
                     </div>
@@ -102,7 +102,7 @@ escribe_cabecera();
                 <div class="container">
                     <div class="row">
                                 <div class="col-md-4">
-                    	   	        <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/NicoMerino.jpg); min-height: 300px;">
+                    	   	        <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/2018/NicoMerino.jpg); min-height: 300px;">
                                     </div>
                                 </div>
                         <div class="col-md-8">
@@ -154,7 +154,7 @@ escribe_cabecera();
                             </div>
                         </div>
                         <div class="col-md-4">
-								<div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/PabloUrbano.jpg); min-height: 300px;">
+								<div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/2018/PabloUrbano.jpg); min-height: 300px;">
 								</div>
 						</div>
 
@@ -168,7 +168,7 @@ escribe_cabecera();
                 <div class="container">
                     <div class="row">
                     	   <div class="col-md-4">
-                    	   	  <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/AlbertoCabanes.jpg); min-height: 300px;">
+                    	   	  <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/2018/AlbertoCabanes.jpg); min-height: 300px;">
                             </div>
                         </div>
                     	
@@ -207,19 +207,19 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-2">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes2018/andreso.jpeg" alt="Andrés" title="Andrés" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2018/andreso.jpeg" alt="Andrés" title="Andrés" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Andrés Otero
                         </div>
                     </div>
                     <div class="col-md-2">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes2018/beatriza.jpg" alt="Beatriz" title="Beatriz" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2018/beatriza.jpg" alt="Beatriz" title="Beatriz" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Beatriz Aviñó
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/v-quienes/origen.jpg" alt="Equipo 2018" title="Equipo 2018" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2018/origen.jpg" alt="Equipo 2018" title="Equipo 2018" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo
                         </div>

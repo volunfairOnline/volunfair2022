@@ -84,7 +84,7 @@ escribe_cabecera();
                             </div>
                         </div>
                     	   <div class="col-md-4">
-                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/JacoboParages.jpg); min-height: 300px;">
+                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/2017/JacoboParages.jpg); min-height: 300px;">
                             </div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@ escribe_cabecera();
                 <div class="container">
                     <div class="row">
                     	   <div class="col-md-4">
-                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/AlvaroPerezPla.jpg); min-height: 300px;">
+                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/2017/AlvaroPerezPla.jpg); min-height: 300px;">
                             </div>
                         </div>
                     	
@@ -157,7 +157,7 @@ escribe_cabecera();
                             </div>
                         </div>
                     	   <div class="col-md-4">
-                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/JaviNieves.jpg); min-height: 300px;">
+                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/2017/JaviNieves.jpg); min-height: 300px;">
                             </div>
                         </div>
                     </div>
@@ -170,7 +170,7 @@ escribe_cabecera();
                 <div class="container">
                     <div class="row">
 							<div class="col-md-4">
-								<div class="c-content-media-2 c-bg-img-center animated wow fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/Rolando.jpg); min-height: 300px;">
+								<div class="c-content-media-2 c-bg-img-center animated wow fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/2017/Rolando.jpg); min-height: 300px;">
 								</div>
 							</div>
                     	
@@ -219,7 +219,7 @@ escribe_cabecera();
                             </div>
                         </div>
                     	   <div class="col-md-4">
-                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/BelenLlana.jpg); min-height: 300px;">
+                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/2017/BelenLlana.jpg); min-height: 300px;">
                             </div>
                         </div>
                     </div>
@@ -231,13 +231,13 @@ escribe_cabecera();
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes-2017.jpeg" alt="Loreto Albiñana y José María Orejana" title="Loreto Albiñana y José María Orejana" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2017/jefes-2017.jpeg" alt="Loreto Albiñana y José María Orejana" title="Loreto Albiñana y José María Orejana" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Nuestros jefazos: Loreto Albiñana y José María Orejana
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/anteriores/equipo-2017.jpeg" alt="Equipo 2017" title="Equipo 2017" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2017/equipo-2017.jpeg" alt="Equipo 2017" title="Equipo 2017" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo
                         </div>
