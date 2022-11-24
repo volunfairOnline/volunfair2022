@@ -80,7 +80,7 @@ escribe_cabecera();
                                     Al mismo tiempo, se dedica a la motivación personal, impartiendo charlas centradas en la necesidad de valorar lo 
                                     que cada uno tiene. Como bien nos recordaba: "No puedo hacer lo mismo que los demás, cierto, pero sí puedo conseguir 
                                     los mismos resultados que los demás."<br />
-                                    Durante la oportunidad que se nos brindó en Volunfair de entrevistar a este joven canario, nos recordó la importancia 
+                                    Durante la oportunidad que se nos brindó en VOLUNFAIR de entrevistar a este joven canario, nos recordó la importancia 
                                     de enseñar a otras personas a desarrollar su potencial para que puedan poner sus cualidades al servicio de los demás 
                                     para conseguir lo que se propongan y más.
                                     </p>
@@ -158,16 +158,13 @@ escribe_cabecera();
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="row">
-                        <div class="c-content-media-1  c-center wow animated fadeInLeft" >
-                           ¡Nuestro Equipo y los Jefes!
-                        </div>
                         <div class="col-md-3">
                             <!-- espacio para cuadrar -->
                         </div>
                         <div class="col-md-6">
                             <img src="./assets/base/img/volunfair/anteriores/2016/equipo-2016.jpg" alt="Equipo 2016" title="Equipo 2016" class="animated wow swing" width="100%" />
                             <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
-                                Equipo VF16
+                                El equipo y nuestros jefes
                             </div>
                         </div>
                         <div class="col-md-3">

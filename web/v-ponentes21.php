@@ -103,7 +103,7 @@ escribe_cabecera();
                                         ha preparado y acompañado toda la carrera de su sobrino Rafa Nadal, hasta convertirse en uno de los mayores nombres
                                         de la historia del tenis profesional y una leyenda del deporte español. Presume de haber trabajado con un chico que "supo afrontar su realidad", y que, a pesar de la dificultad, 
                                         estuvo siempre dispuesto a trabajar para mejorarla.<br/>
-                                        Tanto desde el micrófono de Volunfair, como en una pista de Montecarlo, Toni siempre ha defendido la necesidad de conocerse
+                                        Tanto desde el micrófono de VOLUNFAIR, como en una pista de Montecarlo, Toni siempre ha defendido la necesidad de conocerse
                                         a uno mismo, de ser consciente de nuestras fortalezas y debilidades, y trabajar desde ahí para sacar lo mejor de uno mismo.
                                     </p>
                                 </div>
@@ -157,7 +157,7 @@ escribe_cabecera();
                                                 el confort habitual y lanzarse a lo desconocido, sin ninguna otra razón más que la de ayudar al que lo necesita. <br />
                                                Su asociación, Ángeles de Kenia, nace después de su primera visita al país con el objetivo de ayudar a niños y familias.
                                             Con ella, esperan poder multiplicar cualquier ayuda que consigan sus esfuerzos. <br />
-                                             Con el mismo espíritu que Volunfair, buscan la puesta en acción de futuros voluntarios, y nos recuerdan que lo único que necesitamos
+                                             Con el mismo espíritu que VOLUNFAIR, buscan la puesta en acción de futuros voluntarios, y nos recuerdan que lo único que necesitamos
                                              para ayudar a alguien es la voluntad.
                                             </p>
                                         </div>

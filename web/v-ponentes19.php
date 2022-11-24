@@ -72,7 +72,10 @@ escribe_cabecera();
                                    <div class="c-right c-line-left "> </div>
                                 </div>
                                 <p class="c-right">
-                                	Si existe un deportista en España al que le van los retos ese es Xavi Torres. Sin dar una sola clase de educación física se convirtió en profesor de esta asignatura. Sin tener una sola extremidad completa consiguió ser nadador y uno de los mejores deportistas españoles de la historia. En la actualidad colabora con multitud de iniciativas solidarias. Su lema es: “Todos los días sale el sol y si no sale, ya me encargaré yo de sacarlo.”
+                                	Si existe un deportista en España al que le van los retos ese es Xavi Torres. Sin dar una sola clase de educación 
+                                    física se convirtió en profesor de esta asignatura. Sin tener una sola extremidad completa consiguió ser nadador y 
+                                    uno de los mejores deportistas españoles de la historia. En la actualidad colabora con multitud de iniciativas solidarias. 
+                                    Su lema es: “Todos los días sale el sol y si no sale, ya me encargaré yo de sacarlo.”
                                 </p>
                             </div>
                         </div>
@@ -103,7 +106,10 @@ escribe_cabecera();
                                  </div>
                                 
                                 <p>
-									Vicente del Bosque es el ejemplo del éxito de la humildad, la calidad y el trabajo. Ha sido futbolista, entrenador y seleccionador español, llevando al equipo nacional a lo más alto, ganando el Mundial en el año 2010 y la Eurocopa en 2012. Es padre de 3 hijos y admirado, no sólo por sus éxitos deportivos, sino también por su compromiso con muchísimas causas solidarias. Su lema es “El éxito sin honor es el mayor de los fracasos”.
+									Vicente del Bosque es el ejemplo del éxito de la humildad, la calidad y el trabajo. Ha sido futbolista, entrenador 
+                                    y seleccionador español, llevando al equipo nacional a lo más alto, ganando el Mundial en el año 2010 y la Eurocopa en 
+                                    2012. Es padre de 3 hijos y admirado, no sólo por sus éxitos deportivos, sino también por su compromiso con muchísimas 
+                                    causas solidarias. Su lema es “El éxito sin honor es el mayor de los fracasos”.
                                 </p>
  
                             </div>
@@ -136,7 +142,11 @@ escribe_cabecera();
                                    <div class="c-right c-line-left "> </div>
                                  </div>
                                 <p class="c-right">
-									Gema Hassen-Bey es una heroína que demuestra día a día que la vida no tiene por qué ser perfecta para ser maravillosa. Es deportista, actriz, compositora y medallista paralímpica de esgrima. Su próximo reto es convertirse en la primera mujer en silla de ruedas que alcance la cima del Kilimanjaro. Además, se convirtió en la primera deportista del mundo en silla de ruedas en alcanzar los 3000 metros de altitud solo con el impulso de sus brazos. Su lema es: “Si te mueves tú, el mundo se mueve contigo”.
+									Gema Hassen-Bey es una heroína que demuestra día a día que la vida no tiene por qué ser perfecta para ser maravillosa. 
+                                    Es deportista, actriz, compositora y medallista paralímpica de esgrima. Su próximo reto es convertirse en la primera mujer 
+                                    en silla de ruedas que alcance la cima del Kilimanjaro. Además, se convirtió en la primera deportista del mundo en silla de 
+                                    ruedas en alcanzar los 3000 metros de altitud solo con el impulso de sus brazos. Su lema es: “Si te mueves tú, el mundo se 
+                                    mueve contigo”.
                                </p>
                             </div>
                         </div>
@@ -167,7 +177,10 @@ escribe_cabecera();
                                  </div>
                                 
                                 <p>
-									Jose Enrique Fernández del Campo contrajo a los diez años una enfermedad que le hizo perder la vista. Es licenciado en Ciencias Matemáticas y Doctor en Ciencias Matemáticas por la UCM, donde fue profesor posteriormente. Ha trabajado desde 2003 en la dirección de educación de la ONCE. Toda una fuente de inspiración y un claro ejemplo del que nunca deja de querer ser astronauta.
+									Jose Enrique Fernández del Campo contrajo a los diez años una enfermedad que le hizo perder la vista. Es licenciado
+                                    en Ciencias Matemáticas y Doctor en Ciencias Matemáticas por la UCM, donde fue profesor posteriormente. Ha trabajado
+                                    desde 2003 en la dirección de educación de la ONCE. Toda una fuente de inspiración y un claro ejemplo del que nunca 
+                                    deja de querer ser astronauta.
                                 </p>
  
                             </div>

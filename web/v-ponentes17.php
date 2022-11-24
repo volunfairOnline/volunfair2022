@@ -117,7 +117,7 @@ escribe_cabecera();
                                 con lo aprendido en la universidad, fundó Kubuka, una ONG que, con la eficiencia de una empresa, actúa en proyectos 
                                 de empredimiento, educación e inclusión social en Kenia y Zambia.<br />
                                 Gracias a la construcción de colegios, orfanatos y proyectos de formación y apadrinamiento, Kubuka ha mejorado enormemente 
-                                la calidad de vida de niños y jóvenes en las zonas en las que actúa.Durante su paso por Volunfair, Álvaro nos recordó la 
+                                la calidad de vida de niños y jóvenes en las zonas en las que actúa.Durante su paso por VOLUNFAIR, Álvaro nos recordó la 
                                 importancia de aportar nuestro granito de arena para empezar a cambiar el mundo.
                                 </p>
  
@@ -183,8 +183,11 @@ escribe_cabecera();
                                  </div>
                                 
                                 <p>
-								Misionero javierano de origen mejicano, Rolando está destinado a España, como "tierra de misión". Su labor aquí es ser alma misionera, transmitiendo en parroquias, colegios e instituciones el concepto y esencia de ser misionero, y alentando en los jóvenes el espíritu de misión. <br />
-                                Entre las numerosas actividades que ha organizado con ese fin, destacan sus campos de trabajo con inmigrantes en Ceuta, en los que los voluntarios organizan talleres de español, manualidades y deporte con los inmigrantes recién llegados a España que esperan en los CETI, su paso a la Península en condiciones abrumadoras.
+								Misionero javierano de origen mejicano, Rolando está destinado a España, como "tierra de misión". Su labor aquí es ser alma misionera, 
+                                transmitiendo en parroquias, colegios e instituciones el concepto y esencia de ser misionero, y alentando en los jóvenes el espíritu 
+                                de misión. <br />Entre las numerosas actividades que ha organizado con ese fin, destacan sus campos de trabajo con inmigrantes en Ceuta, 
+                                en los que los voluntarios organizan talleres de español, manualidades y deporte con los inmigrantes recién llegados a España que esperan 
+                                en los CETI, su paso a la Península en condiciones abrumadoras.
                                 </p>
  
                             </div>
@@ -211,8 +214,8 @@ escribe_cabecera();
                                  </div>
                                 <p class="c-right">
                                 Con apenas 18 años cumplidos, Belén Llana emprendió un proyecto que, de forma muy similar a nuestra feria, tiene la ambición 
-                                de acercar el voluntariado a jóvenes dispuestos a cambiar el mundo. En 2015 funda "Voluntas Vincit", una ONG que ayuda a futuros voluntarios a encontrar proyectos en los que colaborar de acuerdo a su disponibilidad 
-                                y capacidades. Voluntas Vincit, desde sus 
+                                de acercar el voluntariado a jóvenes dispuestos a cambiar el mundo. En 2015 funda "Voluntas Vincit", una ONG que ayuda a futuros 
+                                voluntarios a encontrar proyectos en los que colaborar de acuerdo a su disponibilidad y capacidades. Voluntas Vincit, desde sus 
                                 comienzos más humildes, pretende hacer más accesible el primer paso que realizan los voluntarios al buscar una ONG de la que formar 
                                 parte, y evitar que se encallen simplemente en la buena intención.
                                 </p>
@@ -233,7 +236,7 @@ escribe_cabecera();
                     <div class="col-md-5">
                         <img src="./assets/base/img/volunfair/anteriores/2017/jefes-2017.jpeg" alt="Loreto Albiñana y José María Orejana" title="Loreto Albiñana y José María Orejana" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            Nuestros jefazos: Loreto Albiñana y José María Orejana
+                            Nuestros jefes: Loreto Albiñana y José María Orejana
                         </div>
                     </div>
                     <div class="col-md-7">
