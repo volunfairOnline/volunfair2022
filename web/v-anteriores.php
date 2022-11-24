@@ -186,7 +186,7 @@ escribe_cabecera();
 
                     <div class="tl-content">
                         <strong>Lema:</strong> "En lo Ordinario está lo Extraordinario" <br />
-                        <strong>Jefes:</strong> Chema Seral y María López
+                        <strong>Jefes:</strong> José María Seral y María López
                     </div>
 
                 </div>

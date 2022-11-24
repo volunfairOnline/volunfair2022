@@ -229,9 +229,9 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="assets/base/img/volunfair/anteriores/2022/jefes2022.jpeg" alt="María López y Chema Seral" title="María López y Chema Seral" class="animated wow swing" width="100%" />
+                        <img src="assets/base/img/volunfair/anteriores/2022/jefes2022.jpeg" alt="María López y José María Seral" title="María López y José María Seral" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            Nuestros jefes: María López y Chema Seral
+                            Nuestros jefes: María López y José María Seral
                         </div>
                     </div>
                     <div class="col-md-7">
