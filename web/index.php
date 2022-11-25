@@ -50,12 +50,12 @@ escribe_cabecera(1);
                 
             <!--  Fondos al redimensionar la página -->
                 <div class="solomediano1">
-                 <img alt="" src=".\assets\base\img\volunfair\inicio\FotoPortada2.png" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2023\encabezado_6.png" width="100%">
                 </div>
             
             
                 <div class="solo_peq">
-                 <img alt="" src=".\assets\base\img\volunfair\inicio\FotoPortadaMovil2.png" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2023\encabezado_6.png" width="100%">
                 </div>
 			
             <div class="">
