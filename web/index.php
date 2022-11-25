@@ -71,7 +71,7 @@ escribe_cabecera(1);
                     <div class="c-content-title-1">
                         <h1 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR </h1>
                         <h2 class="c-center  c-font-bold">Feria universitaria de voluntariado en Madrid</h2>
-                        <h3 class="c-center c-font-uppercase c-font-bold">1 y 2 de Marzo de 2022</h3>
+                        <h3 class="c-center c-font-uppercase c-font-bold">Próximos 15 y 16 de febrero de 2023</h3>
                             
                     </div>
 
@@ -85,7 +85,7 @@ escribe_cabecera(1);
                             Creemos que no siempre es necesario hacer grandes cosas, ni cosas súper lejos. Lo importante es hacer. Actualmente es más necesaria que nunca nuestra ayuda.
                             Por ello no nos quedamos quietos, pasivos. Nos levantamos. Actuamos. Porque no hay mejor momento que <b>AHORA</b> para empezar a caminar. <br></br>
 
-                            <b>Haz de lo ordinario algo extraordinario</b><br></br>
+                            <b>Ven, tenemos un truco por descubrir</b><br></br>
                             
                             Entonces… <b>¿Qué es VOLUNFAIR?</b> <br></br>
                             <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante dos jornadas completas a mediados de febrero. Este año, debido a la situación actual nos hemos tenido que <b>reinventar</b> y movernos al formato online, pero seguimos con la ilusión de siempre!<br></br>
@@ -93,7 +93,7 @@ escribe_cabecera(1);
                             <br></br>
 
                             PRÓXIMAMENTE… <br></br> 
-                            <b>#pequeñosGESTOS  #GRANDEScambios <br>
+                            <b>#DéjateSorprender  #LaMagiaDeEntregarse <br>
 
                         
 
@@ -102,10 +102,8 @@ escribe_cabecera(1);
                     </div>
 
                     <br/>
-                    <br/>
-                    <br/> 
-                    <br/>
-                    <br/>    
+                     
+                    <!-- 
                     <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="c-content-title-1">
@@ -156,8 +154,8 @@ escribe_cabecera(1);
 					
 					<br />
 					<br />
-				
-					<!-- PLANO STANDS -->
+                        -->
+					<!-- PLANO STANDS 
                     
                         <p></p> 
                 		<p></p>
@@ -170,7 +168,7 @@ escribe_cabecera(1);
                             <div class="animated fadeInLeft c-center" style="min-height: 380px;">
                              <img alt="" src="assets/base/img/volunfair/inicio/Plano_2022.png" width="80%">
                             </div>
-                        </div>
+                        </div> -->
 						<!--
                         <div class="col-md-4">
                             <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
@@ -181,13 +179,8 @@ escribe_cabecera(1);
                             <div class="animated fadeInLeft" style="min-height: 380px;">
                              <img alt="" src="assets/base/img/volunfair/lista1.png" width="100%">
                             </div>
-                        </div>-->
-                     </div>
-                     <br/>
-                    <br/>
-                    <br/> 
-                    <br/>
-                    <br/>  
+                        </div>
+                     </div>-->
 				
                 	<!-- FINAL PLANO STANDS -->
 
@@ -315,11 +308,11 @@ escribe_cabecera(1);
                     
                     <br />
                     <br />
-                    <br />
  
 
                     <p></p>
                 		<p></p>
+                        <!--
                 	  <div class="row">
                         <div class="col-md-6">
                             <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 380px;">

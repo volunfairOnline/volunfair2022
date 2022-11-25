@@ -9,7 +9,7 @@ function escribe_menu () {
 	// --- NO PONER COMA TRAS LA ÚLTIMA FILA
 	$menu = [
 		["archivo" => "v-viene", 		"nombre" => "Ed. 2023"],
-		//["archivo" => "index", 			"nombre" => "Inicio"],
+		["archivo" => "index", 			"nombre" => "Inicio"],
 		["archivo" => "v-quienes", 		"nombre" => "Equipo"],
 		["archivo" => "v-voluntario", 	"nombre" => "ONGs"],
 		["archivo" => "v-anteriores", 	"nombre" => "Anteriores"],
