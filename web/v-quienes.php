@@ -236,9 +236,10 @@ escribe_cabecera();
                         ['nombre' => 'Diego Álvarez',	    			'foto' => 'gesdiego'],
                         ['nombre' => 'Enrique de Miguel',	    	    'foto' => 'gesenrique'],
                         ['nombre' => 'Jaime Moral',				        'foto' => 'gesjaime'],
-                        ['nombre' => 'Javier Latorre',			        'foto' => 'gesjavier'],
-                        ['nombre' => 'Lucia Sepúlveda',                 'foto' => 'geslucia'],
-                        ['nombre' => 'Macarena Cuesta',		            'foto' => 'gesmacarena'],
+                        ['nombre' => 'Lucía Sepúlveda',			        'foto' => 'geslucia'],
+                        ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarena'],
+                        ['nombre' => 'Eugenia Odonell',		            'foto' => 'geseugeniaodonell'],
+                        ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
                     ],
 
                 "Marketing" => [
@@ -249,6 +250,7 @@ escribe_cabecera();
                         ['nombre' => 'Nico Lorenzo',		            'foto' => 'mktnicolorenzo'],
                         ['nombre' => 'Pablo Sanchez',			        'foto' => 'mktpablosanchezpobre'],
                         ['nombre' => 'Victoria Sarabia',				'foto' => 'mktvictoriasarabia'],
+                        ['nombre' => 'Quique Giménez',				    'foto' => 'mktquiquegimenez'],
                     ],
 
                 "ONG's y EESS" => [
