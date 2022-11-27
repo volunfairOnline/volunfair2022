@@ -11,8 +11,8 @@ escribe_cabecera();
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page">
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
->    
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_6.png)">
+    
             <!--<div class="container">
 				 
                     <div class="c-page-title c-pull-left">
@@ -86,7 +86,7 @@ escribe_cabecera();
                 
                 <div class="tl-item3" onclick="location.href='v-ponentes16';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/avionaco2.jpg")"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/avionaco2.jpg")></div>
                     
                     <div class="tl-year">
                         <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2016</a></p>
@@ -100,7 +100,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes17';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/rowing3.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/rowing3.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes17.php">2017</a></p>
@@ -115,7 +115,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes18';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/cuadrofumao3.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/cuadrofumao3.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes18.php">2018</a></p>
@@ -133,7 +133,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes19';">
                     
-                <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/estrellas.jpg)"></div>
+                <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/estrellas.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes19.php">2019</a></p>
@@ -148,7 +148,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes20';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/mar13.jpeg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/mar13.jpeg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes20.php">2020</a></p>
@@ -163,7 +163,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes21';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/acera.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/acera.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes21.php">2021</a></p>
@@ -178,7 +178,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes22';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/ninos22.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/ninos22.jpg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes21.php">2022</a></p>
@@ -186,7 +186,7 @@ escribe_cabecera();
 
                     <div class="tl-content">
                         <strong>Lema:</strong> "En lo Ordinario está lo Extraordinario" <br />
-                        <strong>Jefes:</strong> Chema Seral y María López
+                        <strong>Jefes:</strong> José María Seral y María López
                     </div>
 
                 </div>

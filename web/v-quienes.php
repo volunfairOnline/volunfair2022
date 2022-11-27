@@ -11,8 +11,8 @@ escribe_cabecera();
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page">
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
->    
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_6.png)">
+
             <!--<div class="container">
 				 
                     <div class="c-page-title c-pull-left">
@@ -231,16 +231,15 @@ escribe_cabecera();
                         ['nombre' => 'Ricardo Estremera',	                'foto' => 'finricardoestremera'],
                         ['nombre' => 'Rocío García',	                    'foto' => 'finrociogarcia'],
                     ],
-                    
-                    //este año Gestion y RRHH son dos departamentos distintos, por lo que hay que hacer una matriz distinta para cada uno
+
                 "Gestión" => [
                         ['nombre' => 'Diego Álvarez',	    			'foto' => 'gesdiego'],
-                        ['nombre' => 'Enrique de Miguel',	    		'foto' => 'gesenrique'],
+                        ['nombre' => 'Enrique de Miguel',	    	    'foto' => 'gesenrique'],
                         ['nombre' => 'Jaime Moral',				        'foto' => 'gesjaime'],
                         ['nombre' => 'Lucía Sepúlveda',			        'foto' => 'geslucia'],
                         ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarena'],
-                        ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
                         ['nombre' => 'Eugenia Odonell',		            'foto' => 'geseugeniaodonell'],
+                        ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
                     ],
 
                 "Marketing" => [

@@ -103,7 +103,7 @@ escribe_cabecera();
                                         ha preparado y acompañado toda la carrera de su sobrino Rafa Nadal, hasta convertirse en uno de los mayores nombres
                                         de la historia del tenis profesional y una leyenda del deporte español. Presume de haber trabajado con un chico que "supo afrontar su realidad", y que, a pesar de la dificultad, 
                                         estuvo siempre dispuesto a trabajar para mejorarla.<br/>
-                                        Tanto desde el micrófono de Volunfair, como en una pista de Montecarlo, Toni siempre ha defendido la necesidad de conocerse
+                                        Tanto desde el micrófono de VOLUNFAIR, como en una pista de Montecarlo, Toni siempre ha defendido la necesidad de conocerse
                                         a uno mismo, de ser consciente de nuestras fortalezas y debilidades, y trabajar desde ahí para sacar lo mejor de uno mismo.
                                     </p>
                                 </div>
@@ -111,7 +111,7 @@ escribe_cabecera();
                             <div class="col-md-4 animated wow fadeInRight">
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
                                 </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2021\toni2.jpg" width="130%" title="Toni Nadal" alt="Toni Nadal"/>
+                                <img src="./assets/base/img/volunfair/anteriores/2021/toni2.jpg" width="130%" title="Toni Nadal" alt="Toni Nadal"/>
                             </div>
                         </div>
                     </div>
@@ -140,7 +140,7 @@ escribe_cabecera();
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-4">
-                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/Fotos2021/angeles.jpeg); min-height: 300px;">
+                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/2021/angeles.jpeg); min-height: 300px;">
                                         </div>
                                     </div>
                                     <div class="col-md-8">
@@ -157,7 +157,7 @@ escribe_cabecera();
                                                 el confort habitual y lanzarse a lo desconocido, sin ninguna otra razón más que la de ayudar al que lo necesita. <br />
                                                Su asociación, Ángeles de Kenia, nace después de su primera visita al país con el objetivo de ayudar a niños y familias.
                                             Con ella, esperan poder multiplicar cualquier ayuda que consigan sus esfuerzos. <br />
-                                             Con el mismo espíritu que Volunfair, buscan la puesta en acción de futuros voluntarios, y nos recuerdan que lo único que necesitamos
+                                             Con el mismo espíritu que VOLUNFAIR, buscan la puesta en acción de futuros voluntarios, y nos recuerdan que lo único que necesitamos
                                              para ayudar a alguien es la voluntad.
                                             </p>
                                         </div>
@@ -190,7 +190,7 @@ escribe_cabecera();
                                         </div>
                                     </div>
                                     <div class="col-md-4">
-                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/Fotos2021/ponente3.jpeg); min-height: 300px;">
+                                        <div class="c-content-media-2 c-bg-img-center wow animated fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/2021/ponente3.jpeg); min-height: 300px;">
                                         </div>
                                     </div>
                                 </div>
@@ -214,13 +214,13 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes-2021.jpg" alt="María Lanzuela e Ignacio García-Guerra" title="María Lanzuela e Ignacio García-Guerra" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2021/jefes-2021.jpg" alt="María Lanzuela e Ignacio García-Guerra" title="María Lanzuela e Ignacio García-Guerra" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Nuestros jefes: María Lanzuela e Ignacio García-Guerra
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/Fotos2021/EQUIPAZO.JPG" alt="Equipo 2021s" title="Equipo 2021" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2021/EQUIPAZO.JPG" alt="Equipo 2021s" title="Equipo 2021" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo
                         </div>

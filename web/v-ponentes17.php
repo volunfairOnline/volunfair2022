@@ -50,6 +50,7 @@ escribe_cabecera();
             </div>
             
 			<div class="c-content-title-1">
+                <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 8 de febrero: ¡Qué poco es una vida para darla!</h2>   
                 <p class="c-center" >La experencia de una vida a los demás. Vivir para servir</p>                      
              </div>
@@ -77,13 +78,13 @@ escribe_cabecera();
                                 de Menorca. <br />
                                 Además de ser un enorme ejemplo de superación y motivación, Jacobo ha conseguido con todos estos admirables 
                                 logros, recaudar fondos para la investigación y tratamiento de la Leucemia Infantil con la Fundación Unoentrecienmil.
-                                Desde Volunfair, siempre le agradeceremos su ejemplo y la motivación que nos transmitió de ayudar a aquellos que 
+                                Desde VOLUNFAIR, siempre le agradeceremos su ejemplo y la motivación que nos transmitió de ayudar a aquellos que 
                                 sufren y necesitan de nosotros.
                                 </p>
                             </div>
                         </div>
                     	   <div class="col-md-4">
-                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/JacoboParages.jpg); min-height: 300px;">
+                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/2017/JacoboParages.jpg); min-height: 300px;">
                             </div>
                         </div>
                     </div>
@@ -96,7 +97,7 @@ escribe_cabecera();
                 <div class="container">
                     <div class="row">
                     	   <div class="col-md-4">
-                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/AlvaroPerezPla.jpg); min-height: 300px;">
+                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/2017/AlvaroPerezPla.jpg); min-height: 300px;">
                             </div>
                         </div>
                     	
@@ -116,7 +117,7 @@ escribe_cabecera();
                                 con lo aprendido en la universidad, fundó Kubuka, una ONG que, con la eficiencia de una empresa, actúa en proyectos 
                                 de empredimiento, educación e inclusión social en Kenia y Zambia.<br />
                                 Gracias a la construcción de colegios, orfanatos y proyectos de formación y apadrinamiento, Kubuka ha mejorado enormemente 
-                                la calidad de vida de niños y jóvenes en las zonas en las que actúa.Durante su paso por Volunfair, Álvaro nos recordó la 
+                                la calidad de vida de niños y jóvenes en las zonas en las que actúa.Durante su paso por VOLUNFAIR, Álvaro nos recordó la 
                                 importancia de aportar nuestro granito de arena para empezar a cambiar el mundo.
                                 </p>
  
@@ -156,7 +157,7 @@ escribe_cabecera();
                             </div>
                         </div>
                     	   <div class="col-md-4">
-                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/JaviNieves.jpg); min-height: 300px;">
+                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/2017/JaviNieves.jpg); min-height: 300px;">
                             </div>
                         </div>
                     </div>
@@ -169,7 +170,7 @@ escribe_cabecera();
                 <div class="container">
                     <div class="row">
 							<div class="col-md-4">
-								<div class="c-content-media-2 c-bg-img-center animated wow fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/Rolando.jpg); min-height: 300px;">
+								<div class="c-content-media-2 c-bg-img-center animated wow fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/2017/Rolando.jpg); min-height: 300px;">
 								</div>
 							</div>
                     	
@@ -182,8 +183,11 @@ escribe_cabecera();
                                  </div>
                                 
                                 <p>
-								Misionero javierano de origen mejicano, Rolando está destinado a España, como "tierra de misión". Su labor aquí es ser alma misionera, transmitiendo en parroquias, colegios e instituciones el concepto y esencia de ser misionero, y alentando en los jóvenes el espíritu de misión. <br />
-                                Entre las numerosas actividades que ha organizado con ese fin, destacan sus campos de trabajo con inmigrantes en Ceuta, en los que los voluntarios organizan talleres de español, manualidades y deporte con los inmigrantes recién llegados a España que esperan en los CETI, su paso a la Península en condiciones abrumadoras.
+								Misionero javierano de origen mejicano, Rolando está destinado a España, como "tierra de misión". Su labor aquí es ser alma misionera, 
+                                transmitiendo en parroquias, colegios e instituciones el concepto y esencia de ser misionero, y alentando en los jóvenes el espíritu 
+                                de misión. <br />Entre las numerosas actividades que ha organizado con ese fin, destacan sus campos de trabajo con inmigrantes en Ceuta, 
+                                en los que los voluntarios organizan talleres de español, manualidades y deporte con los inmigrantes recién llegados a España que esperan 
+                                en los CETI, su paso a la Península en condiciones abrumadoras.
                                 </p>
  
                             </div>
@@ -210,15 +214,15 @@ escribe_cabecera();
                                  </div>
                                 <p class="c-right">
                                 Con apenas 18 años cumplidos, Belén Llana emprendió un proyecto que, de forma muy similar a nuestra feria, tiene la ambición 
-                                de acercar el voluntariado a jóvenes dispuestos a cambiar el mundo. En 2015 funda "Voluntas Vincit", una ONG que ayuda a futuros voluntarios a encontrar proyectos en los que colaborar de acuerdo a su disponibilidad 
-                                y capacidades. Voluntas Vincit, desde sus 
+                                de acercar el voluntariado a jóvenes dispuestos a cambiar el mundo. En 2015 funda "Voluntas Vincit", una ONG que ayuda a futuros 
+                                voluntarios a encontrar proyectos en los que colaborar de acuerdo a su disponibilidad y capacidades. Voluntas Vincit, desde sus 
                                 comienzos más humildes, pretende hacer más accesible el primer paso que realizan los voluntarios al buscar una ONG de la que formar 
                                 parte, y evitar que se encallen simplemente en la buena intención.
                                 </p>
                             </div>
                         </div>
                     	   <div class="col-md-4">
-                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/BelenLlana.jpg); min-height: 300px;">
+                    	   	  <div class="c-content-media-2 c-bg-img-center animated wow fadeInRight" style="background-image: url(assets/base/img/volunfair/anteriores/2017/BelenLlana.jpg); min-height: 300px;">
                             </div>
                         </div>
                     </div>
@@ -230,13 +234,13 @@ escribe_cabecera();
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/anteriores/jefes-2017.jpeg" alt="Loreto Albiñana y José María Orejana" title="Loreto Albiñana y José María Orejana" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2017/jefes-2017.jpeg" alt="Loreto Albiñana y José María Orejana" title="Loreto Albiñana y José María Orejana" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            Nuestros jefazos: Loreto Albiñana y José María Orejana
+                            Nuestros jefes: Loreto Albiñana y José María Orejana
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/anteriores/equipo-2017.jpeg" alt="Equipo 2017" title="Equipo 2017" class="animated wow swing" width="100%" />
+                        <img src="./assets/base/img/volunfair/anteriores/2017/equipo-2017.jpeg" alt="Equipo 2017" title="Equipo 2017" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo
                         </div>
