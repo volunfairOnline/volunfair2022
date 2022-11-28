@@ -54,7 +54,7 @@ escribe_cabecera();
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2023</h3>
                     <div class="c-line-center c-theme-bg"></div>
-                    <p class="c-center" >Ya está aquí la octava edición de <b>VOLUNFAIR</b>. ¿Te la vas a perder? <br />El miércoles 15 y jueves 16 de febrero de <b>10:00 a 19:00</b> podrás conocer a todas las entidades sociales que nos acompañan este año.
+                    <p class="c-center" >Ya está aquí la octava edición de <b>VOLUNFAIR</b>. ¿Te la vas a perder? <br />El miércoles 15 y jueves 16 de febrero de <b>11:00 a 20:00</b> podrás conocer a todas las entidades sociales que nos acompañan este año.
                     <br /> Además, con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
 					
 				</div>
@@ -64,7 +64,7 @@ escribe_cabecera();
 
             <!-- BEGIN: CUENTA ATRÁS -->
             
-            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/ninos.jpg">
+            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2023/Fondos/magia15.jpeg">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
@@ -75,9 +75,6 @@ escribe_cabecera();
                                         </div>
                                     </div>
 
-                                    <div id="deadline-message" class="deadline-message">
-                                    ¡Ya está aquí!
-                                    </div>
                                     <div id="countdown" class="countdown">
                                         <div class="countdown-number">
                                             <span class="days countdown-time"></span>
@@ -102,18 +99,18 @@ escribe_cabecera();
                             </div>
                         </div>
                     </div>
-                </div>
+                
                 
                 <!-- 
                     https://denis-creative.com/jstimer/
                     https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
                 -->
-            <!-- END: CUENTA ATRÁS -->
+                <!-- END: CUENTA ATRÁS -->
 
-            <!-- BEGIN: RIFA -->
-            <br /><br /><br />
-            <!--
-            <div class="row c-content-box c-size" style="margin-top: 0px;">
+             <!-- BEGIN: RIFA -->
+                <br /><br /><br />
+                <!--
+                <div class="row c-content-box c-size" style="margin-top: 0px;">
                 <div class="col-md-3 ">
                 </div>
                 <div class="col-md-3">
@@ -138,24 +135,23 @@ escribe_cabecera();
                 </div>
                 <div class="col-md-3 ">
                 </div>
-            </div>
-            -->
-            <br /><br />
+                </div>
+                -->
+                <br /><br />
 
-            <!-- BEGIN: RIFA -->
-            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2023/Fondos/magia15.jpeg">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="animated c-bordered c-center c-content-media-1 flash row wow">
-                                <div class="col-md-12">
-                                    <div class="c-content-title-1">
-                                        <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa de 2022</h3>
-                                    </div>
-                                </div> 
+                <!-- BEGIN: RIFA -->
+                    <div class="container">
+                     <div class="row">
+                            <div class="col-md-12">
+                                <div class="animated c-bordered c-center c-content-media-1 flash row wow">
+                                    <div class="col-md-12">
+                                        <div class="c-content-title-1">
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa de 2022</h3>
+                                        </div>
+                                    </div> 
                                 
 
-                                <!-- BEGIN: RESULTADOS DE LA RIFA -->
+                                    <!-- BEGIN: RESULTADOS DE LA RIFA -->
                                 <div class="c-center col-md-12 container row" id="buscarRifa">
                                     Introduce tu número para saber si has tenido suerte:
                                     <br /><br />
@@ -187,7 +183,6 @@ escribe_cabecera();
                             </div>
                         </div>
                     </div>
-                </div>
             </div>-->
         
             <!-- END: RIFA -->
@@ -414,13 +409,13 @@ escribe_cabecera();
                 </div>
                 
             </div>
--->
+            -->
             <!-- END: PABLO Y CLARA -->
             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-<!-- decomentar cuando se quiera ponentes actuales
+        <!-- decomentar cuando se quiera ponentes actuales
             <div class="col-md-4">
             </div>
--->
+            -->
 
             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
 

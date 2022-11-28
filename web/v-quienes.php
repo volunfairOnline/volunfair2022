@@ -11,8 +11,8 @@ escribe_cabecera();
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page">
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
->    
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_6.png)">
+
             <!--<div class="container">
 				 
                     <div class="c-page-title c-pull-left">
@@ -106,7 +106,7 @@ escribe_cabecera();
             </br>
             <br>
             </br>
-            <div class="parallax-window" data-parallax="scroll" data-bleed="50" data-speed="0.2" data-image-src="assets\base\img\volunfair\anteriores\2020a\2020-Fotos-22.jpg">
+            <div class="parallax-window" data-parallax="scroll" data-bleed="50" data-speed="0.2" data-image-src="assets\base\img\volunfair\Fotos2022\equipo2022.jpeg">
                 <div class="c-content-box c-size-md ">
                     <div class="container">
                         <div class="row">
@@ -122,7 +122,7 @@ escribe_cabecera();
                                     </div>
                                         
                                         <p>
-                                        <b>Amor por los demás</b>: en volunfair no miramos a cada persona como estamos acostumbrados a ser mirados 
+                                        <b>Amor por los demás</b>: en VOLUNFAIR no miramos a cada persona como estamos acostumbrados a ser mirados 
                                         por el mundo, dónde somos importantes en la medida en que aportemos a la sociedad.
                                     Sino que cada persona es un don.
                                         Y es <b>dando</b> dónde <b>se recibe</b>. Por eso nuestra misión principal es darnos a los demás con amor y por amor. 
@@ -140,7 +140,7 @@ escribe_cabecera();
                                         </div>
                                         
                                         <p>
-                                        Como todo en la vida, no siempre salen las cosas a la primera. Y volunfair no es la excepción. Pero <b>con cada caída se aprende</b>.
+                                        Como todo en la vida, no siempre salen las cosas a la primera. Y VOLUNFAIR no es la excepción. Pero <b>con cada caída se aprende</b>.
                                         Y es que caer no está mal, el problema es si nos encariñamos de la piedra. Porque el éxito 
                                         está en ir de fracaso en fracaso sin perder el entusiasmo. 
                                         </p>
@@ -157,8 +157,8 @@ escribe_cabecera();
                                         </div>
                                         
                                         <p>
-                                        El poder de una sonrisa es el mayor poder de  volunfair. <b>La felicidad</b> más absoluta <b>está en</b> el <b>hacer felices a los demás</b>. 
-                                        Volunfair es pura alegría y entusiasmo. Está lleno de emociones intensas y 
+                                        El poder de una sonrisa es el mayor poder de  VOLUNFAIR. <b>La felicidad</b> más absoluta <b>está en</b> el <b>hacer felices a los demás</b>. 
+                                        VOLUNFAIR es pura alegría y entusiasmo. Está lleno de emociones intensas y 
                                         sorpresas inesperadas, pero nuestra mayor certeza es que, por cada gota que das de alegría,  recibes un mar de sonrisas.
                                         </p>
         
@@ -173,9 +173,9 @@ escribe_cabecera();
                                         </div>
                                         
                                         <p>
-                                        Y es que volunfair tiene ya 5 años, ya empieza a adquirir personalidad, imagen propia  
+                                        Y es que VOLUNFAIR tiene ya 8 años, ya empieza a adquirir personalidad, imagen propia  
                                         y asentando sus objetivos. Pero  continua  dejándose 
-                                        sorprender por cada momento de la vida y <b>viviendo</b> esos momentos <b>con la emoción de un niño</b>.  Ya empieza a tener
+                                        sorprender por cada momento de la vida y <b>viviendo</b> esos momentos <b>con la emoción de un niño</b>. Ya empieza a tener
                                         recuerdos, historia, experiencia, en definitiva un recorrido. Cada vez más gente se sube al tren y menos se bajan. 
                                         </p>
         
@@ -231,15 +231,16 @@ escribe_cabecera();
                         ['nombre' => 'Ricardo Estremera',	                'foto' => 'finricardoestremera'],
                         ['nombre' => 'Rocío García',	                    'foto' => 'finrociogarcia'],
                     ],
-                    
-                    //este año Gestion y RRHH son dos departamentos distintos, por lo que hay que hacer una matriz distinta para cada uno
+
                 "Gestión" => [
                         ['nombre' => 'Diego Álvarez',	    			'foto' => 'gesdiego'],
-                        ['nombre' => 'Enrique de Miguel',	    		'foto' => 'gesenrique'],
+                        ['nombre' => 'Enrique de Miguel',	    	    'foto' => 'gesenrique'],
                         ['nombre' => 'Jaime Moral',				        'foto' => 'gesjaime'],
                         ['nombre' => 'Lucía Sepúlveda',			        'foto' => 'geslucia'],
                         ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarena'],
+                        ['nombre' => 'Eugenia Odonell',		            'foto' => 'geseugeniaodonell'],
                         ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
+                        ['nombre' => 'Ana Vendrell',		            'foto' => 'gesanavendrell'],
                     ],
 
                 "Marketing" => [
@@ -250,6 +251,8 @@ escribe_cabecera();
                         ['nombre' => 'Nico Lorenzo',		            'foto' => 'mktnicolorenzo'],
                         ['nombre' => 'Pablo Sanchez',			        'foto' => 'mktpablosanchezpobre'],
                         ['nombre' => 'Victoria Sarabia',				'foto' => 'mktvictoriasarabia'],
+                        ['nombre' => 'Quique Giménez',				    'foto' => 'mktquiquegimenez'],
+                        ['nombre' => 'Carla Rius',				        'foto' => 'mktcarlarius'],
                     ],
 
                 "ONG's y EESS" => [

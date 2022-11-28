@@ -11,8 +11,8 @@ escribe_cabecera();
         <div class="c-layout-page">
 		
              <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			 <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
->
+			 <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_6.png)">
+
                  <!--<div class="container">
 				 
                     <div class="c-page-title c-pull-left">
@@ -92,13 +92,15 @@ escribe_cabecera();
 						// --- Matriz con los premiados (no poner coma tras cada último corchete porque da error)
 						// --- Guardar la foto en assets/base/img/volunfair/anteriores/
 						$premiados = [
-							["fecha" => "2018", 	"nombre" => "Paco Arango",				"foto" => "PacoArango.jpg",			"razon" => ""],
-							["fecha" => "2019", 	"nombre" => "Xavi Torres",				"foto" => "XaviTorres.jpg",			"razon" => ""],
-							["fecha" => "2019", 	"nombre" => "Vicente del Bosque",		"foto" => "VicenteDelBosque.jpg",	"razon" => ""],
-                            ["fecha" => "2020",     "nombre" => "Adol-essence",        		"foto" => "Adol-essence.jpg",    "razon" => ""],
-                            ["fecha" => "2021",     "nombre" => "Toni Nadal",        		"foto" => "ToniNadal.jpg",    "razon" => ""],
-                            ["fecha" => "2021",     "nombre" => "Javier Pérez-Minguez",     "foto" => "JavierPerezMinguez_1.jpg",    "razon" => ""],
-                            ["fecha" => "2021",     "nombre" => "Los Ángeles de Kenia",     "foto" => "LosAngelesDeKenia.jpg",    "razon" => ""]					
+							["fecha" => "2018", 	"nombre" => "Paco Arango",				"foto" => "PacoArango.jpg",				"razon" => ""],
+							["fecha" => "2019", 	"nombre" => "Xavi Torres",				"foto" => "XaviTorres.jpg",				"razon" => ""],
+							["fecha" => "2019", 	"nombre" => "Vicente del Bosque",		"foto" => "VicenteDelBosque.jpg",		"razon" => ""],
+                            ["fecha" => "2020",     "nombre" => "Adol-essence",        		"foto" => "Adol-essence.jpg",   		"razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Toni Nadal",        		"foto" => "ToniNadal.jpg",    			"razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Javier Pérez-Minguez",     "foto" => "JavierPerezMinguez_2.png",   "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Los Ángeles de Kenia",     "foto" => "LosAngelesDeKenia.jpg",    	"razon" => ""],
+							["fecha" => "2022",     "nombre" => "Joaquín Echevarría",     	"foto" => "JoaquinEchevarria.jpg",    	"razon" => ""],
+							["fecha" => "2022",     "nombre" => "Álvaro Trigo",     		"foto" => "AlvaroTrigo.jpg",    		"razon" => ""]					
 						];
 						
 						// --- Función que escribe los premiados con formato

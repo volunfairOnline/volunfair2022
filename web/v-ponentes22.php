@@ -61,8 +61,10 @@ escribe_cabecera();
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2022</h3>
-                    <p class="c-center" >Ya está aquí la séptima edición de <b>VOLUNFAIR</b>. ¡La primera en formato digital! ¿Te la vas a perder? <br />Pásate este miércoles y jueves de <b>10:00 a 19:00</b> por el link que pondremos dentro de poco para conocer a todas las entidades sociales que nos acompañan este año.
-                    <br /> Este año contamos con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
+                    <p class="c-center" > 2022 entró pisando fuerte con la séptima edición de <b>VOLUNFAIR</b> en marzo. 6 meses de preparación, 4 ponentes con <br>auténticos poderes de servicio,
+                    2 superhéroes rondando la universidad con trajes de superman y miles de personas conociendo nuevas ONGs...<br>Y en ese momento nos dimos cuenta de que, de algo tan sencillo y ordinario
+                    como es <b>darse a los demás</b>, habíamos conseguido hacer algo<br> <b>muy extraordinario</b>. Porque con #pequeñosGESTOS se hacen #GRANDEScambios
+                     </p>
 					
 				</div>
                 
@@ -74,7 +76,7 @@ escribe_cabecera();
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase  c-font-bold">Martes 1 de marzo: Q&A con Joaquín Echeverría y Álvaro Trigo</h2>   
-                <p class="c-center" >Se realizó el acto inaugural con dos ejemplazos extraordinarios en el mundo ordinario</p>             
+                <p class="c-center" >Acto inaugural con dos ejemplazos extraordinarios en el mundo ordinario</p>             
             </div>
 
            <!-- BEGIN: Joaquín Echevarría y Álvaro Trigo-->
@@ -99,7 +101,7 @@ escribe_cabecera();
 
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2022/joaquin.jpeg); /*min-height: 300px;*/">
                                 </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2022\joaquinm.jpg" width="100%" title="Joaquín Echeverría" alt="Joaquín Echeverría"/>
+                                <img src="assets/base/img/volunfair/anteriores/2022/joaquinm.jpg" width="100%" title="Joaquín Echeverría" alt="Joaquín Echeverría"/>
                                 <br /><br />
                             </div>
                         </div>
@@ -111,7 +113,7 @@ escribe_cabecera();
 
                                 <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
                                 </div> -->
-                                <img src="assets\base\img\volunfair\Fotos2022\alvar.jpeg" width="100%" title="Álvaro Trigo" alt="Álvaro Trigo" />
+                                <img src="assets/base/img/volunfair/anteriores/2022/alvar.jpeg" width="100%" title="Álvaro Trigo" alt="Álvaro Trigo" />
                             </div>
                             <div class="col-md-8">
                                 <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight" style="min-height: 300px;">                                  
@@ -160,7 +162,7 @@ escribe_cabecera();
                             <div class="col-md-4">
                                 <div class="col-md-12">
                                     <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets\base\img\volunfair\Fotos2022\saraandress.jpeg" width="100%" title="Sara Andrés" alt="Sara Andrés" />
+                                        <img src="assets/base/img/volunfair/anteriores/2022/saraandress.jpeg" width="100%" title="Sara Andrés" alt="Sara Andrés" />
                                     </div>
                                     <br />
                                     <div class="row wow animated bounceInDown">
@@ -188,7 +190,7 @@ escribe_cabecera();
                             <div class="col-md-4">
                                 <div class="col-md-12">
                                     <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets\base\img\volunfair\Fotos2022\guille.jpeg" width="100%" title="Guillermo Martínez" alt="Guillermo Martínez" />
+                                        <img src="assets/base/img/volunfair/anteriores/2022/guille.jpeg" width="100%" title="Guillermo Martínez" alt="Guillermo Martínez" />
                                     </div>
                                     <br />
                                     <div class="row wow animated bounceInDown">
@@ -227,22 +229,47 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="./assets/base/img/volunfair/Fotos2022/jefes2022.jpeg" alt="María Lanzuela e Ignacio García-Guerra" title="María Lanzuela e Ignacio García-Guerra" class="animated wow swing" width="100%" />
+                        <img src="assets/base/img/volunfair/anteriores/2022/jefes2022.jpeg" alt="María López y José María Seral" title="María López y José María Seral" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            Nuestros jefes: María López y Chema Seral
+                            Nuestros jefes: María López y José María Seral
                         </div>
                     </div>
-                   <!-- <div class="col-md-7">
-                        <img src="./assets/base/img/volunfair/Fotos2021/EQUIPAZO.JPG" alt="Equipo 2021s" title="Equipo 2021" class="animated wow swing" width="100%" />
+                    <div class="col-md-7">
+                        <img src="assets/base/img/volunfair/anteriores/2022/equipo2022.jpeg" alt="Equipo 2022" title="Equipo 2022" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
-                            El equipo INDUFORUM 2022
+                            El equipo VOLUNFAIR 2022
                         </div>
-                    </div>-->
+                    </div>
                 </div>
             </div>
             <!-- END: BLOQUE EQUIPO Y JEFES -->
-
-
+            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
+                <div class="container">
+                    <div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
+                        <div class="c-bg-white c-content-media-1 c-bordered">
+                            <div class="col-md-12">
+                                <div class="c-content-title-1">
+                                    <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">PONENCIAS</h3>
+                                </div>
+                            </div>
+                             
+                            <div class="solomediano1">
+                              <div class="row c-center wow animated fadeInUp">
+                                    <iframe width="500" height="315" src="https://www.youtube.com/embed/AzWOxlWli5g?autoplay=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe width="500" height="315" src="https://www.youtube.com/embed/yRVFeqtADEs" frameborder="0" allow="accelerometer;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                                    <div class="solo_peq">
+                                        <div class="row c-center wow animated bounceIn">
+                                            <iframe width="350" height="315" src="https://www.youtube.com/embed/AzWOxlWli5g?autoplay=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                            <iframe width="350" height="315" src="https://www.youtube.com/embed/yRVFeqtADEs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                         </div>
+                                    </div>   
+                            </div>
+              
+                    </div>                         
+                </div>
+            </div>    
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Y con la colaboración de:</h2>                    
