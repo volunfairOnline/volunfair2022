@@ -240,6 +240,7 @@ escribe_cabecera();
                         ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarena'],
                         ['nombre' => 'Eugenia Odonell',		            'foto' => 'geseugeniaodonell'],
                         ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
+                        ['nombre' => 'Ana Vendrell',		            'foto' => 'gesanavendrell'],
                     ],
 
                 "Marketing" => [
