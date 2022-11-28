@@ -251,6 +251,7 @@ escribe_cabecera();
                         ['nombre' => 'Pablo Sanchez',			        'foto' => 'mktpablosanchezpobre'],
                         ['nombre' => 'Victoria Sarabia',				'foto' => 'mktvictoriasarabia'],
                         ['nombre' => 'Quique Giménez',				    'foto' => 'mktquiquegimenez'],
+                        ['nombre' => 'Carla Rius',				        'foto' => 'mktcarlarius'],
                     ],
 
                 "ONG's y EESS" => [
