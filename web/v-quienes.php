@@ -238,7 +238,7 @@ escribe_cabecera();
                         ['nombre' => 'Jaime Moral',				        'foto' => 'gesjaime'],
                         ['nombre' => 'Lucía Sepúlveda',			        'foto' => 'geslucia'],
                         ['nombre' => 'Macarena Cuesta',                 'foto' => 'gesmacarena'],
-                        ['nombre' => 'Eugenia Odonell',		            'foto' => 'geseugeniaodonell'],
+                        ['nombre' => 'Eugenia O´Donnell',		        'foto' => 'geseugeniaodonell'],
                         ['nombre' => 'Javier de la Torre',		        'foto' => 'gesjavier'],
                         ['nombre' => 'Ana Vendrell',		            'foto' => 'gesanavendrell'],
                     ],
