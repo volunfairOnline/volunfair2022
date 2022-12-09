@@ -88,7 +88,7 @@ escribe_cabecera(1);
                             <b>Ven, tenemos un truco por descubrir</b><br></br>
                             
                             Entonces… <b>¿Qué es VOLUNFAIR?</b> <br></br>
-                            <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante dos jornadas completas a mediados de febrero. Este año, debido a la situación actual nos hemos tenido que <b>reinventar</b> y movernos al formato online, pero seguimos con la ilusión de siempre!<br></br>
+                            <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante dos jornadas completas a mediados de febrero. Ahora también tenemos un <b>añadido especial</b>: el formato online.<br></br>
                             
                             <br></br>
 
