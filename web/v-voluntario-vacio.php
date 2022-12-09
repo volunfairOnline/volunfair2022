@@ -8,7 +8,7 @@ session_start();
 // --- Iniciar la clase de conexión a la base de datos
 require_once('./mysql/MySQLHandler.class.php');
 require_once("./mysql/misconexiones.php");
-
+ 
 // --- Escribimos las cabeceras
 escribe_cabecera();
 
@@ -17,7 +17,7 @@ escribe_cabecera();
         <div class="c-layout-page">
         
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_6.png)">
 >    
             <!--<div class="container">
 				 
@@ -34,6 +34,7 @@ escribe_cabecera();
             <!-- BEGIN: PAGE CONTENT -->
           
              <!-- BEGIN: CONTENT/TABS/TAB-1 -->
+             
             <div class="c-content-box c-size-md c-no-bottom-padding c-overflow-hide">
                 <div class="c-container">
                     <div class="row">
@@ -41,16 +42,27 @@ escribe_cabecera();
                             <div class="c-content-title-1">
                                 <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30"> PARTICIPANTES</h3>
                                 <div class="c-line-center c-theme-bg"></div>
-                                <p class="c-font-center c-font-bold c-font-uppercase c-margin-b-30">¡Superhéroe!¡Dentro de poco tendrás noticias de nuestras super-ONGs!<br />
-                                Hasta entonces...descubre lo extraordinario en lo ordinario</p>
+                                <p class="c-font-center c-font-bold c-font-uppercase c-margin-b-30">¡Dentro de poco tendrás noticias de los trucos por descubrir de nuestras ONGs!<br />
+                                Hasta entonces... DÉJATE SORPRENDER</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                 
+                 <!--
                 <div class="c-container c-center">
-                    <img src="./assets/base/img/volunfair/frase_2022.jpg" style="width: 30%;" />
+                    <img src="./assets/base/img/volunfair/Fotos2023/Fondos/magia2.jpg" style="width: 30%;" />
                 </div>
+                -->
+                <br>
+                </br>
+                <br>
+                </br>
+                <br>
+                </br>
+                <br>
+                </br>
+                <br>
+                </br>
         </script>
 <?php
 

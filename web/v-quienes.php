@@ -79,7 +79,7 @@ escribe_cabecera();
                                     </p>
                                     <p>
                                         Los valores de VOLUNFAIR están basados en un sólido pilar: el <b>amor a los demás.</b> 
-                                        Es capital reconocer en las personas aquello que las hace únicas. Por tanto, en VOLUNFAIR 
+                                        Es esencial reconocer en las personas aquello que las hace únicas. Por tanto, en VOLUNFAIR 
                                         somos abanderados de la <b>justicia social, la solidaridad y la generosidad.</b>
                                     </p>
 
@@ -97,7 +97,7 @@ escribe_cabecera();
             <div class="container">
                     <div class="row">
                     <div class="c-content-title-1">
-                        <h3 class="c-font-uppercase c-font-bold c-center"> VALORES VF</h3>
+                        <h3 class="c-font-uppercase c-font-bold c-center"> VALORES</h3>
                         <div class="c-line-center c-theme-bg"></div>                       
                 </div>
             </div>
@@ -114,7 +114,7 @@ escribe_cabecera();
                         
                                
                             <div class="col-md-3">
-                                <div class="c-content-media-1 c-bordered transparente wow animated bounceInUp" style="min-height: 380px;";> <!--transparencia 0,95-->
+                                <div class="c-content-media-1 c-bordered transparente wow animated bounceInUp" style="min-height: 400px;";> <!--transparencia 0,95-->
                                     <div class="c-content-title-1 c-icongrande">
                                         <i class="fas fa-hands-helping"></i>
                                         <h3 class="c-font-uppercase c-font-bold">Virtudes</h3>
@@ -123,16 +123,16 @@ escribe_cabecera();
                                         
                                         <p>
                                         <b>Amor por los demás</b>: en VOLUNFAIR no miramos a cada persona como estamos acostumbrados a ser mirados 
-                                        por el mundo, dónde somos importantes en la medida en que aportemos a la sociedad.
+                                        por el mundo, donde somos importantes en la medida en que aportemos a la sociedad.
                                     Sino que cada persona es un don.
-                                        Y es <b>dando</b> dónde <b>se recibe</b>. Por eso nuestra misión principal es darnos a los demás con amor y por amor. 
+                                        Y es <b>dando</b> donde <b>se recibe</b>. Por eso nuestra misión principal es darnos a los demás con amor y por amor. 
                                         </p>
         
                                     </div>
                                 </div>
                                 
                                 <div class="col-md-3">
-                                    <div class="c-content-media-1 c-bordered wow animated bounceInDown" style="min-height: 380px;">
+                                    <div class="c-content-media-1 c-bordered wow animated bounceInDown" style="min-height: 400px;">
                                         <div class="c-content-title-1 c-icongrande">
                                             <i class="fas fa-dumbbell"></i>
                                             <h3 class="c-font-uppercase c-font-bold">Fortaleza</h3>
@@ -141,7 +141,7 @@ escribe_cabecera();
                                         
                                         <p>
                                         Como todo en la vida, no siempre salen las cosas a la primera. Y VOLUNFAIR no es la excepción. Pero <b>con cada caída se aprende</b>.
-                                        Y es que caer no está mal, el problema es si nos encariñamos de la piedra. Porque el éxito 
+                                        Y es que caer no está mal, el problema es si nos encariñamos de la piedra. Porque el éxito a veces 
                                         está en ir de fracaso en fracaso sin perder el entusiasmo. 
                                         </p>
         
@@ -149,15 +149,15 @@ escribe_cabecera();
                                 </div>
 
                                 <div class="col-md-3">
-                                    <div class="c-content-media-1 c-bordered wow animated bounceInUp" style="min-height: 380px;">
+                                    <div class="c-content-media-1 c-bordered wow animated bounceInUp" style="min-height: 400px;">
                                         <div class="c-content-title-1 c-icongrande">
                                             <i class="fas fa-laugh-beam"></i>
-                                            <h3 class="c-font-uppercase c-font-bold">Alegria</h3>
+                                            <h3 class="c-font-uppercase c-font-bold">Alegría</h3>
                                             <!--<div class="c-line-left c-theme-bg"></div>-->
                                         </div>
                                         
                                         <p>
-                                        El poder de una sonrisa es el mayor poder de  VOLUNFAIR. <b>La felicidad</b> más absoluta <b>está en</b> el <b>hacer felices a los demás</b>. 
+                                        El poder de una sonrisa es el mayor poder de VOLUNFAIR. <b>La felicidad</b> más absoluta <b>está en</b> el <b>hacer felices a los demás</b>. 
                                         VOLUNFAIR es pura alegría y entusiasmo. Está lleno de emociones intensas y 
                                         sorpresas inesperadas, pero nuestra mayor certeza es que, por cada gota que das de alegría,  recibes un mar de sonrisas.
                                         </p>
@@ -165,7 +165,7 @@ escribe_cabecera();
                                     </div>
                                 </div>	
                                 <div class="col-md-3">
-                                    <div class="c-content-media-1 c-bordered wow animated bounceInDown" style="min-height: 380px;">
+                                    <div class="c-content-media-1 c-bordered wow animated bounceInDown" style="min-height: 400px;">
                                         <div class="c-content-title-1 c-icongrande">
                                             <i class="fas fa-book-open"></i>
                                         <h3 class="c-font-uppercase c-font-bold">Historia</h3>
@@ -173,10 +173,10 @@ escribe_cabecera();
                                         </div>
                                         
                                         <p>
-                                        Y es que VOLUNFAIR tiene ya 8 años, ya empieza a adquirir personalidad, imagen propia  
-                                        y asentando sus objetivos. Pero  continua  dejándose 
+                                        Y es que VOLUNFAIR tiene ya 8 años... empieza a adquirir personalidad, imagen propia  
+                                        y a asentar sus objetivos. Pero  continúa  dejándose 
                                         sorprender por cada momento de la vida y <b>viviendo</b> esos momentos <b>con la emoción de un niño</b>. Ya empieza a tener
-                                        recuerdos, historia, experiencia, en definitiva un recorrido. Cada vez más gente se sube al tren y menos se bajan. 
+                                        recuerdos, historia, experiencia, en definitiva un recorrido. Cada vez más gente se sube al tren y ninguno se quiere bajar. 
                                         </p>
         
                                     </div>
@@ -193,11 +193,72 @@ escribe_cabecera();
                 </div>
             </div>
             <!-- END: VALORES VF -->
-			
+			<br>
+            </br>
             <br>
             </br>
-            <?php
-				
+            <br>
+            </br>
+            <!-- EQUIPO ED ANTERIORES 
+				<div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" >
+                    <div class="container">
+                    
+                            <div class="row">
+                                <div class="col-md-6"> 
+                                    <div class="c-content-media-1 c-center c-bordered">
+                                        <div class="col-md-6">
+                                            <div class="c-content-title-1">
+                                                <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">EQUIPO 2020</h3>
+                                            </div>
+                                        </div>
+                 
+                                    </div>
+                                </div>
+                            </div>
+                       
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="c-content-media-1 c-center c-bordered">
+                                    <div class="col-md-6">
+                                        <div class="c-content-title-1">
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">EQUIPO 2021</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="c-content-media-1 c-center c-bordered">
+                                    <div class="col-md-6">
+                                        <div class="c-content-title-1">
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">EQUIPO 2022</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="c-content-media-1 c-center c-bordered">
+                                    <div class="col-md-6">
+                                        <div class="c-content-title-1">
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">EQUIPO 2023</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            --->
+            <?php   
             // --- Matriz con los miembros del equipo (no poner coma tras cada último corchete porque da error)
             // --- Guardar la foto en assets/base/img/volunfair/staff2/
             $equipazo = [
