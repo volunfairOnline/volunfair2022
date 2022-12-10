@@ -17,7 +17,7 @@ escribe_cabecera();
         <div class="c-layout-page">
         
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_6.png)">
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_1.jpg)">
 >    
             <!--<div class="container">
 				 
@@ -48,11 +48,11 @@ escribe_cabecera();
                         </div>
                     </div>
                 </div>
-                 <!--
+                 
                 <div class="c-container c-center">
-                    <img src="./assets/base/img/volunfair/Fotos2023/Fondos/magia2.jpg" style="width: 30%;" />
+                    <img src="./assets/base/img/volunfair/Fotos2023/fotosinstagram/instagram3.png" style="width: 30%;" />
                 </div>
-                -->
+                
                 <br>
                 </br>
                 <br>
