@@ -11,7 +11,7 @@ escribe_cabecera();
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page">
              <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-             <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_6.png)">
+             <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_1.jpg)">
                  
                 <!--<div class="container">
 				 
@@ -59,7 +59,7 @@ escribe_cabecera();
                                                               Si eres medio de comunicación: 649 72 85 14 (Isa) <br/>
                                                               Para cualquier gestión: 655 53 93 29 (Paula) o 616 20 92 81 (Jorge)</p>
                                 </div>
-                                <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
+                                <div class="c-content-media-2-slider" data-slider="owl">
                                 
                                 <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
                                     <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/stand/foto7.jpg); min-height: 380px;">
