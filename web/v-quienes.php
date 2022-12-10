@@ -11,7 +11,7 @@ escribe_cabecera();
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page">
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_6.png)">
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_1.jpg)">
 
             <!--<div class="container">
 				 
@@ -195,69 +195,101 @@ escribe_cabecera();
             <!-- END: VALORES VF -->
 			<br>
             </br>
-            <br>
-            </br>
-            <br>
-            </br>
-            <!-- EQUIPO ED ANTERIORES 
-				<div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" >
-                    <div class="container">
-                    
-                            <div class="row">
-                                <div class="col-md-6"> 
-                                    <div class="c-content-media-1 c-center c-bordered">
-                                        <div class="col-md-6">
-                                            <div class="c-content-title-1">
-                                                <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">EQUIPO 2020</h3>
-                                            </div>
-                                        </div>
-                 
-                                    </div>
-                                </div>
-                            </div>
-                       
-                    </div>
-                    <div class="container">
+            
+            <!-- EQUIPO ED ANTERIORES -->
+            <div class="c-content-box c-size-md c-bg-white">
+                <div class="container">
+                    <div class="c-content-feedback-1 c-option-1">
                         <div class="row">
                             <div class="col-md-6">
-                                <div class="c-content-media-1 c-center c-bordered">
-                                    <div class="col-md-6">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">EQUIPO 2021</h3>
-                                        </div>
+                               <div class="c-contact">
+                                    <div class="c-content-title-1">
+                                        <h3 class="c-font-uppercase c-font-bold">EQUIPO EDICIÓN 2023</h3>
+                                        <div class="c-line-left"></div>
+                                        <p class="c-font-lowercase">CENA DE BIENVENIDA <br>
+                                        </br>Septiembre llegó y la reunión de presentación de VOLUNFAIR 2023 fue todo un éxito. En cuestión de 
+                                                                días ya teníamos el equipo completo: 78 personas en los distintos departamentos más los 30 voluntarios para ayudar 
+                                                                los días de la feria. Esto se merecía una celebración por todo lo alto, y así lo hicimos con una cena llena de juegos, 
+                                                                nuevas amistades, emoción, jaleito y mucha mucha magia.</p>
                                     </div>
+                                    <p class="c-font-lowercase">
+                                    </p>
+                                </div>
+                                <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
+                                
+                                    <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                      <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                      <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                    </div>
+
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="c-content-media-1 c-center c-bordered">
-                                    <div class="col-md-6">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">EQUIPO 2022</h3>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="container">
-                        <div class="row">
                             <div class="col-md-6">
-                                <div class="c-content-media-1 c-center c-bordered">
-                                    <div class="col-md-6">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">EQUIPO 2023</h3>
-                                        </div>
+                                <div class="c-contact">
+                                    <div class="c-content-title-1">
+                                        <h3 class="c-font-uppercase c-font-bold"> #déjatesorprender</h3>
+                                        <div class="c-line-left"></div>
+                                        <p class="c-font-lowercase">TORNEO DE PÁDEL <br>
+                                        </br>En VOLUNFAIR no solo movemos el corazón... también las piernas! Pudimos disfrutar un día entero haciendo deporte juntos,
+                                        animándonos unos a otros, compartiendo aperitivos varios y sacando la mejor versión de pádel que llevamos dentro. Además, 
+                                        nos acompañó el nuevo integrante y mascota de VOLUNFAIR: ¡Manolo!</p>
                                     </div>
+                                    <p class="c-font-lowercase">
+                                    </p>
                                 </div>
+                                <div class="c-content-media-2-slider wow animated fadeInLeft" data-slider="owl">
+                                
+                                <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
+                                <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                      <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/fotosinstagram/instagram2.png); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                      <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/staff2/weblaura2.jpg); min-height: 380px;">
+                                    </div>
+                            </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            --->
+            </div>
             <?php   
             // --- Matriz con los miembros del equipo (no poner coma tras cada último corchete porque da error)
             // --- Guardar la foto en assets/base/img/volunfair/staff2/
