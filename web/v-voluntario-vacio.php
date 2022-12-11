@@ -50,7 +50,7 @@ escribe_cabecera();
                 </div>
                  
                 <div class="c-container c-center">
-                    <img src="./assets/base/img/volunfair/Fotos2023/fotosinstagram/instagram3.png" style="width: 30%;" />
+                    <img src="./assets/base/img/volunfair/Fotos2023/equipo/instagram3.png" style="width: 30%;" />
                 </div>
                 
                 <br>
