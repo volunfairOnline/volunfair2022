@@ -68,12 +68,12 @@ escribe_cabecera();
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2021</h3>
-                    <p class="c-center" >La edición 2021 fue uno de los mayores retos a los que nos hemos enfrentado. 
+                    <p class="c-center" >La edición 2021 fue uno de los mayores retos a los que nos hemos enfrentado:</br>
                         El mundo entero estaba paralizado por una pandemia y toda nuestra vida parecía que había pasado a ser 
                         telemática.</br>
                         En medio del frío que había dejado este nuevo mundo, no podíamos olvidar a todos los que ya 
-                        necesitaban ayuda en la vieja normalidad. Desde <b>VOLUNFAIR</b> hicimos todo lo que estaba en nuestra mano para 
-                        que aquellos jóvenes que deseaban “desgastar sus zapatillas” pudiesen encontrar oportunidades de ayudar.</br>
+                        necesitaban ayuda en la vieja normalidad. </br> Desde <b>VOLUNFAIR</b> hicimos todo lo que estaba en nuestra mano para 
+                        que aquellos jóvenes que deseaban <b>desgastar sus zapatillas</b> pudiesen encontrar oportunidades de ayudar.</br>
                         </br>
                         Además, tuvimos el honor de contar con ponentes de mucho nivel explicándonos su experiencia de vida, ¡aquí los tienes!
                     </p>  
