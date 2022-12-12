@@ -238,17 +238,17 @@ escribe_cabecera();
                                 </div>
                                 <div class="c-content-media-2-slider wow animated fadeInLeft" data-slider="owl">
                                 
-                                <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
-                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
-                                    </div>
+                                    <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
+                                        </div>
 
-                                      <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel2.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel2.jpeg); min-height: 380px;">
                                         </div>
 
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel4.jpeg); min-height: 380px;">
                                         </div>
 
-                                      <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel3.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel3.jpeg); min-height: 380px;">
                                         </div>
 
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel8.jpeg); min-height: 380px;">
@@ -262,47 +262,45 @@ escribe_cabecera();
 
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel1.jpeg); min-height: 380px;">
                                         </div>
-                                </div>
-                                <br>
+                                    </div>
+                                        <br>
                                         </br>
                                     <div class="c-contact">
                                         <div class="c-content-title-1">
                                             <h3 class="c-font-uppercase c-font-bold"> </h3>
                                             <p class="c-font-lowercase">PORRA DEL MUNDIAL QATAR 2022 <br>
-                                            </br> tiqui tiqui...</p>
+                                            </br> Manolo acompañó a España en el mundial de Qatar 2022 hasta el último momento, pero tristemente no pudo celebrar la segunda
+                                                estrellita en el escudo español... Aún así, el departamento de Recursos Humanos volvió a liarla dentro del equipazo de VOLUNFAIR 2023
+                                                y organizó la mayor porra jamás vista en industriales. <br>¿Quieres saber quién fue el ganador? Te lo enseñamos aquí abajo en la última foto.</p>
                                         </div>
                                         <p class="c-font-lowercase">
                                         </p>
                                     </div>
-                                    <div class="c-content-media-2-slider wow animated fadeInLeft" data-slider="owl">
+                                <div class="c-content-media-2-slider wow animated fadeInLeft" data-slider="owl">
                                 
                                     <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
-                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra2.jpg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra2.jpg); min-height: 380px;">
                                         </div>
 
-                                      <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra1.png); min-height: 380px;">
+                                      <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra3.png); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra6.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra5.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra3.png); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra1.png); min-height: 380px;">
                                         </div>
 
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra4.png); min-height: 380px;">
-                                    </div>
+                                        </div>
                                
-                            </div>
-                        </div>
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra7.png); min-height: 380px;">
+                                        </div>
+                                    </div>
+                                </div>
                     </div>
                 </div>
             </div>
@@ -392,7 +390,7 @@ escribe_cabecera();
                                <div class="c-contact">
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"></h3>
-                                        <p class="c-font-lowercase">CANCIÓN OFICIAL<br>
+                                        <p class="c-font-lowercase">HIMNO OFICIAL<br>
                                         </br> tiqui tiqui ...</p>
                                     </div>
                                     <p class="c-font-lowercase">

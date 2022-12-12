@@ -93,7 +93,6 @@ escribe_cabecera();
                                             <span class="countdown-text">Segundos</span>
                                         </div>
                                     </div>
-                                    
                                     <br /><br />                                
                                 </div>
                             </div>
