@@ -313,7 +313,7 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"> </h3>
                                         <p class="c-font-lowercase">RECOGIDA DE ALIMENTOS <br>
-                                        </br> tiqui tiqui...</p>
+                                        </br></p>
                                     </div>
                                     <p class="c-font-lowercase">
                                     </p>
@@ -352,7 +352,7 @@ escribe_cabecera();
                                         <div class="c-content-title-1">
                                             <h3 class="c-font-uppercase c-font-bold"> </h3>
                                             <p class="c-font-lowercase">RIFA NAVIDAD <br>
-                                            </br> tiqui tiqui...</p>
+                                            </br> </p>
                                         </div>
                                         <p class="c-font-lowercase">
                                         </p>
@@ -368,7 +368,7 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"></h3>
                                         <p class="c-font-lowercase">HIMNO OFICIAL<br>
-                                        </br> tiqui tiqui ...</p>
+                                        </br> </p>
                                     </div>
                                     <p class="c-font-lowercase">
                                     </p>
