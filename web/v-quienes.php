@@ -313,7 +313,8 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"> </h3>
                                         <p class="c-font-lowercase">RECOGIDA DE ALIMENTOS <br>
-                                        </br> 13, 14 y 15 de diciembre...tiqui tiqui...</p>
+                                        </br> 13, 14 y 15 de diciembre, comida no perecedera, cosas de higiene, cosas de bebés... también bizums 
+                                         y nosotros fuimos a comprar cositas tiqui tiqui...</p>
                                     </div>
                                     <p class="c-font-lowercase">
                                     </p>
