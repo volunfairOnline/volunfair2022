@@ -313,7 +313,7 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"> </h3>
                                         <p class="c-font-lowercase">RECOGIDA DE ALIMENTOS <br>
-                                        </br></p>
+                                        </br> 13, 14 y 15 de diciembre...tiqui tiqui...</p>
                                     </div>
                                     <p class="c-font-lowercase">
                                     </p>
@@ -352,7 +352,7 @@ escribe_cabecera();
                                         <div class="c-content-title-1">
                                             <h3 class="c-font-uppercase c-font-bold"> </h3>
                                             <p class="c-font-lowercase">RIFA NAVIDAD <br>
-                                            </br> </p>
+                                            </br> dinero para conseguir financiación apra la feria, numero del sorteo del Niño tiqui tiqui...</p>
                                         </div>
                                         <p class="c-font-lowercase">
                                         </p>
@@ -368,7 +368,8 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"></h3>
                                         <p class="c-font-lowercase">HIMNO OFICIAL<br>
-                                        </br> </p>
+                                        </br> canción de VOLUNFAIR, compuesta y cantada por gente del equipo, manera distinta y original de hacer que la gente conozca VOLUNFAIR
+                                                con la colaboración de Íñigo Quintero tiqui tiqui...</p>
                                     </div>
                                     <p class="c-font-lowercase">
                                     </p>
