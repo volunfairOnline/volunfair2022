@@ -321,16 +321,16 @@ escribe_cabecera();
                                 <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
                                 
                                     <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida1.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida2.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida3.jpg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida4.jpg); min-height: 380px;">
                                         </div>
 
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
@@ -357,33 +357,10 @@ escribe_cabecera();
                                         <p class="c-font-lowercase">
                                         </p>
                                 </div>
-                                <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
+                                <div class="c-content-media-2-slider wow animated fadeInRight" >
                                 
-                                    <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
-                                    <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/rifa1.jpg); min-height: 380px;">
                                         </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
-                                        </div>
-                                    </div>
                                 </div>
                             </div> 
                             <div class="col-md-6">
