@@ -322,13 +322,7 @@ escribe_cabecera();
                                 <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
                                 
                                     <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida1.jpeg); min-height: 380px;">
-                                        </div>
-
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida2.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida6.jpeg); min-height: 380px;">
                                         </div>
 
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida3.jpg); min-height: 380px;">
@@ -337,13 +331,19 @@ escribe_cabecera();
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida5.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida7.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida6.jpeg); min-height: 380px;">
                                         </div>
 
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida4.jpg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida9.jpeg); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida8.jpeg); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida1.jpeg); min-height: 380px;">
                                         </div>
                                     </div>
                                 </div>
@@ -412,7 +412,6 @@ escribe_cabecera();
                         ['nombre' => 'Cande Vendrell',		    	        'foto' => 'fincande'],
                         ['nombre' => 'Gabriel Callejo',			            'foto' => 'fingabrielcallejo'],
                         ['nombre' => 'Gonzalo Halcón',                      'foto' => 'fingonzalo'],
-                        ['nombre' => 'Hugo',  	                            'foto' => 'finhugo'],
                         ['nombre' => 'Lara Rodríguez',		                'foto' => 'finlara'],
                         ['nombre' => 'Manuel Arcala',	                    'foto' => 'finmanuel'],
                         ['nombre' => 'Ricardo Estremera',	                'foto' => 'finricardoestremera'],
