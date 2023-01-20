@@ -372,37 +372,37 @@ escribe_cabecera(1);
                                     <img src="assets/base/img/volunfair/patrocinadores/logoE.jpg" title ="ETSII Madrid" alt="ETSII Madrid"  width="100%" />
                                 </a>
                             </div>
-                            <div class="item">
+                            <!-- <div class="item">
                             	  <a href="https://www.cantabrialabs.es/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo_cantabrialabs.png" title ="Cantabria Labs" alt="Cantabria Labs" style=" padding-top: 5%;" width="100%" />
                                 </a>
-                            </div>
+                            </div> -->
                             <div class="item">
                             	  <a href="https://www.aseguradossolidarios.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-asegurados-solidarios.png" title ="Asegurados Solidarios" alt="Asegurados Soldiarios" style=" padding-top: 10%;" width="100%" />
                                 </a>
                             </div>
-                            <div class="item">
+                            <!-- <div class="item">
                             	  <a href="https://fundacionaon.es/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-fundacion-aon.png" title ="Fundación AON" alt="Fundación AON" width="100%" />
                                 </a>
-                            </div>
+                            </div> -->
                             <div class="item">
                             	<a href="http://www.caritasmadrid.org/categorias/caritas-universitaria" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logoA.jpg" title ="Cáritas Madrid Universitaria" alt="Cáritas Madrid Universitaria"  width="100%" />
                                 </a>
                             </div>
-                            <div class="item">
+                            <!-- <div class="item">
                             	<a href="https://www.damm.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-damm.jpg" title ="Damm" alt="Damm" width="100%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div> -->
+                            <!-- <div class="item">
                             	<a href="https://www.redmadre.es/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo_redmadre.png" title ="Red Madre" alt="Red Madre" style=" padding-top: 20%;" width="50%" />
                                 </a>
-                            </div>
-                            <div class="item">
+                            </div> -->
+                            <!-- <div class="item">
                             	  <a href="https://www.weareseekers.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-tribu.png"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
                                 </a>
@@ -413,7 +413,7 @@ escribe_cabecera(1);
                                 </a>
                             </div>				
                         </div>
-                        
+                         -->
                         <!-- End-->
                     </div>
                     <!-- End-->
