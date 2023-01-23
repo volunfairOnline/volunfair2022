@@ -70,7 +70,7 @@ if ($nfilas_pagina == 0) {
     $descripcion=$fila_pagina[0]['voluntariado'];
     $voluntariado=$fila_pagina[0]['voluntariado'];
     $color=$fila_pagina[0]['color'] ?? '#515151';           // --- Si no hay color en la base de datos, se asigna #515151 por defecto
-    $logo='logo_'.$fila_pagina[0]['logo'].'.jpg';
+    $logo=$fila_pagina[0]['logo'].'.jpg';                   //'logo_'. PONIA ESTO
     $imagen=$fila_pagina[0]['imagen'];
     $web=$fila_pagina[0]['web'];
     $rsface=$fila_pagina[0]['face'];
@@ -106,7 +106,7 @@ escribe_cabecera();
                     echo '<div class="row">'."\n";
                         echo '  <div class="align-items-center">'."\n";
                             echo '	<div class="c-font-center col-md-3 c-content-media-1 ">'."\n";
-                            echo '  <a title="Web '.$nombre.'" href="'.$web.'" target="_blank"><img width=75% src ="./assets/base/img/volunfair/ong2/'.$logo.'" /></a>'."\n";
+                            echo '  <a title="Web '.$nombre.'" href="'.$web.'" target="_blank"><img width=75% src ="./assets/base/img/volunfair/fotos-ongs/logos/'.$logo.'" /></a>'."\n";
                             echo '	</div>'."\n";
                             echo '	<div class="col-md-9">'."\n"; //No me termina de convencer el color c-bg-white
                                 echo ' <h1 class="c-font-70 c-font-uppercase c-font-bold c-font-center">'.$nombre.'</h1>'."\n";
@@ -173,7 +173,7 @@ escribe_cabecera();
                 if($video!=NULL){
                     echo ' <div class="c-content-box c-size-md c-bg-white c-content-media-1">'."\n";
                         echo ' <div class="container c-center embed-responsive embed-responsive-16by9 wow animated fadeInUp">'."\n";
-                            echo ' <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/'.substr($video,-11).'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'."\n";
+                            echo ' <iframe class="embed-responsive-item" width=50% src="https://www.youtube-nocookie.com/embed/'.substr($video,-11).'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'."\n";
                         echo ' </div>'."\n";    
                     echo ' </div>'."\n";                   
                 }
@@ -210,7 +210,7 @@ escribe_cabecera();
                                     </a>'."\n";
                                 }
                                 if($rstwit!=NULL){
-                                    echo '<a href="twitter.com/'.$rstwit.'" target="blank">
+                                    echo '<a href="https://twitter.com/'.$rstwit.'" target="blank">
                                     <i class="icon-social-twitter fa-2x"></i>
                                     </a>'."\n";
                                 }
@@ -246,3 +246,26 @@ escribe_cabecera();
 escribe_pie();
 
 ?>
+
+<!-- 
+EJEMPLO DE LA COLUMNA DE VOLUNTARIO_ONG DE LA BASE DE DATOS EN CASO DE FOTOS
+----------------------------------------------------------------------------
+AFS es una ONG internacional, con más de 60 años de experiencia en el secor de la interculturalidad. AFS ofrece un modelo de aprendizaje intercultural para que las personas rompan barreras sociales y culturales, desarrollen habilidades de adaptación a cualquier entorno y adquieran el conocimiento necesario para construir un mundo más justo y pacífico.
+
+<br>
+<br>
+<div class="c-content-title-1">
+    <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Galería de fotos</h3>
+</div>
+<div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
+    <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
+        
+        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(./assets/base/img/volunfair/fotos-ongs/AFS-1.jpeg); min-height: 500px;">
+        </div>
+
+        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(./assets/base/img/volunfair/fotos-ongs/AFS-2.jpg); min-height: 500px;">
+        </div>
+    </div>
+</div>
+----------------------------------------------------------------------------
+-->
