@@ -255,15 +255,15 @@ AFS es una ONG internacional, con más de 60 años de experiencia en el secor de
 <br>
 <br>
 <div class="c-content-title-1">
-    <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Galería de fotos</h3>
+    <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Fotos</h3>
 </div>
 <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
     <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
         
-        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(./assets/base/img/volunfair/fotos-ongs/AFS-1.jpeg); min-height: 500px;">
+        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(./assets/base/img/volunfair/fotos-ongs/AFS_1.jpeg); min-height: 500px;">
         </div>
 
-        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(./assets/base/img/volunfair/fotos-ongs/AFS-2.jpg); min-height: 500px;">
+        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(./assets/base/img/volunfair/fotos-ongs/AFS_2.jpg); min-height: 500px;">
         </div>
     </div>
 </div>
