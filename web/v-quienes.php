@@ -271,7 +271,7 @@ escribe_cabecera();
                                             <p class="c-font-lowercase">PORRA DEL MUNDIAL QATAR 2022 <br>
                                             </br> Manolo acompañó a España en el mundial de Qatar 2022 hasta el último momento, pero tristemente no pudo celebrar la segunda
                                                 estrellita en el escudo español... Aún así, el departamento de Recursos Humanos volvió a liarla dentro del equipazo de VOLUNFAIR 2023
-                                                y organizó la mayor porra jamás vista en industriales. <br>¿Quieres saber quién fue el ganador? Te lo enseñamos aquí abajo en la última foto.</p>
+                                                y organizó la mayor porra jamás vista en industriales. </p>
                                         </div>
                                         <p class="c-font-lowercase">
                                         </p>
@@ -297,8 +297,6 @@ escribe_cabecera();
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra4.png); min-height: 380px;">
                                         </div>
                                
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra7.png); min-height: 380px;">
-                                        </div>
                                     </div>
                                 </div>
                     </div>
@@ -313,8 +311,9 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"> </h3>
                                         <p class="c-font-lowercase">RECOGIDA DE ALIMENTOS <br>
-                                        </br> 13, 14 y 15 de diciembre, comida no perecedera, cosas de higiene, cosas de bebés... también bizums 
-                                         y nosotros fuimos a comprar cositas tiqui tiqui...</p>
+                                        </br> El 13, 14 y 15 de diciembre estuvimos en boca de todos y no hubo persona en industriales que no se percatase de nuestra presencia en la uni.
+                                            Recogimos alimentos, material de higiene, cosas para bebés y generosas transeferencias con las que pudimos triplicar nuestra recogida. Aquí 
+                                            nos volvimos a dar cuenta de que VOLUNFAIR no solo es una feria de dos días; VOLUNFAIR es la magia de entregarse día tras día.</p>
                                     </div>
                                     <p class="c-font-lowercase">
                                     </p>
@@ -353,7 +352,8 @@ escribe_cabecera();
                                         <div class="c-content-title-1">
                                             <h3 class="c-font-uppercase c-font-bold"> </h3>
                                             <p class="c-font-lowercase">RIFA NAVIDAD <br>
-                                            </br> dinero para conseguir financiación apra la feria, numero del sorteo del Niño tiqui tiqui...</p>
+                                            </br> Como la feria no se financia sola, los jefazos Paula y Jorge tuvieron esta idea: realizar un sorteo que revolucionase la edición.
+                                            Y así lo hicimos. Muchísimos particiantes, el equipo unió todavía más y VOLUNFAIR no dejaba de liarla por donde fuese!!</p>
                                         </div>
                                         <p class="c-font-lowercase">
                                         </p>
@@ -369,8 +369,9 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"></h3>
                                         <p class="c-font-lowercase">HIMNO OFICIAL<br>
-                                        </br> canción de VOLUNFAIR, compuesta y cantada por gente del equipo, manera distinta y original de hacer que la gente conozca VOLUNFAIR
-                                                con la colaboración de Íñigo Quintero tiqui tiqui...</p>
+                                        </br> VOLUNFAIR no solo está formado por unos increíbles voluntarios sino que además contamos con un grupazo musical que tuvo la
+                                            gran iniciativa de componer y grabar una canción sobre los valores de VOLUNFAIR, con la colaboración de Iñigo Quintero.
+                                        ¿Quieres escucharla? ¡Es un exitazo! </p>
                                     </div>
                                     <p class="c-font-lowercase">
                                     </p>
