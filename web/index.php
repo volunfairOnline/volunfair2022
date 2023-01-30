@@ -379,7 +379,7 @@ escribe_cabecera(1);
                             </div> -->
                             <div class="item">
                             	  <a href="https://www.aseguradossolidarios.com/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-asegurados-solidarios.png" title ="Asegurados Solidarios" alt="Asegurados Soldiarios" style=" padding-top: 10%;" width="100%" />
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo-asegurados-solidarios.png" title ="Asegurados Solidarios" alt="Asegurados Soldiarios" width="100%" />
                                 </a>
                             </div>
                             <!-- <div class="item">
@@ -389,7 +389,7 @@ escribe_cabecera(1);
                             </div> -->
                             <div class="item">
                             	<a href="http://www.caritasmadrid.org/categorias/caritas-universitaria" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logoA.jpg" title ="Cáritas Madrid Universitaria" alt="Cáritas Madrid Universitaria"  width="100%" />
+                                    <img src="assets/base/img/volunfair/patrocinadores/logoA.jpg" title ="Cáritas Madrid Universitaria" alt="Cáritas Madrid Universitaria"  style="padding-top: 10%; width="100%" />
                                 </a>
                             </div>
                             <!-- <div class="item">
@@ -402,12 +402,28 @@ escribe_cabecera(1);
                                     <img src="assets/base/img/volunfair/patrocinadores/logo_redmadre.png" title ="Red Madre" alt="Red Madre" style=" padding-top: 20%;" width="50%" />
                                 </a>
                             </div> -->
-                            <!-- <div class="item">
+                            <div class="item">
+                            	  <a href="https://ebury.com/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo-ebury.png"title ="Ebury" alt="Ebury" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
+                                </a>
+                            </div>
+                            <div class="item">
                             	  <a href="https://www.weareseekers.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-tribu.png"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
                                 </a>
                             </div>
                             <div class="item">
+                            	  <a href="https://fundacionlycompany.org/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/fundacionaguayvida.png"title ="Ly Company" alt="Ly Company" style=" padding-left: 10%;"  width="140%" />
+                                </a>
+                            </div>
+                            <div class="item">
+                            	  <a href="https://www.talgo.com/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo-talgo.png"title ="Talgo" alt="Talgo" style="padding-top: 10%; padding-left: 10%;"  width="140%" />
+                                </a>
+                            </div>
+                            
+                            <!--<div class="item">
                             	  <a href="https://www.cbre.es/es-es/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/Logo_CBRE.png"title ="CBRE" alt="CBRE" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
                                 </a>
