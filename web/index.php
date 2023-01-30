@@ -420,7 +420,8 @@ escribe_cabecera(1);
                 </div>
             </div>
             <!-- END: CONTENT/SLIDERS/CLIENT-LOGOS-1 -->
-
+            </div>
+            </div>
             <!-- END: PAGE CONTENT -->
         </div>
         <!-- END: PAGE CONTAINER -->

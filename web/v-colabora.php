@@ -12,7 +12,7 @@ escribe_cabecera();
 		
              <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
 			 <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_1.jpg)">
-                 
+<                 
 				<!--<div class="container">
 				 
                     <div class="c-page-title c-pull-left">
