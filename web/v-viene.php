@@ -138,7 +138,7 @@ escribe_cabecera();
                 -->
                 <br /><br />
 
-                <!-- BEGIN: RIFA -->
+                <!-- BEGIN: RIFA 
                     <div class="container">
                      <div class="row">
                             <div class="col-md-12">
@@ -150,7 +150,7 @@ escribe_cabecera();
                                     </div> 
                                 
 
-                                    <!-- BEGIN: RESULTADOS DE LA RIFA -->
+                                
                                 <div class="c-center col-md-12 container row" id="buscarRifa">
                                     Introduce tu número para saber si has tenido suerte:
                                     <br /><br />
@@ -162,28 +162,28 @@ escribe_cabecera();
                                             <select id="serie" required="required" >
                                                 <option value="am">Amarillo</option>
                                                 <option value="az">Azul</option>
-                                            </select>-->
+                                            </select>
                                             <input type="button" value="Buscar" onClick="buscar();" >                                       
                                         </form>
                                     </div>
                                 </div>
     
-                                <!-- END: RESULTADOS DE LA RIFA -->
-
-                                <!-- BEGIN: AVISO PREVIO CUANDO NO HAY RIFA -->
                                 
-                                <!--El viernes publicaremos los resultados!<br />
+
+                            
+                                
+                                El viernes publicaremos los resultados!<br />
                                 Mucha suerte y recuerda....No hay mar sin gotas
 
                                 <br /><br />
         
                                 
-                                <!-- END: AVISO PREVIO CUANDO NO HAY RIFA -->                              
+                                                             
                             </div>
                         </div>
                     </div>
             </div>-->
-        
+        -->
             <!-- END: RIFA -->
 
             <!-- PONENTES ACTUALES-->
