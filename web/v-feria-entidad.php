@@ -81,8 +81,8 @@ if ($nfilas_pagina == 0) {
 }
 
 // --- Chapuza para las imágenes: se coge una aleatoria de este directorio
-$matrizImagenes = scandir('./assets/base/img/volunfair/Fotos2022/Fondos');
-$imagen = 'Fotos2022/Fondos/'.$matrizImagenes[random_int(2, sizeof($matrizImagenes))];
+$matrizImagenes = scandir('./assets/base/img/volunfair/Fotos2023/Fondos');
+$imagen = 'Fotos2023/Fondos/'.$matrizImagenes[random_int(2, sizeof($matrizImagenes))];
 
 // --- Escribimos las cabeceras
 escribe_cabecera();
@@ -95,7 +95,7 @@ escribe_cabecera();
         ?>
         
         <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
-			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2022/encabezado_4.png)">
+			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_1.jpg)">
 <            </div>
         <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
 
