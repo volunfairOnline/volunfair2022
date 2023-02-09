@@ -335,6 +335,7 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 	echo '<!-- END: CONTENT/TABS/TAB-1 -->'."\n";
 }
 
+
 // --- Pasa un entero a números romanos
 function a_romano($integer, $upcase = true) {
 	$table = array('M'=>1000, 'CM'=>900, 'D'=>500, 'CD'=>400, 'C'=>100, 

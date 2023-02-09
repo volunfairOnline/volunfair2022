@@ -126,6 +126,39 @@ escribe_cabecera();
                     
                     
                 </div>
+                <div class="c-container">
+                  
+                    <div class="row">
+                        <div class="container">
+                            <div class="col-md-6">
+                               <div class="c-contact">
+                                    <div class="c-content-title-1">
+                                        <h3 class="c-font-uppercase c-font-bold">Cuéntanos tu experiencia</h3>
+                                        <div class="c-line-left"></div>
+                                        <p class="c-font-lowercase">Si has hecho algún voluntariado con una ONG que conociste a través de VOLUNFAIR, nos encantaría conocer tu experiencia</p>
+                                    </div>
+                                    <form method="post" action="#" id="contactform">
+                                        <div class="form-group">
+                                            <input type="text" id="c_name" name="name" placeholder="Nombre" value="" class="form-control c-square c-theme input-lg"> </div>
+                                        <div class="form-group">
+                                            <input type="email" id="c_mail" name="email" placeholder="Email" value="" class="form-control c-square c-theme input-lg"> </div>
+                                        <div class="form-group">
+                                            <input type="tel" id="c_telefono" name="telefono" placeholder="Teléfono de contacto" class="form-control c-square c-theme input-lg"> </div>
+                                        <div class="form-group"1>
+                                            <textarea rows="8" id="c_msg" placeholder="mensaje" rows="7" name="message" class="form-control c-theme c-square input-lg"></textarea>
+                                        </div>
+                                        <input name="send" onclick="cargaSendMail()" type="button" value="Enviar" id="c_enviar"/></input>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="col-m-6">
+                                <div class="c-container c-center">
+                                 <img src="./assets/base/img/volunfair/Fotos2023/equipo/instagram3.png" style="width: 50%;" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             <!-- END: PAGE CONTENT -->
         </div>
         <!-- END: PAGE CONTAINER -->
