@@ -151,26 +151,9 @@ escribe_cabecera();
                                     </form>
                                 </div>
                             </div>
-                            <div class="col-md-6">
-                               <div class="c-contact">
-                                    <div class="c-content-title-1">
-                                        <h3 class="c-font-uppercase c-font-bold">Valora tu experiencia</h3>
-                                        <div class="c-line-left"></div>
-                                    </div>
-                                    <form>
-                                        <p class="clasificacion">
-                                            <input id="radio1" type="radio" name="estrellas" value="5"><!--
-                                            --><label for="radio1">★</label><!--
-                                            --><input id="radio2" type="radio" name="estrellas" value="4"><!--
-                                            --><label for="radio2">★</label><!--
-                                            --><input id="radio3" type="radio" name="estrellas" value="3"><!--
-                                            --><label for="radio3">★</label><!--
-                                            --><input id="radio4" type="radio" name="estrellas" value="2"><!--
-                                            --><label for="radio4">★</label><!--
-                                            --><input id="radio5" type="radio" name="estrellas" value="1"><!--
-                                            --><label for="radio5">★</label>
-                                        </p>
-                                    </form>
+                            <div class="col-m-6">
+                                <div class="c-container c-center">
+                                 <img src="./assets/base/img/volunfair/Fotos2023/equipo/instagram3.png" style="width: 50%;" />
                                 </div>
                             </div>
                         </div>
