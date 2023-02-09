@@ -77,12 +77,12 @@
 		   else{
             for ($i =0; $i < $nfilas_ong-1; $i=$i+2) {
 				echo '<div class="row">'."\n";
-				echo '	<div class="col-sm-6 c-content-media-1 c-bordered c-center wow fadeIn animated">'."\n";
+				echo '	<div class="col-sm-6 c-content-media-1 c-center wow fadeIn animated">'."\n";
 				echo '		<a href="v-feria-entidad?id='.$fila_ong[$i]['id_ong'].'"><img src = "./assets/base/img/volunfair/fotos-ongs/logos/'.$fila_ong[$i]['logo_ong'].'.jpg" width="180" title="'.htmlspecialchars(stripslashes($fila_ong[$i]['nombre_ong'])).'" /></a>'."\n";
 				echo '		<a href="v-feria-entidad?id='.$fila_ong[$i]['id_ong'].'"><h2 class="c-font-24  c-font-bold"> '.$fila_ong[$i]['nombre_ong']."\n";
 				echo '		<br></h2></a>'."\n";
 				echo '	</div>'."\n";
-				echo '	<div class="col-sm-6 c-content-media-1 c-bordered c-center wow fadeIn animated">'."\n";
+				echo '	<div class="col-sm-6 c-content-media-1 c-center wow fadeIn animated">'."\n";
 				echo '		<a href="v-feria-entidad?id='.$fila_ong[$i+1]['id_ong'].'"><img src = "./assets/base/img/volunfair/fotos-ongs/logos/'.$fila_ong[$i+1]['logo_ong'].'.jpg" width="180" title="'.htmlspecialchars(stripslashes($fila_ong[$i+1]['nombre_ong'])).'" /></a>'."\n";
 				echo '		<a href="v-feria-entidad?id='.$fila_ong[$i+1]['id_ong'].'"><h2 class="c-font-24  c-font-bold"> '.$fila_ong[$i+1]['nombre_ong']."\n";
 				echo '		<br></h2></a>'."\n";
@@ -91,13 +91,13 @@
 				echo '<br />'."\n";
 			}
                 echo '<div class="row">'."\n";
-				echo '	<div class="col-sm-6 c-content-media-1 c-bordered c-center wow fadeIn animated">'."\n";
+				echo '	<div class="col-sm-6 c-content-media-1 c-center wow fadeIn animated">'."\n";
 				echo '		<a href="v-feria-entidad?id='.$fila_ong[$i]['id_ong'].'&nombre='.$fila_ong[$i]['id_ong'].'"><img src = "./assets/base/img/volunfair/fotos-ongs/logos/'.$fila_ong[$i]['logo_ong'].'.jpg" width="180" title="'.htmlspecialchars(stripslashes($fila_ong[$i]['nombre_ong'])).'" /></a>'."\n";
 				echo '		<a href="v-feria-entidad?id='.$fila_ong[$i]['id_ong'].'"><h2 class="c-font-24  c-font-bold"> '.$fila_ong[$i]['nombre_ong']."\n";
 				echo '		<br></h2></a>'."\n";
 				echo '	</div>'."\n";
-                echo '	<div class="col-sm-6 c-content-media-1 c-bordered c-center wow fadeIn animated">'."\n";
-				echo '	</div>'."\n";   
+                //echo '	<div class="col-sm-6 c-content-media-1 c-bordered c-center wow fadeIn animated">'."\n";
+				//echo '	</div>'."\n";   
 				echo '</div>'."\n";
 				echo '<br />'."\n";
 
