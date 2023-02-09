@@ -59,6 +59,57 @@ escribe_cabecera();
                 </br>
                 <br>
                 </br>
+                <div class="c-container">
+                  
+                    <div class="row">
+                        <div class="container">
+                            <div class="col-md-6">
+                               <div class="c-contact">
+                                    <div class="c-content-title-1">
+                                        <h3 class="c-font-uppercase c-font-bold">Cuéntanos tu experiencia</h3>
+                                        <div class="c-line-left"></div>
+                                        <p class="c-font-lowercase">Si has hecho algún voluntariado con una ONG que conociste a través de VOLUNFAIR, nos encantaría conocer tu experiencia</p>
+                                    </div>
+                                    <form method="post" action="#" id="contactform">
+                                        <div class="form-group">
+                                            <input type="text" id="c_name" name="name" placeholder="Nombre" value="" class="form-control c-square c-theme input-lg"> </div>
+                                        <div class="form-group">
+                                            <input type="email" id="c_mail" name="email" placeholder="Email" value="" class="form-control c-square c-theme input-lg"> </div>
+                                        <div class="form-group">
+                                            <input type="tel" id="c_telefono" name="telefono" placeholder="Teléfono de contacto" class="form-control c-square c-theme input-lg"> </div>
+                                        <div class="form-group"1>
+                                            <textarea rows="8" id="c_msg" placeholder="Mensaje" rows="7" name="message" class="form-control c-theme c-square input-lg"></textarea>
+                                        </div>
+                                        <input name="send" onclick="cargaSendMail()" type="button" value="Enviar" id="c_enviar"/></input>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                               <div class="c-contact">
+                                    <div class="c-content-title-1">
+                                        <h3 class="c-font-uppercase c-font-bold">Valora tu experiencia</h3>
+                                        <div class="c-line-left"></div>
+                                    </div>
+                                    <form>
+                                        <p class="clasificacion">
+                                            <input id="radio1" type="radio" name="estrellas" value="5"><!--
+                                            --><label for="radio1">★</label><!--
+                                            --><input id="radio2" type="radio" name="estrellas" value="4"><!--
+                                            --><label for="radio2">★</label><!--
+                                            --><input id="radio3" type="radio" name="estrellas" value="3"><!--
+                                            --><label for="radio3">★</label><!--
+                                            --><input id="radio4" type="radio" name="estrellas" value="2"><!--
+                                            --><label for="radio4">★</label><!--
+                                            --><input id="radio5" type="radio" name="estrellas" value="1"><!--
+                                            --><label for="radio5">★</label>
+                                        </p>
+                                    </form>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <br>
                 </br>
                 <br>

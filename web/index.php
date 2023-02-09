@@ -378,6 +378,16 @@ escribe_cabecera(1);
                                 </a>
                             </div> -->
                             <div class="item">
+                            	  <a href="https://ebury.com/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo-ebury.png"title ="Ebury" alt="Ebury" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
+                                </a>
+                            </div>
+                            <div class="item">
+                            	  <a href="https://www.talgo.com/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo-talgo.png"title ="Talgo" alt="Talgo" style="padding-top: 10%; padding-left: 10%;"  width="140%" />
+                                </a>
+                            </div>
+                            <div class="item">
                             	  <a href="https://www.aseguradossolidarios.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-asegurados-solidarios.png" title ="Asegurados Solidarios" alt="Asegurados Soldiarios" width="100%" />
                                 </a>
@@ -417,11 +427,7 @@ escribe_cabecera(1);
                                     <img src="assets/base/img/volunfair/patrocinadores/fundacionaguayvida.png"title ="Ly Company" alt="Ly Company" style=" padding-left: 10%;"  width="140%" />
                                 </a>
                             </div>
-                            <div class="item">
-                            	  <a href="https://www.talgo.com/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-talgo.png"title ="Talgo" alt="Talgo" style="padding-top: 10%; padding-left: 10%;"  width="140%" />
-                                </a>
-                            </div>
+                            
                             
                             <!--<div class="item">
                             	  <a href="https://www.cbre.es/es-es/" target="_blank">
