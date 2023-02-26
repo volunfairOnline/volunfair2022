@@ -27,7 +27,7 @@ escribe_cabecera();
             // --- Función para activar la consulta de los premios de la rifa
 			function buscar() {
                 var numero = $("#numero").val();
-                //var serie = $("#serie").val();
+                var serie = $("#serie").val();
                 serie = 'un';
                 
                 // --- Llama al documento buscar-rifa.php, encargado de buscar si el número ha sido o no premiado y escribe el mensaje correspondiente
@@ -45,7 +45,7 @@ escribe_cabecera();
 		
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
 			<div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2023/encabezado_1.jpg)">
->
+
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
 
@@ -60,11 +60,55 @@ escribe_cabecera();
 				</div>
                 
 			</div>
+            <div class="container">
+                     <div class="row">
+                            <div class="col-md-12">
+                                <div class="animated c-bordered c-center c-content-media-1 flash row wow">
+                                    <div class="col-md-12">
+                                        <div class="c-content-title-1">
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa de 2023</h3>
+                                        </div>
+                                    </div> 
+                                
+
+                                    <!-- BEGIN: RESULTADOS DE LA RIFA -->
+                                <div class="c-center col-md-12 container row" id="buscarRifa">
+                                    Introduce tu número para saber si has tenido suerte:
+                                    <br /><br />
+
+                                    <div class="c-center">
+                                        <form>
+                                            <label>Número:<label> <input type="number" id="numero" min="0" max="999" placeholder="" required="required" />
+                                            <!-- <label>Serie:<label> 
+                                            <select id="serie" required="required" >
+                                                <option value="am">Amarillo</option>
+                                                <option value="az">Azul</option>
+                                               <option value="un">Único</option>
+                                            </select> -->
+                                            <input type="button" value="Buscar" onClick="buscar();" >                                       
+                                        </form>
+                                    </div>
+                                </div>
+    
+                                <!-- END: RESULTADOS DE LA RIFA -->
+
+                                <!-- BEGIN: AVISO PREVIO CUANDO NO HAY RIFA -->
+                                
+                                <!--El viernes publicaremos los resultados!<br />
+                                Mucha suerte y recuerda....No hay mar sin gotas
+
+                                <br /><br />
+        
+                                
+                                <!-- END: AVISO PREVIO CUANDO NO HAY RIFA -->                              
+                            </div>
+                        </div>
+                    </div>
             <!--- END: TÍTULO -->
 
             <!-- BEGIN: CUENTA ATRÁS -->
             
-            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2023/Fondos/magia15.jpeg">
+            <!-- <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2023/Fondos/magia15.jpeg">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
@@ -97,7 +141,7 @@ escribe_cabecera();
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 
                 
                 <!-- 
@@ -108,7 +152,7 @@ escribe_cabecera();
 
              <!-- BEGIN: RIFA -->
                 <br /><br /><br />
-                <!--
+                
                 <div class="row c-content-box c-size" style="margin-top: 0px;">
                 <div class="col-md-3 ">
                 </div>
@@ -135,55 +179,12 @@ escribe_cabecera();
                 <div class="col-md-3 ">
                 </div>
                 </div>
-                -->
                 <br /><br />
 
-                <!-- BEGIN: RIFA 
-                    <div class="container">
-                     <div class="row">
-                            <div class="col-md-12">
-                                <div class="animated c-bordered c-center c-content-media-1 flash row wow">
-                                    <div class="col-md-12">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa de 2022</h3>
-                                        </div>
-                                    </div> 
-                                
-
-                                
-                                <div class="c-center col-md-12 container row" id="buscarRifa">
-                                    Introduce tu número para saber si has tenido suerte:
-                                    <br /><br />
-
-                                    <div class="c-center">
-                                        <form>
-                                            <label>Número:<label> <input type="number" id="numero" min="0" max="999" placeholder="" required="required" />
-                                            <!--<label>Serie:<label> 
-                                            <select id="serie" required="required" >
-                                                <option value="am">Amarillo</option>
-                                                <option value="az">Azul</option>
-                                            </select>
-                                            <input type="button" value="Buscar" onClick="buscar();" >                                       
-                                        </form>
-                                    </div>
-                                </div>
-    
-                                
-
-                            
-                                
-                                El viernes publicaremos los resultados!<br />
-                                Mucha suerte y recuerda....No hay mar sin gotas
-
-                                <br /><br />
+                <!-- BEGIN: RIFA -->
+                    
+            </div>
         
-                                
-                                                             
-                            </div>
-                        </div>
-                    </div>
-            </div>-->
-        -->
             <!-- END: RIFA -->
 
             <!-- PONENTES ACTUALES-->
