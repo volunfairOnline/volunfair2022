@@ -60,9 +60,9 @@ escribe_cabecera();
 				</div>
                 
 			</div>
-            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2023/Fondos/magia15.jpeg">
+            <!--<div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2023/Fondos/magia15.jpeg"> -->
                 <div class="container">
-                     <div class="row">
+                        <div class="row">
                             <div class="col-md-12">
                                 <div class="animated c-bordered c-center c-content-media-1 flash row wow">
                                     <div class="col-md-12">
@@ -80,17 +80,18 @@ escribe_cabecera();
                                     <div class="c-center">
                                         <form>
                                             <label>Número:<label> <input type="number" id="numero" min="0" max="999" placeholder="" required="required" />
-                                            <!-- <label>Serie:<label> 
+                                            <label>Serie:<label> 
                                             <select id="serie" required="required" >
-                                                <option value="am">Amarillo</option>
-                                                <option value="az">Azul</option>
-                                               <option value="un">Único</option>
-                                            </select> -->
+                                                <option value="un">Único</option>    
+                                                <!--<option value="am">Amarillo</option>
+                                                <option value="az">Azul</option>-->
+                                                
+                                            </select>
                                             <input type="button" value="Buscar" onClick="buscar();" >                                       
                                         </form>
                                     </div>
                                 </div>
-    
+                            </div>
                                 <!-- END: RESULTADOS DE LA RIFA -->
 
                                 <!-- BEGIN: AVISO PREVIO CUANDO NO HAY RIFA -->
@@ -106,7 +107,7 @@ escribe_cabecera();
                         </div>
                     </div>
                 </div>
-            </div>
+            <!-- </div> -->
             <!--- END: TÍTULO -->
 
             <!-- BEGIN: CUENTA ATRÁS -->
