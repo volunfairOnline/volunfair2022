@@ -60,7 +60,8 @@ escribe_cabecera();
 				</div>
                 
 			</div>
-            <div class="container">
+            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2023/Fondos/magia15.jpeg">
+                <div class="container">
                      <div class="row">
                             <div class="col-md-12">
                                 <div class="animated c-bordered c-center c-content-media-1 flash row wow">
@@ -104,6 +105,8 @@ escribe_cabecera();
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
             <!--- END: TÍTULO -->
 
             <!-- BEGIN: CUENTA ATRÁS -->
@@ -151,6 +154,7 @@ escribe_cabecera();
                 <!-- END: CUENTA ATRÁS -->
 
              <!-- BEGIN: RIFA -->
+             <!--
                 <br /><br /><br />
                 
                 <div class="row c-content-box c-size" style="margin-top: 0px;">
@@ -179,7 +183,8 @@ escribe_cabecera();
                 <div class="col-md-3 ">
                 </div>
                 </div>
-                <br /><br />
+                <br /><br /> 
+            -->
 
                 <!-- BEGIN: RIFA -->
                     
