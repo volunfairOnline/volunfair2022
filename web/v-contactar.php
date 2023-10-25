@@ -55,7 +55,7 @@ escribe_cabecera();
                             	  <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold">Para hablar con nosotros</h3>
                                         <div class="c-line-left"></div>
-                                  <p class="c-font-lowercase">Si eres ONG: 629 76 06 00 (Pablo) <br/>
+                                  <p class="c-font-lowercase">Si eres ONG: 629 76 06 00 (Lucia) <br/>
                                                               Si eres medio de comunicación: 649 72 85 14 (Isa) <br/>
                                                               Para cualquier gestión: 655 53 93 29 (Paula) o 616 20 92 81 (Jorge)</p>
                                 </div>
