@@ -71,7 +71,7 @@ escribe_cabecera(1);
                     <div class="c-content-title-1">
                         <h1 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR </h1>
                         <h2 class="c-center  c-font-bold">Feria universitaria de voluntariado en Madrid</h2>
-                        <h3 class="c-center c-font-uppercase c-font-bold">Próximos 15 y 16 de febrero de 2023</h3>
+                        <h3 class="c-center c-font-uppercase c-font-bold">Próximos 8 y 9 de febrero de 2024</h3>
                             
                     </div>
 
@@ -353,7 +353,7 @@ escribe_cabecera(1);
 
 
             <!-- BEGIN: CONTENT/SLIDERS/CLIENT-LOGOS-1 -->
-            <div class="c-content-box c-size-md c-bg-white">
+            <!--div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="c-content-client-logos-slider-1" data-slider="owl">
                         <div class="c-content-title-1">
@@ -364,7 +364,7 @@ escribe_cabecera(1);
                         <!-- End-->
                         <!-- Begin: Owlcarousel -->
                        
-                        <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="4" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
+                        <!--div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="4" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
                         data-auto-play-hover-pause="false">
                         
                             <div class="item">
@@ -377,7 +377,7 @@ escribe_cabecera(1);
                                     <img src="assets/base/img/volunfair/patrocinadores/logo_cantabrialabs.png" title ="Cantabria Labs" alt="Cantabria Labs" style=" padding-top: 5%;" width="100%" />
                                 </a>
                             </div> -->
-                            <div class="item">
+                            <!--div class="item">
                             	  <a href="https://ebury.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-ebury.png"title ="Ebury" alt="Ebury" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
                                 </a>
@@ -397,7 +397,7 @@ escribe_cabecera(1);
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-fundacion-aon.png" title ="Fundación AON" alt="Fundación AON" width="100%" />
                                 </a>
                             </div> -->
-                            <div class="item">
+                            <!--div class="item">
                             	<a href="http://www.caritasmadrid.org/categorias/caritas-universitaria" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logoA.jpg" title ="Cáritas Madrid Universitaria" alt="Cáritas Madrid Universitaria"  style="padding-top: 10%; width="100%" />
                                 </a>
@@ -412,7 +412,7 @@ escribe_cabecera(1);
                                     <img src="assets/base/img/volunfair/patrocinadores/logo_redmadre.png" title ="Red Madre" alt="Red Madre" style=" padding-top: 20%;" width="50%" />
                                 </a>
                             </div> -->
-                            <div class="item">
+                             <!--div class="item">
                             	  <a href="https://ebury.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-ebury.png"title ="Ebury" alt="Ebury" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
                                 </a>
@@ -428,7 +428,7 @@ escribe_cabecera(1);
                                 </a>
                             </div>
                             
-                            
+                                
                             <!--<div class="item">
                             	  <a href="https://www.cbre.es/es-es/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/Logo_CBRE.png"title ="CBRE" alt="CBRE" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
