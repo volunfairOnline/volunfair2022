@@ -50,18 +50,18 @@ escribe_cabecera();
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
 
             <!-- BEGIN: TITULO -->
-			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
+			 <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2023</h3>
+					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2024</h3>
                     <div class="c-line-center c-theme-bg"></div>
-                    <p class="c-center" >Ya está aquí la octava edición de <b>VOLUNFAIR</b>. ¿Te la vas a perder? <br />El miércoles 15 y jueves 16 de febrero de <b>11:00 a 20:00</b> podrás conocer a todas las entidades sociales que nos acompañan este año.
-                    <br /> Además, con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles! </p>  
+                    <p class="c-center" >La novena edición de <b>VOLUNFAIR</b> está a la vuelta de la esquina ¿Te la vas a perder? <br />El jueves 8 y viernes 9 de febrero de <b>11:00 a 20:00</b> podrás conocer a todas las entidades sociales que nos acompañan este año.
+                    <br /> Además, con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles!</p>  
 					
 				</div>
                 
 			</div>
             <!--<div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2023/Fondos/magia15.jpeg"> -->
-                <div class="container">
+                <!--<div class="container">
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="animated c-bordered c-center c-content-media-1 flash row wow">
@@ -70,10 +70,10 @@ escribe_cabecera();
                                             <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa de 2023</h3>
                                         </div>
                                     </div> 
-                                
+                                    -->
 
                                     <!-- BEGIN: RESULTADOS DE LA RIFA -->
-                                <div class="c-center col-md-12 container row" id="buscarRifa">
+                                <!--<div class="c-center col-md-12 container row" id="buscarRifa">
                                     Introduce tu número para saber si has tenido suerte:
                                     <br /><br />
 
@@ -86,12 +86,12 @@ escribe_cabecera();
                                                 <!--<option value="am">Amarillo</option>
                                                 <option value="az">Azul</option>-->
                                                 
-                                            </select>
+                                            <!--</select>
                                             <input type="button" value="Buscar" onClick="buscar();" >                                       
                                         </form>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --> 
                                 <!-- END: RESULTADOS DE LA RIFA -->
 
                                 <!-- BEGIN: AVISO PREVIO CUANDO NO HAY RIFA -->
@@ -112,14 +112,14 @@ escribe_cabecera();
 
             <!-- BEGIN: CUENTA ATRÁS -->
             
-            <!-- <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2023/Fondos/magia15.jpeg">
+             <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2024/Fondos/ladrillo2.jpg">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="c-content-media-1 c-center c-bordered wow animated flash">
                                     <div class="col-md-12">
                                         <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2023 será realidad en ... </h3>
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2024 será realidad en ... </h3>
                                         </div>
                                     </div>
 
@@ -145,7 +145,7 @@ escribe_cabecera();
                                 </div>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 
                 
                 <!-- 
