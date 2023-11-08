@@ -62,7 +62,9 @@ function escribe_cabecera ($es_index = 0) {
 
 		echo '<head>'."\n";
 		
-			// --- Configuración
+		// --- Ventana emergente newsletter 2023 - 11- 08
+			echo '<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/be01c162bec5fd174bf043047/43d12a5d7e1a387c74414e20b.js");</script>'."\n";
+		// --- Configuración
 			echo '<meta charset="utf-8" />'."\n";
 			echo '<title>VOLUNFAIR | Feria del Voluntariado</title>'."\n";
 			echo '<meta http-equiv="X-UA-Compatible" content="IE=edge">'."\n";
