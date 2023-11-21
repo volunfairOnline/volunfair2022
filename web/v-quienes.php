@@ -222,7 +222,7 @@ escribe_cabecera();
 
                                 
                             </div>
-                            
+                            <!-- 
                             <div class="col-md-6">
                                 <div class="c-contact">
                                     <div class="c-content-title-1">
@@ -383,8 +383,8 @@ escribe_cabecera();
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
+                </div>-->
+            </div> 
             <?php   
             // --- Matriz con los miembros del equipo (no poner coma tras cada último corchete porque da error)
             // --- Guardar la foto en assets/base/img/volunfair/staff2/
