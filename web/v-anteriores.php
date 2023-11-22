@@ -93,7 +93,7 @@ escribe_cabecera();
                     </div>
 
                     <div class="tl-content">
-                        Primera edición de ge <br />
+                        Primera edición de volunfair <br />
                         <strong>Jefes:</strong> Pilar Aldama y Daniel Alfaro
                     </div>
                 </div>
@@ -127,10 +127,6 @@ escribe_cabecera();
                     </div>
 
                 </div>
-            </section>
-
-                <section id="timeline">
-
                 <div class="tl-item3" onclick="location.href='v-ponentes19';">
                     
                 <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/estrellas.jpg)"></div>
@@ -145,7 +141,9 @@ escribe_cabecera();
                     </div>
 
                 </div>
+            </section>
 
+                <section id="timeline">
                 <div class="tl-item3" onclick="location.href='v-ponentes20';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/mar13.jpeg)"></div>
@@ -191,6 +189,20 @@ escribe_cabecera();
 
                 </div>
 
+                <div class="tl-item3" onclick="location.href='v-ponentes23';">
+                    
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/mar13.jpeg)"></div>
+                    
+                    <div class="tl-year">
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes23.php">2023</a></p>
+                    </div>
+
+                    <div class="tl-content">
+                        <strong>Lema:</strong> "Un truco por descubrir" <br />
+                        <strong>Jefes:</strong> Paula García y Jorge García
+                    </div>
+
+                </div>
 
             </section>
 

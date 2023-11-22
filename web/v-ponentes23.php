@@ -51,7 +51,7 @@ escribe_cabecera();
             <br>
                 <div class="col-md-2 wow animated bounceIn">
                     <h2 class="c-right c-font-uppercase c-font-bold">
-                    <a href="v-ponentes21"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2021</a> 
+                    <a href="v-ponentes21"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2023</a> 
                         </h2>
                 </div>
 
@@ -60,8 +60,8 @@ escribe_cabecera();
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2022</h3>
-                    <p class="c-center" > 2023 entró pisando fuerte con la octava edición de <b>VOLUNFAIR</b> en febrero. 6 meses de preparación, 4 ponentes con <br>auténticos poderes de servicio,
+					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2023</h3>
+                    <p class="c-center" > 2024 entró pisando fuerte con la novena edición de <b>VOLUNFAIR</b> en febrero. 6 meses de preparación, 4 ponentes con <br>auténticos poderes de servicio,
                     2 superhéroes rondando la universidad con trajes de superman y miles de personas conociendo nuevas ONGs...<br>Y en ese momento nos dimos cuenta de que, de algo tan sencillo y ordinario
                     como es <b>darse a los demás</b>, habíamos conseguido hacer algo<br> <b>muy extraordinario</b>. Porque con #pequeñosGESTOS se hacen #GRANDEScambios
                      </p>
@@ -231,13 +231,13 @@ escribe_cabecera();
                     <div class="col-md-5">
                         <img src="assets/base/img/volunfair/anteriores/2022/jefes2022.jpeg" alt="María López y José María Seral" title="María López y José María Seral" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            Nuestros jefes: María López y José María Seral
+                            Nuestros jefes: Paula García y Jorge García
                         </div>
                     </div>
                     <div class="col-md-7">
                         <img src="assets/base/img/volunfair/anteriores/2022/equipo2022.jpeg" alt="Equipo 2022" title="Equipo 2022" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
-                            El equipo VOLUNFAIR 2022
+                            El equipo VOLUNFAIR 2023
                         </div>
                     </div>
                 </div>
@@ -292,7 +292,7 @@ escribe_cabecera();
                         <div class="row c-content-media-1 wow animated fadeInRight">
                             <div class="c-center">
                                 <h3 class="c-font-uppercase c-font-bold">Pablo España</h3>
-                                <div>Speaker de VOLUNFAIR 2022</div>
+                                <div>Speaker de VOLUNFAIR 2023</div>
                             </div>
                         </div>
                         <br />
