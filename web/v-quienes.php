@@ -420,7 +420,7 @@ escribe_cabecera();
                     ],
 
                 "Gestión" => [
-                        ['nombre' => 'Diego Álvarez',	    			'foto' => 'gesdiego'],
+                        ['nombre' => 'Jaime',	    			'foto' => 'gesdiego'],
                         ['nombre' => 'Enrique de Miguel',	    	    'foto' => 'gesenrique'],
                         ['nombre' => 'Jaime Moral',				        'foto' => 'gesjaime'],
                         ['nombre' => 'Lucía Sepúlveda',			        'foto' => 'geslucia'],
