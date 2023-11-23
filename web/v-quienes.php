@@ -391,8 +391,8 @@ escribe_cabecera();
             $equipazo = [
             
                 "Dirección" => [
+                        ['nombre' => 'Diego Álvarez',				        'foto' => 'diegoalvarezjefazo'],
                         ['nombre' => 'Blanca Verdes',				        'foto' => 'jefazablancaverdes'],
-                        ['nombre' => 'Diego Álvarez',				        'foto' => 'diegoalvarez'],
                     ],
                 
                 "Comunicación" => [
@@ -431,8 +431,8 @@ escribe_cabecera();
                     ],
 
                 "Marketing" => [
-                        ['nombre' => 'Blanca Verdes',			        'foto' => 'mktblancaverdes'],
-                        ['nombre' => 'Daniel Rosado',			        'foto' => 'mktdanirosado'],
+                        ['nombre' => 'Inés Piédrola',			        'foto' => 'mktblancaverdes'],
+                        ['nombre' => 'Sufle',			        'foto' => 'mktdanirosado'],
                         ['nombre' => 'Inés Prados',			            'foto' => 'mktinesprados'],
                         ['nombre' => 'María Urraca',			        'foto' => 'mktmariaurraca'],
                         ['nombre' => 'Nico Lorenzo',		            'foto' => 'mktnicolorenzo'],
@@ -442,7 +442,7 @@ escribe_cabecera();
                         ['nombre' => 'Carla Rius',				        'foto' => 'mktcarlarius'],
                     ],
 
-                "ONG's y EESS" => [
+                "ONG's" => [
                         ['nombre' => 'Pablo Noblejas',			        'foto' => 'ongpablonoblejas'],
                         ['nombre' => 'Ainhoa Orta',			            'foto' => 'ongainhoaorta'],
                         ['nombre' => 'Blanca Bravo',			        'foto' => 'ongblancabravo'],
@@ -453,8 +453,8 @@ escribe_cabecera();
                         ['nombre' => 'Santiago Pedrero',			    'foto' => 'ongsantiagopedrero'],
                     ],
                 
-                "Web y Feria Online" => [
-                        ['nombre' => 'Nacho Menéndez',				        'foto' => 'webnacho'],
+                "Web" => [
+                        ['nombre' => 'Lucía Rosado',				        'foto' => 'webnacho'],
                         ['nombre' => 'Solete Vendrell',			    	    'foto' => 'websolete'],
                         ['nombre' => 'Laura García',			        	'foto' => 'weblaura'],
                         ['nombre' => 'Bea Domínguez',			            'foto' => 'webbeadominguez'],
@@ -470,7 +470,7 @@ escribe_cabecera();
                
 
                 "Redes Sociales" => [
-                        ['nombre' => 'Sufle',				    'foto' => 'rrssmariaschupfer'],
+                        ['nombre' => 'María Pérez',				    'foto' => 'rrssmariaschupfer'],
                         ['nombre' => 'Almu Alonso',			    'foto' => 'rrssalmudenaalonso'],
                         ['nombre' => 'Reyes Valdecantos',		'foto' => 'rrssreyesvaldecantos'],
                         ['nombre' => 'Jana del Rio',		    'foto' => 'rrssjanadelrio'],
