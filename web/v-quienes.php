@@ -454,7 +454,7 @@ escribe_cabecera();
                     ],
                 
                 "Web" => [
-                        ['nombre' => 'Lucía Rosado',				        'foto' => 'webnacho'],
+                        ['nombre' => 'Lucía Rosado',				        'foto' => 'webluciarosado'],
                         ['nombre' => 'Solete Vendrell',			    	    'foto' => 'websolete'],
                         ['nombre' => 'Laura García',			        	'foto' => 'weblaura'],
                         ['nombre' => 'Bea Domínguez',			            'foto' => 'webbeadominguez'],
