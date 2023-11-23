@@ -56,6 +56,13 @@ escribe_cabecera();
                 </div>
 
             </div>
+            <div style="text-align:right">
+                <div class="col-md-8 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="v-ponentes23"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2023</a> 
+                        </h2>
+                </div>
+            </div>
 
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
@@ -252,12 +259,18 @@ escribe_cabecera();
                                     <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">PONENCIAS</h3>
                                 </div>
                             </div>
-                             
                             <div class="solomediano1">
                               <div class="row c-center wow animated fadeInUp">
                                     <iframe width="500" height="315" src="https://www.youtube.com/embed/AzWOxlWli5g?autoplay=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <iframe width="500" height="315" src="https://www.youtube.com/embed/yRVFeqtADEs" frameborder="0" allow="accelerometer;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
+                            </div>
+                                    <div class="solo_peq">
+                                        <div class="row c-center wow animated bounceIn">
+                                            <iframe width="350" height="315" src="https://www.youtube.com/embed/AzWOxlWli5g?autoplay=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                            <iframe width="350" height="315" src="https://www.youtube.com/embed/yRVFeqtADEs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                         </div>
+                                    </div>   
                             </div>
                                     <div class="solo_peq">
                                         <div class="row c-center wow animated bounceIn">

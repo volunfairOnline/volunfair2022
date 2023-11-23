@@ -51,7 +51,7 @@ escribe_cabecera();
             <br>
                 <div class="col-md-2 wow animated bounceIn">
                     <h2 class="c-right c-font-uppercase c-font-bold">
-                    <a href="v-ponentes21"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2023</a> 
+                    <a href="v-ponentes21"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2022</a> 
                         </h2>
                 </div>
 
@@ -245,28 +245,23 @@ escribe_cabecera();
             <!-- END: BLOQUE EQUIPO Y JEFES -->
             <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
                 <div class="container">
-                    <div class="col-md-12 c-content-box c-size-md c-bordered wow  bounceIn animated">
+                    <div class="col-md-12 c-content-box c-size-md c-bordered">
                         <div class="c-bg-white c-content-media-1 c-bordered">
                             <div class="col-md-12">
                                 <div class="c-content-title-1">
                                     <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">PONENCIAS</h3>
                                 </div>
                             </div>
-                             
                             <div class="solomediano1">
-                              <div class="row c-center wow animated fadeInUp">
-                                    <iframe width="500" height="315" src="https://www.youtube.com/embed/AzWOxlWli5g?autoplay=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <iframe width="500" height="315" src="https://www.youtube.com/embed/yRVFeqtADEs" frameborder="0" allow="accelerometer;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                              <div class="row c-center">
+                                    <iframe width="500" height="315" src="https://www.youtube.com/embed/R-qtKocqOf8" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe width="500" height="315" src="https://www.youtube.com/embed/ftN57A9l6Ts" frameborder="0" allow="accelerometer;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                             </div>
-                                    <div class="solo_peq">
-                                        <div class="row c-center wow animated bounceIn">
-                                            <iframe width="350" height="315" src="https://www.youtube.com/embed/AzWOxlWli5g?autoplay=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                            <iframe width="350" height="315" src="https://www.youtube.com/embed/yRVFeqtADEs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                         </div>
-                                    </div>   
-                            </div>
-              
+                            <div class="row c-center">
+                                    <iframe width="500" height="315" src="https://www.youtube.com/embed/mJtBcbZE6LY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                </div>
                     </div>                         
                 </div>
             </div>    
@@ -282,7 +277,7 @@ escribe_cabecera();
             </div>
 
             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-            <!-- BEGIN: PABLO Y CLARA -->
+            <!-- BEGIN: PABLO ESPAÑA -->
             <div class="row">
                 <div class="col-md-2">
                     <div class="col-md-12">
@@ -296,14 +291,37 @@ escribe_cabecera();
                             </div>
                         </div>
                         <br />
+                        <br />
                     </div>
                 </div>
                 
             </div>
-            <!-- END: PABLO Y CLARA -->
+            <!-- END: PABLO ESPAÑA -->
             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-            <div class="col-md-4">
+<div class="col-md-5">
             </div>
+
+            <!-- BEGIN: PATROCINIO EBURY -->
+            <div class="row">
+                <div class="col-md-2">
+                    <div class="col-md-12">
+                        <div class="row c-center fotos wow animated fadeInLetf">
+                        <a href="https://ebury.com/" target="_blank">
+                            <img src="assets/base/img/volunfair/patrocinadores/logo-ebury.png" width="100%" title="Ebury" alt="Ebury" />
+                        </a>
+                        </div>
+                        <div class="row c-content-media-1 wow animated fadeInRight">
+                            <div class="c-center">
+                                <h3 class="c-font-uppercase c-font-bold">Ebury</h3>
+                                <div>Patrocinador de VOLUNFAIR 2023</div>
+                            </div>
+                        </div>
+                        <br />
+                    </div>
+                </div>
+                
+            </div>
+            <!-- END: PATROCINIO EBURY -->
 
             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
 
