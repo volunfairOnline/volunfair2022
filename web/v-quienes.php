@@ -487,13 +487,18 @@ escribe_cabecera();
 
                     "Recursos Humanos" => [
                         ['nombre' => 'José Vives',				        'foto' => 'rrhhjose'],
-                        ['nombre' => 'Pilar González',			        'foto' => 'rrhhpilar'],
-                        ['nombre' => 'Cristina Barceló',			    'foto' => 'rrhhcris'],
-                        ['nombre' => 'Íñigo Arreytunandia',		        'foto' => 'rrhhinigo'],
-                        ['nombre' => 'Inés Piédrola',				    'foto' => 'rrhhines'],
-                        ['nombre' => 'Rosa Mahugo',				        'foto' => 'rrhhrosa'],
-                        ['nombre' => 'Santiago Puelles',			    'foto' => 'rrhhsanti'],
-                        ['nombre' => 'Tito Ramírez',				    'foto' => 'rrhhtito'],
+                        ['nombre' => 'Victoria Sarabia',			        'foto' => 'rrhhvictoriasarabia'],
+                        ['nombre' => 'Carmen González-Aller',			    'foto' => 'rrhhcarmengonzalezaller'],
+                        ['nombre' => 'Íñigo Arreytunandia',		        'foto' => 'rrhhinigoarreytunandia'],
+                        ['nombre' => 'Patricia García',				    'foto' => 'rrhhpatriciagarcia'],
+                        ['nombre' => 'Isabel Cornide',				        'foto' => 'rrhhisabelcornide'],
+                        ['nombre' => 'Santiago Puelles',			    'foto' => 'rrhhsantiagopuelles'],
+                        // ['nombre' => 'Sol Bernard',				    'foto' => 'rrhhsolbernard'],
+                        ['nombre' => 'Inés Delgado',				    'foto' => 'rrhhinesdelgado'],
+                        ['nombre' => 'Alejandra Rubio',				    'foto' => 'rrhhalejandrarubio'],
+                        // ['nombre' => 'Candela Arias',				    'foto' => 'rrhhcandelaarias'],
+                        // ['nombre' => 'Patricia Alocen',				    'foto' => 'rrhhpatriciaalocen'],
+                        ['nombre' => 'Pablo Jiménez',				    'foto' => 'rrhhpablojimenez'],
                     ],
                 ];
 
