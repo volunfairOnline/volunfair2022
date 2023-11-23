@@ -409,7 +409,7 @@ escribe_cabecera();
                     ],
                     
                 "Financiación" => [
-                        ['nombre' => 'Santi Antúnez',				        'foto' => 'finsanti'],
+                        ['nombre' => 'Santi Antúnez',				        'foto' => 'finsantiantunez'],
                         ['nombre' => 'Cande Vendrell',		    	        'foto' => 'fincande'],
                         ['nombre' => 'Gabriel Callejo',			            'foto' => 'fingabrielcallejo'],
                         ['nombre' => 'Gonzalo Halcón',                      'foto' => 'fingonzalo'],
