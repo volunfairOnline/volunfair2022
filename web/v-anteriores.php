@@ -191,7 +191,7 @@ escribe_cabecera();
 
                 <div class="tl-item3" onclick="location.href='v-ponentes23';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/mar13.jpeg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/magia15.jpeg)"></div>
                     
                     <div class="tl-year">
                     <p class="f2 heading--sanSerif"><a href="v-ponentes23.php">2023</a></p>
