@@ -432,7 +432,7 @@ escribe_cabecera();
 
                 "Marketing" => [
                         ['nombre' => 'Inés Piédrola',			        'foto' => 'mktblancaverdes'],
-                        ['nombre' => 'Sufle',			        'foto' => 'mktdanirosado'],
+                        ['nombre' => 'Sufle',			                'foto' => 'mktdanirosado'],
                         ['nombre' => 'Inés Prados',			            'foto' => 'mktinesprados'],
                         ['nombre' => 'María Urraca',			        'foto' => 'mktmariaurraca'],
                         ['nombre' => 'Nico Lorenzo',		            'foto' => 'mktnicolorenzo'],
@@ -470,7 +470,7 @@ escribe_cabecera();
                
 
                 "Redes Sociales" => [
-                        ['nombre' => 'María Pérez',				    'foto' => 'rrssmariaschupfer'],
+                        ['nombre' => 'María Pérez',				'foto' => 'rrssmariaschupfer'],
                         ['nombre' => 'Almu Alonso',			    'foto' => 'rrssalmudenaalonso'],
                         ['nombre' => 'Reyes Valdecantos',		'foto' => 'rrssreyesvaldecantos'],
                         ['nombre' => 'Jana del Rio',		    'foto' => 'rrssjanadelrio'],
@@ -482,22 +482,22 @@ escribe_cabecera();
                         ['nombre' => 'Telmo Ocina',     		'foto' => 'rrsstelmoocina'],
                         ['nombre' => 'Jaime Rico',     			'foto' => 'rrssjaimerico'],
                         ['nombre' => 'María Pérez',     		'foto' => 'rrssmariaperez'],
-                        //['nombre' => 'Belén Cabello',     			'foto' => 'rrssbelencabello'],
+                        //['nombre' => 'Belén Cabello',         'foto' => 'rrssbelencabello'],
                     ],
 
                     "Recursos Humanos" => [
                         ['nombre' => 'José Vives',				        'foto' => 'rrhhjose'],
-                        ['nombre' => 'Victoria Sarabia',			        'foto' => 'rrhhvictoriasarabia'],
-                        ['nombre' => 'Carmen González-Aller',			    'foto' => 'rrhhcarmengonzalezaller'],
+                        ['nombre' => 'Victoria Sarabia',			    'foto' => 'rrhhvictoriasarabia'],
+                        ['nombre' => 'Carmen González-Aller',			'foto' => 'rrhhcarmengonzalezaller'],
                         ['nombre' => 'Íñigo Arreytunandia',		        'foto' => 'rrhhinigoarreytunandia'],
                         ['nombre' => 'Patricia García',				    'foto' => 'rrhhpatriciagarcia'],
-                        ['nombre' => 'Isabel Cornide',				        'foto' => 'rrhhisabelcornide'],
+                        ['nombre' => 'Isabel Cornide',				    'foto' => 'rrhhisabelcornide'],
                         ['nombre' => 'Santiago Puelles',			    'foto' => 'rrhhsantiagopuelles'],
                         // ['nombre' => 'Sol Bernard',				    'foto' => 'rrhhsolbernard'],
                         ['nombre' => 'Inés Delgado',				    'foto' => 'rrhhinesdelgado'],
                         ['nombre' => 'Alejandra Rubio',				    'foto' => 'rrhhalejandrarubio'],
-                        // ['nombre' => 'Candela Arias',				    'foto' => 'rrhhcandelaarias'],
-                        // ['nombre' => 'Patricia Alocen',				    'foto' => 'rrhhpatriciaalocen'],
+                        // ['nombre' => 'Candela Arias',				'foto' => 'rrhhcandelaarias'],
+                        // ['nombre' => 'Patricia Alocen',				'foto' => 'rrhhpatriciaalocen'],
                         ['nombre' => 'Pablo Jiménez',				    'foto' => 'rrhhpablojimenez'],
                     ],
                 ];
