@@ -431,15 +431,18 @@ escribe_cabecera();
                     ],
 
                 "Marketing" => [
-                        ['nombre' => 'Inés Piédrola',			        'foto' => 'mktblancaverdes'],
-                        ['nombre' => 'Sufle',			                'foto' => 'mktdanirosado'],
-                        ['nombre' => 'Inés Prados',			            'foto' => 'mktinesprados'],
-                        ['nombre' => 'María Urraca',			        'foto' => 'mktmariaurraca'],
-                        ['nombre' => 'Nico Lorenzo',		            'foto' => 'mktnicolorenzo'],
-                        ['nombre' => 'Pablo Sanchez',			        'foto' => 'mktpablosanchezpobre'],
-                        ['nombre' => 'Victoria Sarabia',				'foto' => 'mktvictoriasarabia'],
-                        ['nombre' => 'Quique Giménez',				    'foto' => 'mktquiquegimenez'],
-                        ['nombre' => 'Carla Rius',				        'foto' => 'mktcarlarius'],
+                        ['nombre' => 'Inés Piédrola',			        'foto' => 'mktinespiedrola'],
+                        ['nombre' => 'Sufle',			                'foto' => 'mktsufle'],
+                        ['nombre' => 'Bea Domínguez',			            'foto' => 'mktbeadominguez'],
+                        ['nombre' => 'Jennifer Soria',			        'foto' => 'mktjennifersoriano'],
+                        ['nombre' => 'Nicolás Yubero',		            'foto' => 'mktnicoyubero'],
+                        ['nombre' => 'Juan Pablo leal',			        'foto' => 'mktjuanpileal'],
+                        ['nombre' => 'Pilar González-Aller',				'foto' => 'mktpilargonzalezaller'],
+                        ['nombre' => 'Santiago Romero',				    'foto' => 'mktsantiagoromero'],
+                        ['nombre' => 'Pablo Sánchez-Pobre',				        'foto' => 'mktpablosanchezpobre'],
+                        ['nombre' => 'Marta Moreno',				        'foto' => 'mktmartamoreno'],
+                        ['nombre' => 'María Pérez',				        'foto' => 'mktmartaperez'],
+                        ['nombre' => 'Lola Linaje',				        'foto' => 'mktlolalinaje'],
                     ],
 
                 "ONG's" => [
