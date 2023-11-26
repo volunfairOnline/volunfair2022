@@ -60,7 +60,7 @@ escribe_cabecera();
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2023</h3>
+					<h3 class="c-center c-font-uppercase c-font bold">VOLUNFAIR 2023</h3>
                     <p class="c-center" > 2024 entró pisando fuerte con la novena edición de <b>VOLUNFAIR</b> en febrero. 6 meses de preparación, 4 ponentes con <br>auténticos poderes de servicio,
                     2 superhéroes rondando la universidad con trajes de superman y miles de personas conociendo nuevas ONGs...<br>Y en ese momento nos dimos cuenta de que, de algo tan sencillo y ordinario
                     como es <b>darse a los demás</b>, habíamos conseguido hacer algo<br> <b>muy extraordinario</b>. Porque con #pequeñosGESTOS se hacen #GRANDEScambios
