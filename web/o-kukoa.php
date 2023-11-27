@@ -77,7 +77,6 @@ escribe_cabecera();
                             <b>¿Cómo pueden las personas interesadas ponerse en contacto con la ONG y obtener más información?</b><br />
                             Especialmente a través de nuestras redes sociales: Instagram (@kukoa.jovenes) 680982268 y mail info@kukoajovenes.org<br /><br />
 
-
                             <b>¿Podéis compartir algunas historias o testimonios de personas o comunidades que han sido beneficiadas por vuestro trabajo?</b><br />
                             <b>El primer protagonista es Joaquín, un madrileño de 58 años.</b><br />
                                 Cuando tenía 16 años abandonó su casa para alistarse en el ejército, en la Legión, en Málaga. Estuvo destinado en Ceuta, en Líbano y otros lugares hasta que le estalló una mina le cambió la vida. Le echaron del ejército por su nueva adicción: el alcohol y las drogas. Debido a sus lesiones y a no poder trabajar, se había visto metido en este mundillo. Esta nueva vida le llevó a su realidad actual: vive en el albergue de San Isidro y se pasa el día pidiendo y bebiendo por Madrid. Este hombre, es una de las personas a las que repartimos desayunos todos los domingos, menos uno. En el que nos dimos cuenta de que faltaba alguien y preguntamos por él. Faltaba alguien, porque Joaquín no es una persona cualquiera. Joaquín, es un hombre que mientras nosotros le intentamos sacar tema de conversación acompañado de un café, él es el que nos va preguntando cosas: qué tal los amigos, el colegio, la novia…
@@ -111,7 +110,7 @@ escribe_cabecera();
             <!-- BEGIN: FOTOS KUKOA -->
             <div class="row">
                 <div class="col-md-2">
-                    <div class="col-md-12">
+                    <div class="col-md-10">
                         <div class="row c-center fotos">
                             <img src="assets/base/img/volunfair/newsletter/kukoa/logo" width="100%" title="Logo" alt="Logo" />
                             <img src="assets/base/img/volunfair/newsletter/kukoa/kukoa" width="100%" title="Stand Feria" alt="Stand Feria" />

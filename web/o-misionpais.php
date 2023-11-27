@@ -42,7 +42,7 @@ escribe_cabecera();
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">MISIÓN PAÍS </b><br /><br /></b></h3>
-                    <p  class="c-font-lowercase c-font-20 col-md-8" >
+                    <p  class="c-content-media-1 c-font-lowercase c-font-20 col-md-8" >
                         <b>Estamos con Isa, una voluntaria de Misión País. Cuentanos Isa, ¿Qué es Misión País?</b><br />
                             Misión País es un proyecto que llevan a cabo jóvenes universitarios, que buscan llevar a Cristo y a la Virgen a distintos pueblos de España.<br /><br />
 
@@ -79,7 +79,7 @@ escribe_cabecera();
 
             <!-- BEGIN: FOTOS MISIÓN PAÍS -->
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <div class="col-md-10">
                         <div class="row c-center fotos">
                             <img src="assets/base/img/volunfair/newsletter/misionpais/logo" width="100%" title="Logo" alt="Logo" />

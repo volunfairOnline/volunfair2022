@@ -86,7 +86,7 @@ escribe_cabecera();
             <!-- BEGIN: FOTOS FUNDACION -->
             <div class="row">
                 <div class="col-md-2">
-                    <div class="col-md-12">
+                    <div class="col-md-10">
                         <div class="row c-center fotos">
                             <img src="assets/base/img/volunfair/newsletter/funsiempreadelante/logo" width="100%" title="Logo" alt="Logo" />
                             <img src="assets/base/img/volunfair/newsletter/funsiempreadelante/FunSiempreAdelante_1" width="100%" title="1" alt="1" />
