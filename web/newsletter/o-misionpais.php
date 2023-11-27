@@ -41,24 +41,18 @@ escribe_cabecera();
             <!-- BEGIN: ENTREVISTA -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">FUNDACIÓN SIEMPRE ADELANTE </b><br /></b><br /></h3>
-                    <p class="c-content-media-1 c-font-20 c-margin-b-30 col-md-7 c-right" > 
-                        <b>¿Podéis hacer una breve descripción de vuestra ONG y su misión?</b><br />
-                        Kukoa es una asociación que pone en contacto a jóvenes con ganas de ayudar y a fundaciones, asociaciones… que buscan voluntarios.<br /><br />
+					<h3 class="c-center c-font-uppercase c-font-bold">MISIÓN PAÍS </b><br /><br /></b></h3>
+                    <p  class="c-content-media-1 c-font-lowercase c-font-20 col-md-8" >
+                        <b>Estamos con Isa, una voluntaria de Misión País. Cuentanos Isa, ¿Qué es Misión País?</b><br />
+                            Misión País es un proyecto que llevan a cabo jóvenes universitarios, que buscan llevar a Cristo y a la Virgen a distintos pueblos de España.<br /><br />
 
-                            <b>¿Cuál es la historia de vuestra ONG y cuándo se fundó? </b><br />
-                            Kukoa nace en diciembre de 2021, cuando nos juntamos dos amigos para organizar un voluntariado para nuestro grupo de amigos, pero acabamos yendo 60 jóvenes a un comedor social esa Navidad. <br />
-                            Por lo tanto, decidimos empezar a organizar voluntariados más a menudo, definimos nuestras cuatro áreas de actuación: niños con discapacidad, niños enfermos, personas mayores y personas sin recursos.<br />
-                            Además, se nos fue uniendo gente al equipo hasta llegara las 12 personas que somos ahora, y gente al proyecto, hasta llegar a los 700 voluntarios.<br /><br />
+                            <b>¿Cuál es el origen de esta ONG y cuándo se fundó?</b><br />
+                            Misión País se fundó el Chile hace varios años, por un grupo de la juventud del movimiento católico de Schoenstatt. Poco a poco se fue expandiendo, y cada año crece más. En España, este es el décimo año ya. <br /><br />
 
-                            <b>¿Cuáles son los principales problemas o necesidades que abordáis?</b><br />
-                            <b>Niños con discapacidad:</b> colaboramos en la organización de actividades de ocio como cine, bolera, zoo…<br />
-                            <b>Niños enfermos:</b> hacemos visitas a niños enfermos para animarles en esta situación tan difícil<br />
-                            <b>Personas mayores:</b> visitamos residencias de ancianos y hospitales de cuidados paliativos para que las personas mayores nos cuentan sobre todo lo que han aprendido durante su vida.<br />
-                            <b>Personas sin recursos:</b> este es nuestro área más desarrollada, no solo intentamos cubrir las necesidades más básicas de estas personas, sino aportarles cariño y atención.
-                            <br /><br />
+                            <b>¿Cuál es vuestra principal misión?</b><br />
+                            Nuestra principal misión es llevar la alegría y el amor de Dios a la gente de estos pueblos, ayudarles en todo lo que haga falta, y acompañarlos durante esa semana en la que estamos. Básicamente, ser una juventud que reaviva la fe en los pueblos.<br /><br />
 
-                            <b>¿Qué tipo de actividades ofrecéis y cuáles son los requisitos para participar?</b><br /><br />
+                            <b>¿Qué tipo de actividades ofrecéis y cuáles son los requisitos para participar?</b><br />
                             Ofrecemos a los universitarios la posibilidad de irse durante una semana en enero/febrero a un pueblo de España a hacer misionado. También se realizan actividades de voluntariado como el acompañamiento a personas mayores en residencias, trabajos más físicos como pintar o reformar edificios, ir a los colegios a hablar y jugar con los niños, acercarse a las casas de la gente que está más sola para estar con ellos…  <br />
                             En cuanto a los requisitos, no hace falta ninguno para ir a Misión País, simplemente tener ganas e ilusión, y querer ponerse al servicio de los demás y llevar a cabo la misión.<br /><br />
 
@@ -66,7 +60,7 @@ escribe_cabecera();
                             Por suerte, participar en Misión País es muy barato, por lo que no es nuestro principal problema. Pero sí es verdad que se organizan eventos como fiestas para poder recaudar dinero destinado a financiar las misiones. De todas maneras, yo creo que la mejor manera de aportar a la misión es rezar por los frutos de cada una de ellas. <br /><br />
 
                             <b>¿Cómo pueden las personas interesadas ponerse en contacto con la organización y tener más información?</b><br />
-                            En la cuenta de Instagram, que se llama @misionpaisesp, están muy activos. Allí anuncian todas las novedades, las actividades, las inscripciones, las fechas de las misiones y demás. <br /><br />
+                            En la cuenta de Instagram, que se llama <b>@misionpaisesp</b>, están muy activos. Allí anuncian todas las novedades, las actividades, las inscripciones, las fechas de las misiones y demás. <br /><br />
 
                             <b>¿Podrías contarnos alguna experiencia personal de alguna de tus misiones?</b><br />
                             ¡Claro! Yo he tenido la suerte de ir dos años a un pueblo en Córdoba que se llama Rute (La idea es ir 3 años seguidos al mismo pueblo).  Lo que más me llama la atención es lo bien que nos acogen, recibiéndonos siempre con los brazos abiertos; y las ganas e ilusión con la que esperan nuestra llegada.<br />
@@ -79,20 +73,20 @@ escribe_cabecera();
             <!--- END: ENTREVISTA -->
 
             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-            <div class="col-md-2">
+            <div class="col-md-1">
                             </div>
             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
 
-            <!-- BEGIN: FOTOS FUNDACION -->
+            <!-- BEGIN: FOTOS MISIÓN PAÍS -->
             <div class="row">
                 <div class="col-md-2">
                     <div class="col-md-10">
                         <div class="row c-center fotos">
-                            <img src="assets/base/img/volunfair/newsletter/funsiempreadelante/logo" width="100%" title="Logo" alt="Logo" />
-                            <img src="assets/base/img/volunfair/newsletter/funsiempreadelante/FunSiempreAdelante_1" width="100%" title="1" alt="1" />
-                            <img src="assets/base/img/volunfair/newsletter/funsiempreadelante/FunSiempreAdelante_2" width="100%" title="2" alt="2" />
-                            <img src="assets/base/img/volunfair/newsletter/funsiempreadelante/FunSiempreAdelante_3" width="100%" title="3" alt="3" />
-                            <img src="assets/base/img/volunfair/newsletter/funsiempreadelante/FunSiempreAdelante_4" width="100%" title="4" alt="4" />
+                            <img src="assets/base/img/volunfair/newsletter/misionpais/logo" width="100%" title="Logo" alt="Logo" />
+                            <img src="assets/base/img/volunfair/newsletter/misionpais/standferia" width="100%" title="Stand Feria" alt="Stand Feria" />
+                            <img src="assets/base/img/volunfair/newsletter/misionpais/grupo" width="100%" title="Grupo" alt="Grupo" />
+                            <img src="assets/base/img/volunfair/newsletter/misionpais/grupo2" width="100%" title="Grupo 2" alt="Grupo 2" />
+                            <img src="assets/base/img/volunfair/newsletter/misionpais/grupo3" width="100%" title="Grupo 3" alt="Grupo 3" />
                         </div>
                         <br />
                         <br />
@@ -100,13 +94,7 @@ escribe_cabecera();
                 </div>
                 
             </div>
-            <!-- END: FOTOS FUNDACION -->
-
-            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                <div class="col-md-5">
-                </div>
-            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-
+            <!-- END: FOTOS MISIÓN PAÍS -->
             <!-- END: PAGE CONTENT -->
         </div>
         <!-- END: PAGE CONTAINER -->
