@@ -397,6 +397,7 @@ escribe_cabecera();
                 
                 "Comunicación" => [
                         ['nombre' => 'Olivia Alarcón',			      	    'foto' => 'comoliviaalarcon'],
+                        ['nombre' => 'Javier Baza',     			        'foto' => 'comjavierbaza'],
                         ['nombre' => 'Casilda Gómez',					    'foto' => 'comcasildagomez'],
                         ['nombre' => 'Alejandra Gómez',		                'foto' => 'comalejandragomez'],
                         ['nombre' => 'Enrique Giménez-Arnau',             	'foto' => 'comquiquegimenez'],
@@ -408,7 +409,6 @@ escribe_cabecera();
                         ['nombre' => 'Valentín Picón',     			        'foto' => 'comvalentinpicon'],
                         //['nombre' => 'Lucía Millán',     			        'foto' => 'comluciamillan'],
                         ['nombre' => 'Irene Gordo',     			        'foto' => 'comirenegordo'],
-                        ['nombre' => 'Javier Baza',     			        'foto' => 'comjavierbaza'],
                         ['nombre' => 'Martina Huete',     			        'foto' => 'commartinahuete'],
                     ],
                     
