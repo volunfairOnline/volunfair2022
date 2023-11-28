@@ -8,7 +8,7 @@ function escribe_menu () {
 	// --- En la siguiente matriz ponemos el nombre del archivo y el nombre que queremos que aparezca en el menú superior.
 	// --- NO PONER COMA TRAS LA ÚLTIMA FILA
 	$menu = [
-		["archivo" => "v-viene", 			"nombre" => "Ed. 2023"],
+		["archivo" => "v-viene", 			"nombre" => "Ed. 2024"],
 		["archivo" => "index", 				"nombre" => "Inicio"],
 		["archivo" => "v-quienes", 			"nombre" => "Equipo"],
 		["archivo" => "v-voluntario", "nombre" => "ONGs"],
