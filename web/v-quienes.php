@@ -204,10 +204,10 @@ escribe_cabecera();
                             <div class="col-md-6">
                                <div class="c-contact">
                                     <div class="c-content-title-1">
-                                        <h3 class="c-font-uppercase c-font-bold">EQUIPO EDICIÓN 2023</h3>
+                                        <h3 class="c-font-uppercase c-font-bold">EQUIPO EDICIÓN 2024</h3>
                                         <div class="c-line-left"></div>
                                         <p class="c-font-lowercase">CENA DE BIENVENIDA <br>
-                                        </br>Septiembre llegó y la reunión de presentación de VOLUNFAIR 2023 fue todo un éxito. En cuestión de 
+                                        </br>Septiembre llegó y la reunión de presentación de VOLUNFAIR 2024 fue todo un éxito. En cuestión de 
                                                                 días ya teníamos el equipo completo: 78 personas en los distintos departamentos más los 30 voluntarios para ayudar 
                                                                 los días de la feria. Esto se merecía una celebración por todo lo alto, y así lo hicimos con una cena llena de juegos, 
                                                                 nuevas amistades, emoción, jaleito y mucha mucha magia.</p>
