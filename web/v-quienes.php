@@ -505,7 +505,7 @@ escribe_cabecera();
                         ['nombre' => 'Íñigo Arreytunandia',		        'foto' => 'rrhhinigoarreytunandia'],
                         ['nombre' => 'Patricia García',				    'foto' => 'rrhhpatriciagarcia'],
                         ['nombre' => 'Isabel Cornide',				    'foto' => 'rrhhisabelcornide'],
-                        ['nombre' => 'Santiago Puelles',			    'foto' => 'rrhhsantiagopuelles'],
+                        ['nombre' => 'Santi Puelles',			    'foto' => 'rrhhsantiagopuelles'],
                         // ['nombre' => 'Sol Bernard',				    'foto' => 'rrhhsolbernard'],
                         ['nombre' => 'Inés Delgado',				    'foto' => 'rrhhinesdelgado'],
                         ['nombre' => 'Alejandra Rubio',				    'foto' => 'rrhhalejandrarubio'],
