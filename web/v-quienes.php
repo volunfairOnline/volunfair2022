@@ -173,7 +173,7 @@ escribe_cabecera();
                                         </div>
                                         
                                         <p>
-                                        Y es que VOLUNFAIR tiene ya 8 años... empieza a adquirir personalidad, imagen propia  
+                                        Y es que VOLUNFAIR tiene ya 9 años... empieza a adquirir personalidad, imagen propia  
                                         y a asentar sus objetivos. Pero  continúa  dejándose 
                                         sorprender por cada momento de la vida y <b>viviendo</b> esos momentos <b>con la emoción de un niño</b>. Ya empieza a tener
                                         recuerdos, historia, experiencia, en definitiva un recorrido. Cada vez más gente se sube al tren y ninguno se quiere bajar. 
@@ -204,13 +204,13 @@ escribe_cabecera();
                             <div class="col-md-6">
                                <div class="c-contact">
                                     <div class="c-content-title-1">
-                                        <h3 class="c-font-uppercase c-font-bold">EQUIPO EDICIÓN 2023</h3>
+                                        <h3 class="c-font-uppercase c-font-bold">EQUIPO EDICIÓN 2024</h3>
                                         <div class="c-line-left"></div>
                                         <p class="c-font-lowercase">CENA DE BIENVENIDA <br>
-                                        </br>Septiembre llegó y la reunión de presentación de VOLUNFAIR 2023 fue todo un éxito. En cuestión de 
-                                                                días ya teníamos el equipo completo: 78 personas en los distintos departamentos más los 30 voluntarios para ayudar 
-                                                                los días de la feria. Esto se merecía una celebración por todo lo alto, y así lo hicimos con una cena llena de juegos, 
-                                                                nuevas amistades, emoción, jaleito y mucha mucha magia.</p>
+                                        </br>En Octubre dimos comienzo a este emocionante viaje con una cena de bienvenida llena de juegos, risas y una energía increíble. 
+                                                    Los miembros de VOLUNFAIR 2024 nos reunimos como una gran familia para dar el pistoletazo de salida a esta maravillosa experiencia.
+                                                    Más que una cena fue el comienzo de nuevas amistades, de risas y la consolidacion de un grupo con un fin común: entregarse a los 
+                                                    demás y disfrutar poniéndonos "manos a la obra".</p>
                                     </div>
                                     <p class="c-font-lowercase">
                                     </p>
@@ -426,7 +426,7 @@ escribe_cabecera();
                 "Gestión" => [
                         ['nombre' => 'Jaime Moral',	    			    'foto' => 'gesjaimemoral'],
                         ['nombre' => 'Juan Ruiz',	    	            'foto' => 'gesjuanruiz'],
-                        ['nombre' => 'Caros Carril',				    'foto' => 'gescarloscarril'],
+                        ['nombre' => 'Carlos Carril',				    'foto' => 'gescarloscarril'],
                         ['nombre' => 'Ana Corrales',			        'foto' => 'gesanacorrales'],
                         //['nombre' => 'Jorge Gomez-Pamo',              'foto' => 'gesjorgegomezpamo'],
                         ['nombre' => 'Tito Ramírez',		            'foto' => 'gestitoramirez'],
