@@ -434,7 +434,7 @@ escribe_cabecera();
                         ['nombre' => 'Isa de Bloteau',		            'foto' => 'gesisabeldebloteau'],
                         ['nombre' => 'Blanca Bravo',     			    'foto' => 'gesblancabravo'],
                         ['nombre' => 'Rosa Mahugo',     			    'foto' => 'gesrosamahugo'],
-                        //['nombre' => 'Sandra Giner',     			    'foto' => 'gessandraginer'],
+                        ['nombre' => 'Sandra Giner',     			    'foto' => 'gessandraginer'],
                     ],
 
                 "Marketing" => [
