@@ -450,6 +450,7 @@ escribe_cabecera();
                         ['nombre' => 'Marta Moreno',				    'foto' => 'mktmartamoreno'],
                         ['nombre' => 'María Pérez',				        'foto' => 'mktmariaperez'],
                         ['nombre' => 'Lola Linaje',				        'foto' => 'mktlolalinaje'],
+                        ['nombre' => 'Isabel Alles,				        'foto' => 'mktisabelalles'],
                     ],
 
                 "ONG's" => [
