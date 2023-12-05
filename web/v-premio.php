@@ -100,7 +100,8 @@ escribe_cabecera();
                             ["fecha" => "2021",     "nombre" => "Javier Pérez-Minguez",     "foto" => "JavierPerezMinguez_2.png",   "razon" => ""],
                             ["fecha" => "2021",     "nombre" => "Los Ángeles de Kenia",     "foto" => "LosAngelesDeKenia.jpg",    	"razon" => ""],
 							["fecha" => "2022",     "nombre" => "Joaquín Echevarría",     	"foto" => "JoaquinEchevarria.jpg",    	"razon" => ""],
-							["fecha" => "2022",     "nombre" => "Álvaro Trigo",     		"foto" => "AlvaroTrigo.jpg",    		"razon" => ""]					
+							["fecha" => "2022",     "nombre" => "Álvaro Trigo",     		"foto" => "AlvaroTrigo.jpg",    		"razon" => ""],
+							["fecha" => "2023",     "nombre" => "Pablo España",     		"foto" => "PabloEspana.jpg",    		"razon" => ""]					
 						];
 						
 						// --- Función que escribe los premiados con formato
@@ -122,9 +123,11 @@ escribe_cabecera();
                         // --- Matriz con los padrinos (no poner coma tras cada último corchete porque da error)
                         // --- Guardar la foto en assets/base/img/volunfair/anteriores/
                         $padrinos = [
-                            ["fecha" => "2020",     "nombre" => "Enrique Rueda",                "foto" => "Padre_Enrique.jpg",            "razon" => ""],
-                            ["fecha" => "2020",     "nombre" => "Raquel Martínez",                "foto" => "Raquel_Martinez.jpg",            "razon" => ""],
-                            ["fecha" => "2021",     "nombre" => "Pablo España",        "foto" => "PabloEspana.jpg",    "razon" => ""]
+                            ["fecha" => "2020",     "nombre" => "Enrique Rueda",                "foto" => "Padre_Enrique.jpg",              "razon" => ""],
+                            ["fecha" => "2020",     "nombre" => "Raquel Martínez",              "foto" => "Raquel_Martinez.jpg",            "razon" => ""],
+                            ["fecha" => "2021",     "nombre" => "Pablo España",        			"foto" => "PabloEspana.jpg",    			"razon" => ""],
+							["fecha" => "2023",     "nombre" => "Óscar García",        			"foto" => "Oscar_Garcia.jpg",    			"razon" => ""],
+							//["fecha" => "2023",     "nombre" => "Pablo España",        			"foto" => "PabloEspana.jpg",    			"razon" => ""]
 
                         ];
                         
