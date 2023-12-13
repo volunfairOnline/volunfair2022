@@ -382,12 +382,17 @@ escribe_cabecera();
                                 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@volunfair/video/7175896073771224326" data-video-id="7175896073771224326" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@volunfair" href="https://www.tiktok.com/@volunfair?refer=embed">@volunfair</a> Ya os dijimos que se venía una graaan sorpresa🙌🏼🙌🏼 Estábamos deseando enseñaros este proyecto que con tanta ilusión hemos preparado!! Es algo nuevo e innovador lleno de magia!🪄🪄🪄 Con esto os explicamos el verdadero significado de ✨VOLUNFAIR✨ Ante todo queremos dar las gracias al pedazo de equipo que ha hecho este sueño realidad 🤟🏼🎶SOIS UNOS CRACKS🤟🏼🎶 Como podéis ver Manolo está tan entusiasmado como nosotros🤩 Esperamos que os guste tanto que no podáis parar de escucharla hasta febrero!!! 🗓️🗓️🗓️ <a title="volunfair" target="_blank" href="https://www.tiktok.com/tag/volunfair?refer=embed">#volunfair</a>  <a title="voluntariado" target="_blank" href="https://www.tiktok.com/tag/voluntariado?refer=embed">#voluntariado</a>  <a title="nuevacancion" target="_blank" href="https://www.tiktok.com/tag/nuevacancion?refer=embed">#nuevacancion</a> <a target="_blank" title="♬ sonido original - volunfair" href="https://www.tiktok.com/music/sonido-original-7175896120824253190?refer=embed">♬ sonido original - volunfair</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>                                </div>  
 
                                 
-                            </div>
+                            </div> -->
                         </div>
                     </div>
-                </div>-->
-            </div> 
+                </div>
+
+            </div>
             <?php   
+            
+           
+            
+
             // --- Matriz con los miembros del equipo (no poner coma tras cada último corchete porque da error)
             // --- Guardar la foto en assets/base/img/volunfair/staff2/
             $equipazo = [
