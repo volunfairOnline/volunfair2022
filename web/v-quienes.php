@@ -500,7 +500,7 @@ escribe_cabecera();
                     ],
 
                     "Recursos Humanos" => [
-                        ['nombre' => 'José Vives',				        'foto' => 'rrhhjose'],
+                        ['nombre' => 'José Vives',				        'foto' => 'rrhhjosevives'],
                         ['nombre' => 'Victoria Sarabia',			    'foto' => 'rrhhvictoriasarabia'],
                         ['nombre' => 'Carmen González-Aller',			'foto' => 'rrhhcarmengonzalezaller'],
                         ['nombre' => 'Íñigo Arreytunandia',		        'foto' => 'rrhhinigoarreytunandia'],
