@@ -222,16 +222,17 @@ escribe_cabecera();
 
                                 
                             </div>
-                            <!-- 
+                            
                             <div class="col-md-6">
                                 <div class="c-contact">
                                     <div class="c-content-title-1">
-                                        <h3 class="c-font-uppercase c-font-bold"> #déjatesorprender</h3>
+                                        <h3 class="c-font-uppercase c-font-bold"> #puentenpie</h3>
                                         <div class="c-line-left"></div>
                                         <p class="c-font-lowercase">TORNEO DE PÁDEL <br>
-                                        </br>En VOLUNFAIR no solo movemos el corazón... también las piernas! Pudimos disfrutar un día entero haciendo deporte juntos,
-                                        animándonos unos a otros, compartiendo aperitivos varios y sacando la mejor versión de pádel que llevamos dentro. Además, 
-                                        nos acompañó el nuevo integrante y mascota de VOLUNFAIR: ¡Manolo!</p>
+                                        </br>Sumérgete en la emoción del torneo de pádel de Volunfair! Recientemente, vivimos una jornada espectacular con partidos emocionantes, buen rollo 
+                                        y premios que coronaron una experiencia maravillosa. La pista se llenó de risas y emoción, demostrando que en Volunfair, la diversión está en cada set. 
+                                        La pasión por el pádel se mezcló con las ganas de seguir creando este  gran grupo y la alegría de disfrutar en cada juego. ¡Estamos listos para seguir 
+                                        construyendo momentos inolvidables juntos!</p>
                                     </div>
                                     <p class="c-font-lowercase">
                                     </p>
@@ -242,29 +243,30 @@ escribe_cabecera();
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel2.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel1.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel4.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel2.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel3.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel3.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel8.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel4.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel7.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel5.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel5.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel6.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel1.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel6.jpeg); min-height: 380px;">
                                         </div>
                                     </div>
-                                        <br>
+                                    <br>
                                         </br>
+                                        <!-- 
                                     <div class="c-contact">
                                         <div class="c-content-title-1">
                                             <h3 class="c-font-uppercase c-font-bold"> </h3>
