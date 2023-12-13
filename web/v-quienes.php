@@ -240,9 +240,6 @@ escribe_cabecera();
                                 <div class="c-content-media-2-slider wow animated fadeInLeft" data-slider="owl">
                                 
                                     <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/padel6.jpeg); min-height: 380px;">
-                                        </div>
-
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel1.jpeg); min-height: 380px;">
                                         </div>
 
@@ -261,7 +258,10 @@ escribe_cabecera();
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel6.jpeg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel6.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel7.jpeg); min-height: 380px;">
+                                        </div>
+
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel8.jpeg); min-height: 380px;">
                                         </div>
                                     </div>
                                     <br>
