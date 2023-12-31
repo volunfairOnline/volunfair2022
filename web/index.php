@@ -85,7 +85,7 @@ escribe_cabecera(1);
                             Creemos que no siempre es necesario hacer grandes cosas, ni cosas súper lejos. Lo importante es hacer. Actualmente es más necesaria que nunca nuestra ayuda.
                             Por ello no nos quedamos quietos, pasivos. Nos levantamos. Actuamos. Porque no hay mejor momento que <b>AHORA</b> para empezar a caminar. <br></br>
 
-                            <b>Ven, tenemos un truco por descubrir</b><br></br>
+                            <b>Vamos, ¡manos a la obra!</b><br></br>
                             
                             Entonces… <b>¿Qué es VOLUNFAIR?</b> <br></br>
                             <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante dos jornadas completas a mediados de febrero. Ahora también tenemos un <b>añadido especial</b>: el formato online.<br></br>
@@ -93,7 +93,7 @@ escribe_cabecera(1);
                             <br></br>
 
                             PRÓXIMAMENTE… <br></br> 
-                            <b>#DéjateSorprender  #LaMagiaDeEntregarse <br>
+                            <b>#Puentenpie  #Construyendojuntos <br>
 
                         
 
