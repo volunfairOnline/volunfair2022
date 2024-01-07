@@ -91,9 +91,10 @@ escribe_cabecera();
                                         <div class="c-right c-line-left "> </div>
                                     </div>
                                     <p class="c-right">
-                                    También conocido como "El padre del héroe del monopatín", Joaquín Echeverría tuvo que decir adiós a su valiente hijo Ignacio tras fallecer en un atentado cuando intentaba defender a una mujer.
-                                    Él mismo nos explicaba que su muerte y las circunstancias en las que se encontraba, le hicieron reflexionar sobre su vida y reforzar su fe: "(...) 
-                                    Estoy seguro de que si él, ahora mismo, pudiese razonar no se arrepentiría de lo que hizo". <br>En VOLUNFAIR nos enorgullece tener entre nosotros a superhéroes como Joaquín, que demuestran ser el palo de tal astilla.
+                                    Hasta ahora Pablo España nos había acompañado en esta aventura llamada Volunfair como ponente, esta vez le invitamos a charlar al salón de nuestra casa. 
+                                    Desde una adolescencia rebelde (como todas) a un padre de familia que nos invita a comprarnos un despertador y nos enseña sus 10 indispensables que ha 
+                                    aprendido a lo largo de su vida que le hubiese gustado saber antes.
+
                                     </p>
                                 </div>
                             </div>
@@ -174,11 +175,10 @@ escribe_cabecera();
                                                 <div class="c-right c-line-left "> </div>
                                             </div>
                                             <p class="c-right">                                            
-                                            Sara tenía toda su vida encaminada... pero un accidente de tráfico a los 25 años, donde perdió sus dos pies, le dio la vuelta a su mundo y a su manera de vivir.
-                                            Durante el tiempo en que estuvo ingresada aprendió tres cosas, con las que en VOLUNFAIR nos quitamos el sombrero: ser humilde, ser paciente, y vivir el aquí y el ahora.
-                                            Con estas ganas de vivir, se preparó durante meses para competir en los Juegos Paralímpicos de Río de Janeiro en la disciplina de atletismo, meses en los cuales le fue diagnosticado un cáncer de tiroides, y más tarde cáncer de piel.
-                                            Sin embargo, esta heroína biónica que vuela más allá de los límites tiene claro su lema de vida: "Prefiero no tener pies y saber a dónde voy, que tenerlos y estar perdida".
-                                            
+                                            Igual os suena su cara de algo... ¡así es! Miguel Ángel salto a la fama de muy pequeño con la famosa serie verano azul. Ahora vive una vida
+                                            alejada de las series y los focos, compartiendo con nosotros sus experiencias en voluntariados desde su juventud. Cuando era estudiante de Teleco,
+                                            se marchó a Panamá de misiones, donde descubrió que el voluntariado no es cambiar el mundo, sino hacer que el otro se sienta querido. Y aunque la 
+                                            experiencia la encantó, y repitió, también le sirvió para descubrir que esa misión no necesita grandes desplazamientos.
                                             </p>
                                         </div>
                                     </div>
@@ -201,10 +201,9 @@ escribe_cabecera();
                                                 </h4>
                                             </div>
                                             <p class="c-right">
-                                            De niño, Guillermo Martínez diseñaba los juguetes que deseaba con el sueño de poder crearlos algún día. 
-                                            De adolescente, fabricaba artilugios con cables, tornillos o tuercas de aparatos. De joven, con 27 años creó el primer brazo impreso en 3D para alguien sin codo.
-                                            Todo empezó con un viaje a Kenia y una idea creativa y soñadora de llevar juguetes, que se transformó en un proyecto de prótesis para personas sin alguna articulación. 
-                                            Finalmente, en 2017 fundó Ayúdame3D, una ONG que hoy reparte gratuitamente estas piezas en más de 55 países. Una gran muestra de que no todos los superhéroes llevan capa, algunos llevan una impresora 3D bajo el brazo.
+                                            «Somos jóvenes normales que queremos cambiar las cosas». Gaspar González Palenzuela es el fundador, junto a unos amigos, de la ONG Asociación Solidaria Universitaria ASU.
+                                            Gaspar nos invitó a disfrutar de la experiencia del voluntariado como lo hacen él y tantos jóvenes en España. Jóvenes dispuestos a ayudar en lo que haga falta y ofrecer 
+                                            su tiempo y su esfuerzo por los demás.
                                             </p>
                                         </div>
                                     </div>
@@ -227,13 +226,13 @@ escribe_cabecera();
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="assets/base/img/volunfair/anteriores/2022/jefes2022.jpeg" alt="María López y José María Seral" title="María López y José María Seral" class="animated wow swing" width="100%" />
+                        <img src="assets/base/img/volunfair/anteriores/2023/jefazos.jpeg" alt="Paula y Jorge" title="Paula y Jorge" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Nuestros jefes: Paula García y Jorge García
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="assets/base/img/volunfair/anteriores/2022/equipo2022.jpeg" alt="Equipo 2022" title="Equipo 2022" class="animated wow swing" width="100%" />
+                        <img src="assets/base/img/volunfair/anteriores/2023/equipazo.jpg" alt="Equipo 2023" title="Equipo 2023" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
                             El equipo VOLUNFAIR 2023
                         </div>
