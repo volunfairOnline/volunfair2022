@@ -93,7 +93,7 @@ escribe_cabecera(1);
                             <br></br>
 
                             PRÓXIMAMENTE… <br></br> 
-                            <b>#Puentenpie  #Construyendojuntos <br>
+                            <b>#PuentEnPie  #ConstruyendoJuntos <br>
 
                         
 
