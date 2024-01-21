@@ -392,7 +392,7 @@ escribe_cabecera(1);
                             </div>
                             <div class="item">
                             	  <a href="https://www.aseguradossolidarios.com/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-asegurados-solidarios.png" title ="Asegurados Solidarios" alt="Asegurados Soldiarios" width="100%" />
+                                    <img src="assets/base/img/volunfair/patrocinadores/logo-asegurados-solidarios-nuevo.png" title ="Asegurados Solidarios" alt="Asegurados Soldiarios" width="100%" />
                                 </a>
                             </div>
                             <!-- <div class="item">
