@@ -493,7 +493,7 @@ escribe_cabecera();
                 "Redes Sociales" => [
                         ['nombre' => 'Meripa',				            'foto' => 'rrssmeripa'],
                         ['nombre' => 'Ana González',			        'foto' => 'rrssanagonzalez'],
-                        //['nombre' => 'Carlos Lanchares',		        'foto' => 'rrsscarloslanchares'],
+                        ['nombre' => 'Carlos Lanchares',		        'foto' => 'rrsscarloslanchares'],
                         // ['nombre' => 'Belén Cabello de los Cobos',   'foto' => 'rrssbelencabello'],
                         ['nombre' => 'Blanca Muñoz',			        'foto' => 'rrssblancamunoz'],
                         ['nombre' => 'Alejandra Valero',		        'foto' => 'rrssalevalero'],
