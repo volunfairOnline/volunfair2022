@@ -369,25 +369,34 @@ escribe_cabecera(1);
                        
                         <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="4" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
                         data-auto-play-hover-pause="false">
-                        
+                            <div class="item">
+                                   <a href="https://www.ferrovial.com/es-es/" target="_blank">
+                                       <img src="assets/base/img/volunfair/patrocinadores/FerrovialLogo.jpg" title ="Ferrovial" alt="Ferrovial"  width="100%" />
+                                   </a>
+                            </div>
+                            <div class="item">
+                                   <a href="https://portal.coiim.es/" target="_blank">
+                                       <img src="assets/base/img/volunfair/patrocinadores/Ingenieros_IndustrialesLogo1" title ="COIIM" alt="COIIM"  width="100%" />
+                                   </a>
+                            </div>
+                            <div class="item">
+                                   <a href="https://www.lexmark.com/es_es.html" target="_blank">
+                                       <img src="assets/base/img/volunfair/patrocinadores/LexmarkLogo" title ="Lexmark" alt="Lexmark"  width="100%" />
+                                   </a>
+                            </div>
+                            <div class="item">
+                                <a href="https://www.upm.es/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/UPMLogo.jpg" title ="UPM" alt="UPM"  width="100%" />
+                                </a>
+                            </div>
                             <div class="item">
                                 <a href="http://www.etsii.upm.es/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logoE.jpg" title ="ETSII Madrid" alt="ETSII Madrid"  width="100%" />
                                 </a>
                             </div>
-                             <div class="item">
-                            	  <a href="https://www.cantabrialabs.es/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo_cantabrialabs.png" title ="Cantabria Labs" alt="Cantabria Labs" style=" padding-top: 5%;" width="100%" />
-                                </a>
-                            </div>
                             <div class="item">
-                            	  <a href="https://ebury.com/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-ebury.png"title ="Ebury" alt="Ebury" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
-                                </a>
-                            </div>
-                            <div class="item">
-                            	  <a href="https://www.talgo.com/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-talgo.png"title ="Talgo" alt="Talgo" style="padding-top: 10%; padding-left: 10%;"  width="140%" />
+                            	<a href="http://www.caritasmadrid.org/categorias/caritas-universitaria" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/logoA.jpg" title ="Cáritas Madrid Universitaria" alt="Cáritas Madrid Universitaria"  style="padding-top: 10%; width="100%" />
                                 </a>
                             </div>
                             <div class="item">
@@ -395,50 +404,14 @@ escribe_cabecera(1);
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-asegurados-solidarios-nuevo.png" title ="Asegurados Solidarios" alt="Asegurados Soldiarios" width="100%" />
                                 </a>
                             </div>
-                            <!-- <div class="item">
-                            	  <a href="https://fundacionaon.es/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-fundacion-aon.png" title ="Fundación AON" alt="Fundación AON" width="100%" />
-                                </a>
-                            </div> -->
                             <div class="item">
-                            	<a href="http://www.caritasmadrid.org/categorias/caritas-universitaria" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logoA.jpg" title ="Cáritas Madrid Universitaria" alt="Cáritas Madrid Universitaria"  style="padding-top: 10%; width="100%" />
-                                </a>
-                            </div>
-                            <!-- <div class="item">
-                            	<a href="https://www.damm.com/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-damm.jpg" title ="Damm" alt="Damm" width="100%" />
-                                </a>
-                            </div> -->
-                            <!-- <div class="item">
-                            	<a href="https://www.redmadre.es/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo_redmadre.png" title ="Red Madre" alt="Red Madre" style=" padding-top: 20%;" width="50%" />
-                                </a>
-                            </div> -->
-                             <div class="item">
-                            	  <a href="https://ebury.com/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/logo-ebury.png"title ="Ebury" alt="Ebury" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
-                                </a>
-                            </div>
-                            <!--div class="item">
                             	  <a href="https://www.weareseekers.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-tribu.png"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
                                 </a>
-                            </div> -->
-                            <div class="item">
-                            	  <a href="https://fundacionlycompany.org/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/fundacionaguayvida.png"title ="Ly Company" alt="Ly Company" style=" padding-left: 10%;"  width="140%" />
-                                </a>
                             </div>
-                            
-                                
-                            <!--<div class="item">
-                            	  <a href="https://www.cbre.es/es-es/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/Logo_CBRE.png"title ="CBRE" alt="CBRE" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
-                                </a>
-                            </div>				
+                            			
                         </div>
-                         -->
+                        
                         <!-- End-->
                     </div>
                     <!-- End-->
