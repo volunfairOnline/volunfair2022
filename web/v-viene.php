@@ -248,10 +248,12 @@ escribe_cabecera();
                     </div>
                     <br/>                               
                  <br />
-             </div>                       
+             </div>   
+             </div>                    
             </div>
             <!-- END: Montse y Javier Cascon -->
 
+            <br> <br /> <br> <br /> <br> <br /> 
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
@@ -288,8 +290,8 @@ escribe_cabecera();
                                             Sinacio y  por su papel como monologuista y cómico.  
                                             Sus primeros pasos desde bien joven le hicieron trabajar cada verano en lo que podía para poder 
                                             disfrutar de los veranos en Marbella. Allí, ejerció de caddy de Golf, vendedor de helados y multitud de profesiones.
-                                             Fue a finales de los 80 cuando montó una agencia de publicidad que le cambió la vida. "La formamos cuatro chavales 
-                                             veinteañeros con mucha ilusión, que caímos en gracia y nos pusimos de moda".                                                                                              
+                                            Fue a finales de los 80 cuando montó una agencia de publicidad que le cambió la vida. Para nosotros su humor es la forma
+                                            de tender puentes entre personas.                                                                                              
                                             </p>
                                             
                                         </div>
@@ -301,37 +303,7 @@ escribe_cabecera();
                             </div>
                             
                             <!-- END: Sinacio-->
-                            <!-- BEGIN: ANACAR -->
-<!-- decomentar cuando se quiera ponentes actuales
-                            <div class="col-md-4">
-                                <div class="col-md-12">
-                                    <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets\base\img\volunfair\Fotos2022\guille.jpeg" width="100%" title="Guillermo Martínez" alt="Guillermo Martínez" />
-                                    </div>
-                                    <br />
-                                    <div class="row wow animated bounceInDown">
-                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
-                                            <div class="c-content-title-3 c-theme-border c-left">
-                                                <div class="c-left c-line-right "> </div>
-                                                <h3 class="c-left c-font-uppercase c-font-bold">Guillermo Martínez</h3>
-                                                <h4 class="c-left c-font-uppercase c-font-bold">
--->
-                                                   <!-- <a href="https://www.instagram.com/fund_anacarolinadm/?hl=es" target="_blank">@fund_anacarolinadm</a>
-                                                </h4> -->
-<!-- decomentar cuando se quiera ponentes actuales
-                                            </div>
-                                            <p class="c-right">
-                                            De niño, Guillermo Martínez diseñaba los juguetes que deseaba con el sueño de poder crearlos algún día. 
-                                            De adolescente, fabricaba artilugios con cables, tornillos o tuercas de aparatos. De joven, con 27 años creó el primer brazo impreso en 3D para alguien sin codo.
-                                            Todo empezó con un viaje a Kenia y una idea creativa y soñadora de llevar juguetes, que se transformó en un proyecto de prótesis para personas sin alguna articulación. 
-                                            Finalmente, en 2017 fundó Ayúdame3D, una ONG que hoy reparte gratuitamente estas piezas en más de 55 países. Una gran muestra de que no todos los superhéroes llevan capa, algunos llevan una impresora 3D bajo el brazo
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
--->
-                            <!-- END:ANACAR -->
+
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <div class="col-md-2">
                             </div>
