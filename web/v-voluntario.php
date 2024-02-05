@@ -19,13 +19,13 @@ escribe_cabecera();
             <!-- BEGIN: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
             <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center imagen-cabecera" style="background-image: url(assets/base/img/volunfair/Fotos2024/Fondos/puente_8.jpg)">
 <
-            <!--<div class="container">
+            <!--div class="container">
 				 
                     <div class="c-page-title c-pull-left">
                     	  <p class="c-font-uppercase c-font-bold c-font-white c-font-25 c-font-slim">Quiénes Somos</p>
                         <h4 class="c-font-white c-font-thin c-opacity-07"> Conócenos mejor </h4>
                     </div>
-                </div>-->
+                </div> -->
                 <!-- en 2019 se puso <div class="c-layout-breadcrumbs-1 c-bgimage c-subtitle c-fonts-uppercase c-fonts-bold c-bg-img-center" style="margin-top: 50px; opacity: 0;">
             </div>-->
             </div>
@@ -153,7 +153,7 @@ escribe_cabecera();
                             </div>
                             <div class="col-m-6">
                                 <div class="c-container c-center">
-                                 <img src="./assets/base/img/volunfair/Fotos2023/equipo/instagram3.png" style="width: 50%;" />
+                                 <img src="./assets/base/img/volunfair/Fotos2024/instagram/manolo1.png" style="width: 50%;" />
                                 </div>
                             </div>
                         </div>
@@ -201,7 +201,7 @@ escribe_cabecera();
                 }
             };
 
-            // --- Función que pone el texto cuando aún no ha habido resultados d ela búsqueda
+            // --- Función que pone el texto cuando aún no ha habido resultados de la búsqueda
             function init() {
                 $("#ongs").html('');
                 $.post("./mysql/v-buscar-ong.php", {valorBusqueda: [,]}, function(mensaje) {

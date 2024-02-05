@@ -194,145 +194,113 @@ escribe_cabecera();
             <!-- END: RIFA -->
 
             <!-- PONENTES ACTUALES-->
-<!-- decomentar cuando se quiera ponentes actuales
             <br /><br />
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase  c-font-bold">Martes 1</h2>   
-                <p class="c-center" >Acto inaugural de VOLUNFAIR 2022 a las <em>12:30</em> en el <em>Salón de Actos</em></p>                      
+                <h2 class="c-center c-font-uppercase  c-font-bold">Jueves 8</h2>   
+                <p class="c-center" >Acto inaugural de VOLUNFAIR 2024 a las <em>13:30</em> en el <em>Salón de Actos</em></p>                      
             </div>
--->
 
-            <!-- BEGIN: Joaquín Echevarría y Álvaro Trigo-->
-<!-- decomentar cuando se quiera ponentes actuales      
+
+            <!-- BEGIN: Montse y Javier Cascón-->  
             <div class="c-content-box c-size-md c-bg-white">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/atardecer-ciudad.jpg">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets/base/img/volunfair/Fotos2024/Fondos/puente2.jpg">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-8">
+                            <div class="col-md-6">
                                 <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
                                     <div class="c-content-title-3 c-theme-border c-right">
-                                        <h3 class="c-right c-font-uppercase c-font-bold">Joaquín Echeverría</h3>
+                                        <h3 class="c-right c-font-uppercase c-font-bold">Montse (Babies Uganda)</h3>
                                         <h4 class="c-right c-font-uppercase c-font-bold">
--->
-                                            <!--<a href="https://www.instagram.com/toninadal_oficial" target="_blank">@toninadal_oficial</a>
-                                        </h4> -->
-<!-- decomentar cuando se quiera ponentes actuales 
                                         <div class="c-right c-line-left "> </div>
                                     </div>
                                     <p class="c-right">
-                                    También conocido como "El padre del héroe del monopatín", Joaquín Echevarría tuvo que decir adiós a su valiente hijo Ignacio tras fallecer en un atentado cuando intentaba defender a una mujer.
-                                    Él mismo explica que su muerte y las circunstancias en las que se encontraba, le han hecho reflexionar sobre su vida y reforzar su fe: "(...) 
-                                    Estoy seguro de que si él, ahora mismo, pudiese razonar no se arrepentiría de lo que hizo". En VOLUNFAIR nos enorgullece tener entre nosotros a superhéroes como Joaquín, que demuestran ser el palo de tal astilla.
+                                    Montse y Maribel dirigen y gestionan la ONG desde España y María lo hace sobre el terreno como coordinadora de proyectos en Uganda.
+                                    Tres mujeres unidas con una lucha en común: formar parte del cambio.También cumplen un papel muy importante nuestros voluntarios que,
+                                     desde España, nos ayudan a seguir. Especialmente nuestro equipo de bodas solidarias que, desde hace años, gestionan este proyecto con
+                                      todo el cariño del mundo.
                                     </p>
+                                    <div class="c-left">
+                                        <img src="assets\base\img\volunfair\Fotos2024\montse.jpeg" width="100%" title="Montse" alt="Montse"/>
+                                        <br /><br />
+                                    </div>
+                                    
                                 </div>
                             </div>
-                            <div class="col-md-4 animated wow fadeInRight">
--->
-
-                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
-                                </div> -->
-<!-- decomentar cuando se quiera ponentes actuales
-                                <img src="assets\base\img\volunfair\Fotos2022\joaquin.jpeg" width="100%" title="Joaquín Echeverría" alt="Joaquín Echeverría"/>
-                                <br /><br />
-                            </div>
-                        </div>
-                    </div>
-                    <br/>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-4 animated wow fadeInLeft">
--->
-
-                                <!--<div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
-                                </div> -->
-<!-- decomentar cuando se quiera ponentes actuales
-                                <img src="assets\base\img\volunfair\Fotos2022\alvaro.jpeg" width="100%" title="Álvaro Trigo" alt="Álvaro Trigo" />
-                            </div>
-                            <div class="col-md-8">
+                            <div class="col-md-6" "c-right">
                                 <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight" style="min-height: 300px;">                                  
                                     <div class="c-content-title-3 c-theme-border c-left">
-                                        <h3 class="c-left c-font-uppercase c-font-bold">Álvaro Trigo</h3>
+                                        <h3 class="c-left c-font-uppercase c-font-bold">Javier Cascón</h3>
                                         <h4 class="c-left c-font-uppercase c-font-bold">
--->
-                                            <!--<a href="https://www.instagram.com/toninadal_oficial" target="_blank">@toninadal_oficial</a>
-                                        </h4> -->
-<!-- decomentar cuando se quiera ponentes actuales
                                         <div class="c-left c-line-right "> </div>
                                     </div>
                                     <p class="c-left">
-                                    Un atleta superviviente. Álvaro, natural de Madrid, con 23 años sufrió un accidente en un incendio que le provocó graves quemaduras en el 63% de su cuerpo.
-                                    Pero esto no fue suficiente para pararle los pies; tan solo un año después pudo correr la maratón de Sevilla, seis meses más tarde cruzó a nado desde Formentera a Ibiza y en 2021 nadó desde las Islas Cíes hasta Vigo con los pies encadenados.
-                                    Y como todo héroe, desde entonces ha elegido ayudar a aquellos que lo necesitan, colaborando con ONGs y fundaciones. Esta es la elección que le ha cambiado la vida por completo.
-                                    
+                                    En 2017, con 18 años, Javier creó la asociación Amaqtedu junto a Elizabeth de la Oliva. Esta organización desarrolla programas de formación artística para personas sin hogar
+                                     con el objetivo de ayudarlos en su reinserción laboral. Han trabajado con más de 500 personas sin hogar durante los últimos 3 años. Con ella han recibido uno de los Premios 
+                                     Startup Programme, el Premio de la Comunidad de Madrid a Jóvenes Creadores y otros premios. Además en 2021 publicó el libro "Amen sin tilde" para financiar la compra de una 
+                                     casa para personas sin hogar en este 2022.
                                     </p>
-                                </div>
+                                    <div class="c-right">
+                                <img src="assets\base\img\volunfair\Fotos2024\javiercascon.jpg" width="100%" title="Javier Cascón" alt="Javier Cascón" />
                             </div>
                         </div>
                     </div>
-                               
-                    <br />
-                </div>
-
-                
-                                    
+                    <br/>                               
+                 <br />
+             </div>                       
             </div>
--->
-            <!-- END: Joaquín Echevarría y Álvaro Trigo-->
-<!-- decomentar cuando se quiera ponentes actuales
+            <!-- END: Montse y Javier Cascon -->
+
+
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 2</h2>   
-                <p class="c-center" >A las <em>12:30</em> en el <em>Salón de Actos</em> podrás conocer a dos superhéroes fascinantes</p>                      
+                <h2 class="c-center c-font-uppercase c-font-bold">Viernes 9</h2>   
+                <p class="c-center" >A las <em>18:30</em> en el <em>Salón de Actos</em> podrás conocer a personas fascinantes</p>                      
             </div>
--->
 
             <!-- BEGIN  -->
-<!-- decomentar cuando se quiera ponentes actuales
             <div class="c-content-box c-size-md">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets/base/img/volunfair/Fotos2022/Fondos/atardecer-ciudad.jpg">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets/base/img/volunfair/Fotos2024/puente2.jpg">
                     <div class="container c-center">
                         <div class="row">
--->
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-<!-- decomentar cuando se quiera ponentes actuales
                             <div class="col-md-2">
                             </div>
--->
                             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <!-- BEGIN: Sara -->
-<!-- decomentar cuando se quiera ponentes actuales
-                            <div class="col-md-4">
+                            <!-- BEGIN: Sinacio -->
+                            <div class="col-md-8">
                                 <div class="col-md-12">
-                                    <div class="row c-center wow animated bounceInUp">
-                                        <img src="assets\base\img\volunfair\Fotos2022\sara.jpeg" width="100%" title="Sara Andrés" alt="Sara Andrés" />
-                                    </div>
                                     <br />
-                                    <div class="row wow animated bounceInDown">
+                                    <div>
                                         <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
                                             <div class="c-content-title-3 c-theme-border c-right">
-                                                <h3 class="c-right c-font-uppercase c-font-bold"> Sara Andrés Barrio</h3>
+                                                <h3 class="c-right c-font-uppercase c-font-bold"> Sinacio</h3>
                                                 <h4 class="c-right c-font-uppercase c-font-bold">
--->
-                                                   <!-- <a href="https://www.instagram.com/losangelesdekenia" target="_blank">@losangelesdekenia</a>
-                                                </h4> -->
-<!-- decomentar cuando se quiera ponentes actuales
                                                 <div class="c-right c-line-left "> </div>
                                             </div>
-                                            <p class="c-right">                                            
-                                            Sara tenía toda su vida encaminada... pero un accidente de tráfico a los 25 años, donde perdió sus dos pies, le dio la vuelta a su mundo y a su manera de vivir.
-                                            Durante el tiempo en que estuvo ingresada aprendió tres cosas, con las que en VOLUNFAIR nos quitamos el sombrero: ser humilde, ser paciente, y vivir el aquí y el ahora.
-                                            Con estas ganas de vivir, se preparó durante meses para competir en los Juegos Paralímpicos de Río de Janeiro en la disciplina de atletismo, meses en los cuales le fue diagnosticado un cáncer de tiroides, y más tarde cáncer de piel.
-                                            Sin embargo, esta heroína biónica que vuela más allá de los límites tiene claro su lema de vida: "Prefiero no tener pies y saber a dónde voy, que tenerlos y estar perdida"
-                                            
-                                            </p>
-                                        </div>
+                                            <div class="col-md-4">
+                                        <img src="assets\base\img\volunfair\Fotos2024\sinacio.jpg" width="100%" title="Sinacio" alt="Sinacio" />
                                     </div>
+                                            <p class="c-right">                                            
+                                            José Ignacio Salmerón Murciano, nacido en Ávila el 8 de agosto de 1965, es un humorista, actor, 
+                                            guionista, presentador, productor español, pero conocido principalmente por su nombre artístico 
+                                            Sinacio y  por su papel como monologuista y cómico.  
+                                            Sus primeros pasos desde bien joven le hicieron trabajar cada verano en lo que podía para poder 
+                                            disfrutar de los veranos en Marbella. Allí, ejerció de caddy de Golf, vendedor de helados y multitud de profesiones.
+                                             Fue a finales de los 80 cuando montó una agencia de publicidad que le cambió la vida. "La formamos cuatro chavales 
+                                             veinteañeros con mucha ilusión, que caímos en gracia y nos pusimos de moda".                                                                                              
+                                            </p>
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                    
                                 </div>
+                                
                             </div>
--->
-                            <!-- END: SARA-->
+                            
+                            <!-- END: Sinacio-->
                             <!-- BEGIN: ANACAR -->
 <!-- decomentar cuando se quiera ponentes actuales
                             <div class="col-md-4">
@@ -365,22 +333,17 @@ escribe_cabecera();
 -->
                             <!-- END:ANACAR -->
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-<!-- decomentar cuando se quiera ponentes actuales
                             <div class="col-md-2">
                             </div>
--->
                             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-<!-- decomentar cuando se quiera ponentes actuales
                            </div>
                     </div>
                 </div>
                     
                 <br /><br/>
             </div>
--->
             <!-- END: KENIA &  ANACAROLINA -->
-
-<!-- decomentar cuando se quiera ponentes actuales            
+     
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Y con la colaboración de:</h2>                    
@@ -388,26 +351,22 @@ escribe_cabecera();
 
             <br />
 
--->    
             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-<!-- decomentar cuando se quiera ponentes actuales
             <div class="col-md-5">
             </div>
--->
 
             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-            <!-- BEGIN: PABLO Y CLARA -->
-<!-- decomentar cuando se quiera ponentes actuales
+            <!-- BEGIN: PABLO  -->
             <div class="row">
                 <div class="col-md-2">
                     <div class="col-md-12">
-                        <div class="row c-center fotos wow animated fadeInLetf">
+                        <div>
                             <img src="assets/base/img/volunfair/participantes/pablo-espana-falda.jpg" width="100%" title="Pablo España" alt="Pablo España" />
                         </div>
                         <div class="row c-content-media-1 wow animated fadeInRight">
                             <div class="c-center">
                                 <h3 class="c-font-uppercase c-font-bold">Pablo España</h3>
-                                <div>Speaker de VOLUNFAIR 2022</div>
+                                <div>Speaker de VOLUNFAIR 2024</div>
                             </div>
                         </div>
                         <br />
@@ -415,13 +374,10 @@ escribe_cabecera();
                 </div>
                 
             </div>
-            -->
-            <!-- END: PABLO Y CLARA -->
+            <!-- END: PABLO  -->
             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-        <!-- decomentar cuando se quiera ponentes actuales
             <div class="col-md-4">
             </div>
-            -->
 
             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
 

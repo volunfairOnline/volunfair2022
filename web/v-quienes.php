@@ -301,9 +301,10 @@ escribe_cabecera();
                                
                                     </div>
                                 </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
+            
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="c-content-feedback-1 c-option-1">
@@ -313,9 +314,9 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"> </h3>
                                         <p class="c-font-lowercase">RECOGIDA DE ALIMENTOS <br>
-                                        </br> El 13, 14 y 15 de diciembre estuvimos en boca de todos y no hubo persona en industriales que no se percatase de nuestra presencia en la uni.
-                                            Recogimos alimentos, material de higiene, cosas para bebés y generosas transeferencias con las que pudimos triplicar nuestra recogida. Aquí 
-                                            nos volvimos a dar cuenta de que VOLUNFAIR no solo es una feria de dos días; VOLUNFAIR es la magia de entregarse día tras día.</p>
+                                        </br> Los días 11 y 12 de diciembre nos lanzamos de cabeza a recoger alimentos con el equipo de Volunfair: comida, productos de higiene, 
+                                        cosas para los peques. En esos dos días, nos dimos cuenta de que Volunfair no es solo una feria de voluntariados, es el hecho de ponerse <b>manos a la obra</b>
+                                         y de darlo todo día tras día. La gente se volcó con nosotros y esto es más que una feria, es el poder de hacer algo grande juntos.</p>
                                     </div>
                                     <p class="c-font-lowercase">
                                     </p>
@@ -323,31 +324,27 @@ escribe_cabecera();
                                 <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
                                 
                                     <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida2.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/recogida2.jpg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida3.jpg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/recogida3.jpg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida5.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/recogida5.jpg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida6.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/recogida4.jpg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida4.jpg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/recogida6.jpg); min-height: 380px;">
                                         </div>
 
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida9.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida8.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/recogida1.jpeg); min-height: 380px;">
+                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/recogida1.jpg); min-height: 380px;">
                                         </div>
                                     </div>
                                 </div>
+
+                                <!--
                                 <br>
                                         </br> 
                                 <div class="c-contact">

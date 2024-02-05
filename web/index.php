@@ -88,7 +88,7 @@ escribe_cabecera(1);
                             <b>Vamos, ¡manos a la obra!</b><br></br>
                             
                             Entonces… <b>¿Qué es VOLUNFAIR?</b> <br></br>
-                            <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante dos jornadas completas a mediados de febrero. Ahora también tenemos un <b>añadido especial</b>: el formato online.<br></br>
+                            <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante dos jornadas completas a mediados de febrero.<br></br>
                             
                             <br></br>
 
@@ -407,6 +407,11 @@ escribe_cabecera(1);
                             <div class="item">
                             	  <a href="https://www.weareseekers.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-tribu.png"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
+                                </a>
+                            </div>
+                            <div class="item">
+                                <a href="https://www.dominospizza.es/" target="_blank">
+                                    <img src="assets/base/img/volunfair/patrocinadores/Dominos_Logo.png" title ="Dominos" alt="Dominos"  width="100%" />
                                 </a>
                             </div>
                             			
