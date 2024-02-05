@@ -290,7 +290,7 @@ escribe_cabecera();
                                             Sus primeros pasos desde bien joven le hicieron trabajar cada verano en lo que podía para poder 
                                             disfrutar de los veranos en Marbella. Allí, ejerció de caddy de Golf, vendedor de helados y multitud de profesiones.
                                             Fue a finales de los 80 cuando montó una agencia de publicidad que le cambió la vida. Para nosotros su humor es la forma
-                                            de tender puentes entre personas.                                                                                              
+                                            de tender puentes entre personas, por eso viene a compartirlo con nosotros en VOLUNFAIR.                                                                                              
                                             </p>
                                             
                                         </div>
