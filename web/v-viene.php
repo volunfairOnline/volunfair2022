@@ -285,9 +285,8 @@ escribe_cabecera();
                                         <img src="assets\base\img\volunfair\Fotos2024\sinacio.jpg" width="100%" title="Sinacio" alt="Sinacio" />
                                     </div>
                                             <p class="c-right">                                            
-                                            José Ignacio Salmerón Murciano, nacido en Ávila el 8 de agosto de 1965, es un humorista, actor, 
-                                            guionista, presentador, productor español, pero conocido principalmente por su nombre artístico 
-                                            Sinacio y  por su papel como monologuista y cómico.  
+                                            José Ignacio Salmerón Murciano es un humorista, actor, guionista, presentador, productor español, 
+                                            pero conocido principalmente por su nombre artístico Sinacio y  por su papel como monologuista y cómico.  
                                             Sus primeros pasos desde bien joven le hicieron trabajar cada verano en lo que podía para poder 
                                             disfrutar de los veranos en Marbella. Allí, ejerció de caddy de Golf, vendedor de helados y multitud de profesiones.
                                             Fue a finales de los 80 cuando montó una agencia de publicidad que le cambió la vida. Para nosotros su humor es la forma
