@@ -83,7 +83,7 @@ escribe_cabecera();
                             </div>
                             <div class="col-m-6">
                                 <div class="c-container c-center">
-                                 <img src="./assets/base/img/volunfair/Fotos2023/equipo/instagram3.png" style="width: 50%;" />
+                                 <img src="./assets/base/img/volunfair/Fotos2024/instagram/manolo1.jpg" style="width: 50%;" />
                                 </div>
                 
                             </div>

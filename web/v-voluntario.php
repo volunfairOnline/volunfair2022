@@ -31,6 +31,7 @@ escribe_cabecera();
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
             
+
             <!-- BEGIN: PAGE CONTENT -->
           
              <!-- BEGIN: CONTENT/TABS/TAB-1 -->
@@ -42,7 +43,7 @@ escribe_cabecera();
                                 <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30"> PARTICIPANTES</h3>
                                 <div class="c-line-center c-theme-bg"></div>
                                 <p class="c-font-center c-font-bold c-font-uppercase c-margin-b-30">¡Selecciona tus intereses y encuentra tus entidades sociales más afines!</p>
-                            </div>
+                            </div>             
                         </div>
                     </div>
                 </div>
@@ -61,15 +62,13 @@ escribe_cabecera();
                                 <form class="formulario" method="post">
                                     <!-- BEGIN: LUGARES DE VOLUNTARIADO -->
                                     <div class="col-md-6 c-font-center c-font-bold c-font-uppercase c-margin-b-30">
-                                        
                                         <div class="checkbox">
                                             <p>¿A qué lugar te gustaría ir?</p>
                                             
                                             <?php
-                                                // --- Abrir la base de datos con usuario visitante
+                                                    // --- Abrir la base de datos con usuario visitante
                                                 $sql = Abrir_base();
                                                 $result = $sql->Select(" SELECT `id_voluntariado`, `pais_lugar` FROM `lugar`");
-                                                
                                                 // --- Mostrar por pantalla el listado de posibles destinos
                                                 if($result === false){
                                                     throw new Exception('No se ha podido realizar la consulta.');
@@ -119,15 +118,10 @@ escribe_cabecera();
                             <!-- END: RESULTADOS DE LA BÚSQUEDA -->
                         
                         </div>
-                    </div>
-                    
-
-                    
-                    
-                    
+                    </div>                    
                 </div>
+
                 <div class="c-container">
-                  
                     <div class="row">
                         <div class="container">
                             <div class="col-md-6">
@@ -153,7 +147,7 @@ escribe_cabecera();
                             </div>
                             <div class="col-m-6">
                                 <div class="c-container c-center">
-                                 <img src="./assets/base/img/volunfair/Fotos2024/instagram/manolo1.png" style="width: 50%;" />
+                                 <img src="./assets/base/img/volunfair/Fotos2024/instagram/manolo1.jpg" style="width: 50%;" />
                                 </div>
                             </div>
                         </div>

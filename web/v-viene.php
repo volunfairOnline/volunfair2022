@@ -261,9 +261,9 @@ escribe_cabecera();
                 <p class="c-center" >A las <em>18:30</em> en el <em>Salón de Actos</em> podrás conocer a personas fascinantes</p>                      
             </div>
 
-            <!-- BEGIN  -->
+            <!-- BEGIN: Sinacio y Marta Barroso  -->
             <div class="c-content-box c-size-md">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets/base/img/volunfair/Fotos2024/puente2.jpg">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets/base/img/volunfair/Fotos2024/Fondos/puente2.jpg">
                     <div class="container c-center">
                         <div class="row">
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
@@ -303,6 +303,40 @@ escribe_cabecera();
                             
                             <!-- END: Sinacio-->
 
+                            <br /><br/><br /><br/><br /><br/>                            
+
+                            <!-- BEGIN: Marta Barroso -->
+                            <div class="col-md-8">
+                                <div class="col-md-12">
+                                    <br />
+                                    <div>
+                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
+                                            <div class="c-content-title-3 c-theme-border c-right">
+                                                <h3 class="c-right c-font-uppercase c-font-bold"> Marta Barroso</h3>
+                                                <h4 class="c-right c-font-uppercase c-font-bold">
+                                                <div class="c-right c-line-left "> </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                        <img src="assets\base\img\volunfair\Fotos2024\martabarroso.jpg" width="100%" title="Marta Barroso" alt="Marta Barroso" />
+                                    </div>
+                                            <p class="c-right">                                            
+                                            Marta Barroso es una periodista comprometida con la verdad y la justicia social. Con una amplia experiencia en el campo 
+                                            del periodismo, Marta se destaca por su incansable búsqueda de la verdad y su dedicación a informar con integridad y precisión.
+                                            Además de su labor periodística, Marta es conocida por su activismo en causas sociales. Ha participado activamente en eventos
+                                             benéficos, campañas de concienciación y acciones solidarias, demostrando su compromiso con mejorar la sociedad y apoyar a quienes
+                                              más lo necesitan.                                                                                         
+                                            </p>
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- END: Marta Barroso-->
+
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <div class="col-md-2">
                             </div>
@@ -313,7 +347,7 @@ escribe_cabecera();
                     
                 <br /><br/>
             </div>
-            <!-- END: KENIA &  ANACAROLINA -->
+            <!-- END: Sinacio y Marta Barroso -->
      
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
