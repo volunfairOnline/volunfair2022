@@ -81,8 +81,8 @@ if ($nfilas_pagina == 0) {
 }
 
 // --- Chapuza para las imágenes: se coge una aleatoria de este directorio
-$matrizImagenes = scandir('./assets/base/img/volunfair/Fotos2023/Fondos');
-$imagen = 'Fotos2023/Fondos/'.$matrizImagenes[random_int(2, sizeof($matrizImagenes))];
+$matrizImagenes = scandir('./assets/base/img/volunfair/Fotos2024/Fondos');
+$imagen = 'Fotos2024/Fondos/'.$matrizImagenes[random_int(2, sizeof($matrizImagenes))];
 
 // --- Escribimos las cabeceras
 escribe_cabecera();
