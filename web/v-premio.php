@@ -101,7 +101,7 @@ escribe_cabecera();
                             ["fecha" => "2021",     "nombre" => "Los Ángeles de Kenia",     "foto" => "LosAngelesDeKenia.jpg",    	"razon" => ""],
 							["fecha" => "2022",     "nombre" => "Joaquín Echevarría",     	"foto" => "JoaquinEchevarria.jpg",    	"razon" => ""],
 							["fecha" => "2022",     "nombre" => "Álvaro Trigo",     		"foto" => "AlvaroTrigo.jpg",    		"razon" => ""],
-							["fecha" => "2023",     "nombre" => "Pablo España",     		"foto" => "PabloEspana.jpg",    		"razon" => ""]					
+							["fecha" => "2023",     "nombre" => "Pablo España",     		"foto" => "PabloEspana.jpg",    		"razon" => ""]				
 						];
 						
 						// --- Función que escribe los premiados con formato
@@ -127,6 +127,7 @@ escribe_cabecera();
                             ["fecha" => "2020",     "nombre" => "Raquel Martínez",              "foto" => "Raquel_Martinez.jpg",            "razon" => ""],
                             ["fecha" => "2021",     "nombre" => "Pablo España",        			"foto" => "PabloEspana.jpg",    			"razon" => ""],
 							["fecha" => "2023",     "nombre" => "Óscar García",        			"foto" => "Oscar_Garcia.jpg",    			"razon" => ""],
+							["fecha" => "2023",     "nombre" => "Paco",     					"foto" => "Paco.jpg",    					"razon" => ""],	
 							//["fecha" => "2023",     "nombre" => "Pablo España",        			"foto" => "PabloEspana.jpg",    			"razon" => ""]
 
                         ];
