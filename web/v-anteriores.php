@@ -94,7 +94,7 @@ escribe_cabecera();
 
                     <div class="tl-content">
                         Primera edición de volunfair <br />
-                        <strong>Jefes:</strong> Pilar Aldama y Daniel Alfaro
+                        <strong>Jefes:</strong> Diego Lavín y Daniel Alfaro
                     </div>
                 </div>
 
