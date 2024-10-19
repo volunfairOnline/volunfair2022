@@ -71,7 +71,7 @@ escribe_cabecera(1);
                     <div class="c-content-title-1">
                         <h1 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR </h1>
                         <h2 class="c-center  c-font-bold">Feria universitaria de voluntariado en Madrid</h2>
-                        <h3 class="c-center c-font-uppercase c-font-bold">Próximos 8 y 9 de febrero de 2024</h3>
+                        <h3 class="c-center c-font-uppercase c-font-bold">Próximos 8 y 9 de febrero de 2025</h3>
                             
                     </div>
 
