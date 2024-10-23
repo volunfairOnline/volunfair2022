@@ -4374,7 +4374,7 @@ h1 {
   clear: both; }
 
 .c-layout-header .c-topbar-dark {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  border-bottom: 0px solid rgba(255, 255, 255, 0.15);
   background: none; }
   .c-layout-header .c-topbar-dark .c-top-menu > .c-icons > li > a:not(.btn),
   .c-layout-header .c-topbar-dark .c-top-menu > .c-icons > li > span,
