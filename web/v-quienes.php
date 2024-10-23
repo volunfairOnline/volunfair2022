@@ -476,7 +476,7 @@ escribe_cabecera();
                         ['nombre' => 'Lucía Rosado',				        'foto' => 'webluciarosado'],
                         ['nombre' => 'Andrés Martínez',			    	    'foto' => 'webandresmartinez'],
                         ['nombre' => 'Guillermo Camargo',			        	    'foto' => 'webdanirosado'],
-                        ['nombre' => 'Diego Lavín',			            'foto' => 'webeugeniatapia'],
+                        //['nombre' => 'Diego Lavín',			            'foto' => 'webeugeniatapia'],
                         ['nombre' => 'Carla Rius',					        'foto' => 'webcarlarius'],
                         ['nombre' => 'María Urraca',				        'foto' => 'webmariaurraca'],
                         ['nombre' => 'Nico Lorenzo',		        		'foto' => 'webnicolorenzo'],
