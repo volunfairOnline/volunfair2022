@@ -114,7 +114,7 @@ escribe_cabecera();
                         
                                
                             <div class="col-md-3">
-                                <div class="c-content-media-1 c-bordered transparente" style="min-height: 400px;";> <!--transparencia 0,95-->
+                                <div class="c-content-media-1 c-bordered " style="min-height: 400px;";> <!--transparencia 0,95-->
                                     <div class="c-content-title-1 c-icongrande">
                                         <i class="fas fa-hands-helping"></i>
                                         <h3 class="c-font-uppercase c-font-bold">Virtudes</h3>
