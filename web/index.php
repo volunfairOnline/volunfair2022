@@ -126,7 +126,7 @@ escribe_cabecera(1);
             
                         <p>
                             Nos hemos dado cuenta de que hay muchos universitarios, comprometidos con la realidad social en la que viven, que buscan hacer más por ella pero no encuentran el <b>¿Cómo?</b> O el <b>¿Dónde?</b> <br></br>
-                            En <b>VOLUNFAIR</b> conseguimos dar respuesta a estas dos preguntas creando anualmente un espacio al que acuden <b>más de 50 ONG´s y entidades sociales</b> permitiendo a los jóvenes ponerse en contacto con ellas. <br></br>
+                            En <b>VOLUNFAIR</b> conseguimos dar respuesta a estas dos preguntas creando anualmente un espacio al que acuden <b>más de 60 ONG´s y entidades sociales</b> permitiendo a los jóvenes ponerse en contacto con ellas. <br></br>
                     
                             Creemos que no siempre es necesario hacer grandes cosas, ni cosas súper lejos. Lo importante es hacer. Actualmente es más necesaria que nunca nuestra ayuda.
                             Por ello no nos quedamos quietos, pasivos. Nos levantamos. Actuamos. Porque no hay mejor momento que <b>AHORA</b> para empezar a caminar. <br></br>
@@ -134,7 +134,7 @@ escribe_cabecera(1);
                             <b>Vamos, ¡manos a la obra!</b><br></br>
                             
                             Entonces… <b>¿Qué es VOLUNFAIR?</b> <br></br>
-                            <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante dos jornadas completas a mediados de febrero.<br></br>
+                            <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante tres jornadas completas a mediados de febrero.<br></br>
                             
                             <br></br>
 
