@@ -392,6 +392,7 @@ escribe_cabecera();
 
             // --- Matriz con los miembros del equipo (no poner coma tras cada último corchete porque da error)
             // --- Guardar la foto en assets/base/img/volunfair/staff2/
+            
             $equipazo = [
             
                 "Dirección" => [
@@ -523,12 +524,12 @@ escribe_cabecera();
             // --- Resto de parámetros de la función
             $mostrar_nombres = true;
             $fotosPorFila = 4;
-                
+            
             // --- Función que escribe todas las fotos y nombres de los mimembros del equipo
-            muestra_equipo($equipazo, $fotosPorFila, $mostrar_nombres);
+             // muestra_equipo($equipazo, $fotosPorFila, $mostrar_nombres);
             
             ?>
-
+-->
             <!-- END: PAGE CONTENT --> 
         </div>
         </div>
