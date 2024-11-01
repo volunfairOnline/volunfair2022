@@ -11,7 +11,7 @@ function escribe_menu () {
 		["archivo" => "v-viene", 			"nombre" => "Ed. 2024"],
 		["archivo" => "index", 				"nombre" => "Inicio"],
 		["archivo" => "v-quienes", 			"nombre" => "Equipo"],
-		["archivo" => "v-voluntario", 		"nombre" => "ONGs"],
+		//["archivo" => "v-voluntario", 		"nombre" => "ONGs"],
 		["archivo" => "v-anteriores", 		"nombre" => "Anteriores"],
 		["archivo" => "v-premio", 			"nombre" => "Premio VOLUNFAIR"],
 		["archivo" => "v-contactar", 		"nombre" => "Contacto"],
