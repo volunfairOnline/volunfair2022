@@ -271,7 +271,8 @@ escribe_cabecera(1);
                     <div class="col-md-12 c-content-box c-size-md c-bordered wow animated">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
-                                QUÉ ES VOLUNFAIR
+                                ES MÁS QUE UN VIDEO ... ES VOLUNFAIR 
+                            
                             </h3>
                             <div class="c-line-center c-theme-bg"></div>
                         </div>
@@ -282,11 +283,13 @@ escribe_cabecera(1);
 								<iframe width="530" height="315" src="https://www.youtube.com/embed/XCDD0jHUA-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 							</div>-->
                             <div class="row c-center wow animated fadeInUp">
-                            <iframe width="530" height="315" src="https://www.youtube.com/embed/bXle2TWJOTI?si=Mr1iZPyByQqICqac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-							</div>
+                            <iframe width="650" height="350" src="https://www.youtube.com/embed/X1iWrTtmioo?si=7uDG1eS9KkWL5HFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            </div>
                             <div class="row c-center wow animated fadeInUp">
-                                <iframe width="530" height="315" src="https://www.youtube.com/embed/fLBQWNt3CLM" title="¡Juntos podemos cambiar el mundo!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-							</div>
+                          
+                            <iframe width="650" height="350" src="https://www.youtube.com/embed/bXle2TWJOTI?si=GD8ObyQW6GjK6KaP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            </div>
+                            
                             <br />
                             
                         </div>
@@ -299,19 +302,18 @@ escribe_cabecera(1);
                     <div class="col-md-12 c-content-box c-size-md c-bordered wow animated">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">
-                                QUÉ ES VOLUNFAIR
+                                ES MÁS QUE UN VIDEO ... ES VOLUNFAIR 
                             </h3>
                             <div class="c-line-center c-theme-bg"></div>
                         </div>
 
                         <div class="c-bg-white c-content-media-1 c-bordered">
                             <div class="row c-center wow animated fadeInUp">
-                                <iframe width="350" height="315" src="https://www.youtube.com/embed/_a5-YCQnTu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-								<iframe width="350" height="315" src="https://www.youtube.com/embed/XCDD0jHUA-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-							</div>
+                                <iframe width="650" height="350" src="https://www.youtube.com/embed/X1iWrTtmioo?si=7uDG1eS9KkWL5HFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            </div>
                             <div class="row c-center wow animated fadeInUp">
-                                <iframe width="530" height="315" src="https://www.youtube.com/embed/fLBQWNt3CLM" title="¡Juntos podemos cambiar el mundo!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-							</div>
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/bXle2TWJOTI?si=GD8ObyQW6GjK6KaP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            </div>
                             <br />                  
                         </div>
 
