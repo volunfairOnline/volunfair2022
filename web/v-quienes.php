@@ -173,7 +173,7 @@ escribe_cabecera();
                                         </div>
                                         
                                         <p>
-                                        Y es que VOLUNFAIR tiene ya 9 años... empieza a adquirir personalidad, imagen propia  
+                                        Y es que VOLUNFAIR tiene ya 10 años... empieza a adquirir personalidad, imagen propia  
                                         y a asentar sus objetivos. Pero  continúa  dejándose 
                                         sorprender por cada momento de la vida y <b>viviendo</b> esos momentos <b>con la emoción de un niño</b>. Ya empieza a tener
                                         recuerdos, historia, experiencia, en definitiva un recorrido. Cada vez más gente se sube al tren y ninguno se quiere bajar. 
