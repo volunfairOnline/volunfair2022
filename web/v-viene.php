@@ -54,8 +54,8 @@ escribe_cabecera();
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2024</h3>
                     <div class="c-line-center c-theme-bg"></div>
-                    <p class="c-center" >La novena edición de <b>VOLUNFAIR</b> está a la vuelta de la esquina ¿Te la vas a perder? <br />El jueves 8 y viernes 9 de febrero de <b>11:00 a 20:00</b> podrás conocer a todas las entidades sociales que nos acompañan este año.
-                    <br /> Además, con unos ponentes de mucho nivel, que están deseando compartir un rato con nosotros. ¡Pásate a escucharles!</p>  
+                    <p class="c-center" >La novena edición de <b>VOLUNFAIR</b> fue increíble ¡Gracias! <br />El jueves 8 y viernes 9 de febrero conocimos a todas las entidades sociales que nos acompañaron este año.
+                    <br /> Además, con unos ponentes de mucho nivel, que compartieron un buen rato con nosotros. ¡Vuelve a escucharles!</p>  
 					
 				</div>
                 
@@ -71,9 +71,10 @@ escribe_cabecera();
                                         </div>
                                     </div> 
                                     -->
-
+<
                                     <!-- BEGIN: RESULTADOS DE LA RIFA -->
-                                <div class="c-center col-md-12 container row" id="buscarRifa">
+                            
+                               <!-- <div class="c-center col-md-12 container row" id="buscarRifa">
                                     Introduce tu número para saber si has tenido suerte:
                                     <br /><br />
 
@@ -87,7 +88,7 @@ escribe_cabecera();
                                                 <option value="az">Azul</option>-->
                                                 
                                             </select>
-                                            <input type="button" value="Buscar" onClick="buscar();" >                                       
+                                           <!-- <input type="button" value="Buscar" onClick="buscar();" > -->                                     
                                         </form>
                                     </div>
                                 </div>
@@ -108,6 +109,14 @@ escribe_cabecera();
                     </div>
                 </div>
             <!-- </div> -->
+
+            <div class="c-bg-white c-content-media-1 c-bordered">
+                            <div class="row c-center wow animated fadeInUp">
+                                <iframe width="530" height="315" src="https://www.youtube.com/embed/_a5-YCQnTu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								<iframe width="530" height="315" src="https://www.youtube.com/embed/XCDD0jHUA-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							</div>
+                            
+                        </div>
             <!--- END: TÍTULO -->
 
             <!-- BEGIN: CUENTA ATRÁS -->

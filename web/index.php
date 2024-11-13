@@ -47,7 +47,53 @@ escribe_cabecera(1);
                
     </div>           
 -->
+
+
+                <!-- BEGIN: CUENTA ATRÁS -->
+            <!-- 
+             <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2024/Fondos/pared_ladrillo.jpg">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="c-content-media-1 c-center c-bordered wow animated flash">
+                                    <div class="col-md-12">
+                                        <div class="c-content-title-1">
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2024 será realidad en ... </h3>
+                                        </div>
+                                    </div>
+
+                                    <div id="countdown" class="countdown">
+                                        <div class="countdown-number">
+                                            <span class="days countdown-time"></span>
+                                            <span class="countdown-text">Días</span>
+                                        </div>
+                                        <div class="countdown-number">
+                                            <span class="hours countdown-time"></span>
+                                            <span class="countdown-text">Horas</span>
+                                        </div>
+                                        <div class="countdown-number">
+                                            <span class="minutes countdown-time"></span>
+                                            <span class="countdown-text">Minutos</span>
+                                        </div>
+                                        <div class="countdown-number">
+                                            <span class="seconds countdown-time"></span>
+                                            <span class="countdown-text">Segundos</span>
+                                        </div>
+                                    </div>
+                                    <br /><br />                                
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 
+        -->
+                <!-- 
+                    https://denis-creative.com/jstimer/
+                    https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
+                -->
+                <!-- END: CUENTA ATRÁS -->
+
+
             <!--  Fondos al redimensionar la página -->
                 <div class="solomediano1">
                  <img alt="" src=".\assets\base\img\volunfair\Fotos2024\encabezado_1.jpg" width="100%">
@@ -71,7 +117,7 @@ escribe_cabecera(1);
                     <div class="c-content-title-1">
                         <h1 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR </h1>
                         <h2 class="c-center  c-font-bold">Feria universitaria de voluntariado en Madrid</h2>
-                        <h3 class="c-center c-font-uppercase c-font-bold">Próximos 8 y 9 de febrero de 2025</h3>
+                        <h3 class="c-center c-font-uppercase c-font-bold">Próximos 11, 12 y 13 de febrero de 2025</h3>
                             
                     </div>
 
@@ -80,7 +126,7 @@ escribe_cabecera(1);
             
                         <p>
                             Nos hemos dado cuenta de que hay muchos universitarios, comprometidos con la realidad social en la que viven, que buscan hacer más por ella pero no encuentran el <b>¿Cómo?</b> O el <b>¿Dónde?</b> <br></br>
-                            En <b>VOLUNFAIR</b> conseguimos dar respuesta a estas dos preguntas creando anualmente un espacio al que acuden <b>más de 50 ONG´s y entidades sociales</b> permitiendo a los jóvenes ponerse en contacto con ellas. <br></br>
+                            En <b>VOLUNFAIR</b> conseguimos dar respuesta a estas dos preguntas creando anualmente un espacio al que acuden <b>más de 60 ONG´s y entidades sociales</b> permitiendo a los jóvenes ponerse en contacto con ellas. <br></br>
                     
                             Creemos que no siempre es necesario hacer grandes cosas, ni cosas súper lejos. Lo importante es hacer. Actualmente es más necesaria que nunca nuestra ayuda.
                             Por ello no nos quedamos quietos, pasivos. Nos levantamos. Actuamos. Porque no hay mejor momento que <b>AHORA</b> para empezar a caminar. <br></br>
@@ -88,7 +134,7 @@ escribe_cabecera(1);
                             <b>Vamos, ¡manos a la obra!</b><br></br>
                             
                             Entonces… <b>¿Qué es VOLUNFAIR?</b> <br></br>
-                            <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante dos jornadas completas a mediados de febrero.<br></br>
+                            <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante tres jornadas completas a mediados de febrero.<br></br>
                             
                             <br></br>
 
