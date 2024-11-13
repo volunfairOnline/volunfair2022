@@ -236,6 +236,9 @@ escribe_cabecera(1);
 								<iframe width="530" height="315" src="https://www.youtube.com/embed/XCDD0jHUA-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 							</div>-->
                             <div class="row c-center wow animated fadeInUp">
+                            <iframe width="530" height="315" src="https://www.youtube.com/embed/bXle2TWJOTI?si=Mr1iZPyByQqICqac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+							</div>
+                            <div class="row c-center wow animated fadeInUp">
                                 <iframe width="530" height="315" src="https://www.youtube.com/embed/fLBQWNt3CLM" title="¡Juntos podemos cambiar el mundo!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 							</div>
                             <br />
