@@ -3296,9 +3296,9 @@ h1 {
   .c-layout-header .c-cart-menu .c-cart-menu-title {
     padding: 20px; }
     .c-layout-header .c-cart-menu .c-cart-menu-title > .c-cart-menu-float-l {
-      float: left;
+      float: left;}
     .c-layout-header .c-cart-menu .c-cart-menu-title > .c-cart-menu-float-r {
-      float: right;
+      float: right;}
   .c-layout-header .c-cart-menu .c-cart-menu-items {
     padding: 0;
     max-height: 500px;
@@ -8569,7 +8569,7 @@ h1 {
   .c-content-blog-post-1 .c-panel .c-tags {
     padding: 0;
     margin: 3px 0px 5px 0;
-    float: right;
+    float: right; }
     .c-content-blog-post-1 .c-panel .c-tags > li {
       font-size: 13px;
       text-transform: uppercase;
@@ -8652,7 +8652,7 @@ h1 {
     .c-content-blog-post-card-1 .c-body .c-panel .c-tags {
       padding: 0;
       margin: 3px 0px 5px 0;
-      float: right;
+      float: right; }
       .c-content-blog-post-card-1 .c-body .c-panel .c-tags > li {
         font-size: 13px;
         text-transform: uppercase;
@@ -9865,7 +9865,7 @@ h1 {
     .c-content-tab-3 .nav > li.active > .c-separator {
       visibility: hidden; }
     .c-content-tab-3 .nav > li.active + li > .c-separator {
-      visibility: hidden; }
+      visibility: hidden; } }
 
 .c-content-tab-3 > .c-tab-content {
   padding: 85px 0 60px 0; }
@@ -11014,7 +11014,7 @@ h1 {
         padding-right: 40px; }
       .c-content-login-form .modal-dialog .modal-content .modal-body .c-btn-forgot {
         margin-top: 8px;
-        float: right;
+        float: right; }
       .c-content-login-form .modal-dialog .modal-content .modal-body .c-content-list-adjusted {
         margin-top: 30px; }
       .c-content-login-form .modal-dialog .modal-content .modal-body .c-content-divider {
