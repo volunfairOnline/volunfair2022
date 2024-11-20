@@ -336,7 +336,7 @@ escribe_cabecera();
                                             <h3 class="c-font-uppercase c-font-bold"> </h3>
                                             <p class="c-font-lowercase">PORRA DEL MUNDIAL QATAR 2022 <br>
                                             </br> Manolo acompañó a España en el mundial de Qatar 2022 hasta el último momento, pero tristemente no pudo celebrar la segunda
-                                                estrellita en el escudo español... Aún así, el departamento de Recursos Humanos volvió a liarla dentro del equipazo de VOLUNFAIR 2024
+                                                estrellita en el escudo español... Aún así, el departamento de Recursos Humanos volvió a liarla dentro del equipazo de VOLUNFAIR 2023
                                                 y organizó la mayor porra jamás vista en industriales. </p>
                                         </div>
                                         <p class="c-font-lowercase">
