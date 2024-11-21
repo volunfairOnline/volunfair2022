@@ -1,8 +1,19 @@
 <?php
+<<<<<<< HEAD
 // --- Archivo con las funciones de configuración (º, pie, ...)
 include('../scripts/config.php');
 // --- Escribimos las cabeceras
 escribe_cabecera();
+=======
+
+
+// --- Archivo con las funciones de configuración (º, pie, ...)
+include('../scripts/config.php');
+
+// --- Escribimos las cabeceras
+escribe_cabecera();
+
+>>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 ?>
         <!-- BEGIN: PAGE CONTAINER -->
         <div class="c-layout-page">
@@ -18,6 +29,10 @@ escribe_cabecera();
                 </div>-->
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 			<!-- BEGIN: PAGE CONTENT -->
 			<div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
@@ -27,6 +42,10 @@ escribe_cabecera();
 								<h3 class="c-center c-font-uppercase c-font-bold">Próximos 11, 12 y 13 de febrero de 2025</h3>
 									
 					</div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 					<div class="c-content-media-1 c-bordered wow animated que-es">
 								<!-- para que el texto rebote añadir "bounceIn"--> 
 					
@@ -44,17 +63,36 @@ escribe_cabecera();
 								</p>
 								<p>
 								Aenean aliquam justo sagittis luctus dictum. Vestibulum vitae ante vel metus pretium accumsan. Vestibulum aliquet placerat diam et fringilla. Fusce non velit congue, aliquam nisl sit amet, dignissim purus. Donec fermentum nec neque ut lobortis. Integer vel libero urna. Nunc odio lorem, consequat at arcu nec, pulvinar cursus sem. Donec sem mauris, faucibus quis dapibus in, ultrices id arcu. Donec quis purus nec turpis sodales rhoncus et non lorem. Suspendisse ultrices metus turpis, nec dictum nisl luctus eget. Cras ac laoreet purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla venenatis sit amet metus ut maximus. Mauris a velit ac nisi efficitur scelerisque eu eget nisi. Sed sed risus sed tortor gravida sagittis. Phasellus lorem nibh, hendrerit nec elit et, viverra fermentum diam.
+<<<<<<< HEAD
 								
 								</p> 
+=======
+
+								
+
+								</p> 
+
+>>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 					</div>
 				</div>
 			</div>
 					<br/>
+<<<<<<< HEAD
 					<br /><br />
 					<div class="row">
 						
 						<div class="container">
 							<div class="c-content-media-1 c-bordered wow animated fadeInDown clearfix">
+=======
+
+					<br /><br />
+
+					<div class="row">
+						
+
+						<div class="container">
+							<div class="c-content-media-1 c-bordered wow animated fadeInDown">
+>>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 								<div class="col-md-12">
 									<div class="c-content-title-1">
 										<h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30" id="rrss">VOLUNFAIR en Redes</h3>
@@ -66,7 +104,13 @@ escribe_cabecera();
 											¡Toda ayuda es bien recibida! Nos haces un gran favor siguiendo a VOLUNFAIR en 
 											nuestras redes sociales y dándolo a conocer a amigos o familia:
 											<br /><br />
+<<<<<<< HEAD
 											<div class="panel-group text-center">
+=======
+
+											<div class="panel-group text-center">
+
+>>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 												<div class="panel col-sm-6">
 													<a href="https://www.facebook.com/volunfair" target="blank"><i class="icon-social-facebook c-icongrande"></i></a>
 														<div class="card-body">
@@ -74,6 +118,10 @@ escribe_cabecera();
 															Únete en Facebook
 														</div>
 												</div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 												<div class="panel col-sm-6">
 													<a href="https://twitter.com/volunfair" target="blank"><i class="icon-social-twitter c-icongrande"></i></a>
 														<div class="card-body">
@@ -81,6 +129,10 @@ escribe_cabecera();
 															Síguenos en Twitter 
 														</div>
 												</div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 												<div class="panel col-sm-6">
 													<a href="https://www.instagram.com/volunfair/" target="blank"><i class="fab fa-instagram c-icongrande"></i></a>
 														<div class="card-body">
@@ -88,6 +140,10 @@ escribe_cabecera();
 															Síguenos en Instagram
 														</div>
 												</div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 												<div class="panel col-sm-6">
 													<a href="https://es.linkedin.com/company/volunfair" target="blank"><i class="fab fa-linkedin c-icongrande"></i></a>
 														<div class="card-body">
@@ -95,8 +151,15 @@ escribe_cabecera();
 															Contáctanos en LinkedIn
 														</div>
 												</div>
+<<<<<<< HEAD
 											</div>			
 										</p>
+=======
+
+											</div>			
+										</p>
+
+>>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 												
 									
 							</div>							
@@ -107,7 +170,17 @@ escribe_cabecera();
 				</div>										
 			
 			
+<<<<<<< HEAD
 <?php
 // --- Escribimos el pie de página (el archivo de configuración ya está incluido)
 escribe_pie();
+=======
+
+
+<?php
+
+// --- Escribimos el pie de página (el archivo de configuración ya está incluido)
+escribe_pie();
+
+>>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 ?>
