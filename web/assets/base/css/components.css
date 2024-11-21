@@ -3625,7 +3625,7 @@ h1 {
     .c-layout-header.c-layout-header-2 .c-quick-search > span {
       color: white; }
   .c-page-on-scroll .c-layout-header.c-layout-header-2 {
-    background: rgba(30, 36, 42, 0.82);
+    background: rgb(30 63 97);
     border-bottom: 0;
     box-shadow: none; }
     .c-page-on-scroll .c-layout-header.c-layout-header-2 .c-navbar .c-mega-menu > .nav.navbar-nav > li > .c-btn-icon,

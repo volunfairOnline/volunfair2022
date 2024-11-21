@@ -1,10 +1,11 @@
 <?php
-// --- AHora lo borramos
 
+$base_url = '/web/assets/';
+$base_url_menu = '/web/';
 
 // --- Escribe el menú principal
 function escribe_menu () {
-	
+	global $base_url_menu;
 	// --- En la siguiente matriz ponemos el nombre del archivo y el nombre que queremos que aparezca en el menú superior.
 	// --- NO PONER COMA TRAS LA ÚLTIMA FILA
 	$menu = [
@@ -25,7 +26,7 @@ function escribe_menu () {
 			// --- Escribimos cada elemento de la matriz
 			foreach ($menu as $item) {
 				echo '<li class="c-menu-type-classic">'."\n";
-					echo '<a href="'.$item['archivo'].'" class="c-link dropdown-toggle no-blue">'.$item['nombre'].'</a>'."\n";
+					echo '<a href="' . $base_url_menu . $item['archivo'] . '.php" class="c-link dropdown-toggle no-blue">' . $item['nombre'] . '</a>' . "\n";
 				echo '</li>'."\n";
 			}
 		
@@ -51,7 +52,7 @@ function auto_version($file) {
 
 // --- Cabecera de las páginas
 function escribe_cabecera ($es_index = 0) {
-	
+	global $base_url;
 	echo '<!DOCTYPE html>'."\n";
 
 	echo '<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->'."\n";
@@ -76,43 +77,43 @@ function escribe_cabecera ($es_index = 0) {
 			// --- Estilos obligatorios
 			echo '<!-- BEGIN GLOBAL MANDATORY STYLES -->'."\n";
 			echo '<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&amp;subset=all" rel="stylesheet" type="text/css">'."\n";
-			echo '<link href="assets/plugins/socicon/socicon.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/socicon/socicon.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css" />'."\n";
 			echo '<link  rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">'."\n";
-			echo '<link href="assets/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/animate/animate.min.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/animate/animate.min.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />'."\n";
 			echo '<!-- END GLOBAL MANDATORY STYLES -->'."\n";
 			
 			// --- Plugins
 			echo '<!-- BEGIN: BASE PLUGINS  -->'."\n";
-			echo '<link href="assets/plugins/revo-slider/css/settings.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/revo-slider/css/layers.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/revo-slider/css/navigation.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/owl-carousel/assets/owl.carousel.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/slider-for-bootstrap/css/slider.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/revo-slider/css/settings.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/revo-slider/css/layers.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/revo-slider/css/navigation.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/owl-carousel/assets/owl.carousel.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/slider-for-bootstrap/css/slider.css" rel="stylesheet" type="text/css" />'."\n";
 			echo '<!-- END: BASE PLUGINS -->'."\n";
 			echo '<!-- BEGIN THEME STYLES -->'."\n";
-			echo '<link href="assets/base/css/plugins.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/base/css/components.css" id="style_components" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/base/css/themes/default.css" rel="stylesheet" id="style_theme" type="text/css" />'."\n";
-			echo '<link href="assets/base/css/custom.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="'.auto_version('assets/base/css/contador.css').'" rel="stylesheet" type="text/css" />'."\n";					// --- Para el contador
-			echo '<link href="'.auto_version('assets/base/css/timeline.css').'" rel="stylesheet" type="text/css" />'."\n"; 					// --- Para el timeline de "Ediciones anteriores"
-			echo '<link href="'.auto_version('assets/base/css/volunfair.css').'" rel="stylesheet" type="text/css" />'."\n"; 				// --- Estilos propios de VOLUNFAIR (para no destruir nada del tema)
+			echo '<link href="'  .  $base_url . 'base/css/plugins.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'base/css/components.css" id="style_components" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'base/css/themes/default.css" rel="stylesheet" id="style_theme" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'base/css/custom.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'.auto_version($base_url . 'base/css/contador.css').'" rel="stylesheet" type="text/css" />'."\n";					// --- Para el contador
+			echo '<link href="'.auto_version($base_url . 'base/css/timeline.css').'" rel="stylesheet" type="text/css" />'."\n"; 					// --- Para el timeline de "Ediciones anteriores"
+			echo '<link href="'.auto_version($base_url . 'base/css/volunfair.css').'" rel="stylesheet" type="text/css" />'."\n"; 				// --- Estilos propios de VOLUNFAIR (para no destruir nada del tema)
 			//echo '<link href="'.auto_version('assets/base/css/o-2021.css').'" rel="stylesheet" type="text/css" />'."\n"; 					// --- Estilos feria online 2021
 			echo '<!-- END THEME STYLES -->'."\n";
 
 			// --- Estilos de página
 			echo '<!-- BEGIN: PAGE STYLES -->'."\n";
-			echo '<link href="assets/plugins/ilightbox/css/ilightbox.css" rel="stylesheet" type="text/css" />'."\n";
+			echo '<link href="'  .  $base_url . 'plugins/ilightbox/css/ilightbox.css" rel="stylesheet" type="text/css" />'."\n";
 			echo '<!-- END: PAGE STYLES -->'."\n";
 			/*if(!$es_index) {*/
 				/* Esto aparece en todas las páginas menos en el index */
 				echo '<!-- BEGIN: PAGE STYLES -->'."\n";
-				echo '<link href="assets/plugins/ilightbox/css/ilightbox.css" rel="stylesheet" type="text/css" />'."\n";
+				echo '<link href="'  .  $base_url . 'plugins/ilightbox/css/ilightbox.css" rel="stylesheet" type="text/css" />'."\n";
 				echo '<!-- END: PAGE STYLES -->'."\n";
 			/*}*/
 			
@@ -131,8 +132,8 @@ function escribe_cabecera ($es_index = 0) {
 			echo '</script>'."\n";
 			
 			// --- JQuery	
-			echo '<script src="assets/plugins/jquery.min.js" type="text/javascript"></script>'."\n";
-			echo '<script src="assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>'."\n";
+			echo '<script src="'  .  $base_url . 'plugins/jquery.min.js" type="text/javascript"></script>'."\n";
+			echo '<script src="'  .  $base_url . 'plugins/jquery-migrate.min.js" type="text/javascript"></script>'."\n";
 
 
 		echo '</head>'."\n";
@@ -184,9 +185,9 @@ function escribe_cabecera ($es_index = 0) {
 							echo '<div class="c-brand c-pull-left">'."\n";
 	 
 							echo '<a href="index" class="c-logo">'."\n";
-								echo '<img src="assets/base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-desktop-logo">'."\n";
-								echo '<img src="assets/base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-desktop-logo-inverse">'."\n";
-								echo '<img src="assets/base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-mobile-logo"> </a>'."\n";
+								echo '<img src="'  .  $base_url . 'base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-desktop-logo">'."\n";
+								echo '<img src="'  .  $base_url . 'base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-desktop-logo-inverse">'."\n";
+								echo '<img src="'  .  $base_url . 'base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-mobile-logo"> </a>'."\n";
 							echo '<button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu">'."\n";
 								echo '<span class="c-line"></span>'."\n";
 								echo '<span class="c-line"></span>'."\n";
@@ -232,7 +233,7 @@ function escribe_cabecera ($es_index = 0) {
 		 $poner_nombres: indicar con 1 o true si queremos que aparezcan los nombres debajo de la foto
 */
 function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
-
+	global $base_url;
 	// --- Configuración del tamaño de columna
 	// --- Se divide 12 (tamaño máximo) entre el número de fotos por fila y se redondea al múltiplo inferior
 	$tam_col = min(12, round(12/$fotosPorFila, 0, PHP_ROUND_HALF_DOWN));
@@ -266,7 +267,7 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 			echo '<!-- '.$departamento[$i].' -->'."\n";
 			echo '<li>'."\n";
 				echo '<a href="#c-tab2-opt1-00'.($i+1).'" data-toggle="tab">'."\n";
-					echo '<img src="assets/base/img/volunfair/staff2/Buton'.($i+1).'.png" alt="'.$departamento[$i].'" class="c-desktop-logo">'."\n";
+					echo '<img src="'  . $base_url . 'base/img/volunfair/staff2/Buton'.($i+1).'.png" alt="'.$departamento[$i].'" class="c-desktop-logo">'."\n";
 				echo '<span class="c-title"> &nbsp; &nbsp; &nbsp;</span>'."\n";
 				echo '</a>'."\n";
 				echo '<div class="c-arrow"></div>'."\n";
@@ -275,7 +276,7 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 
 		// --- Estructura intermedia
 						echo '<div class="c-tab-content">'."\n";
-							echo '<div class="c-bg-img-center1" style="background-image: url(assets/base/img/volunfair/fondos/fondo1.jpg)">'."\n";
+							echo '<div class="c-bg-img-center1" style="background-image: url('  . $base_url . 'base/img/volunfair/fondos/fondo1.jpg)">'."\n";
 								echo '<div class="container">'."\n";
 									echo '<div class="tab-content">'."\n";
 
@@ -304,8 +305,8 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 							echo '<div class="col-md-3 ">'."\n";
 								echo '<div class="imagenes">'."\n";
 									//AQUI LA FOTO
-									echo '<img class="v-visible" src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'1.jpg" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
-									echo '<img class="v-invisible" src="assets/base/img/volunfair/staff2/'.$miembro['foto'].'2.jpg" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
+									echo '<img class="v-visible" src="'  . $base_url . 'base/img/volunfair/staff2/'.$miembro['foto'].'1.jpg" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
+									echo '<img class="v-invisible" src="'  . $base_url . 'base/img/volunfair/staff2/'.$miembro['foto'].'2.jpg" alt="'.$miembro['nombre'].'" width="100%" >'."\n";
 								// --- Si hay que poner los nombres, los ponemos
 								echo $poner_nombres ? $miembro['nombre'] : ''."\n";
 
@@ -361,7 +362,7 @@ function a_romano($integer, $upcase = true) {
 
 // --- Escribe, con el contenido que le digamos, la lista de ponentes de los años anteriores
 function escribe_ponentes ($ponentes) {
-	
+	global $base_url;
 	// --- Cogemos de cada fila del array grande (ponentes) el título (que se corresponde con el año)
 	$years = array_keys ($ponentes);
 	
@@ -382,7 +383,7 @@ function escribe_ponentes ($ponentes) {
 					// --- Los posibles efectos de animaciones se encuentran en http://jackonthe.net/css3animateit/examples/
 					// --- El wow es para que se anime cada elemento al llegar a él y no todos a la vez
 					echo '<div class="col-md-3 wow animated bounceIn">'."\n";	
-						echo '<img src ="./assets/base/img/volunfair/anteriores/'.$ponente["foto"].'" alt="'.$ponente["nombre"].'" title="'.$ponente["nombre"].'" />'."\n";
+						echo '<img src ="./'  . $base_url . 'base/img/volunfair/anteriores/'.$ponente["foto"].'" alt="'.$ponente["nombre"].'" title="'.$ponente["nombre"].'" />'."\n";
 						echo '<br />'."\n";
 						echo $ponente["nombre"]."\n";
 					echo '</div>'."\n";	
@@ -402,13 +403,13 @@ function escribe_ponentes ($ponentes) {
 
 // --- Escribe, con el contenido que le digamos, la lista de galardonados con el Premio VOLUNFAIR
 function escribe_premiados ($galardonado) {
-	
+	global $base_url;
 	echo '<div class="row c-content-media-1 premiados">'."\n";
 	
 		// --- Recorre todas las filas de la matriz. En cada fila hay un premiado distinto
 		for ($i=0; $i<count($galardonado); $i++) {
 			echo '<div class="col-md-4 wow animated bounceIn c-font-center c-font-bold c-font-uppercase">'."\n";
-				echo '<img src ="./assets/base/img/volunfair/anteriores/'.$galardonado[$i]["foto"].'" alt="'.$galardonado[$i]["nombre"].'" title="'.$galardonado[$i]["nombre"].'" />'."\n";
+				echo '<img src ="./'  . $base_url . 'base/img/volunfair/anteriores/'.$galardonado[$i]["foto"].'" alt="'.$galardonado[$i]["nombre"].'" title="'.$galardonado[$i]["nombre"].'" />'."\n";
 				echo '<br />'."\n";
 				echo $galardonado[$i]["fecha"]."\n";
 				echo '<br />'."\n";
@@ -422,7 +423,7 @@ function escribe_premiados ($galardonado) {
 
 // --- Pie de las páginas. Añade scripts adicionales en las páginas con galería
 function escribe_pie($galeria = '', $es_index = false) {
-	
+	global $base_url;
 	    echo '<!-- BEGIN: LAYOUT/FOOTERS/FOOTER-2 -->'."\n";
         echo '<a name="footer"></a>'."\n";
         echo '<footer class="c-layout-footer c-layout-footer-1">'."\n";
@@ -477,63 +478,63 @@ function escribe_pie($galeria = '', $es_index = false) {
         echo '<!-- BEGIN: LAYOUT/BASE/BOTTOM -->'."\n";
         echo '<!-- BEGIN: CORE PLUGINS -->'."\n";
         echo '<!--[if lt IE 9]>'."\n";
-		echo '<script src="../assets/global/plugins/excanvas.min.js"></script>'."\n"; 
+		echo '<script src="../'  . $base_url . 'global/plugins/excanvas.min.js"></script>'."\n"; 
 		echo '![endif]-->'."\n";
-        echo '<script src="assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>'."\n";
-        echo '<script src="assets/plugins/jquery.easing.min.js" type="text/javascript"></script>'."\n";
-        echo '<script src="assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>'."\n";
-        echo '<script src="assets/base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'plugins/jquery.easing.min.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'plugins/reveal-animate/wow.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'base/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>'."\n";
         echo '<!-- END: CORE PLUGINS -->'."\n";
 		echo '<!-- BEGIN: LAYOUT PLUGINS -->'."\n";
 		if($es_index){
-			echo '<script src="assets/plugins/revo-slider/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>'."\n";
-			echo '<script src="assets/plugins/revo-slider/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>'."\n";
-        	echo '<script src="assets/plugins/revo-slider/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>'."\n";
-        	echo '<script src="assets/plugins/revo-slider/js/extensions/revolution.extension.slideanims.min.js" type="text/javascript"></script>'."\n";
-        	echo '<script src="assets/plugins/revo-slider/js/extensions/revolution.extension.layeranimation.min.js" type="text/javascript"></script>'."\n";
-        	echo '<script src="assets/plugins/revo-slider/js/extensions/revolution.extension.navigation.min.js" type="text/javascript"></script>'."\n";
-        	echo '<script src="assets/plugins/revo-slider/js/extensions/revolution.extension.video.min.js" type="text/javascript"></script>'."\n";
-        	echo '<script src="assets/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>'."\n";
-        	echo '<script src="assets/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>'."\n";
-        	echo '<script src="assets/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>'."\n";
-        	echo '<script src="assets/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>'."\n";
-        	echo '<script src="assets/plugins/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>'."\n";
-        	echo '<script src="assets/plugins/smooth-scroll/jquery.smooth-scroll.js" type="text/javascript"></script>'."\n";
-        	echo '<script src="assets/plugins/slider-for-bootstrap/js/bootstrap-slider.js" type="text/javascript"></script>'."\n";
+			echo '<script src="'  . $base_url . 'plugins/revo-slider/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>'."\n";
+			echo '<script src="'  . $base_url . 'plugins/revo-slider/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>'."\n";
+        	echo '<script src="'  . $base_url . 'plugins/revo-slider/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>'."\n";
+        	echo '<script src="'  . $base_url . 'plugins/revo-slider/js/extensions/revolution.extension.slideanims.min.js" type="text/javascript"></script>'."\n";
+        	echo '<script src="'  . $base_url . 'plugins/revo-slider/js/extensions/revolution.extension.layeranimation.min.js" type="text/javascript"></script>'."\n";
+        	echo '<script src="'  . $base_url . 'plugins/revo-slider/js/extensions/revolution.extension.navigation.min.js" type="text/javascript"></script>'."\n";
+        	echo '<script src="'  . $base_url . 'plugins/revo-slider/js/extensions/revolution.extension.video.min.js" type="text/javascript"></script>'."\n";
+        	echo '<script src="'  . $base_url . 'plugins/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>'."\n";
+        	echo '<script src="'  . $base_url . 'plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>'."\n";
+        	echo '<script src="'  . $base_url . 'plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>'."\n";
+        	echo '<script src="'  . $base_url . 'plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>'."\n";
+        	echo '<script src="'  . $base_url . 'plugins/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>'."\n";
+        	echo '<script src="'  . $base_url . 'plugins/smooth-scroll/jquery.smooth-scroll.js" type="text/javascript"></script>'."\n";
+        	echo '<script src="'  . $base_url . 'plugins/slider-for-bootstrap/js/bootstrap-slider.js" type="text/javascript"></script>'."\n";
 		}
-        echo '<script src="assets/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>'."\n";
-        echo '<script src="assets/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>'."\n";
-        echo '<script src="assets/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>'."\n";
-        echo '<script src="assets/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>'."\n";
-        echo '<script src="assets/plugins/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>'."\n";
-        echo '<script src="assets/plugins/smooth-scroll/jquery.smooth-scroll.js" type="text/javascript"></script>'."\n";
-        echo '<script src="assets/plugins/slider-for-bootstrap/js/bootstrap-slider.js" type="text/javascript"></script>'."\n";
-		echo '<script src="assets/plugins/parallax/parallax.min.js"></script>'."\n";
+        echo '<script src="'  . $base_url . 'plugins/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'plugins/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'plugins/smooth-scroll/jquery.smooth-scroll.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'plugins/slider-for-bootstrap/js/bootstrap-slider.js" type="text/javascript"></script>'."\n";
+		echo '<script src="'  . $base_url . 'plugins/parallax/parallax.min.js"></script>'."\n";
         echo '<!-- END: LAYOUT PLUGINS -->'."\n";
 		
 		// --- Si la página tiene galería de fotos, estos son los scripts/reveal-animate/reveal-animate
 		
 		if ($galeria == 'Y') {
 			echo '<!-- BEGIN: PAGE SCRIPTS (FOR IMAGE GALLERY) -->'."\n";
-			echo '<script src="assets/plugins/isotope/isotope.pkgd.min.js" type="text/javascript"></script'."\n";
-			echo '<script src="assets/plugins/isotope/imagesloaded.pkgd.min.js" type="text/javascript"></script>'."\n";
-			echo '<script src="assets/plugins/isotope/packery-mode.pkgd.min.js" type="text/javascript"></script>'."\n";
-			echo '<script src="assets/plugins/ilightbox/js/jquery.requestAnimationFrame.js" type="text/javascript"></script>'."\n";
-			echo '<script src="assets/plugins/ilightbox/js/jquery.mousewheel.js" type="text/javascript"></script>'."\n";
-			echo '<script src="assets/plugins/ilightbox/js/ilightbox.packed.js" type="text/javascript"></script>'."\n";
-			echo '<script src="assets/base/js/scripts/pages/isotope-gallery.js" type="text/javascript"></script>'."\n";
+			echo '<script src="'  . $base_url . 'plugins/isotope/isotope.pkgd.min.js" type="text/javascript"></script'."\n";
+			echo '<script src="'  . $base_url . 'plugins/isotope/imagesloaded.pkgd.min.js" type="text/javascript"></script>'."\n";
+			echo '<script src="'  . $base_url . 'plugins/isotope/packery-mode.pkgd.min.js" type="text/javascript"></script>'."\n";
+			echo '<script src="'  . $base_url . 'plugins/ilightbox/js/jquery.requestAnimationFrame.js" type="text/javascript"></script>'."\n";
+			echo '<script src="'  . $base_url . 'plugins/ilightbox/js/jquery.mousewheel.js" type="text/javascript"></script>'."\n";
+			echo '<script src="'  . $base_url . 'plugins/ilightbox/js/ilightbox.packed.js" type="text/javascript"></script>'."\n";
+			echo '<script src="'  . $base_url . 'base/js/scripts/pages/isotope-gallery.js" type="text/javascript"></script>'."\n";
 			echo '<!-- END: PAGE SCRIPTS -->'."\n";
 		}
 		
         echo '<!-- BEGIN: THEME SCRIPTS -->'."\n";
-        echo '<script src="assets/base/js/components.js" type="text/javascript"></script>'."\n";
-        echo '<script src="assets/base/js/components-shop.js" type="text/javascript"></script>'."\n";
-        echo '<script src="assets/base/js/app.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'base/js/components.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'base/js/components-shop.js" type="text/javascript"></script>'."\n";
+        echo '<script src="'  . $base_url . 'base/js/app.js" type="text/javascript"></script>'."\n";
 		echo '<!-- END: THEME SCRIPTS -->'."\n";
 
 		// --- Plugins propios
-		echo '<script src="'.auto_version('assets/base/js/contador.js').'"></script>'."\n";
-		//echo '<script src="assets/base/js/counterStats.js"></script>'."\n";
+		echo '<script src="'.auto_version(''  . $base_url . 'base/js/contador.js').'"></script>'."\n";
+		//echo '<script src="'  . $base_url . 'base/js/counterStats.js"></script>'."\n";
         
 	echo '</body>'."\n";
 	if($es_index){
