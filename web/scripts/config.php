@@ -1,22 +1,11 @@
 <?php
-<<<<<<< HEAD
 
 $base_url = '/web/assets/';
-$base_url_menu = '/web/';
+$base_url_main = '/web/';
 
 // --- Escribe el menú principal
 function escribe_menu () {
-	global $base_url_menu;
-=======
-// --- AHora lo borramos
-#$base_url = '/web/assets/';
-#$base_url_menu = '/web/';
-
-// --- Escribe el menú principal
-function escribe_menu () {
-	#global $base_url_menu;
-	
->>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
+	global $base_url_main;
 	// --- En la siguiente matriz ponemos el nombre del archivo y el nombre que queremos que aparezca en el menú superior.
 	// --- NO PONER COMA TRAS LA ÚLTIMA FILA
 	$menu = [
@@ -33,21 +22,18 @@ function escribe_menu () {
 	// --- Barra del menú
 	echo '<nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-theme c-fonts-uppercase c-fonts-bold">'."\n";
 		echo '<ul class="nav navbar-nav c-theme-nav">'."\n";
-
+		
 			// --- Escribimos cada elemento de la matriz
 			foreach ($menu as $item) {
 				echo '<li class="c-menu-type-classic">'."\n";
-<<<<<<< HEAD
-					echo '<a href="' . $base_url_menu . $item['archivo'] . '.php" class="c-link dropdown-toggle no-blue">' . $item['nombre'] . '</a>' . "\n";
-=======
-				echo '<a href="'.$item['archivo'].'" class="c-link dropdown-toggle no-blue">'.$item['nombre'].'</a>'."\n";
->>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
+					echo '<a href="' . $base_url_main . $item['archivo'] . '.php" class="c-link dropdown-toggle no-blue">' . $item['nombre'] . '</a>' . "\n";
 				echo '</li>'."\n";
 			}
-
+		
 		echo '</ul>'."\n";
 	echo '</nav>'."\n";
 }
+
 // --- Asignar al final de los archivos un número de versión para que el navegador lo actualice cuando haya cambios
 // --- https://codeburst.io/auto-versioning-javascript-and-css-files-in-php-892d05c82d58
 function auto_version($file) {
@@ -66,11 +52,7 @@ function auto_version($file) {
 
 // --- Cabecera de las páginas
 function escribe_cabecera ($es_index = 0) {
-<<<<<<< HEAD
 	global $base_url;
-=======
-	#global $base_url;
->>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 	echo '<!DOCTYPE html>'."\n";
 
 	echo '<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->'."\n";
@@ -93,29 +75,18 @@ function escribe_cabecera ($es_index = 0) {
 			echo '<meta content="VOLUNFAIR" name="author" />'."\n";
 			
 			// --- Estilos obligatorios
-			
-			
-			#echo "El valor de \$base_url es: " . $base_url;
-			
 			echo '<!-- BEGIN GLOBAL MANDATORY STYLES -->'."\n";
 			echo '<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&amp;subset=all" rel="stylesheet" type="text/css">'."\n";
-<<<<<<< HEAD
 			echo '<link href="'  .  $base_url . 'plugins/socicon/socicon.css" rel="stylesheet" type="text/css" />'."\n";
 			echo '<link href="'  .  $base_url . 'plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css" />'."\n";
-=======
-			echo '<link href="assets/plugins/socicon/socicon.css" rel="stylesheet" type="text/css" />'."\n";
-				#echo $base_url . "plugins/socicon/socicon.css";
-			echo '<link href="assets/plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css" />'."\n";
->>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 			echo '<link  rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">'."\n";
 			echo '<link href="'  .  $base_url . 'plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />'."\n";
 			echo '<link href="'  .  $base_url . 'plugins/animate/animate.min.css" rel="stylesheet" type="text/css" />'."\n";
 			echo '<link href="'  .  $base_url . 'plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />'."\n";
 			echo '<!-- END GLOBAL MANDATORY STYLES -->'."\n";
-		
+			
 			// --- Plugins
 			echo '<!-- BEGIN: BASE PLUGINS  -->'."\n";
-<<<<<<< HEAD
 			echo '<link href="'  .  $base_url . 'plugins/revo-slider/css/settings.css" rel="stylesheet" type="text/css" />'."\n";
 			echo '<link href="'  .  $base_url . 'plugins/revo-slider/css/layers.css" rel="stylesheet" type="text/css" />'."\n";
 			echo '<link href="'  .  $base_url . 'plugins/revo-slider/css/navigation.css" rel="stylesheet" type="text/css" />'."\n";
@@ -132,25 +103,6 @@ function escribe_cabecera ($es_index = 0) {
 			echo '<link href="'.auto_version($base_url . 'base/css/contador.css').'" rel="stylesheet" type="text/css" />'."\n";					// --- Para el contador
 			echo '<link href="'.auto_version($base_url . 'base/css/timeline.css').'" rel="stylesheet" type="text/css" />'."\n"; 					// --- Para el timeline de "Ediciones anteriores"
 			echo '<link href="'.auto_version($base_url . 'base/css/volunfair.css').'" rel="stylesheet" type="text/css" />'."\n"; 				// --- Estilos propios de VOLUNFAIR (para no destruir nada del tema)
-=======
-			echo '<link href="assets/plugins/revo-slider/css/settings.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/revo-slider/css/layers.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/revo-slider/css/navigation.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/plugins/slider-for-bootstrap/css/slider.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<!-- END: BASE PLUGINS -->'."\n";
-			echo '<!-- BEGIN THEME STYLES -->'."\n";
-			echo '<link href="assets/base/css/plugins.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/base/css/components.css" id="style_components" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="assets/base/css/themes/default.css" rel="stylesheet" id="style_theme" type="text/css" />'."\n";
-			echo '<link href="assets/base/css/custom.css" rel="stylesheet" type="text/css" />'."\n";
-			echo '<link href="'.auto_version('assets/base/css/contador.css').'" rel="stylesheet" type="text/css" />'."\n"; // --- Para el contador
-			echo '<link href="'.auto_version('assets/base/css/timeline.css').'" rel="stylesheet" type="text/css" />'."\n"; // --- Para el timeline de "Ediciones anteriores"
-			echo '<link href="'.auto_version('assets/base/css/volunfair.css').'" rel="stylesheet" type="text/css" />'."\n";
-				// --- Estilos propios de VOLUNFAIR (para no destruir nada del tema)
->>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 			//echo '<link href="'.auto_version('assets/base/css/o-2021.css').'" rel="stylesheet" type="text/css" />'."\n"; 					// --- Estilos feria online 2021
 			echo '<!-- END THEME STYLES -->'."\n";
 
@@ -281,11 +233,7 @@ function escribe_cabecera ($es_index = 0) {
 		 $poner_nombres: indicar con 1 o true si queremos que aparezcan los nombres debajo de la foto
 */
 function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
-<<<<<<< HEAD
 	global $base_url;
-=======
-	#global $base_url;
->>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 	// --- Configuración del tamaño de columna
 	// --- Se divide 12 (tamaño máximo) entre el número de fotos por fila y se redondea al múltiplo inferior
 	$tam_col = min(12, round(12/$fotosPorFila, 0, PHP_ROUND_HALF_DOWN));
@@ -414,11 +362,7 @@ function a_romano($integer, $upcase = true) {
 
 // --- Escribe, con el contenido que le digamos, la lista de ponentes de los años anteriores
 function escribe_ponentes ($ponentes) {
-<<<<<<< HEAD
 	global $base_url;
-=======
-	#global $base_url;
->>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 	// --- Cogemos de cada fila del array grande (ponentes) el título (que se corresponde con el año)
 	$years = array_keys ($ponentes);
 	
@@ -459,11 +403,7 @@ function escribe_ponentes ($ponentes) {
 
 // --- Escribe, con el contenido que le digamos, la lista de galardonados con el Premio VOLUNFAIR
 function escribe_premiados ($galardonado) {
-<<<<<<< HEAD
 	global $base_url;
-=======
-	#global $base_url;
->>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 	echo '<div class="row c-content-media-1 premiados">'."\n";
 	
 		// --- Recorre todas las filas de la matriz. En cada fila hay un premiado distinto
@@ -483,11 +423,7 @@ function escribe_premiados ($galardonado) {
 
 // --- Pie de las páginas. Añade scripts adicionales en las páginas con galería
 function escribe_pie($galeria = '', $es_index = false) {
-<<<<<<< HEAD
 	global $base_url;
-=======
-	#global $base_url;
->>>>>>> c045ba7de3f405f692d5e595a61795b744b2bb58
 	    echo '<!-- BEGIN: LAYOUT/FOOTERS/FOOTER-2 -->'."\n";
         echo '<a name="footer"></a>'."\n";
         echo '<footer class="c-layout-footer c-layout-footer-1">'."\n";
