@@ -2,8 +2,18 @@
 
 //$base_url = '/volunfair2022/web/assets/';
 //$base_url_main = '/volunfair2022/web/';
-$base_url = '../assets/';
-$base_url_main = '../';
+
+if($_SERVER["SERVER_NAME"] == "localhost")
+{
+	$base_url = '/volunfair2022/web/assets/';
+	$base_url_main = '/volunfair2022/web/';
+}
+else
+{
+	$base_url = '../assets/';
+	$base_url_main = '../';
+}
+
 
 // --- Escribe el menú principal
 function escribe_menu () {
