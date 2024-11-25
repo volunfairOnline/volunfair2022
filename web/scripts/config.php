@@ -1,7 +1,7 @@
 <?php
 
-$base_url = 'volunfair2022/web/assets/';
-$base_url_main = 'volunfair2022/web/';
+$base_url = './volunfair2022/web/assets/';
+$base_url_main = './volunfair2022/web/';
 
 // --- Escribe el menú principal
 function escribe_menu () {
