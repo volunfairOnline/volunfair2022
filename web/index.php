@@ -6,6 +6,16 @@ include ('./scripts/config.php');
 // --- Escribimos las cabeceras, indicando en este caso que estamos en index.php
 escribe_cabecera(1);
 
+// Definimos las noticias
+$newsItems = [
+    ['title' => 'Noticia 1', 'img' => $base_url_main . '/assets/base/img/volunfair/foto2.jpg', 'link' => $base_url_main . 'Noticias/Noticia1.php'],
+    ['title' => 'Noticia 2', 'img' => $base_url_main . '/assets/base/img/volunfair/foto4.jpg', 'link' => $base_url_main . 'Noticias/Noticia1.php'],
+    ['title' => 'Noticia 3', 'img' => $base_url_main . '/assets/base/img/volunfair/foto5.jpg', 'link' => $base_url_main . 'Noticias/Noticia1.php']
+];
+
+// Seleccionamos la primera noticia
+$firstNews = $newsItems[0];
+
 ?>
 
 
@@ -109,6 +119,87 @@ escribe_cabecera(1);
             </div>
 
             <!-- END: LAYOUT/SLIDERS/REVO-SLIDER-6 -->
+            <style>
+                /* Estilos CSS */
+                .newsSlider {
+                    position: relative;
+                    width: 100%;
+                    max-width: 800px;
+                    margin: 0 auto; /* Centra el contenedor principal */
+                }
+
+                .slide {
+                    position: relative;
+                    overflow: hidden; /* Oculta el exceso de imagen si no se ajusta al contenedor */
+                    text-align: center;
+                    display: none; /* Ocultamos todas las noticias por defecto */
+                }
+
+                .slide img {
+                    display: block;
+                    margin: 0 auto; /* Centra la imagen horizontalmente */
+                    width: auto; /* Asegura que la imagen mantenga su relación de aspecto */
+                    height: 400px; /* Establece la altura deseada */
+                    object-fit: cover; /* Cubre el contenedor sin deformarse */
+                }
+
+                .overlay {
+                    position: absolute;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    height: 25%; /* Ajusta la altura del overlay */
+                    background: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)); /* Degradado negro a transparente */
+                    color: white; /* Texto blanco */
+                    text-transform: uppercase; /* Texto en mayúsculas */
+                    font-size: 1.5rem; /* Tamaño del texto */
+                    font-weight: bold; /* Texto en negrita */
+                    display: flex; /* Flexbox para centrar el texto */
+                    align-items: center; /* Centra verticalmente el texto */
+                    justify-content: center; /* Centra horizontalmente el texto */
+                    padding: 10px; /* Espaciado interno */
+                }
+            </style>
+
+            <div class="c-content-box c-size-md c-bg-white">
+                <!-- Contenido del carrusel de noticias -->
+                <div class="newsSlider">
+                    <?php foreach ($newsItems as $index => $news): ?>
+                        <div class="slide" id="slide-<?= $index; ?>" style="<?= $index === 0 ? 'display: block;' : ''; ?>">
+                            <a href="<?= $news['link']; ?>">
+                                <img src="<?= $news['img']; ?>" alt="Imagen de la noticia">
+                                <div class="overlay">
+                                    <h2 class="c-center  c-font-bold " style="color: #ffffff;"><?= $news['title']; ?></h2>
+                                </div>
+                            </a>
+                        </div>
+                    <?php endforeach; ?>
+                </div>
+
+                <script>
+                    // JavaScript para cambiar automáticamente las noticias
+                    let currentSlide = 0; // Inicia con la primera noticia
+                    const slides = document.querySelectorAll('.slide'); // Selecciona todas las noticias
+
+                    function showSlide(index) {
+                        // Ocultar todos los slides
+                        slides.forEach(slide => slide.style.display = 'none');
+                        // Mostrar el slide correspondiente
+                        slides[index].style.display = 'block';
+                    }
+
+                    function nextSlide() {
+                        currentSlide = (currentSlide + 1) % slides.length; // Ciclo infinito de noticias
+                        showSlide(currentSlide);
+                    }
+
+                    // Inicializar la primera noticia
+                    showSlide(currentSlide);
+
+                    // Cambiar a la siguiente noticia cada 8 segundos (8000ms)
+                    setInterval(nextSlide, 8000);
+                </script>
+            </div>
 
         
 
