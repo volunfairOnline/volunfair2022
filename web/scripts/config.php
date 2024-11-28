@@ -131,7 +131,7 @@ function escribe_cabecera ($es_index = 0) {
 			
 
 			// --- Google Analytics
-			echo '<link rel="shortcut icon" href="newfavicon.ico?v=2" />'."\n";
+			echo '<link rel="shortcut icon" href="newfavicon.ico" />'."\n";
 			
 			echo '<!-- Global site tag (gtag.js) - Google Analytics -->'."\n";
 			echo '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113152812-1"></script>'."\n";
