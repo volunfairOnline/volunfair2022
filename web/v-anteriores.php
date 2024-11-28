@@ -86,7 +86,7 @@ escribe_cabecera();
                 
                 <div class="tl-item3" onclick="location.href='v-ponentes24';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/avionaco2.jpg")></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2024/grua_puente24.jpg")></div>
                     
                     <div class="tl-year">
                         <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2024</a></p>
@@ -95,7 +95,7 @@ escribe_cabecera();
                     <div class="tl-content">
                         
                         <strong>Lema:</strong> "Manos a la obra" <br />
-                        <strong>Jefes:</strong> Blanca y Diego
+                        <strong>Jefes:</strong> Blanca Verdes y Diego Álvarez
                     </div>
                 </div>
 
