@@ -197,9 +197,9 @@ function escribe_cabecera ($es_index = 0) {
 							echo '<div class="c-brand c-pull-left">'."\n";
 	 
 							echo '<a href="index" class="c-logo">'."\n";
-								echo '<img src="'  .  $base_url . 'base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-desktop-logo">'."\n";
-								echo '<img src="'  .  $base_url . 'base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-desktop-logo-inverse">'."\n";
-								echo '<img src="'  .  $base_url . 'base/img/volunfair/logocompleto_sinfondo.png" alt="Volunfair" class="c-mobile-logo"> </a>'."\n";
+								echo '<img src="'  .  $base_url . 'base/img/volunfair/Volunfair_Blanco.svg" class="c-desktop-logo">'."\n";
+								echo '<img src="'  .  $base_url . 'base/img/volunfair/Volunfair_Blanco.svg" class="c-desktop-logo-inverse">'."\n";
+								echo '<img src="'  .  $base_url . 'base/img/volunfair/Volunfair_Blanco.svg" alt="Volunfair" class="c-mobile-logo"> </a>'."\n";
 							echo '<button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu">'."\n";
 								echo '<span class="c-line"></span>'."\n";
 								echo '<span class="c-line"></span>'."\n";
