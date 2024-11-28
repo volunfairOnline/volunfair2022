@@ -163,7 +163,7 @@ $firstNews = $newsItems[0];
 
             <div class="c-content-box c-size-md c-bg-white">
                 <!-- Contenido del carrusel de noticias -->
-                <div class="newsSlider">
+                <!--<div class="newsSlider">
                     <?php foreach ($newsItems as $index => $news): ?>
                         <div class="slide" id="slide-<?= $index; ?>" style="<?= $index === 0 ? 'display: block;' : ''; ?>">
                             <a href="<?= $news['link']; ?>">
@@ -199,7 +199,7 @@ $firstNews = $newsItems[0];
                     // Cambiar a la siguiente noticia cada 8 segundos (8000ms)
                     setInterval(nextSlide, 8000);
                 </script>
-            </div>
+            </div> -->
 
         
 
