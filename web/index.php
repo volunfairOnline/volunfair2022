@@ -58,20 +58,36 @@ $firstNews = $newsItems[0];
     </div>           
 -->
 
+            <!--  Fondos al redimensionar la página -->
+                <div class="solomediano1">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2024\encabezado_1.jpg" width="100%">
+                </div>
+            
+            
+                <div class="solo_peq">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2024\encabezado_1.jpg" width="100%">
+                </div>
+			
+            <div class="">
+                
+          </div>
 
-                <!-- BEGIN: CUENTA ATRÁS -->
-            <!-- 
-             <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2024/Fondos/pared_ladrillo.jpg">
+            <!-- BEGIN: CUENTA ATRÁS -->
+             <!--
+            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets\base\img\volunfair\Fotos2021\bosque.jpg">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="c-content-media-1 c-center c-bordered wow animated flash">
                                     <div class="col-md-12">
                                         <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2024 será realidad en ... </h3>
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2025 será realidad en ... </h3>
                                         </div>
                                     </div>
-
+                                    
+                                    <div id="deadline-message" class="deadline-message">
+                                    ¡Ya está aquí!
+                                    </div>
                                     <div id="countdown" class="countdown">
                                         <div class="countdown-number">
                                             <span class="days countdown-time"></span>
@@ -90,33 +106,19 @@ $firstNews = $newsItems[0];
                                             <span class="countdown-text">Segundos</span>
                                         </div>
                                     </div>
+                                    
                                     <br /><br />                                
                                 </div>
                             </div>
                         </div>
                     </div>
-                
-        -->
+                </div> -->
                 <!-- 
                     https://denis-creative.com/jstimer/
                     https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
                 -->
-                <!-- END: CUENTA ATRÁS -->
+            <!-- END: CUENTA ATRÁS -->
 
-
-            <!--  Fondos al redimensionar la página -->
-                <div class="solomediano1">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2024\encabezado_1.jpg" width="100%">
-                </div>
-            
-            
-                <div class="solo_peq">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2024\encabezado_1.jpg" width="100%">
-                </div>
-			
-            <div class="">
-                
-            </div>
 
             <!-- END: LAYOUT/SLIDERS/REVO-SLIDER-6 -->
             <style>
