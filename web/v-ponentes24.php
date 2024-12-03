@@ -61,7 +61,7 @@ escribe_cabecera();
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font bold">VOLUNFAIR 2024</h3>
+					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2024</h3>
                     <p class="c-center" > La octava edición <b>VOLUNFAIR</b> en febrero de 2024 no se quedó atrás. La Magia inundaba los pasillos de la escuela desde el minuto 1.
                     acompañados de ponentes como Pablo España, Miguel Ángel Blanco y Gaspar González que no dejaron a ninguno indiferente. El broche final de la feria fue un sorprendente espectáculo de magia
                     de la mano del mago Arreytu. Juntos aprendimos que <b>#LaMagiaDeEntregarse</b> es <b>#DéjateSorprender</b>.
