@@ -268,6 +268,25 @@ escribe_cabecera();
                 
             </div>
             <!-- END: PABLO  -->
+             
+            <!-- BLOQUE EQUIPO Y JEFES -->
+             <!--<div class="c-content-box c-size-md c-bg-white">
+                <div class="container">
+                    <div class="col-md-5">
+                        <img src="assets\base\img\volunfair\Fotos2023/jefazos.jpeg" alt="Paula y Jorge" title="Paula y Jorge" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
+                            Nuestros jefes: Paula García y Jorge García
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <img src="assets/base/img/volunfair/Fotos2023/equipazo.jpeg" alt="Equipo 2023" title="Equipo 2023" class="animated wow swing" width="100%" />
+                        <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
+                            El equipo VOLUNFAIR 2023
+                        </div>
+                    </div>
+                </div>
+            </div>-->
+            <!-- END: BLOQUE EQUIPO Y JEFES -->
 
             <!-- EQUIPO ED ANTERIORES -->
             <div class="c-content-box c-size-md c-bg-white">
@@ -383,7 +402,7 @@ escribe_cabecera();
                 </div>
 
             </div>
-            
+
             <!-- FIN: EQUIPO ED ANTERIORES -->
 
             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->

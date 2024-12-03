@@ -247,6 +247,8 @@ escribe_cabecera();
                 </div>
             </div>
             <!-- END: BLOQUE EQUIPO Y JEFES -->
+
+            
             <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
                 <div class="container">
                     <div class="col-md-12 c-content-box c-size-md c-bordered">
