@@ -12,8 +12,7 @@ website:    http://www.themepunch.com
 
 
 /* BULLETS */
-.gyges.tp-bullets {
-}
+
 .gyges.tp-bullets:before {
 	content:" ";
 	position:absolute;
@@ -58,11 +57,7 @@ website:    http://www.themepunch.com
     endColorstr="#e1e1e1",GradientType=0 ); /* IE6-9 */
 
 }
-.gyges .tp-bullet-image {
-}
-.gyges .tp-bullet-title {
-}
-	
+
 
 /* THUMBS */
 .gyges .tp-thumb { 
@@ -155,7 +150,6 @@ website:    http://www.themepunch.com
   width:60px;
   height:60px; max-height:100%; max-width:100%;
   position:relative;
-  display:inline-block;
   float:left;
 
 }
@@ -196,8 +190,6 @@ website:    http://www.themepunch.com
   background:rgba(0,0,0,0.5); 
 }
 
-.gyges .tp-tab-mask {
-}
 
 /* MEDIA QUERIES */
 @media only screen and (max-width: 960px) {

@@ -41,14 +41,13 @@ website:    http://www.themepunch.com
 
 
 /* BULLETS */
-.persephone.tp-bullets {
-}
+
 .persephone.tp-bullets:before {
 	content:" ";
 	position:absolute;
 	width:100%;
 	height:100%;
-	background:#transparent;
+	background:transparent;
 	padding:10px;
 	margin-left:-10px;margin-top:-10px;
 	box-sizing:content-box;
@@ -65,10 +64,6 @@ website:    http://www.themepunch.com
 .persephone .tp-bullet:hover,
 .persephone .tp-bullet.selected {
 	background:#222;
-}
-.persephone .tp-bullet-image {
-}
-.persephone .tp-bullet-title {
 }
 
 

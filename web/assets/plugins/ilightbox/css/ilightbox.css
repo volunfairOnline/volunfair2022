@@ -27,6 +27,7 @@
 	        user-select: none;
 }
 .ilightbox-overlay, .ilightbox-loader, .ilightbox-loader *, .ilightbox-holder .ilightbox-container .ilightbox-caption, .ilightbox-toolbar, .ilightbox-thumbnails, .ilightbox-thumbnails *, .ilightbox-holder .ilightbox-container .ilightbox-social {
+	transform: translateZ(0);
 	-webkit-transform: translateZ(0);
 	   -moz-transform: translateZ(0);
 }
@@ -142,6 +143,7 @@
 	display: block;
 	position: absolute;
 
+	transform: translateZ(0);
 	-webkit-transform: translateZ(0);
 	   -moz-transform: translateZ(0);
 }
@@ -181,6 +183,7 @@
 	position: fixed;
 	z-index: 100003;
 
+	transform: translateZ(0);
 	-webkit-transform: none;
 	   -moz-transform: none;
 }

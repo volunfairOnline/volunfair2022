@@ -40,8 +40,7 @@ website:    http://www.themepunch.com
 
 
 /* BULLETS */
-.custom.tp-bullets {
-}
+
 .custom.tp-bullets:before {
 	content:" ";
 	position:absolute;
@@ -65,10 +64,8 @@ website:    http://www.themepunch.com
 .custom .tp-bullet.selected {
 	background:rgb(125,125,125);
 }
-.custom .tp-bullet-image {
-}
-.custom .tp-bullet-title {
-}
+
+
 
 
 /* THUMBS */
