@@ -71,6 +71,7 @@ website:    http://www.themepunch.com
  .erinyen.tp-rightarrow .tp-title-wrap { 
    right:0px;
    margin-right:0px;margin-left:0px;
+   transform-origin:100% 50%;
    -webkit-transform-origin:100% 50%;
   border-radius:35px;
   padding-right:20px;
@@ -131,8 +132,7 @@ website:    http://www.themepunch.com
 }
 
 /* BULLETS */
-.erinyen.tp-bullets {
-}
+
 .erinyen.tp-bullets:before {
 	content:" ";
 	position:absolute;
@@ -173,10 +173,6 @@ background: linear-gradient(to bottom,  #e5e5e5 0%,#999999 100%); /* w3c */
 filter: progid:dximagetransform.microsoft.gradient( startcolorstr="#e5e5e5", endcolorstr="#999999",gradienttype=0 ); /* ie6-9 */
   border:1px solid #555;
   width:12px;height:12px;
-}
-.erinyen .tp-bullet-image {
-}
-.erinyen .tp-bullet-title {
 }
 
 
@@ -261,7 +257,7 @@ opacity:1
     font-size:13px;
     font-weight:700;
     text-transform:uppercase;
-    font-family:"Roboto Slab"
+    font-family:"Roboto Slab";
     margin-bottom:5px;
 }
 

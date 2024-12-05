@@ -18,8 +18,7 @@ website:    http://www.themepunch.com
   display:block;
   z-index:100;
 }
-.hebe.tparrows:hover {
-}
+
 .hebe.tparrows:before {
   font-family: "revicons";
   font-size:30px;
@@ -64,6 +63,7 @@ website:    http://www.themepunch.com
 }
  .hebe.tp-rightarrow .tp-title-wrap { 
    right:0px;
+   transform-origin:100% 50%;
    -webkit-transform-origin:100% 50%;
  }
 .hebe.tparrows:hover .tp-title-wrap {
@@ -108,8 +108,7 @@ website:    http://www.themepunch.com
       }
 
 /* BULLETS */
-.hebe.tp-bullets {
-}
+
 .hebe.tp-bullets:before {
   content:" ";
   position:absolute;
@@ -171,8 +170,7 @@ border-radius:6px;
   -webkit-transform: scale(1);
   visibility:visible;
     }
-.hebe .tp-bullet-title {
-}
+
 
 
 /* TABS */
@@ -181,7 +179,7 @@ border-radius:6px;
     font-size:13px;
     font-weight:700;
     text-transform:uppercase;
-    font-family:"Roboto Slab"
+    font-family:"Roboto Slab";
     margin-bottom:5px;
 }
 

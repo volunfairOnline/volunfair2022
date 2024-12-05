@@ -14,6 +14,7 @@ code {
   outline: none !important;
   opacity: 0.5;
   filter: alphaopacity=50;
+  transition: back 0.2s ease-out;
   -webkit-transition: back 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
@@ -21,6 +22,7 @@ code {
   .close:hover {
     opacity: 0.8;
     filter: alphaopacity=80;
+    transition: back 0.2s ease-out;
     -webkit-transition: back 0.2s ease-out;
     -moz-transition: all 0.2s ease-out;
     -o-transition: all 0.2s ease-out;
@@ -186,6 +188,7 @@ label.control-label {
 
 .btn {
   outline: none !important;
+  transition: back 0.2s ease-out;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
@@ -262,7 +265,6 @@ label.control-label {
     height: 56px;
     width: 56px;
     font-size: 32px;
-    vertical-align: middle;
     padding-top: 10px; }
   .btn.c-btn-icon > .c-helper {
     margin: 4px 20px -2px 55px;
@@ -6571,7 +6573,7 @@ label.control-label {
   .tabs-left.nav-tabs > li.active > a:hover
 > li.active > a:focus {
     border-color: #ddd transparent #ddd #ddd;
-    *border-right-color: #ffffff; }
+    border-right-color: #ffffff; }
 
 /* Right tabs */
 .tabs-right.nav-tabs {
@@ -6586,7 +6588,7 @@ label.control-label {
   .tabs-right.nav-tabs > li.active > a:hover
 > li.active > a:focus {
     border-color: #ddd #ddd #ddd transparent;
-    *border-left-color: #ffffff; }
+    border-left-color: #ffffff; }
 
 .tp-banner-container {
   position: relative; }
