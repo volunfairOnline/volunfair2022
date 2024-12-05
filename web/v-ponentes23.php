@@ -51,16 +51,23 @@ escribe_cabecera();
             <br>
                 <div class="col-md-2 wow animated bounceIn">
                     <h2 class="c-right c-font-uppercase c-font-bold">
-                    <a href="v-ponentes22"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2022</a> 
+                    <a href="v-ponentes24"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2024</a> 
                         </h2>
                 </div>
 
+            </div>
+            <div style="text-align:right">
+                <div class="col-md-8 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="v-ponentes22"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2022</a> 
+                        </h2>
+                </div>
             </div>
 
             <!-- BEGIN: TITULO -->
 			<div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font bold">VOLUNFAIR 2023</h3>
+					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2023</h3>
                     <p class="c-center" > La octava edición <b>VOLUNFAIR</b> en febrero de 2024 no se quedó atrás. La Magia inundaba los pasillos de la escuela desde el minuto 1.
                     acompañados de ponentes como Pablo España, Miguel Ángel Blanco y Gaspar González que no dejaron a ninguno indiferente. El broche final de la feria fue un sorprendente espectáculo de magia
                     de la mano del mago Arreytu. Juntos aprendimos que <b>#LaMagiaDeEntregarse</b> es <b>#DéjateSorprender</b>.
@@ -107,35 +114,7 @@ escribe_cabecera();
                             </div>
                         </div>
                     </div>
-                    <br/>
-                    <!-- <div class="container">
-                        <div class="row">
-                            <div class="col-md-4 animated wow fadeInLeft">
-
-                                <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/participantes/adol-essence.jpeg); /*min-height: 300px;*/">
-                                </div>
-                                <img src="assets/base/img/volunfair/anteriores/2022/alvar.jpeg" width="100%" title="Álvaro Trigo" alt="Álvaro Trigo" />
-                            </div>
-                            <div class="col-md-8">
-                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight" style="min-height: 300px;">                                  
-                                    <div class="c-content-title-3 c-theme-border c-left">
-                                        <h3 class="c-left c-font-uppercase c-font-bold">Álvaro Trigo</h3>
-                                        <h4 class="c-left c-font-uppercase c-font-bold">
-                                            <a href="https://www.instagram.com/alvarotrigopuig" target="_blank"><u>@alvarotrigopuig</u></a>
-                                        </h4>
-                                        <div class="c-left c-line-right "> </div>
-                                    </div>
-                                    <p class="c-left">
-                                    Un atleta superviviente. Álvaro, natural de Madrid, con 23 años sufrió un accidente en un incendio que le provocó graves quemaduras en el 63% de su cuerpo.
-                                    Pero esto no fue suficiente para pararle los pies; tan solo un año después pudo correr la maratón de Sevilla, seis meses más tarde cruzó a nado desde Formentera a Ibiza y en 2021 nadó desde las Islas Cíes hasta Vigo con los pies encadenados.
-                                    <br>Y como todo héroe, desde entonces ha elegido ayudar a aquellos que lo necesitan, colaborando con ONGs y fundaciones. Esta es la elección que le ha cambiado la vida por completo.
-                                    
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-                               
+                    <br/>                              
                     <br />
                 </div>
 
@@ -240,6 +219,8 @@ escribe_cabecera();
                 </div>
             </div>
             <!-- END: BLOQUE EQUIPO Y JEFES -->
+
+
             <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/mares/mar13.jpeg">
                 <div class="container">
                     <div class="col-md-12 c-content-box c-size-md c-bordered">

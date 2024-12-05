@@ -13,7 +13,7 @@ h4 {
 	}
 
 	.c-content-media-1 {
-		margin-bottom: 0px;
+		margin-bottom: 10px;
 	}
 }
 
@@ -24,7 +24,7 @@ h4 {
 
 /* Menú de navegación */
 .c-page-on-scroll .c-layout-header.c-layout-header-2 {
-	background: rgba(30, 36, 42, 1);
+	background: rgb(30 63 97);
 }
 
 .c-page-on-scroll.c-layout-header-fixed .c-layout-header {
