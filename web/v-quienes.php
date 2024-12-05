@@ -396,7 +396,7 @@ escribe_cabecera();
             $equipazo = [
             
                 "Dirección" => [
-                        ['nombre' => 'Diego Álvarez',				        'foto' => 'diegoalvarezjefazo'],
+                        ['nombre' => 'Juan Álvarez',				        'foto' => 'diegoalvarezjefazo'],
                         ['nombre' => 'Blanca Verdes',				        'foto' => 'jefazablancaverdes'],
                     ],
                 
