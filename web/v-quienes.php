@@ -324,28 +324,28 @@ escribe_cabecera();
             $equipazo = [
             
                 "Dirección" => [
-                        ['nombre' => 'Juan Álvarez',				        'foto' => 'diegoalvarezjefazo'],
-                        ['nombre' => 'Blanca Verdes',				        'foto' => 'jefazablancaverdes'],
+                        ['nombre' => 'Olivia Alarcón',				        'foto' => 'diegoalvarezjefazo'],
+                        ['nombre' => 'Snatiago Antúnez',				        'foto' => 'jefazablancaverdes'],
                     ],
                 
                 "Comunicación" => [
-                        ['nombre' => 'Olivia Alarcón',			      	    'foto' => 'comoliviaalarcon'],
-                        ['nombre' => 'Javier Baza',     			        'foto' => 'comjavierbaza'],
-                        ['nombre' => 'Casilda Gómez',					    'foto' => 'comcasildagomez'],
-                        ['nombre' => 'Alejandra Gómez',		                'foto' => 'comalejandragomez'],
-                        ['nombre' => 'Enrique Giménez-Arnau',             	'foto' => 'comquiquegimenez'],
-                        //['nombre' => 'María Gómez',				        'foto' => 'commariagomez'],
-                        ['nombre' => 'Yanela Gora',				    	    'foto' => 'comyanelagora'],
-                        ['nombre' => 'Marta Aguado',					    'foto' => 'commartaaguado'],
-                        ['nombre' => 'Nico Montero',	        			'foto' => 'comnicomontero'],
-                        //['nombre' => 'Patricia Rivas',     			    'foto' => 'compatriciarivas'],
-                        ['nombre' => 'Valentín Picón',     			        'foto' => 'comvalentinpicon'],
-                        //['nombre' => 'Lucía Millán',     			        'foto' => 'comluciamillan'],
-                        ['nombre' => 'Irene Gordo',     			        'foto' => 'comirenegordo'],
-                        ['nombre' => 'Martina Huete',     			        'foto' => 'commartinahuete'],
+                        ['nombre' => 'Rodrigo Avilés',			      	    'foto' => 'comoliviaalarcon'],
+                        ['nombre' => 'Juan Ramiro',     			        'foto' => 'comjavierbaza'],
+                        ['nombre' => 'Isabel Nuño-de la Rosa',					    'foto' => 'comcasildagomez'],
+                        ['nombre' => 'Ana Soria',		                'foto' => 'comalejandragomez'],
+                        ['nombre' => 'Nicolás Montero',             	'foto' => 'comquiquegimenez'],
+                        ['nombre' => 'Carlos Iranzo',				        'foto' => 'commariagomez'],
+                        ['nombre' => 'Eduardo García-Atance',				    	    'foto' => 'comyanelagora'],
+                        ['nombre' => 'Pablo Antúnez',					    'foto' => 'commartaaguado'],
+                        ['nombre' => 'Pilar Gonzalez-Aller',	        			'foto' => 'comnicomontero'],
+                        ['nombre' => 'Marta García-Aranda',     			    'foto' => 'compatriciarivas'],
+                        ['nombre' => 'Teresa Montejo',     			        'foto' => 'comvalentinpicon'],
+                        ['nombre' => 'Amérca Díaz-Gurdamino',     			        'foto' => 'comluciamillan'],
+                        ['nombre' => 'Inés Martinez-Fresno',     			        'foto' => 'comirenegordo'],
+                        ['nombre' => 'Marta Ramis',     			        'foto' => 'commartinahuete'],
                     ],
                     
-                "Financiación" => [
+                "Colaboradores" => [
                         ['nombre' => 'Santi Antúnez',				        'foto' => 'finsantiantunez'],
                         ['nombre' => 'Cande Vendrell',		    	        'foto' => 'fincandevendrell'],
                         ['nombre' => 'Gabriel Callejo',			            'foto' => 'fingabricallejo'],
@@ -356,7 +356,7 @@ escribe_cabecera();
                         ['nombre' => 'María Sordo',	                        'foto' => 'finmariasordo'],
                     ],
 
-                "Gestión" => [
+                "Logística" => [
                         ['nombre' => 'Jaime Moral',	    			    'foto' => 'gesjaimemoral'],
                         ['nombre' => 'Juan Ruiz',	    	            'foto' => 'gesjuanruiz'],
                         ['nombre' => 'Carlos Carril',				    'foto' => 'gescarloscarril'],
@@ -454,7 +454,7 @@ escribe_cabecera();
             $fotosPorFila = 4;
             
             // --- Función que escribe todas las fotos y nombres de los mimembros del equipo
-             // muestra_equipo($equipazo, $fotosPorFila, $mostrar_nombres);
+            //muestra_equipo($equipazo, $fotosPorFila, $mostrar_nombres);
             
             ?>
 -->
