@@ -196,9 +196,9 @@ $firstNews = $newsItems[0];
                     padding: 10px; /* Espaciado interno */
                 }
             </style>
-            
-            <!-- <div class="c-content-box c-size-md c-bg-white">
-                <!-- Contenido del carrusel de noticias -->
+
+            <!-- Contenido del carrousel de noticias (oculto) -->
+            <!--<div class="c-content-box c-size-md c-bg-white">
                 <div class="newsSlider">
                     <?php foreach ($newsItems as $index => $news): ?>
                         <div class="slide" id="slide-<?= $index; ?>" style="<?= $index === 0 ? 'display: block;' : ''; ?>">
