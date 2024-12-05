@@ -82,6 +82,31 @@ escribe_cabecera();
 				
 			</div>
 
+            <!-- BEGIN: LÍNEA TEMPORAK -->
+            <section class="timeline">
+                <ol>
+                      <li>
+                          <div>
+                          <time>2014</time>
+                            Some content here
+                         </div>
+                         </li>
+         <!-- more list items here -->
+              <li></li>
+                 </ol>
+
+                 <div class="arrows">
+                      <button class="arrow arrow__prev disabled" disabled>
+                      <img src="arrow_prev.svg" alt="prev timeline arrow">
+                     </button>
+                      <button class="arrow arrow__next">
+                     <img src="arrow_next.svg" alt="next timeline arrow">
+                      </button>
+                       </div>
+             </section>
+
+            <!-- END: LÍNEA TEMPORAL -->
+
             <section id="timeline">
                 
                 <div class="tl-item3" onclick="location.href='v-ponentes24';">
