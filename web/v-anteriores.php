@@ -82,31 +82,68 @@ escribe_cabecera();
 				
 			</div>
 
-            <!-- BEGIN: LÍNEA TEMPORAK -->
-            <section class="timeline">
-                <ol>
-                      <li>
-                          <div>
-                          <time>2014</time>
-                            Some content here
-                         </div>
-                         </li>
-         <!-- more list items here -->
-              <li></li>
-                 </ol>
-
-                 <div class="arrows">
-                      <button class="arrow arrow__prev disabled" disabled>
-                      <img src="arrow_prev.svg" alt="prev timeline arrow">
-                     </button>
-                      <button class="arrow arrow__next">
-                     <img src="arrow_next.svg" alt="next timeline arrow">
-                      </button>
-                       </div>
-             </section>
-
+            
+            <!-- BEGIN: LÍNEA TEMPORAL -->
+<!--
+            <section class="timeline2">
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="./assets/base/img/volunfair/anteriores/2016/equipo-2016.jpg" alt="2016">
+                    </div>
+                </div>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="./assets/base/img/volunfair/anteriores/2017/equipo-2017.jpeg" alt="2017">
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="./assets/base/img/volunfair/anteriores/2018/origen.jpg" alt="2018">
+                    </div>
+                </div>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="./assets/base/img/volunfair/anteriores/2019/equipo-2019.jpg" alt="2019">
+                    </div>
+                </div>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="./assets/base/img/volunfair/anteriores/2020/equipo2020.jpg" alt="2020">
+                    </div>
+                </div>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="./assets/base/img/volunfair/anteriores/2021/EQUIPAZO.JPG" alt="2021">
+                    </div>
+                </div>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="assets/base/img/volunfair/anteriores/2022/equipo2022.jpeg" alt="2022">
+                    </div>
+                </div>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="assets/base/img/volunfair/Fotos2023/equipazo.jpeg" alt="2023">
+                    </div>
+                </div>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="assets\base\img\volunfair\Fotos2024\fotofondo.jpg" alt="2024">
+                    </div>
+                </div>
+            </section>
+-->
             <!-- END: LÍNEA TEMPORAL -->
-
+            <br /><br />
             <section id="timeline">
                 
                 <div class="tl-item3" onclick="location.href='v-ponentes24';">

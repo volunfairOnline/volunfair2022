@@ -270,22 +270,22 @@ escribe_cabecera();
             <!-- END: PABLO  -->
              
             <!-- BLOQUE EQUIPO Y JEFES -->
-             <!--<div class="c-content-box c-size-md c-bg-white">
+            <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="assets\base\img\volunfair\Fotos2023/jefazos.jpeg" alt="Paula y Jorge" title="Paula y Jorge" class="animated wow swing" width="100%" />
+                        <img src="assets\base\img\volunfair\Fotos2024/jefazos.jpg" alt="Blanca y Diego" title="Blanca y Diego" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
-                            Nuestros jefes: Paula García y Jorge García
+                            Nuestros jefes: Blanca Verdes y Diego Álvarez
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <img src="assets/base/img/volunfair/Fotos2023/equipazo.jpeg" alt="Equipo 2023" title="Equipo 2023" class="animated wow swing" width="100%" />
+                        <img src="assets\base\img\volunfair\Fotos2024\fotofondo.jpg" alt="Equipo 2024" title="Equipo 2024" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInRight" >
-                            El equipo VOLUNFAIR 2023
+                            El equipo VOLUNFAIR 2024
                         </div>
                     </div>
                 </div>
-            </div>-->
+            </div>
             <!-- END: BLOQUE EQUIPO Y JEFES -->
 
             <!-- EQUIPO ED ANTERIORES -->
