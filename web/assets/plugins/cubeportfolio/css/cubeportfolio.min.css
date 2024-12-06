@@ -288,11 +288,13 @@
   background-color: black;
   background-color: rgba(0, 0, 0, 0.8);
   opacity: 0;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"; }
 
 .cbp-caption-minimal .cbp-caption:hover .cbp-caption-activeWrap {
   /* @editable properties */
   opacity: 1;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)"; }
 
 .cbp-caption-moveRight .cbp-caption-activeWrap {
@@ -594,6 +596,7 @@
   bottom: 0;
   left: 0;
   right: 0;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   opacity: 0;
   -webkit-transition: all .25s ease;
@@ -620,6 +623,7 @@
 .cbp-l-filters-alignCenter .cbp-filter-item:hover .cbp-filter-counter {
   /* @editable properties */
   bottom: 30px;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   opacity: 1; }
 
@@ -674,6 +678,7 @@
       .cbp-l-filters-alignRight .cbp-filter-item:hover .cbp-filter-counter {
         /* @editable properties */
         bottom: 44px;
+        filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
         opacity: 1; }
     .cbp-l-filters-alignRight .cbp-filter-item.cbp-filter-item-active {
@@ -696,6 +701,7 @@
     bottom: 0;
     left: 0;
     right: 0;
+    filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     opacity: 0;
     -webkit-transition: opacity .25s ease, bottom .25s ease;
@@ -761,6 +767,7 @@
   left: 0;
   right: 0;
   opacity: 0;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   -webkit-transition: opacity .25s ease, bottom .25s ease;
   transition: opacity .25s ease, bottom .25s ease; }
@@ -786,6 +793,7 @@
 .cbp-l-filters-button .cbp-filter-item:hover .cbp-filter-counter {
   /* @editable properties */
   bottom: 44px;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   opacity: 1; }
 
@@ -834,6 +842,7 @@
   left: 0;
   right: 0;
   opacity: 0;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   -webkit-transition: opacity .25s ease, bottom .25s ease;
   transition: opacity .25s ease, bottom .25s ease; }
@@ -859,6 +868,7 @@
 .cbp-l-filters-buttonCenter .cbp-filter-item:hover .cbp-filter-counter {
   /* @editable properties */
   bottom: 44px;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   opacity: 1; }
 
@@ -1101,6 +1111,7 @@
   bottom: 0;
   left: 0;
   right: 0;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   opacity: 0;
   -webkit-transition: all .25s ease;
@@ -1127,6 +1138,7 @@
 .cbp-l-filters-text .cbp-filter-item:hover .cbp-filter-counter {
   /* @editable properties */
   bottom: 30px;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   opacity: 1; }
 
@@ -2339,6 +2351,7 @@
   z-index: -1;
   /* @editable properties */
   background: #000;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; }
 
 .cbp-popup-wrap {
@@ -2647,6 +2660,7 @@
   background: url("../img/cbp-loading-popup.gif") no-repeat scroll center center #0D0D0D;
   border: 1px solid rgba(79, 80, 79, 0.3);
   border-radius: 3px;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=71)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=71)";
   opacity: .71;
   width: 50px;
@@ -2776,8 +2790,6 @@
   margin-bottom: 19px;
   color: #444; }
 
-.cbp-l-project-details-list {
-  /* @editable properties */ }
 
 .cbp-l-project-details-list > li, .cbp-l-project-details-list > div {
   /* @editable properties */
@@ -2809,8 +2821,6 @@
   opacity: 0.9;
   color: #fff; }
 
-.cbp-l-project-related {
-  /* @editable properties */ }
 
 .cbp-l-project-related-wrap {
   /* @editable properties */

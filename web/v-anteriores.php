@@ -82,94 +82,96 @@ escribe_cabecera();
 				
 			</div>
 
-            <section id="timeline">
-                
-                <div class="tl-item3" onclick="location.href='v-ponentes16';">
-                    
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/avionaco2.jpg")></div>
-                    
-                    <div class="tl-year">
-                        <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2016</a></p>
-                    </div>
-
-                    <div class="tl-content">
-                        Primera edición de volunfair <br />
-                        <strong>Jefes:</strong> Pilar Aldama y Daniel Alfaro
+            
+            <!-- BEGIN: LÍNEA TEMPORAL -->
+<!--
+            <section class="timeline2">
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="./assets/base/img/volunfair/anteriores/2016/equipo-2016.jpg" alt="2016">
                     </div>
                 </div>
-
-                <div class="tl-item3" onclick="location.href='v-ponentes17';">
-                    
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/rowing3.jpg)"></div>
-                    
-                    <div class="tl-year">
-                    <p class="f2 heading--sanSerif"><a href="v-ponentes17.php">2017</a></p>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="./assets/base/img/volunfair/anteriores/2017/equipo-2017.jpeg" alt="2017">
                     </div>
-
-                    <div class="tl-content">
-                        <strong>Lema:</strong> "No te quedes parado, haz voluntariado" <br />
-                        <strong>Jefes:</strong> Loreto Albiñana y José María Orejana
-                    </div>
-
                 </div>
-
-                <div class="tl-item3" onclick="location.href='v-ponentes18';">
-                    
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/cuadrofumao3.jpg)"></div>
-                    
-                    <div class="tl-year">
-                    <p class="f2 heading--sanSerif"><a href="v-ponentes18.php">2018</a></p>
+                <div class="timeline-item">
+                    <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="./assets/base/img/volunfair/anteriores/2018/origen.jpg" alt="2018">
                     </div>
-
-                    <div class="tl-content">
-                        <strong>Lema:</strong> "Emprende el cambio" <br />
-                        <strong>Jefes:</strong> Bea Aviñó y Andrés Otero
-                    </div>
-
                 </div>
-                <div class="tl-item3" onclick="location.href='v-ponentes19';">
-                    
-                <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/estrellas.jpg)"></div>
-                    
-                    <div class="tl-year">
-                    <p class="f2 heading--sanSerif"><a href="v-ponentes19.php">2019</a></p>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="./assets/base/img/volunfair/anteriores/2019/equipo-2019.jpg" alt="2019">
                     </div>
-
-                    <div class="tl-content">
-                        <strong>Lema:</strong> "¿Sigues queriendo ser astronauta? #QueNadieTeLoImpida" <br />
-                        <strong>Jefes:</strong> María Zavala y José Santa Úrsula
+                </div>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="./assets/base/img/volunfair/anteriores/2020/equipo2020.jpg" alt="2020">
                     </div>
-
+                </div>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="./assets/base/img/volunfair/anteriores/2021/EQUIPAZO.JPG" alt="2021">
+                    </div>
+                </div>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="assets/base/img/volunfair/anteriores/2022/equipo2022.jpeg" alt="2022">
+                    </div>
+                </div>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="assets/base/img/volunfair/Fotos2023/equipazo.jpeg" alt="2023">
+                    </div>
+                </div>
+                <div class="timeline-item">
+                     <div class="timeline-point"></div>
+                    <div class="timeline-content">
+                    <img src="assets\base\img\volunfair\Fotos2024\fotofondo.jpg" alt="2024">
+                    </div>
                 </div>
             </section>
-
-                <section id="timeline">
-                <div class="tl-item3" onclick="location.href='v-ponentes20';">
+-->
+            <!-- END: LÍNEA TEMPORAL -->
+            <br /><br />
+            <section id="timeline">
+                
+                <div class="tl-item3" onclick="location.href='v-ponentes24';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/mar13.jpeg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2024/grua_puente24.jpg")></div>
                     
                     <div class="tl-year">
-                    <p class="f2 heading--sanSerif"><a href="v-ponentes20.php">2020</a></p>
+                        <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2024</a></p>
                     </div>
 
                     <div class="tl-content">
-                        <strong>Lema:</strong> "No hay mar sin gotas" <br />
-                        <strong>Jefes:</strong> Maca Álvarez y Eduardo Amador
+                        
+                        <strong>Lema:</strong> "Manos a la obra" <br />
+                        <strong>Jefes:</strong> Blanca Verdes y Diego Álvarez
                     </div>
-
                 </div>
 
-                <div class="tl-item3" onclick="location.href='v-ponentes21';">
+                <div class="tl-item3" onclick="location.href='v-ponentes23';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/acera.jpg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/magia15.jpeg)"></div>
                     
                     <div class="tl-year">
-                    <p class="f2 heading--sanSerif"><a href="v-ponentes21.php">2021</a></p>
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes23.php">2023</a></p>
                     </div>
 
                     <div class="tl-content">
-                        <strong>Lema:</strong> "Desgasta tus zapatillas" <br />
-                        <strong>Jefes:</strong> Ignacio García-Guerra y María Lanzuela
+                        <strong>Lema:</strong> "Un truco por descubrir" <br />
+                        <strong>Jefes:</strong> Paula García y Jorge García
                     </div>
 
                 </div>
@@ -188,21 +190,115 @@ escribe_cabecera();
                     </div>
 
                 </div>
-
-                <div class="tl-item3" onclick="location.href='v-ponentes23';">
+                </section>
+            
+                <section id="timeline">
+                
+                <div class="tl-item3" onclick="location.href='v-ponentes21';">
                     
-                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/magia15.jpeg)"></div>
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/acera.jpg)"></div>
                     
                     <div class="tl-year">
-                    <p class="f2 heading--sanSerif"><a href="v-ponentes23.php">2023</a></p>
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes21.php">2021</a></p>
                     </div>
 
                     <div class="tl-content">
-                        <strong>Lema:</strong> "Un truco por descubrir" <br />
-                        <strong>Jefes:</strong> Paula García y Jorge García
+                        <strong>Lema:</strong> "Desgasta tus zapatillas" <br />
+                        <strong>Jefes:</strong> Ignacio García-Guerra y María Lanzuela
                     </div>
 
                 </div>
+
+                <div class="tl-item3" onclick="location.href='v-ponentes20';">
+                    
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/mar13.jpeg)"></div>
+                    
+                    <div class="tl-year">
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes20.php">2020</a></p>
+                    </div>
+
+                    <div class="tl-content">
+                        <strong>Lema:</strong> "No hay mar sin gotas" <br />
+                        <strong>Jefes:</strong> Maca Álvarez y Eduardo Amador
+                    </div>
+
+                </div>
+
+                <div class="tl-item3" onclick="location.href='v-ponentes19';">
+                    
+                <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/estrellas.jpg)"></div>
+                    
+                    <div class="tl-year">
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes19.php">2019</a></p>
+                    </div>
+
+                    <div class="tl-content">
+                        <strong>Lema:</strong> "¿Sigues queriendo ser astronauta? #QueNadieTeLoImpida" <br />
+                        <strong>Jefes:</strong> María Zavala y José Santa Úrsula
+                    </div>
+
+                </div>
+                </section>
+
+            <section id="timeline">
+            <div class="tl-item3" onclick="location.href='v-ponentes18';">
+                    
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/cuadrofumao3.jpg)"></div>
+                    
+                    <div class="tl-year">
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes18.php">2018</a></p>
+                    </div>
+
+                    <div class="tl-content">
+                        <strong>Lema:</strong> "Emprende el cambio" <br />
+                        <strong>Jefes:</strong> Bea Aviñó y Andrés Otero
+                    </div>
+
+                </div>    
+                
+                <div class="tl-item3" onclick="location.href='v-ponentes17';">
+                    
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/rowing3.jpg)"></div>
+                    
+                    <div class="tl-year">
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes17.php">2017</a></p>
+                    </div>
+
+                    <div class="tl-content">
+                        <strong>Lema:</strong> "No te quedes parado, haz voluntariado" <br />
+                        <strong>Jefes:</strong> Loreto Albiñana y José María Orejana
+                    </div>
+
+                </div>
+            
+                <div class="tl-item3" onclick="location.href='v-ponentes16';">
+                    
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/avionaco2.jpg")></div>
+                    
+                    <div class="tl-year">
+                        <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2016</a></p>
+                    </div>
+
+                    <div class="tl-content">
+                        Primera edición de volunfair <br />
+                        <strong>Jefes:</strong> Pilar Aldama y Daniel Alfaro
+                    </div>
+                </div>
+
+                
+
+                
+                
+            </section>
+
+                <section id="timeline">
+                
+
+                
+
+                
+
+                
 
             </section>
 

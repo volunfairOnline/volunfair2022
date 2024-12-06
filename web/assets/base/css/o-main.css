@@ -91,7 +91,7 @@ header .overlay {
     }
 }
 
-// --- Que no salga el negro del menú en móviles
+/* --- Que no salga el negro del menú en móviles*/
 .c-page-on-scroll .c-layout-header.c-layout-header-2 {
   background: transparent;
 }
@@ -103,9 +103,9 @@ header .overlay {
       background: transparent;
   }
 }
-// --- Fin estilos página principal
+/* --- Fin estilos página principal*/
 
-// --- Nuevos estilos
+/* --- Nuevos estilos*/
 .contenidos { 
   background:  rgba(211, 211, 211, 0.432);
   border-radius: 10px;

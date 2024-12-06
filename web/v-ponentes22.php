@@ -51,7 +51,7 @@ escribe_cabecera();
             <br>
                 <div class="col-md-2 wow animated bounceIn">
                     <h2 class="c-right c-font-uppercase c-font-bold">
-                    <a href="v-ponentes21"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2021</a> 
+                    <a href="v-ponentes23"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2023</a> 
                         </h2>
                 </div>
 
@@ -59,7 +59,7 @@ escribe_cabecera();
             <div style="text-align:right">
                 <div class="col-md-8 wow animated bounceIn">
                     <h2 class="c-right c-font-uppercase c-font-bold">
-                    <a href="v-ponentes23"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2023</a> 
+                    <a href="v-ponentes21"><img src="./assets/base/img/volunfair/galeria/FLECHA.jpg" /><br/>2021</a> 
                         </h2>
                 </div>
             </div>

@@ -6,6 +6,16 @@ include ('./scripts/config.php');
 // --- Escribimos las cabeceras, indicando en este caso que estamos en index.php
 escribe_cabecera(1);
 
+// Definimos las noticias
+$newsItems = [
+    ['title' => 'Noticia 1', 'img' => $base_url_main . '/assets/base/img/volunfair/foto2.jpg', 'link' => $base_url_main . 'Noticias/Noticia1.php'],
+    ['title' => 'Noticia 2', 'img' => $base_url_main . '/assets/base/img/volunfair/foto4.jpg', 'link' => $base_url_main . 'Noticias/Noticia1.php'],
+    ['title' => 'Noticia 3', 'img' => $base_url_main . '/assets/base/img/volunfair/foto5.jpg', 'link' => $base_url_main . 'Noticias/Noticia1.php']
+];
+
+// Seleccionamos la primera noticia
+$firstNews = $newsItems[0];
+
 ?>
 
 
@@ -48,20 +58,36 @@ escribe_cabecera(1);
     </div>           
 -->
 
+            <!--  Fondos al redimensionar la página -->
+                <div class="solomediano1">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2024\encabezado_1.jpg" width="100%">
+                </div>
+            
+            
+                <div class="solo_peq">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2024\encabezado_1.jpg" width="100%">
+                </div>
+			
+            <div class="">
+                
+          </div>
 
-                <!-- BEGIN: CUENTA ATRÁS -->
-            <!-- 
-             <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2024/Fondos/pared_ladrillo.jpg">
+            <!-- BEGIN: CUENTA ATRÁS -->
+             <!--
+            <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets\base\img\volunfair\Fotos2021\bosque.jpg">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="c-content-media-1 c-center c-bordered wow animated flash">
                                     <div class="col-md-12">
                                         <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2024 será realidad en ... </h3>
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2025 será realidad en ... </h3>
                                         </div>
                                     </div>
-
+                                    
+                                    <div id="deadline-message" class="deadline-message">
+                                    ¡Ya está aquí!
+                                    </div>
                                     <div id="countdown" class="countdown">
                                         <div class="countdown-number">
                                             <span class="days countdown-time"></span>
@@ -80,35 +106,137 @@ escribe_cabecera(1);
                                             <span class="countdown-text">Segundos</span>
                                         </div>
                                     </div>
+                                    
                                     <br /><br />                                
                                 </div>
                             </div>
                         </div>
                     </div>
-                
-        -->
+                </div> -->
                 <!-- 
                     https://denis-creative.com/jstimer/
                     https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
                 -->
-                <!-- END: CUENTA ATRÁS -->
+            <!-- END: CUENTA ATRÁS -->
 
+            <!-- BEGIN: CONTENT/SLIDERS/NOTICIAS -->
+            <div class="c-content-box c-size-md c-bg-white">
+                <div class="container">
+                    <div class="c-content-client-logos-slider-1" data-slider="owl">
+                        <div class="c-content-title-1">
+                            <h3 class="c-center c-font-uppercase c-font-bold">ÚLTIMAS NOTICIAS</h3>
+                            <div class="c-line-center c-theme-bg"></div>
+                        </div>
+            <!-- BEGIN: CAROUSEL NOTICIAS -->
+                       
+            <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="3" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
+                        data-auto-play-hover-pause="false">
+                            <div class="item">
+                                   <a href="https://volunfair.com/Noticias/Noticia1" target="_blank">
+                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria1" title ="Ferrovial" alt="Ferrovial"  width="100%" />
+                                       <div class="c-center c-font-uppercase c-font-bold">Noticia 1</div>
+                                   </a>
+                            </div>
+                            <div class="item">
+                                   <a href="https://volunfair.com/Noticias/Noticia1"" target="_blank">
+                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria2" title ="COIIM" alt="COIIM"  width="100%" />
+                                   </a>
+                            </div>
+                            <div class="item">
+                            	  <a href="https://volunfair.com/Noticias/Noticia1"" target="_blank">
+                                    <img src="assets/base/img/volunfair/Fotos2024/feria/feria3"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
+                                </a>
+                            </div>                            			
+                        </div>
 
-            <!--  Fondos al redimensionar la página -->
-                <div class="solomediano1">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2024\encabezado_1.jpg" width="100%">
-                </div>
-            
-            
-                <div class="solo_peq">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2024\encabezado_1.jpg" width="100%">
-                </div>
-			
-            <div class="">
-                
             </div>
+            </div>
+            </div>
+            <!-- END : CAROUSEL NOTICIAS-->
+            <!-- END: CONTENT/SLIDERS/NOTICIAS -->
 
-            <!-- END: LAYOUT/SLIDERS/REVO-SLIDER-6 -->
+
+            <style>
+                /* Estilos CSS */
+                .newsSlider {
+                    position: relative;
+                    width: 100%;
+                    max-width: 800px;
+                    margin: 0 auto; /* Centra el contenedor principal */
+                }
+
+                .slide {
+                    position: relative;
+                    overflow: hidden; /* Oculta el exceso de imagen si no se ajusta al contenedor */
+                    text-align: center;
+                    display: none; /* Ocultamos todas las noticias por defecto */
+                }
+
+                .slide img {
+                    display: block;
+                    margin: 0 auto; /* Centra la imagen horizontalmente */
+                    width: auto; /* Asegura que la imagen mantenga su relación de aspecto */
+                    height: 400px; /* Establece la altura deseada */
+                    object-fit: cover; /* Cubre el contenedor sin deformarse */
+                }
+
+                .overlay {
+                    position: absolute;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    height: 25%; /* Ajusta la altura del overlay */
+                    background: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)); /* Degradado negro a transparente */
+                    color: white; /* Texto blanco */
+                    text-transform: uppercase; /* Texto en mayúsculas */
+                    font-size: 1.5rem; /* Tamaño del texto */
+                    font-weight: bold; /* Texto en negrita */
+                    display: flex; /* Flexbox para centrar el texto */
+                    align-items: center; /* Centra verticalmente el texto */
+                    justify-content: center; /* Centra horizontalmente el texto */
+                    padding: 10px; /* Espaciado interno */
+                }
+            </style>
+
+            <!-- Contenido del carrousel de noticias (oculto) -->
+            <!--<div class="c-content-box c-size-md c-bg-white">
+                <div class="newsSlider">
+                    <?php foreach ($newsItems as $index => $news): ?>
+                        <div class="slide" id="slide-<?= $index; ?>" style="<?= $index === 0 ? 'display: block;' : ''; ?>">
+                            <a href="<?= $news['link']; ?>">
+                                <img src="<?= $news['img']; ?>" alt="Imagen de la noticia">
+                                <div class="overlay">
+                                    <h2 class="c-center  c-font-bold " style="color: #ffffff;"><?= $news['title']; ?></h2>
+                                </div>
+                            </a>
+                        </div>
+                    <?php endforeach; ?>
+                </div>
+
+                <script>
+                    // JavaScript para cambiar automáticamente las noticias
+                    let currentSlide = 0; // Inicia con la primera noticia
+                    const slides = document.querySelectorAll('.slide'); // Selecciona todas las noticias
+
+                    function showSlide(index) {
+                        // Ocultar todos los slides
+                        slides.forEach(slide => slide.style.display = 'none');
+                        // Mostrar el slide correspondiente
+                        slides[index].style.display = 'block';
+                    }
+
+                    function nextSlide() {
+                        currentSlide = (currentSlide + 1) % slides.length; // Ciclo infinito de noticias
+                        showSlide(currentSlide);
+                    }
+
+                    // Inicializar la primera noticia
+                    showSlide(currentSlide);
+
+                    // Cambiar a la siguiente noticia cada 8 segundos (8000ms)
+                    setInterval(nextSlide, 8000);
+                </script>
+            </div> -->
 
         
 
@@ -126,7 +254,7 @@ escribe_cabecera(1);
             
                         <p>
                             Nos hemos dado cuenta de que hay muchos universitarios, comprometidos con la realidad social en la que viven, que buscan hacer más por ella pero no encuentran el <b>¿Cómo?</b> O el <b>¿Dónde?</b> <br></br>
-                            En <b>VOLUNFAIR</b> conseguimos dar respuesta a estas dos preguntas creando anualmente un espacio al que acuden <b>más de 60 ONG´s y entidades sociales</b> permitiendo a los jóvenes ponerse en contacto con ellas. <br></br>
+                            En <b>VOLUNFAIR</b> conseguimos dar respuesta a estas dos preguntas creando anualmente un espacio al que acuden <b>más de 75 ONG's y entidades sociales</b> permitiendo a los jóvenes ponerse en contacto con ellas. <br></br>
                     
                             Creemos que no siempre es necesario hacer grandes cosas, ni cosas súper lejos. Lo importante es hacer. Actualmente es más necesaria que nunca nuestra ayuda.
                             Por ello no nos quedamos quietos, pasivos. Nos levantamos. Actuamos. Porque no hay mejor momento que <b>AHORA</b> para empezar a caminar. <br></br>

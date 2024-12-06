@@ -15,6 +15,7 @@ body {
 
 a {
   outline: none !important;
+  transition: back 0.2s ease-out;
   -webkit-transition: back 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
@@ -31,12 +32,6 @@ a:active {
  properly apply the media queries in Bootstrap's CSS. To address this, 
  you can optionally include the following CSS and JavaScript to work around this problem until Microsoft issues a fix.
 */
-@-webkit-viewport {
-  width: device-width; }
-
-@-moz-viewport {
-  width: device-width; }
-
 @-ms-viewport {
   width: device-width; }
 
@@ -2635,7 +2630,6 @@ h1 {
       .c-layout-header .c-brand .c-desktop-logo-inverse {
         display: none; }
       .c-layout-header .c-brand > .c-hor-nav-toggler {
-        display: inline-block;
         background: none;
         border: 0;
         margin: -1px 0 0 0;
@@ -2670,7 +2664,6 @@ h1 {
         display: inline-block; }
       .c-layout-header .c-brand > .c-btn-login {
         float: left;
-        display: inline-block;
         margin-left: 20px;
         margin-top: -3px; }
       .c-layout-header .c-brand .c-desktop-logo {
@@ -3186,7 +3179,6 @@ h1 {
       .c-layout-header .c-topbar .c-top-menu > .c-ext > li.c-lang.c-last {
         margin-left: 0; }
       .c-layout-header .c-topbar .c-top-menu > .c-ext > li.c-lang > a {
-        display: inline-block;
         float: right;
         padding: 7px 7px 5px 7px;
         height: 28px;
@@ -3292,11 +3284,9 @@ h1 {
   .c-layout-header .c-cart-menu .c-cart-menu-title {
     padding: 20px; }
     .c-layout-header .c-cart-menu .c-cart-menu-title > .c-cart-menu-float-l {
-      float: right;
-      display: inline-block; }
+      float: right; }
     .c-layout-header .c-cart-menu .c-cart-menu-title > .c-cart-menu-float-r {
-      float: left;
-      display: inline-block; }
+      float: left; }
   .c-layout-header .c-cart-menu .c-cart-menu-items {
     padding: 0;
     max-height: 500px;
@@ -4704,12 +4694,10 @@ h1 {
   padding: 25px;
   background: rgba(0, 0, 0, 0.2); }
   .c-layout-revo-slider-8 .c-action-bar .c-content {
-    display: inline-block;
     float: right;
     margin-left: 150px; }
   .c-layout-revo-slider-8 .c-action-bar .c-btn-container {
     padding-top: 25px;
-    display: inline-block;
     float: left; }
 
 @media (max-width: 991px) {
@@ -4857,7 +4845,7 @@ h1 {
     font-size: 14px; } }
 
 .c-layout-quick-sidebar {
-  ddisplay: block;
+  display: block;
   width: 275px;
   background: #2f353b;
   z-index: 9996;
@@ -5246,7 +5234,6 @@ h1 {
       .c-layout-footer.c-layout-footer-1 .c-prefooter .c-links .c-nav {
         padding: 0;
         margin: 0 0 0 40px;
-        display: inline-block;
         float: right;
         list-style: none; }
         .c-layout-footer.c-layout-footer-1 .c-prefooter .c-links .c-nav > li {
@@ -5400,7 +5387,6 @@ h1 {
       .c-layout-footer.c-layout-footer-2 .c-container > .c-links .c-nav {
         padding: 0;
         margin: 0 0 0 40px;
-        display: inline-block;
         float: right;
         list-style: none; }
         .c-layout-footer.c-layout-footer-2 .c-container > .c-links .c-nav > li {
@@ -5645,7 +5631,6 @@ h1 {
       .c-layout-footer.c-layout-footer-4 .c-footer .c-links .c-nav {
         padding: 0;
         margin: 0 0 0 40px;
-        display: inline-block;
         float: right;
         list-style: none; }
         .c-layout-footer.c-layout-footer-4 .c-footer .c-links .c-nav > li {
@@ -8189,7 +8174,6 @@ h1 {
         padding: 0 40px 0 0; }
         .c-content-product-1 .row .c-body > .c-row > li {
           width: 50%;
-          display: inline-block;
           list-style: none;
           float: right;
           padding: 0 0 0 50px;
@@ -8512,7 +8496,6 @@ h1 {
       border-bottom: 1px solid #eeeeee; }
     .c-content-recent-posts-1 > li > .c-image {
       width: 60px;
-      display: inline-block;
       margin-left: 10px;
       float: right; }
     .c-content-recent-posts-1 > li > .c-post {
@@ -8555,7 +8538,6 @@ h1 {
   .c-content-blog-post-1 .c-panel .c-date,
   .c-content-blog-post-1 .c-panel .c-comments {
     float: right;
-    display: inline-block;
     font-size: 14px;
     color: #5c6873;
     font-weight: 400;
@@ -8569,8 +8551,7 @@ h1 {
   .c-content-blog-post-1 .c-panel .c-tags {
     padding: 0;
     margin: 3px 0 5px 0px;
-    float: left;
-    display: inline-block; }
+    float: left; }
     .c-content-blog-post-1 .c-panel .c-tags > li {
       font-size: 13px;
       text-transform: uppercase;
@@ -8642,7 +8623,6 @@ h1 {
       clear: both; }
     .c-content-blog-post-card-1 .c-body .c-panel .c-comments {
       float: right;
-      display: inline-block;
       font-size: 15px;
       color: #5c6873;
       font-weight: 400;
@@ -8654,8 +8634,7 @@ h1 {
     .c-content-blog-post-card-1 .c-body .c-panel .c-tags {
       padding: 0;
       margin: 3px 0 5px 0px;
-      float: left;
-      display: inline-block; }
+      float: left; }
       .c-content-blog-post-card-1 .c-body .c-panel .c-tags > li {
         font-size: 13px;
         text-transform: uppercase;
@@ -9366,13 +9345,11 @@ h1 {
 .c-content-person-1 .c-body {
   padding: 20px 0; }
   .c-content-person-1 .c-body .c-head .c-name {
-    display: inline-block;
     float: right;
     font-size: 20px;
     font-weight: 400;
     color: #3f444a; }
   .c-content-person-1 .c-body .c-head .c-socials {
-    display: inline-block;
     float: left;
     list-style: none;
     padding: 0;
@@ -9394,7 +9371,6 @@ h1 {
     display: block;
     clear: both;
     margin-top: 0px;
-    display: inline-block;
     float: right;
     font-size: 14px;
     font-weight: 400;
@@ -9855,8 +9831,7 @@ h1 {
   width: 1170px;
   margin: auto; }
   .c-content-tab-3 .nav > li {
-    float: right;
-    display: inline-block; }
+    float: right; }
     .c-content-tab-3 .nav > li > a {
       border-radius: 0px;
       padding: 20px 50px; }
@@ -10148,6 +10123,7 @@ h1 {
       margin-top: 0;
       border: 8px solid transparent; }
     .c-content-tab-5 .c-nav-tab.c-arrow a:hover:after {
+      transition: back 0.4s ease-out;
       -webkit-transition: back 0.4s ease-out;
       -moz-transition: all 0.4s ease-out;
       -o-transition: all 0.4s ease-out;
@@ -11019,8 +10995,7 @@ h1 {
         padding-left: 40px; }
       .c-content-login-form .modal-dialog .modal-content .modal-body .c-btn-forgot {
         margin-top: 8px;
-        float: left;
-        display: inline-block; }
+        float: left; }
       .c-content-login-form .modal-dialog .modal-content .modal-body .c-content-list-adjusted {
         margin-top: 30px; }
       .c-content-login-form .modal-dialog .modal-content .modal-body .c-content-divider {
@@ -11789,7 +11764,6 @@ h1 {
     padding: 1em 0; }
   .c-shop-product-tab-1 .tab-content .c-user-avatar {
     overflow: hidden;
-    display: inline-block;
     width: 80px;
     height: 80px;
     border-radius: 60px;
@@ -11798,7 +11772,6 @@ h1 {
     .c-shop-product-tab-1 .tab-content .c-user-avatar > img {
       width: 100%; }
   .c-shop-product-tab-1 .tab-content .c-product-review-name {
-    display: inline-block;
     float: right; }
   .c-shop-product-tab-1 .tab-content .c-product-review-content {
     padding-right: 95px; }
@@ -11989,7 +11962,7 @@ h1 {
       top: 0;
       right: 0;
       opacity: 0;
-      webkit-transition: all 0.2s ease-in-out;
+      -webkit-transition: all 0.2s ease-in-out;
       -moz-transition: all 0.2s ease-in-out;
       -ms-transition: all 0.2s ease-in-out;
       -o-transition: all 0.2s ease-in-out;
@@ -12046,7 +12019,7 @@ h1 {
     padding: 10px 20px;
     opacity: 0.6;
     font-size: 15px;
-    webkit-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -ms-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
@@ -12091,7 +12064,7 @@ h1 {
     .c-content-isotope-grid .c-content-isotope-item > .c-content-isotope-image-container .c-content-isotope-image {
       width: 100%;
       height: auto;
-      webkit-transition: all 0.3s ease-in-out;
+      -webkit-transition: all 0.3s ease-in-out;
       -moz-transition: all 0.3s ease-in-out;
       -ms-transition: all 0.3s ease-in-out;
       -o-transition: all 0.3s ease-in-out;
@@ -12105,7 +12078,7 @@ h1 {
       top: 0;
       right: 0;
       opacity: 0;
-      webkit-transition: all 0.3s ease-in-out;
+      -webkit-transition: all 0.3s ease-in-out;
       -moz-transition: all 0.3s ease-in-out;
       -ms-transition: all 0.3s ease-in-out;
       -o-transition: all 0.3s ease-in-out;

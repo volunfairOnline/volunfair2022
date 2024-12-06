@@ -18,8 +18,7 @@ website:    http://www.themepunch.com
   z-index:100;
     border-radius:50%;
 }
-.ares.tparrows:hover {
-}
+
 .ares.tparrows:before {
   font-family: "revicons";
   font-size:25px;
@@ -63,6 +62,7 @@ website:    http://www.themepunch.com
  .ares.tp-rightarrow .tp-title-wrap { 
    right:0px;
    margin-right:30px;margin-left:0px;
+   transform-origin:100% 50%;
    -webkit-transform-origin:100% 50%;
 border-radius:30px 0px 0px 30px;
  }
@@ -99,8 +99,7 @@ border-radius:30px 0px 0px 30px;
 }
 
 /* BULLETS */
-.ares.tp-bullets {
-}
+
 .ares.tp-bullets:before {
 	content:" ";
 	position:absolute;
@@ -187,7 +186,6 @@ border-radius:30px 0px 0px 30px;
   width:60px;
   height:60px; max-height:100%; max-width:100%;
   position:relative;
-  display:inline-block;
   float:left;
 
 }
@@ -226,9 +224,6 @@ border-radius:30px 0px 0px 30px;
 .ares .tp-tab:hover,
 .ares .tp-tab.selected {
 	background:#eee; 
-}
-
-.ares .tp-tab-mask {
 }
 
 /* MEDIA QUERIES */
@@ -281,8 +276,7 @@ website:    http://www.themepunch.com
 
 
 /* BULLETS */
-.custom.tp-bullets {
-}
+
 .custom.tp-bullets:before {
 	content:" ";
 	position:absolute;
@@ -306,10 +300,7 @@ website:    http://www.themepunch.com
 .custom .tp-bullet.selected {
 	background:rgb(125,125,125);
 }
-.custom .tp-bullet-image {
-}
-.custom .tp-bullet-title {
-}
+
 
 
 /* THUMBS */
@@ -568,6 +559,7 @@ website:    http://www.themepunch.com
  .erinyen.tp-rightarrow .tp-title-wrap { 
    right:0px;
    margin-right:0px;margin-left:0px;
+   transform-origin:100% 50%;
    -webkit-transform-origin:100% 50%;
   border-radius:35px;
   padding-right:20px;
@@ -628,8 +620,7 @@ website:    http://www.themepunch.com
 }
 
 /* BULLETS */
-.erinyen.tp-bullets {
-}
+
 .erinyen.tp-bullets:before {
 	content:" ";
 	position:absolute;
@@ -671,10 +662,7 @@ filter: progid:dximagetransform.microsoft.gradient( startcolorstr="#e5e5e5", end
   border:1px solid #555;
   width:12px;height:12px;
 }
-.erinyen .tp-bullet-image {
-}
-.erinyen .tp-bullet-title {
-}
+
 
 
 /* THUMBS */
@@ -758,7 +746,7 @@ opacity:1
     font-size:13px;
     font-weight:700;
     text-transform:uppercase;
-    font-family:"Roboto Slab"
+    font-family:"Roboto Slab";
     margin-bottom:5px;
 }
 
@@ -785,8 +773,7 @@ website:    http://www.themepunch.com
 
 
 /* BULLETS */
-.gyges.tp-bullets {
-}
+
 .gyges.tp-bullets:before {
 	content:" ";
 	position:absolute;
@@ -831,11 +818,7 @@ website:    http://www.themepunch.com
     endColorstr="#e1e1e1",GradientType=0 ); /* IE6-9 */
 
 }
-.gyges .tp-bullet-image {
-}
-.gyges .tp-bullet-title {
-}
-	
+
 
 /* THUMBS */
 .gyges .tp-thumb { 
@@ -928,7 +911,6 @@ website:    http://www.themepunch.com
   width:60px;
   height:60px; max-height:100%; max-width:100%;
   position:relative;
-  display:inline-block;
   float:left;
 
 }
@@ -969,8 +951,6 @@ website:    http://www.themepunch.com
   background:rgba(0,0,0,0.5); 
 }
 
-.gyges .tp-tab-mask {
-}
 
 /* MEDIA QUERIES */
 @media only screen and (max-width: 960px) {
@@ -1061,23 +1041,18 @@ website:    http://www.themepunch.com
 
  }
     
-.hades .tp-arr-iwrapper {
-}
+
 .hades .tp-arr-imgholder {
   background-size:cover;
   position:absolute;
   top:0px;left:0px;
   width:100%;height:100%;
 }
-.hades .tp-arr-titleholder {
-}
-.hades .tp-arr-subtitleholder {
-}
+
 
 
 /* BULLETS */
-.hades.tp-bullets {
-}
+
 .hades.tp-bullets:before {
 	content:" ";
 	position:absolute;
@@ -1134,8 +1109,7 @@ website:    http://www.themepunch.com
   -webkit-transform: rotatex(0deg);
   visibility:visible;
     }
-.hades .tp-bullet-title {
-}
+
 
 
 /* THUMBS */
@@ -1256,8 +1230,7 @@ website:    http://www.themepunch.com
   display:block;
   z-index:100;
 }
-.hebe.tparrows:hover {
-}
+
 .hebe.tparrows:before {
   font-family: "revicons";
   font-size:30px;
@@ -1302,6 +1275,7 @@ website:    http://www.themepunch.com
 }
  .hebe.tp-rightarrow .tp-title-wrap { 
    right:0px;
+   transform-origin:100% 50%;
    -webkit-transform-origin:100% 50%;
  }
 .hebe.tparrows:hover .tp-title-wrap {
@@ -1346,8 +1320,7 @@ website:    http://www.themepunch.com
       }
 
 /* BULLETS */
-.hebe.tp-bullets {
-}
+
 .hebe.tp-bullets:before {
   content:" ";
   position:absolute;
@@ -1409,8 +1382,7 @@ border-radius:6px;
   -webkit-transform: scale(1);
   visibility:visible;
     }
-.hebe .tp-bullet-title {
-}
+
 
 
 /* TABS */
@@ -1419,7 +1391,7 @@ border-radius:6px;
     font-size:13px;
     font-weight:700;
     text-transform:uppercase;
-    font-family:"Roboto Slab"
+    font-family:"Roboto Slab";
     margin-bottom:5px;
 }
 
@@ -1478,8 +1450,7 @@ website:    http://www.themepunch.com
 
 
 /* BULLETS */
-.hephaistos.tp-bullets {
-}
+
 .hephaistos.tp-bullets:before {
 	content:" ";
 	position:absolute;
@@ -1506,10 +1477,6 @@ website:    http://www.themepunch.com
 .hephaistos .tp-bullet.selected {
 	background:#fff;
     border-color:#000;
-}
-.hephaistos .tp-bullet-image {
-}
-.hephaistos .tp-bullet-title {
 }
 
 
@@ -1630,8 +1597,7 @@ website:    http://www.themepunch.com
 
 
 /* BULLETS */
-.hermes.tp-bullets {
-}
+
 
 .hermes .tp-bullet {
     overflow:hidden;
@@ -1779,8 +1745,7 @@ website:    http://www.themepunch.com
 }
 
 /* BULLETS */
-.hesperiden.tp-bullets {
-}
+
 .hesperiden.tp-bullets:before {
 	content:" ";
 	position:absolute;
@@ -1815,10 +1780,6 @@ website:    http://www.themepunch.com
 .hesperiden .tp-bullet:hover,
 .hesperiden .tp-bullet.selected {
 	background:#666;
-}
-.hesperiden .tp-bullet-image {
-}
-.hesperiden .tp-bullet-title {
 }
 
 
@@ -1871,7 +1832,6 @@ website:    http://www.themepunch.com
   width:60px;
   height:60px; max-height:100%; max-width:100%;
   position:relative;
-  display:inline-block;
   float:left;
 
 }
@@ -1912,8 +1872,6 @@ website:    http://www.themepunch.com
 	background:#eee; 
 }
 
-.hesperiden .tp-tab-mask {
-}
 
 /* MEDIA QUERIES */
 @media only screen and (max-width: 960px) {
@@ -2051,7 +2009,6 @@ website:    http://www.themepunch.com
         font-family: "Playfair Display";
         width: 50px;
         margin-right: 17px;
-        display: inline-block;
         float: left;
     }
     .metis .tp-tab-mask {
@@ -2070,7 +2027,6 @@ website:    http://www.themepunch.com
         height: 30px;
         width: 1px;
         margin-top: 5px;
-        display: inline-block;
         float: left;
     }
     .metis .tp-tab-title {
@@ -2172,14 +2128,13 @@ website:    http://www.themepunch.com
 
 
 /* BULLETS */
-.persephone.tp-bullets {
-}
+
 .persephone.tp-bullets:before {
 	content:" ";
 	position:absolute;
 	width:100%;
 	height:100%;
-	background:#transparent;
+	background:transparent;
 	padding:10px;
 	margin-left:-10px;margin-top:-10px;
 	box-sizing:content-box;
@@ -2197,10 +2152,7 @@ website:    http://www.themepunch.com
 .persephone .tp-bullet.selected {
 	background:#222;
 }
-.persephone .tp-bullet-image {
-}
-.persephone .tp-bullet-title {
-}
+
 
 
 /*-----------------------------------------------------------------------------

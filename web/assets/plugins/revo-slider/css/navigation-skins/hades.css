@@ -79,23 +79,18 @@ website:    http://www.themepunch.com
 
  }
     
-.hades .tp-arr-iwrapper {
-}
+
 .hades .tp-arr-imgholder {
   background-size:cover;
   position:absolute;
   top:0px;left:0px;
   width:100%;height:100%;
 }
-.hades .tp-arr-titleholder {
-}
-.hades .tp-arr-subtitleholder {
-}
+
 
 
 /* BULLETS */
-.hades.tp-bullets {
-}
+
 .hades.tp-bullets:before {
 	content:" ";
 	position:absolute;
@@ -152,8 +147,7 @@ website:    http://www.themepunch.com
   -webkit-transform: rotatex(0deg);
   visibility:visible;
     }
-.hades .tp-bullet-title {
-}
+
 
 
 /* THUMBS */

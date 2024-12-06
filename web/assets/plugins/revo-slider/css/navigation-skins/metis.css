@@ -127,7 +127,6 @@ website:    http://www.themepunch.com
         font-family: "Playfair Display";
         width: 50px;
         margin-right: 17px;
-        display: inline-block;
         float: left;
     }
     .metis .tp-tab-mask {
@@ -146,7 +145,6 @@ website:    http://www.themepunch.com
         height: 30px;
         width: 1px;
         margin-top: 5px;
-        display: inline-block;
         float: left;
     }
     .metis .tp-tab-title {

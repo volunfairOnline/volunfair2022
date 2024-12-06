@@ -106,7 +106,7 @@ escribe_cabecera();
             </br>
             <br>
             </br>
-            <div class="parallax-window" data-parallax="scroll" data-bleed="50" data-speed="0.2" data-image-src="assets\base\img\volunfair\Fotos2022\equipo2022.jpeg">
+            <div class="parallax-window" data-parallax="scroll" data-bleed="50" data-speed="0.2" data-image-src="assets\base\img\volunfair\Fotos2024\fotofondo.jpg">
                 <div class="c-content-box c-size-md ">
                     <div class="container">
                         <div class="row">
@@ -264,47 +264,10 @@ escribe_cabecera();
                                         <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2024/equipo/padel8.jpeg); min-height: 380px;">
                                         </div>
                                     </div>
-                                    <br>
-                                        </br>
-                                        <!-- 
-                                    <div class="c-contact">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-uppercase c-font-bold"> </h3>
-                                            <p class="c-font-lowercase">PORRA DEL MUNDIAL QATAR 2022 <br>
-                                            </br> Manolo acompañó a España en el mundial de Qatar 2022 hasta el último momento, pero tristemente no pudo celebrar la segunda
-                                                estrellita en el escudo español... Aún así, el departamento de Recursos Humanos volvió a liarla dentro del equipazo de VOLUNFAIR 2023
-                                                y organizó la mayor porra jamás vista en industriales. </p>
-                                        </div>
-                                        <p class="c-font-lowercase">
-                                        </p>
-                                    </div>
-                                <div class="c-content-media-2-slider wow animated fadeInLeft" data-slider="owl">
-                                
-                                    <div class="owl-carousel owl-theme c-theme owl-single" data-single-item="true" data-navigation-dots="true" data-auto-play="4000" data-rtl="false">
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra2.jpg); min-height: 380px;">
-                                        </div>
-
-                                      <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra3.png); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra6.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra5.jpeg); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra1.png); min-height: 380px;">
-                                        </div>
-
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/porra4.png); min-height: 380px;">
-                                        </div>
-                               
-                                    </div>
-                                </div>
-                    </div> -->
+                                    <br> </br>
                 </div>
             </div>
-            
+
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="c-content-feedback-1 c-option-1">
@@ -343,52 +306,17 @@ escribe_cabecera();
                                         </div>
                                     </div>
                                 </div>
-
-                                <!--
-                                <br>
-                                        </br> 
-                                <div class="c-contact">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-uppercase c-font-bold"> </h3>
-                                            <p class="c-font-lowercase">RIFA NAVIDAD <br>
-                                            </br> Como la feria no se financia sola, los jefazos Paula y Jorge tuvieron esta idea: realizar un sorteo que revolucionase la edición.
-                                            Y así lo hicimos. Muchísimos particiantes, el equipo unió todavía más y VOLUNFAIR no dejaba de liarla por donde fuese!!</p>
-                                        </div>
-                                        <p class="c-font-lowercase">
-                                        </p>
-                                </div>
-                                <div class="c-content-media-2-slider wow animated fadeInRight" >
-                                
-                                        <div class="c-content-media-2 c-bg-img-center" style="background-image: url(assets/base/img/volunfair/Fotos2023/equipo/rifa1.jpg); min-height: 380px;">
-                                        </div>
-                                </div>
-                            </div> 
-                            <div class="col-md-6">
-                               <div class="c-contact">
-                                    <div class="c-content-title-1">
-                                        <h3 class="c-font-uppercase c-font-bold"></h3>
-                                        <p class="c-font-lowercase">HIMNO OFICIAL<br>
-                                        </br> VOLUNFAIR no solo está formado por unos increíbles voluntarios sino que además contamos con un grupazo musical que tuvo la
-                                            gran iniciativa de componer y grabar una canción sobre los valores de VOLUNFAIR, con la colaboración de Iñigo Quintero.
-                                        ¿Quieres escucharla? ¡Es un exitazo! </p>
-                                    </div>
-                                    <p class="c-font-lowercase">
-                                    </p>
-                                </div>
-                                <div class="c-content-media-2-slider wow animated fadeInLeft" >
-                                <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@volunfair/video/7175896073771224326" data-video-id="7175896073771224326" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@volunfair" href="https://www.tiktok.com/@volunfair?refer=embed">@volunfair</a> Ya os dijimos que se venía una graaan sorpresa🙌🏼🙌🏼 Estábamos deseando enseñaros este proyecto que con tanta ilusión hemos preparado!! Es algo nuevo e innovador lleno de magia!🪄🪄🪄 Con esto os explicamos el verdadero significado de ✨VOLUNFAIR✨ Ante todo queremos dar las gracias al pedazo de equipo que ha hecho este sueño realidad 🤟🏼🎶SOIS UNOS CRACKS🤟🏼🎶 Como podéis ver Manolo está tan entusiasmado como nosotros🤩 Esperamos que os guste tanto que no podáis parar de escucharla hasta febrero!!! 🗓️🗓️🗓️ <a title="volunfair" target="_blank" href="https://www.tiktok.com/tag/volunfair?refer=embed">#volunfair</a>  <a title="voluntariado" target="_blank" href="https://www.tiktok.com/tag/voluntariado?refer=embed">#voluntariado</a>  <a title="nuevacancion" target="_blank" href="https://www.tiktok.com/tag/nuevacancion?refer=embed">#nuevacancion</a> <a target="_blank" title="♬ sonido original - volunfair" href="https://www.tiktok.com/music/sonido-original-7175896120824253190?refer=embed">♬ sonido original - volunfair</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>                                </div>  
-
-                                
-                            </div> -->
                         </div>
                     </div>
                 </div>
 
             </div>
+            
+            <!-- FIN: EQUIPO ED ANTERIORES -->
+
+
             <?php   
-            
-           
-            
+        
 
             // --- Matriz con los miembros del equipo (no poner coma tras cada último corchete porque da error)
             // --- Guardar la foto en assets/base/img/volunfair/staff2/
@@ -396,28 +324,28 @@ escribe_cabecera();
             $equipazo = [
             
                 "Dirección" => [
-                        ['nombre' => 'Diego Álvarez',				        'foto' => 'diegoalvarezjefazo'],
-                        ['nombre' => 'Blanca Verdes',				        'foto' => 'jefazablancaverdes'],
+                        ['nombre' => 'Olivia Alarcón',				        'foto' => 'diegoalvarezjefazo'],
+                        ['nombre' => 'Snatiago Antúnez',				        'foto' => 'jefazablancaverdes'],
                     ],
                 
                 "Comunicación" => [
-                        ['nombre' => 'Olivia Alarcón',			      	    'foto' => 'comoliviaalarcon'],
-                        ['nombre' => 'Javier Baza',     			        'foto' => 'comjavierbaza'],
-                        ['nombre' => 'Casilda Gómez',					    'foto' => 'comcasildagomez'],
-                        ['nombre' => 'Alejandra Gómez',		                'foto' => 'comalejandragomez'],
-                        ['nombre' => 'Enrique Giménez-Arnau',             	'foto' => 'comquiquegimenez'],
-                        //['nombre' => 'María Gómez',				        'foto' => 'commariagomez'],
-                        ['nombre' => 'Yanela Gora',				    	    'foto' => 'comyanelagora'],
-                        ['nombre' => 'Marta Aguado',					    'foto' => 'commartaaguado'],
-                        ['nombre' => 'Nico Montero',	        			'foto' => 'comnicomontero'],
-                        //['nombre' => 'Patricia Rivas',     			    'foto' => 'compatriciarivas'],
-                        ['nombre' => 'Valentín Picón',     			        'foto' => 'comvalentinpicon'],
-                        //['nombre' => 'Lucía Millán',     			        'foto' => 'comluciamillan'],
-                        ['nombre' => 'Irene Gordo',     			        'foto' => 'comirenegordo'],
-                        ['nombre' => 'Martina Huete',     			        'foto' => 'commartinahuete'],
+                        ['nombre' => 'Rodrigo Avilés',			      	    'foto' => 'comoliviaalarcon'],
+                        ['nombre' => 'Juan Ramiro',     			        'foto' => 'comjavierbaza'],
+                        ['nombre' => 'Isabel Nuño-de la Rosa',					    'foto' => 'comcasildagomez'],
+                        ['nombre' => 'Ana Soria',		                'foto' => 'comalejandragomez'],
+                        ['nombre' => 'Nicolás Montero',             	'foto' => 'comquiquegimenez'],
+                        ['nombre' => 'Carlos Iranzo',				        'foto' => 'commariagomez'],
+                        ['nombre' => 'Eduardo García-Atance',				    	    'foto' => 'comyanelagora'],
+                        ['nombre' => 'Pablo Antúnez',					    'foto' => 'commartaaguado'],
+                        ['nombre' => 'Pilar Gonzalez-Aller',	        			'foto' => 'comnicomontero'],
+                        ['nombre' => 'Marta García-Aranda',     			    'foto' => 'compatriciarivas'],
+                        ['nombre' => 'Teresa Montejo',     			        'foto' => 'comvalentinpicon'],
+                        ['nombre' => 'Amérca Díaz-Gurdamino',     			        'foto' => 'comluciamillan'],
+                        ['nombre' => 'Inés Martinez-Fresno',     			        'foto' => 'comirenegordo'],
+                        ['nombre' => 'Marta Ramis',     			        'foto' => 'commartinahuete'],
                     ],
                     
-                "Financiación" => [
+                "Colaboradores" => [
                         ['nombre' => 'Santi Antúnez',				        'foto' => 'finsantiantunez'],
                         ['nombre' => 'Cande Vendrell',		    	        'foto' => 'fincandevendrell'],
                         ['nombre' => 'Gabriel Callejo',			            'foto' => 'fingabricallejo'],
@@ -428,7 +356,7 @@ escribe_cabecera();
                         ['nombre' => 'María Sordo',	                        'foto' => 'finmariasordo'],
                     ],
 
-                "Gestión" => [
+                "Logística" => [
                         ['nombre' => 'Jaime Moral',	    			    'foto' => 'gesjaimemoral'],
                         ['nombre' => 'Juan Ruiz',	    	            'foto' => 'gesjuanruiz'],
                         ['nombre' => 'Carlos Carril',				    'foto' => 'gescarloscarril'],
@@ -526,7 +454,7 @@ escribe_cabecera();
             $fotosPorFila = 4;
             
             // --- Función que escribe todas las fotos y nombres de los mimembros del equipo
-             // muestra_equipo($equipazo, $fotosPorFila, $mostrar_nombres);
+            //muestra_equipo($equipazo, $fotosPorFila, $mostrar_nombres);
             
             ?>
 -->

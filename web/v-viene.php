@@ -155,8 +155,7 @@ escribe_cabecera();
                             </div>
                         </div>
                     </div>
-                
-        -->
+                    -->
                 <!-- 
                     https://denis-creative.com/jstimer/
                     https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
