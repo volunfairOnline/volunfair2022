@@ -91,7 +91,7 @@ escribe_cabecera();
                                         <div class="c-right c-line-left "> </div>
                                     </div>
                                     <p class="c-right">
-                                    Hasta ahora Pablo España nos había acompañado en esta aventura llamada Volunfair como ponente, esta vez le invitamos a charlar al salón de nuestra casa. 
+                                    Hasta ahora Pablo España nos había acompañado en esta aventura llamada VOLUNFAIR como ponente, esta vez le invitamos a charlar al salón de nuestra casa. 
                                     Desde una adolescencia rebelde (como todas) a un padre de familia que nos invita a comprarnos un despertador y nos enseña sus 10 indispensables que ha 
                                     aprendido a lo largo de su vida que le hubiese gustado saber antes.
 
