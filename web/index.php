@@ -119,8 +119,43 @@ $firstNews = $newsItems[0];
                 -->
             <!-- END: CUENTA ATRÁS -->
 
+            <!-- BEGIN: CONTENT/SLIDERS/NOTICIAS -->
+            <div class="c-content-box c-size-md c-bg-white">
+                <div class="container">
+                    <div class="c-content-client-logos-slider-1" data-slider="owl">
+                        <div class="c-content-title-1">
+                            <h3 class="c-center c-font-uppercase c-font-bold">ÚLTIMAS NOTICIAS</h3>
+                            <div class="c-line-center c-theme-bg"></div>
+                        </div>
+            <!-- BEGIN: CAROUSEL NOTICIAS -->
+                       
+            <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="3" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
+                        data-auto-play-hover-pause="false">
+                            <div class="item">
+                                   <a href="https://volunfair.com/Noticias/Noticia1" target="_blank">
+                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria1" title ="Ferrovial" alt="Ferrovial"  width="100%" />
+                                       <div class="c-center c-font-uppercase c-font-bold">Noticia 1</div>
+                                   </a>
+                            </div>
+                            <div class="item">
+                                   <a href="https://volunfair.com/Noticias/Noticia1"" target="_blank">
+                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria2" title ="COIIM" alt="COIIM"  width="100%" />
+                                   </a>
+                            </div>
+                            <div class="item">
+                            	  <a href="https://volunfair.com/Noticias/Noticia1"" target="_blank">
+                                    <img src="assets/base/img/volunfair/Fotos2024/feria/feria3"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
+                                </a>
+                            </div>                            			
+                        </div>
 
-            <!-- END: LAYOUT/SLIDERS/REVO-SLIDER-6 -->
+            </div>
+            </div>
+            </div>
+            <!-- END : CAROUSEL NOTICIAS-->
+            <!-- END: CONTENT/SLIDERS/NOTICIAS -->
+
+
             <style>
                 /* Estilos CSS */
                 .newsSlider {
@@ -163,8 +198,8 @@ $firstNews = $newsItems[0];
                 }
             </style>
 
-            <div class="c-content-box c-size-md c-bg-white">
-                <!-- Contenido del carrusel de noticias -->
+            <!-- Contenido del carrousel de noticias (oculto) -->
+            <!--<div class="c-content-box c-size-md c-bg-white">
                 <div class="newsSlider">
                     <?php foreach ($newsItems as $index => $news): ?>
                         <div class="slide" id="slide-<?= $index; ?>" style="<?= $index === 0 ? 'display: block;' : ''; ?>">
@@ -201,7 +236,7 @@ $firstNews = $newsItems[0];
                     // Cambiar a la siguiente noticia cada 8 segundos (8000ms)
                     setInterval(nextSlide, 8000);
                 </script>
-            </div> 
+            </div> -->
 
         
 
@@ -219,7 +254,7 @@ $firstNews = $newsItems[0];
             
                         <p>
                             Nos hemos dado cuenta de que hay muchos universitarios, comprometidos con la realidad social en la que viven, que buscan hacer más por ella pero no encuentran el <b>¿Cómo?</b> O el <b>¿Dónde?</b> <br></br>
-                            En <b>VOLUNFAIR</b> conseguimos dar respuesta a estas dos preguntas creando anualmente un espacio al que acuden <b>más de 75 ONG´s y entidades sociales</b> permitiendo a los jóvenes ponerse en contacto con ellas. <br></br>
+                            En <b>VOLUNFAIR</b> conseguimos dar respuesta a estas dos preguntas creando anualmente un espacio al que acuden <b>más de 75 ONG's y entidades sociales</b> permitiendo a los jóvenes ponerse en contacto con ellas. <br></br>
                     
                             Creemos que no siempre es necesario hacer grandes cosas, ni cosas súper lejos. Lo importante es hacer. Actualmente es más necesaria que nunca nuestra ayuda.
                             Por ello no nos quedamos quietos, pasivos. Nos levantamos. Actuamos. Porque no hay mejor momento que <b>AHORA</b> para empezar a caminar. <br></br>
