@@ -277,8 +277,8 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"> </h3>
                                         <p class="c-font-lowercase">RECOGIDA DE ALIMENTOS <br>
-                                        </br> Los días 11 y 12 de diciembre nos lanzamos de cabeza a recoger alimentos con el equipo de Volunfair: comida, productos de higiene, 
-                                        cosas para los peques. En esos dos días, nos dimos cuenta de que Volunfair no es solo una feria de voluntariados, es el hecho de ponerse <b>manos a la obra</b>
+                                        </br> Los días 3, 4 y 5 de diciembre nos lanzamos de cabeza a recoger alimentos con el equipo de Volunfair: comida, productos de higiene, 
+                                        cosas para los peques. En esos dos días, nos dimos cuenta de que Volunfair no es solo una feria de voluntariados, es el hecho de no desperdiciar el momento
                                          y de darlo todo día tras día. La gente se volcó con nosotros y esto es más que una feria, es el poder de hacer algo grande juntos.</p>
                                     </div>
                                     <p class="c-font-lowercase">
