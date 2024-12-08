@@ -133,18 +133,20 @@ $firstNews = $newsItems[0];
                         data-auto-play-hover-pause="false">
                             <div class="item">
                                    <a href="https://volunfair.com/Noticias/Noticia1" target="_blank">
-                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria1" title ="Ferrovial" alt="Ferrovial"  width="100%" />
+                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria1" title ="Ferrovial" alt="Ferrovial" />
                                        <div class="c-center c-font-uppercase c-font-bold">Noticia 1</div>
                                    </a>
                             </div>
                             <div class="item">
                                    <a href="https://volunfair.com/Noticias/Noticia1"" target="_blank">
-                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria2" title ="COIIM" alt="COIIM"  width="100%" />
+                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria2" title ="COIIM" alt="COIIM" />
+                                       <div class="c-center c-font-uppercase c-font-bold">Noticia 2</div>
                                    </a>
                             </div>
                             <div class="item">
                             	  <a href="https://volunfair.com/Noticias/Noticia1"" target="_blank">
-                                    <img src="assets/base/img/volunfair/Fotos2024/feria/feria3"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
+                                    <img src="assets/base/img/volunfair/Fotos2024/feria/feria3"title ="Tribu Seekers" alt="Tribu Seekers" />
+                                    <div class="c-center c-font-uppercase c-font-bold">Noticia 3</div>
                                 </a>
                             </div>                            			
                         </div>

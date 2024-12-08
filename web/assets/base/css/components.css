@@ -5966,7 +5966,11 @@ h1 {
   padding: 55px 0; }
 
 .c-content-box.c-size-md {
-  padding: 85px 0; }
+  padding-top: 80px;
+  padding-right: 30px;
+  padding-bottom: 0px;
+  padding-left: 30px;
+ }
 
 .c-content-box.c-size-lg {
   padding: 105px 0; }
@@ -9507,7 +9511,7 @@ h1 {
 .c-content-client-logos-slider-1 .item {
   text-align: center; }
   .c-content-client-logos-slider-1 .item img {
-    max-width: 230px;
+    max-width: 360px;
     opacity: 0.8;
     filter: alphaopacity=80;
     transition: all 0.2s; }
