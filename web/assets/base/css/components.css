@@ -3580,7 +3580,7 @@ h1 {
 @media (min-width: 992px) {
   /* 992px */
   .c-layout-header.c-layout-header-2 {
-    background: rgba(112, 161, 210, 0.4);
+    background: rgba(0, 0, 106, 0.6);
     border-bottom: 0; }
     .c-layout-header.c-layout-header-2 .c-navbar {
       background: none; }
