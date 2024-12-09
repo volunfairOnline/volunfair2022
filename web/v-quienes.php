@@ -425,19 +425,16 @@ escribe_cabecera();
                
 
                 "Redes Sociales" => [
-                        ['nombre' => 'Meripa',				                'foto' => 'rrssmeripa'],
                         ['nombre' => 'Ana González',			            'foto' => 'rrssanagonzalez'],
-                        ['nombre' => 'Carlos Lanchares',		            'foto' => 'rrsscarloslanchares'],
-                        // ['nombre' => 'Belén Cabello de los Cobos',       'foto' => 'rrssbelencabello'],
-                        ['nombre' => 'Blanca Muñoz',			            'foto' => 'rrssblancamunoz'],
-                        ['nombre' => 'Alejandra Valero',		            'foto' => 'rrssalevalero'],
-                        ['nombre' => 'Almudena Alonso-Jáuden',	            'foto' => 'rrssalmualonso'],
-                        //['nombre' => 'Sara González',		                'foto' => 'rrsssaragonzalez'],
-                        ['nombre' => 'Jaime Gómez',                         'foto' => 'rrssjaimegomez'],
-                        ['nombre' => 'Solete',     		                    'foto' => 'rrsssolete'],
-                        //['nombre' => 'Pepa Postigo',     			        'foto' => 'rrsspepapostigo'],
-                        //['nombre' => 'María Pérez',     		            'foto' => 'rrssmariaperez'],
-                        //['nombre' => 'Belén Cabello',                     'foto' => 'rrssbelencabello'],
+                        ['nombre' => 'Sofia Aledo',		            'foto' => 'rrsscarloslanchares'],
+                        ['nombre' => 'Patricia Garcia',       'foto' => 'rrssbelencabello'],
+                        ['nombre' => 'Ale Rubio',			            'foto' => 'rrssblancamunoz'],
+                        ['nombre' => 'Sofía Araujo',		            'foto' => 'rrssalevalero'],
+                        ['nombre' => 'Candela Arias',	            'foto' => 'rrssalmualonso'],
+                        ['nombre' => 'Patricia Alocén',		                'foto' => 'rrsssaragonzalez'],
+                        ['nombre' => 'Sol Linares ',                         'foto' => 'rrssjaimegomez'],
+                        ['nombre' => 'Lucía Molina',     		                    'foto' => 'rrsssolete'],
+                        ['nombre' => 'Bea Maldonado',     			        'foto' => 'rrsspepapostigo'],
                     ],
 
                     "Recursos Humanos" => [
