@@ -325,7 +325,7 @@ escribe_cabecera();
             
                 "Dirección" => [
                         ['nombre' => 'Olivia Alarcón',				        'foto' => 'diegoalvarezjefazo'],
-                        ['nombre' => 'Snatiago Antúnez',				    'foto' => 'jefazablancaverdes'],
+                        ['nombre' => 'Santiago Antúnez',				    'foto' => 'jefazablancaverdes'],
                     ],
                 
                 "Comunicación" => [
@@ -346,14 +346,18 @@ escribe_cabecera();
                     ],
                     
                 "Colaboradores" => [
-                        ['nombre' => 'Santi Antúnez',				        'foto' => 'finsantiantunez'],
-                        ['nombre' => 'Cande Vendrell',		    	        'foto' => 'fincandevendrell'],
-                        ['nombre' => 'Gabriel Callejo',			            'foto' => 'fingabricallejo'],
-                        ['nombre' => 'Diego Alcon',                         'foto' => 'findiegoalcon'],
-                        ['nombre' => 'Telmo Ocina',		                    'foto' => 'fintelmocina'],
-                        ['nombre' => 'Nicolás Sánchez',	                    'foto' => 'finnicosanchez'],
-                        ['nombre' => 'Manu Márquez',	                    'foto' => 'finmanuelmarquez'],
-                        ['nombre' => 'María Sordo',	                        'foto' => 'finmariasordo'],
+                        ['nombre' => 'Gael Cubo',				        'foto' => 'finsantiantunez'],
+                        ['nombre' => 'Alejandra Valero',		    	        'foto' => 'fincandevendrell'],
+                        ['nombre' => 'María Férnandez',			            'foto' => 'fingabricallejo'],
+                        ['nombre' => 'Carmen González-Aller',                         'foto' => 'findiegoalcon'],
+                        ['nombre' => 'Blanca Muñoz',		                    'foto' => 'fintelmocina'],
+                        ['nombre' => 'Valentín Picón',	                    'foto' => 'finnicosanchez'],
+                        ['nombre' => 'Jaime López',	                    'foto' => 'finmanuelmarquez'],
+                        ['nombre' => 'Javier Latorre',	                        'foto' => 'finmariasordo'],
+                        ['nombre' => 'Telmo Ocina',				        'foto' => 'finsantiantunez'],
+                        ['nombre' => 'María Urraca',				        'foto' => 'finsantiantunez'],
+                        ['nombre' => 'Daniel Rosado',				        'foto' => 'finsantiantunez'],
+                        ['nombre' => 'Javier Vera',				        'foto' => 'finsantiantunez'],
                     ],
 
                 "Logística" => [
