@@ -347,6 +347,7 @@ escribe_cabecera();
                     ],
                     
                 "Colaboradores" => [
+                        ['nombre' => 'Manu Márquez',				        'foto' => 'finsantiantunez'],
                         ['nombre' => 'Gael Cubo',				        'foto' => 'finsantiantunez'],
                         ['nombre' => 'Alejandra Valero',		    	        'foto' => 'fincandevendrell'],
                         ['nombre' => 'María Férnandez',			            'foto' => 'fingabricallejo'],
@@ -362,7 +363,8 @@ escribe_cabecera();
                     ],
 
                 "Logística" => [
-                        ['nombre' => 'Guillaume Femminella ',	    			        'foto' => 'gesjaimemoral'],
+                        ['nombre' => 'Isa de Bloteau',	    			        'foto' => 'gesjaimemoral'],
+                        ['nombre' => 'Guillaume Femminella',	    			        'foto' => 'gesjaimemoral'],
                         ['nombre' => 'Enrique Giménez-Arnau',	    	                'foto' => 'gesjuanruiz'],
                         ['nombre' => 'Tito Ramírez',				        'foto' => 'gescarloscarril'],
                         ['nombre' => 'Alberto Puig',			            'foto' => 'gesanacorrales'],
@@ -380,6 +382,8 @@ escribe_cabecera();
                     ],
 
                 "Marketing" => [
+                        ['nombre' => 'Juan Pablo Leal',			            'foto' => 'mktinespiedrola'],
+                        ['nombre' => 'Carla Rius',			            'foto' => 'mktinespiedrola'],
                         ['nombre' => 'Inés Prados',			            'foto' => 'mktinespiedrola'],
                         ['nombre' => 'Pablo Navarro',			                    'foto' => 'mktsufle'],
                         ['nombre' => 'Pilar Cadarso',			            'foto' => 'mktbeadominguez'],
@@ -399,6 +403,7 @@ escribe_cabecera();
                     ],
 
                 "ONG's" => [
+                        ['nombre' => 'María Hernández',			            'foto' => 'ongspablonoblejas'],
                         ['nombre' => 'Edna Pascual',			            'foto' => 'ongspablonoblejas'],
                         ['nombre' => 'Lucía Sánchez',			            'foto' => 'ongsjorgepinto'],
                         ['nombre' => 'Daniela Cruz',			            'foto' => 'ongsarmandopalou'],
