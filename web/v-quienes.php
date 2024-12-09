@@ -457,7 +457,7 @@ escribe_cabecera();
                         ['nombre' => 'José López',				    'foto' => 'rrhhcandelaarias'],
                         ['nombre' => 'Javier Ranninger',				    'foto' => 'rrhhpatriciaalocen'],
                         ['nombre' => 'Ainhoa Orta',				        'foto' => 'rrhhpablojimenez'],
-                        ['nombre' => 'Jesús Fernández',				        'foto' => 'rrhhpablojimenez'],
+                        ['nombre' => 'Jesús Fernández-Cordeiro',				        'foto' => 'rrhhpablojimenez'],
                         ['nombre' => 'Patricia Martínez',				        'foto' => 'rrhhpablojimenez'],
                     ],
                 ];
