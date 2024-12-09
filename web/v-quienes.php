@@ -367,7 +367,7 @@ escribe_cabecera();
                         ['nombre' => 'Tito Ramírez',				        'foto' => 'gescarloscarril'],
                         ['nombre' => 'Alberto Puig',			            'foto' => 'gesanacorrales'],
                         ['nombre' => 'Carlos Lanchares ',                  'foto' => 'gesjorgegomezpamo'],
-                        ['nombre' => 'Ester',		                'foto' => 'gestitoramirez'],
+                        ['nombre' => 'Ester Pérez',		                'foto' => 'gestitoramirez'],
                         ['nombre' => 'Ruth Martínez',		                    'foto' => 'gesinesprados'],
                         ['nombre' => 'Armando Palau',		                'foto' => 'gesisabeldebloteau'],
                         ['nombre' => 'Rodrigo Machado',     			        'foto' => 'gesblancabravo'],
