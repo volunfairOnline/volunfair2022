@@ -9,8 +9,8 @@ escribe_cabecera(1);
 // Definimos las noticias
 $newsItems = [
     ['title' => 'Noticia 1', 'img' => $base_url_main . '/assets/base/img/volunfair/foto2.jpg', 'link' => $base_url_main . 'Noticias/Noticia1.php'],
-    ['title' => 'Noticia 2', 'img' => $base_url_main . '/assets/base/img/volunfair/foto4.jpg', 'link' => $base_url_main . 'Noticias/Noticia1.php'],
-    ['title' => 'Noticia 3', 'img' => $base_url_main . '/assets/base/img/volunfair/foto5.jpg', 'link' => $base_url_main . 'Noticias/Noticia1.php']
+    ['title' => 'Noticia 2', 'img' => $base_url_main . '/assets/base/img/volunfair/foto4.jpg', 'link' => $base_url_main . 'Noticias/Noticia2.php'],
+    ['title' => 'Noticia 3', 'img' => $base_url_main . '/assets/base/img/volunfair/foto5.jpg', 'link' => $base_url_main . 'Noticias/Noticia3.php']
 ];
 
 // Seleccionamos la primera noticia
@@ -133,19 +133,20 @@ $firstNews = $newsItems[0];
                         data-auto-play-hover-pause="false">
                             <div class="item">
                                    <a href="https://volunfair.com/Noticias/Noticia1" target="_blank">
-                                       <img src="assets/base/img/volunfair/Recogida_alimentos/PORTADA" title ="Recogidas de Alimentos" alt="Recogidas de Alimentos" />
+                                       <img src="assets/base/img/volunfair/Recogida_alimentos/PORTADA" title ="Recogidas de Alimentos" alt="Recogidas de Alimentos" style="height: 250px; width: auto" />
                                        <div class="c-center c-font-uppercase c-font-bold">Recogidas de Alimentos</div>
                                    </a>
                             </div>
                             <div class="item">
-                                   <a href="https://volunfair.com/Noticias/Noticia1"" target="_blank">
-                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria2" title ="COIIM" alt="COIIM" />
+                                   <a href="https://volunfair.com/Noticias/Noticia2" target="_blank">
+                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria2" title ="COIIM" alt="COIIM" style="height: 250px; width: auto" />
                                        <div class="c-center c-font-uppercase c-font-bold">Noticia 2</div>
                                    </a>
                             </div>
+
                             <div class="item">
-                            	  <a href="https://volunfair.com/Noticias/Noticia1"" target="_blank">
-                                    <img src="assets/base/img/volunfair/Fotos2024/feria/feria3"title ="Tribu Seekers" alt="Tribu Seekers" />
+                            	  <a href="https://volunfair.com/Noticias/Noticia3" target="_blank">
+                                    <img src="assets/base/img/volunfair/Fotos2024/feria/feria3"title ="Tribu Seekers" alt="Tribu Seekers" style="height: 250px; width: auto" />
                                     <div class="c-center c-font-uppercase c-font-bold">Noticia 3</div>
                                 </a>
                             </div>                            			
