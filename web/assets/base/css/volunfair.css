@@ -24,7 +24,8 @@ h4 {
 
 /* Menú de navegación */
 .c-page-on-scroll .c-layout-header.c-layout-header-2 {
-	background: rgb(146, 196, 246);
+	background: rgba(0, 0, 106, 1)
+  ;
 }
 
 .c-page-on-scroll.c-layout-header-fixed .c-layout-header {
