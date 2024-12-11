@@ -133,19 +133,20 @@ $firstNews = $newsItems[0];
                         data-auto-play-hover-pause="false">
                             <div class="item">
                                    <a href="https://volunfair.com/Noticias/Noticia1" target="_blank">
-                                       <img src="assets/base/img/volunfair/Recogida_alimentos/PORTADA" title ="Recogidas de Alimentos" alt="Recogidas de Alimentos" />
+                                       <img src="assets/base/img/volunfair/Recogida_alimentos/PORTADA" title ="Recogidas de Alimentos" alt="Recogidas de Alimentos" style="height: 250px; width: auto" />
                                        <div class="c-center c-font-uppercase c-font-bold">Recogidas de Alimentos</div>
                                    </a>
                             </div>
                             <div class="item">
                                    <a href="https://volunfair.com/Noticias/Noticia2" target="_blank">
-                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria2" title ="COIIM" alt="COIIM" />
+                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria2" title ="COIIM" alt="COIIM" style="height: 250px; width: auto" />
                                        <div class="c-center c-font-uppercase c-font-bold">Noticia 2</div>
                                    </a>
                             </div>
+
                             <div class="item">
                             	  <a href="https://volunfair.com/Noticias/Noticia3" target="_blank">
-                                    <img src="assets/base/img/volunfair/Fotos2024/feria/feria3"title ="Tribu Seekers" alt="Tribu Seekers" />
+                                    <img src="assets/base/img/volunfair/Fotos2024/feria/feria3"title ="Tribu Seekers" alt="Tribu Seekers" style="height: 250px; width: auto" />
                                     <div class="c-center c-font-uppercase c-font-bold">Noticia 3</div>
                                 </a>
                             </div>                            			
