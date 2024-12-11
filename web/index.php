@@ -133,7 +133,7 @@ $firstNews = $newsItems[0];
                         data-auto-play-hover-pause="false">
                             <div class="item">
                                    <a href="https://volunfair.com/Noticias/Noticia1" target="_blank">
-                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria1" title ="Recogidas de Alimentos" alt="Recogidas de Alimentos" />
+                                       <img src="assets/base/img/volunfair/Recogida_alimentos/PORTADA" title ="Recogidas de Alimentos" alt="Recogidas de Alimentos" />
                                        <div class="c-center c-font-uppercase c-font-bold">Recogidas de Alimentos</div>
                                    </a>
                             </div>
