@@ -413,7 +413,7 @@ $firstNews = $newsItems[0];
 								<iframe width="530" height="315" src="https://www.youtube.com/embed/XCDD0jHUA-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 							</div>-->
                             <div class="row c-center wow animated fadeInUp">
-                            <iframe width="650" height="350" src="https://www.youtube.com/embed/X1iWrTtmioo?si=7uDG1eS9KkWL5HFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <iframe width="650" height="350" src="https://www.youtube.com/embed/X1iWrTtmioo?si=fLBQWNt3CLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                             </div>
                             <div class="row c-center wow animated fadeInUp">
                           
