@@ -155,13 +155,13 @@ escribe_cabecera();
                                    </a>
                             </div>
                             <div class="item">
-                                   <a href="https://volunfair.com/Noticias/Noticia2"" target="_blank">
+                                   <a href="https://volunfair.com/Noticias/Noticia2" target="_blank">
                                        <img src="assets/base/img/volunfair/Fotos2024/feria/feria2" title ="Noticia2" alt="Noticia2" />
                                        <div class="c-center c-font-uppercase c-font-bold">Noticia 2</div>
                                    </a>
                             </div>
                             <div class="item">
-                            	  <a href="https://volunfair.com/Noticias/Noticia3"" target="_blank">
+                            	  <a href="https://volunfair.com/Noticias/Noticia3" target="_blank">
                                     <img src="assets/base/img/volunfair/Fotos2024/feria/feria3"title ="Noticia3" alt="Noticia3" />
                                     <div class="c-center c-font-uppercase c-font-bold">Noticia 3</div>
                                 </a>
