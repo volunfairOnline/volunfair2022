@@ -10,7 +10,6 @@ escribe_cabecera();
             display: flex;
             flex-wrap: wrap;
 			align-items: center;
-			text-align: justify;
             gap: 20px;
             padding: 20px;
         }
@@ -19,7 +18,7 @@ escribe_cabecera();
             flex: 1;
             max-width: 80%;
             align-items: center;
-            text-align: justify;
+            text-align: center;
             background-color: #f9f9f9;
             border: 1px solid #ddd;
             border-radius: 8px;
@@ -41,7 +40,6 @@ escribe_cabecera();
 			display: flex;
 			flex-direction: column;  /* Imagen arriba, título abajo */
 			align-items: center;
-			text-align: justify;
 		}
 
 		.noticia-content img {
@@ -51,13 +49,12 @@ escribe_cabecera();
 			margin-left: 10px;
 			height: 10vw; /* La altura será constante para todas las imágenes */
 			width: 60vw;
-			text-align: justify;
 			object-fit: cover; /* Mantiene la proporción recortando la imagen si es necesario */
 			display: block; /* Evita el espacio extra debajo de la imagen */
 		}
 
 		.noticia-content h3 {
-			text-align: justify;
+			text-align: center;
 		}
 
 		
@@ -112,7 +109,7 @@ escribe_cabecera();
 								<h3 class="c-center c-font-uppercase c-font-bold">Próximos 11, 12 y 13 de febrero de 2025</h3>
 									
 					</div>
-					<div class="c-content-media-1 c-bordered wow animated que-es justify-content-center">
+					<div class="c-content-media-1 c-bordered wow animated que-es">
 					<h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Título</h3>
 								<!-- para que el texto rebote añadir "bounceIn"--> 
 					
@@ -135,46 +132,45 @@ escribe_cabecera();
 					</div>
 				</div>
 			</div>
+					
+					<div class="c-content-media-1 wow animated que-es">
+						
+						<div class="container">
+							<div class="c-content-media-1 c-bordered wow animated fadeInDown clearfix">
+							<h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Te podría interesar</h3>
+							<div class="container_noticia">
+								<div class="noticia">
+									<a href="<?php echo $base_url_main; ?>Noticias/Noticia1.php" class="noticia-link">
+										<div class="noticia-content">
+											<?php $image_url = $base_url_main . '/assets/base/img/volunfair/foto5.jpg'; ?>
+											<img src="<?php echo $image_url; ?>" alt="">
+											<h3>Título de la Noticia 1</h3>
+										</div>
+									</a>
+								</div>
+								
+								<div class="noticia">
+									<a href="<?php echo $base_url_main; ?>Noticias/Noticia1.php" class="noticia-link">
+										<div class="noticia-content">
+											<?php $image_url = $base_url_main . '/assets/base/img/volunfair/foto5.jpg'; ?>
+											<img src="<?php echo $image_url; ?>" alt="">
+											<h3>Título de la Noticia 2</h3>
+										</div>
+								</div>
+								<div class="noticia">
+									<a href="<?php echo $base_url_main; ?>Noticias/Noticia1.php" class="noticia-link">
+										<div class="noticia-content">
+											<?php $image_url = $base_url_main . '/assets/base/img/volunfair/foto5.jpg'; ?>
+											<img src="<?php echo $image_url; ?>" alt="">
+											<h3>Título de la Noticia 3</h3>
+										</div>
+									</a>
+								</div>
+							</div>
+							</div>
+						</div>
+					</div>
 
-			<!-- BEGIN: CONTENT/SLIDERS/NOTICIAS -->
-            <div class="c-content-box c-size-md c-bg-white">
-                <div class="container">
-                    <div class="c-content-client-logos-slider-1" data-slider="owl">
-                        <div class="c-content-title-1">
-                            <h3 class="c-center c-font-uppercase c-font-bold">ÚLTIMAS NOTICIAS</h3>
-                            <div class="c-line-center c-theme-bg"></div>
-                        </div>
-            <!-- BEGIN: CAROUSEL NOTICIAS -->
-                       
-            <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="3" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
-                        data-auto-play-hover-pause="false">
-                            <div class="item">
-                                   <a href="https://volunfair.com/Noticias/Noticia1" target="_blank">
-                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria1" title ="Noticia1" alt="Noticia1" />
-                                       <div class="c-center c-font-uppercase c-font-bold">Noticia 1</div>
-                                   </a>
-                            </div>
-                            <div class="item">
-                                   <a href="https://volunfair.com/Noticias/Noticia2" target="_blank">
-                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria2" title ="Noticia2" alt="Noticia2" />
-                                       <div class="c-center c-font-uppercase c-font-bold">Noticia 2</div>
-                                   </a>
-                            </div>
-                            <div class="item">
-                            	  <a href="https://volunfair.com/Noticias/Noticia3" target="_blank">
-                                    <img src="assets/base/img/volunfair/Fotos2024/feria/feria3"title ="Noticia3" alt="Noticia3" />
-                                    <div class="c-center c-font-uppercase c-font-bold">Noticia 3</div>
-                                </a>
-                            </div>                            			
-                        </div>
-
-            </div>
-            </div>
-            </div>
-            <!-- END : CAROUSEL NOTICIAS-->
-            <!-- END: CONTENT/SLIDERS/NOTICIAS -->
-
-			<!-- BEGIN: REDES -->
 					<div class="c-content-media-1 wow animated que-es"></div>
 						<div class="container">
 							<div class="c-content-media-1 c-bordered wow animated fadeInDown clearfix">
@@ -229,7 +225,7 @@ escribe_cabecera();
 					
 				</div>
 				<br/>										
-			<!-- END: REDES -->
+			
 			
 <?php
 // --- Escribimos el pie de página (el archivo de configuración ya está incluido)

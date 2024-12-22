@@ -12400,3 +12400,113 @@ h1 {
 	font-size: 28px !important;
 	color: #05277A !important;
 }
+
+.custom-carousel .item img {
+  max-width: 800px !important;
+  box-sizing: border-box;
+}
+
+.new-carousel-container {
+  width: 80%;
+  margin: auto;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: var(--lx-gap);
+
+  .carousel {
+    aspect-ratio: 16/9;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+
+    .item2 {
+      opacity: 0;
+      width: 100%;
+      height: 100%;
+      display: none;
+      transition: opacity 0.5s ease-in-out;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+
+      .caption {
+        width: 100%;
+        padding: var(--lx-space-01);
+        position: absolute;
+        bottom: 0;
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 28px; /* Tamaño actualizado */
+        font-weight: 500; /* Peso de la fuente actualizado */
+        background-color: rgba(0, 0, 0, 0.6); /* Mayor opacidad */
+        color: #fff; /* Color de texto para contraste */
+        margin : 0;
+      }
+
+      &.active {
+        opacity: 1;
+        display: block;
+      }
+    }
+  }
+
+  .btn {
+    padding: 1em 2em;
+    position: absolute;
+    transform: translateY(-50%);
+    top: 50%;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 900;
+    color: #ffffff;
+    background-color: rgb(0, 0, 106);
+    transition: transform 0.2s ease-in-out;
+
+    &:active,
+    &:focus {
+      transform: translateY(-50%) scale(0.9);
+    }
+
+    &:hover {
+      transform: translateY(-50%) scale(0.96);
+    }
+  }
+
+  .prev {
+    left: -5%;
+  }
+
+  .next {
+    right: -5%;
+  }
+
+  .dots {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 20px;
+
+    .dot {
+      cursor: pointer;
+      height: 12px;
+      width: 12px;
+      background-color: #e1e1e1;
+      transition: background-color 0.2s ease;
+      border-radius: 50%;
+
+      &.active,
+      &:hover {
+        background-color: #0084e9;
+      }
+    }
+  }
+}

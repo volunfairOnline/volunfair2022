@@ -8,9 +8,9 @@ escribe_cabecera(1);
 
 // Definimos las noticias
 $newsItems = [
-    ['title' => 'Noticia 1', 'img' => $base_url_main . '/assets/base/img/volunfair/foto2.jpg', 'link' => $base_url_main . 'Noticias/Noticia1.php'],
-    ['title' => 'Noticia 2', 'img' => $base_url_main . '/assets/base/img/volunfair/foto4.jpg', 'link' => $base_url_main . 'Noticias/Noticia2.php'],
-    ['title' => 'Noticia 3', 'img' => $base_url_main . '/assets/base/img/volunfair/foto5.jpg', 'link' => $base_url_main . 'Noticias/Noticia3.php']
+    ['title' => 'Noticia Padel', 'img' => $base_url_main . '/assets/base/img/volunfair/foto2.jpg', 'link' => $base_url_main . 'Noticias/NoticiaPadel.php'],
+    ['title' => 'Noticia Valencia', 'img' => $base_url_main . '/assets/base/img/volunfair/foto4.jpg', 'link' => $base_url_main . 'Noticias/NoticiaValencia.php'],
+    ['title' => 'Noticia Vaughan', 'img' => $base_url_main . '/assets/base/img/volunfair/foto5.jpg', 'link' => $base_url_main . 'Noticias/NoticiaVaughan.php']
 ];
 
 // Seleccionamos la primera noticia
@@ -122,124 +122,92 @@ $firstNews = $newsItems[0];
             <!-- BEGIN: CONTENT/SLIDERS/NOTICIAS -->
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
-                    <div class="c-content-client-logos-slider-1" data-slider="owl">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">ÚLTIMAS NOTICIAS</h3>
                             <div class="c-line-center c-theme-bg"></div>
                         </div>
-            <!-- BEGIN: CAROUSEL NOTICIAS -->
-                       
-            <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="3" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
-                        data-auto-play-hover-pause="false">
-                            <div class="item">
-                                   <a href="https://volunfair.com/Noticias/Noticia1" target="_blank">
-                                       <img src="assets/base/img/volunfair/Recogida_alimentos/PORTADA" title ="Recogidas de Alimentos" alt="Recogidas de Alimentos" style="height: 250px; width: auto" />
-                                       <div class="c-center c-font-uppercase c-font-bold">Recogidas de Alimentos</div>
-                                   </a>
-                            </div>
-                            <div class="item">
-                                   <a href="https://volunfair.com/Noticias/Noticia2" target="_blank">
-                                       <img src="assets/base/img/volunfair/Fotos2024/feria/feria2" title ="COIIM" alt="COIIM" style="height: 250px; width: auto" />
-                                       <div class="c-center c-font-uppercase c-font-bold">Noticia 2</div>
-                                   </a>
-                            </div>
 
-                            <div class="item">
-                            	  <a href="https://volunfair.com/Noticias/Noticia3" target="_blank">
-                                    <img src="assets/base/img/volunfair/Fotos2024/feria/feria3"title ="Tribu Seekers" alt="Tribu Seekers" style="height: 250px; width: auto" />
-                                    <div class="c-center c-font-uppercase c-font-bold">Noticia 3</div>
-                                </a>
-                            </div>                            			
+                        <div class="new-carousel-container">
+                            <div class="carousel">
+                                <?php foreach ($newsItems as $index => $news): ?>
+                                    <div class="item2 <?= $index === 0 ? 'active' : '' ?>">
+                                        <a href="<?= $news['link'] ?>">
+                                            <img src="<?= $news['img'] ?>" alt="Imagen de <?= htmlspecialchars($news['title']) ?>" />
+                                            <p class="caption"><?= htmlspecialchars($news['title']) ?></p>
+                                        </a>
+                                    </div>
+                                <?php endforeach; ?>
+                            </div>
+                            <button class="btn prev">Anterior</button>
+                            <button class="btn next">Siguiente</button>
+                            <div class="dots"></div>
                         </div>
 
+                        <!-- JavaScript -->
+                        <!-- Aquí va el código JavaScript -->
+                        <script>
+                            document.addEventListener("DOMContentLoaded", function () {
+                            let carousel = document.querySelector(".carousel");
+                            let items = carousel.querySelectorAll(".item2");
+                            let dotsContainer = document.querySelector(".dots");
+
+                            // Insertar los puntos (dots) en el DOM
+                            items.forEach((_, index) => {
+                                let dot = document.createElement("span");
+                                dot.classList.add("dot");
+                                if (index === 0) dot.classList.add("active");
+                                dot.dataset.index = index;
+                                dotsContainer.appendChild(dot);
+                            });
+
+                            let dots = document.querySelectorAll(".dot");
+
+                            // Función para mostrar un item específico
+                            function showItem(index) {
+                                items.forEach((item, idx) => {
+                                item.classList.remove("active");
+                                dots[idx].classList.remove("active");
+                                if (idx === index) {
+                                    item.classList.add("active");
+                                    dots[idx].classList.add("active");
+                                }
+                                });
+                            }
+
+                            // Eventos para los botones de navegación
+                            document.querySelector(".prev").addEventListener("click", () => {
+                                let index = [...items].findIndex((item) =>
+                                item.classList.contains("active")
+                                );
+                                showItem((index - 1 + items.length) % items.length);
+                            });
+
+                            document.querySelector(".next").addEventListener("click", () => {
+                                let index = [...items].findIndex((item) =>
+                                item.classList.contains("active")
+                                );
+                                showItem((index + 1) % items.length);
+                            });
+
+                            // Eventos para los puntos (dots)
+                            dots.forEach((dot) => {
+                                dot.addEventListener("click", () => {
+                                let index = parseInt(dot.dataset.index);
+                                showItem(index);
+                                });
+                            });
+
+                            // Avance automático cada 5 segundos
+                            let currentIndex = 0;
+                            setInterval(() => {
+                                currentIndex = (currentIndex + 1) % items.length;
+                                showItem(currentIndex);
+                            }, 5000); // 5000ms = 5 segundos
+                            });
+                        </script>            
+
             </div>
             </div>
-            </div>
-            <!-- END : CAROUSEL NOTICIAS-->
-            <!-- END: CONTENT/SLIDERS/NOTICIAS -->
-
-
-            <style>
-                /* Estilos CSS */
-                .newsSlider {
-                    position: relative;
-                    width: 100%;
-                    max-width: 800px;
-                    margin: 0 auto; /* Centra el contenedor principal */
-                }
-
-                .slide {
-                    position: relative;
-                    overflow: hidden; /* Oculta el exceso de imagen si no se ajusta al contenedor */
-                    text-align: center;
-                    display: none; /* Ocultamos todas las noticias por defecto */
-                }
-
-                .slide img {
-                    display: block;
-                    margin: 0 auto; /* Centra la imagen horizontalmente */
-                    width: auto; /* Asegura que la imagen mantenga su relación de aspecto */
-                    height: 400px; /* Establece la altura deseada */
-                    object-fit: cover; /* Cubre el contenedor sin deformarse */
-                }
-
-                .overlay {
-                    position: absolute;
-                    bottom: 0;
-                    left: 0;
-                    right: 0;
-                    height: 25%; /* Ajusta la altura del overlay */
-                    background: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)); /* Degradado negro a transparente */
-                    color: white; /* Texto blanco */
-                    text-transform: uppercase; /* Texto en mayúsculas */
-                    font-size: 1.5rem; /* Tamaño del texto */
-                    font-weight: bold; /* Texto en negrita */
-                    display: flex; /* Flexbox para centrar el texto */
-                    align-items: center; /* Centra verticalmente el texto */
-                    justify-content: center; /* Centra horizontalmente el texto */
-                    padding: 10px; /* Espaciado interno */
-                }
-            </style>
-
-            <!-- Contenido del carrousel de noticias (oculto) -->
-            <!--<div class="c-content-box c-size-md c-bg-white">
-                <div class="newsSlider">
-                    <?php foreach ($newsItems as $index => $news): ?>
-                        <div class="slide" id="slide-<?= $index; ?>" style="<?= $index === 0 ? 'display: block;' : ''; ?>">
-                            <a href="<?= $news['link']; ?>">
-                                <img src="<?= $news['img']; ?>" alt="Imagen de la noticia">
-                                <div class="overlay">
-                                    <h2 class="c-center  c-font-bold " style="color: #ffffff;"><?= $news['title']; ?></h2>
-                                </div>
-                            </a>
-                        </div>
-                    <?php endforeach; ?>
-                </div>
-
-                <script>
-                    // JavaScript para cambiar automáticamente las noticias
-                    let currentSlide = 0; // Inicia con la primera noticia
-                    const slides = document.querySelectorAll('.slide'); // Selecciona todas las noticias
-
-                    function showSlide(index) {
-                        // Ocultar todos los slides
-                        slides.forEach(slide => slide.style.display = 'none');
-                        // Mostrar el slide correspondiente
-                        slides[index].style.display = 'block';
-                    }
-
-                    function nextSlide() {
-                        currentSlide = (currentSlide + 1) % slides.length; // Ciclo infinito de noticias
-                        showSlide(currentSlide);
-                    }
-
-                    // Inicializar la primera noticia
-                    showSlide(currentSlide);
-
-                    // Cambiar a la siguiente noticia cada 8 segundos (8000ms)
-                    setInterval(nextSlide, 8000);
-                </script>
-            </div> -->
 
         
 

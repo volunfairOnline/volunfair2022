@@ -65,6 +65,7 @@ function auto_version($file) {
 // --- Cabecera de las páginas
 function escribe_cabecera ($es_index = 0) {
 	global $base_url;
+	global $base_url_main;
 	echo '<!DOCTYPE html>'."\n";
 
 	echo '<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->'."\n";
@@ -196,7 +197,7 @@ function escribe_cabecera ($es_index = 0) {
 						echo '<div class="c-navbar-wrapper clearfix">'."\n";
 							echo '<div class="c-brand c-pull-left">'."\n";
 	 
-							echo '<a href="index" class="c-logo">'."\n";
+							echo '<a href="' . $base_url_main . 'index.php" class="c-logo">'."\n";
 								echo '<img src="'  .  $base_url . 'base/img/volunfair/Volunfair_Blanco.svg" class="c-desktop-logo">'."\n";
 								echo '<img src="'  .  $base_url . 'base/img/volunfair/Volunfair_Blanco.svg" class="c-desktop-logo-inverse">'."\n";
 								echo '<img src="'  .  $base_url . 'base/img/volunfair/Volunfair_Blanco.svg" alt="Volunfair" class="c-mobile-logo"> </a>'."\n";
