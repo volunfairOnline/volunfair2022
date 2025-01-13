@@ -94,7 +94,7 @@ escribe_cabecera();
 						$premiados = [
 							["fecha" => "2018", 	"nombre" => "Paco Arango",				"foto" => "PacoArango.jpg",				"razon" => ""],
 							["fecha" => "2019", 	"nombre" => "Xavi Torres",				"foto" => "XaviTorres.jpg",				"razon" => ""],
-							["fecha" => "2019", 	"nombre" => "Vicente del Bosque",		"foto" => "VicenteDelBosque.jpg",		"razon" => ""],
+							//["fecha" => "2019", 	"nombre" => "Vicente del Bosque",		"foto" => "VicenteDelBosque.jpg",		"razon" => ""],
                             ["fecha" => "2020",     "nombre" => "Adol-essence",        		"foto" => "Adol-essence.jpg",   		"razon" => ""],
                             ["fecha" => "2021",     "nombre" => "Toni Nadal",        		"foto" => "ToniNadal.jpg",    			"razon" => ""],
                             ["fecha" => "2021",     "nombre" => "Javier Pérez-Minguez",     "foto" => "JavierPerezMinguez_2.png",   "razon" => ""],

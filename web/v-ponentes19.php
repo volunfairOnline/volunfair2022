@@ -92,9 +92,9 @@ escribe_cabecera();
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="row">
-                    	   <div class="col-md-4">
+                    	   <!--<div class="col-md-4">
                     	   	  <div class="c-content-media-2 c-bg-img-center wow animated fadeInLeft" style="background-image: url(assets/base/img/volunfair/anteriores/2019/VicenteDelBosque.jpg); min-height: 300px;">
-                            </div>
+                            </div>-->
                         </div>
                     	
                     	
