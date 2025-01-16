@@ -209,7 +209,7 @@ $firstNews = $newsItems[0];
             </div>
             </div>
 
-        
+
 
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
@@ -382,7 +382,7 @@ $firstNews = $newsItems[0];
 								<iframe width="530" height="315" src="https://www.youtube.com/embed/XCDD0jHUA-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 							</div>-->
                             <div class="row c-center wow animated fadeInUp">
-                            <iframe width="650" height="350" src="https://www.youtube.com/embed/X1iWrTtmioo?si=fLBQWNt3CLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <iframe width="650" height="350" src="https://www.youtube.com/embed/fLBQWNt3CLM?si=fLBQWNt3CLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                             </div>
                             <div class="row c-center wow animated fadeInUp">
                           
@@ -408,7 +408,7 @@ $firstNews = $newsItems[0];
 
                         <div class="c-bg-white c-content-media-1 c-bordered">
                             <div class="row c-center wow animated fadeInUp">
-                                <iframe width="650" height="350" src="https://www.youtube.com/embed/X1iWrTtmioo?si=7uDG1eS9KkWL5HFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                <iframe width="650" height="350" src="https://www.youtube.com/embed/fLBQWNt3CLM?si=7uDG1eS9KkWL5HFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                             </div>
                             <div class="row c-center wow animated fadeInUp">
                                 <iframe width="560" height="315" src="https://www.youtube.com/embed/bXle2TWJOTI?si=GD8ObyQW6GjK6KaP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -531,6 +531,11 @@ $firstNews = $newsItems[0];
                             <div class="item">
                                    <a href="https://portal.coiim.es/" target="_blank">
                                        <img src="assets/base/img/volunfair/patrocinadores/Ingenieros_IndustrialesLogo1" title ="COIIM" alt="COIIM"  width="100%" />
+                                   </a>
+                            </div>
+                            <div class="item">
+                                   <a href="https://www.aguilera-ingenieros.com/" target="_blank">
+                                       <img src="assets/base/img/volunfair/patrocinadores/aguilera_ingenieros_logo.jpg" title ="AguileraIngenieros" alt="AguileraIngenieros"  width="100%" />
                                    </a>
                             </div>
                             <div class="item">

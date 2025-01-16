@@ -262,7 +262,7 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 			echo '<div class="row">'."\n";
 				echo '<div class="col-md-12">'."\n";
 					echo '<div class="c-content-title-1">'."\n";
-						echo '<h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30"> DEPARTAMENTOS 2024</h3>'."\n";
+						echo '<h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30"> DEPARTAMENTOS 2025</h3>'."\n";
 							echo '<div class="c-line-center c-theme-bg"></div>'."\n";
 								echo '<p class="c-font-center c-font-bold c-font-uppercase c-margin-b-30">Pulsa en cada grupo para ver a los componentes </p>'."\n";
 							echo '</div>'."\n";
@@ -289,6 +289,7 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 
 		// --- Estructura intermedia
 						echo '<div class="c-tab-content">'."\n";
+						//echo '<div >'."\n";
 							echo '<div class="c-bg-img-center1" style="background-image: url('  . $base_url . 'base/img/volunfair/fondos/fondo1.jpg)">'."\n";
 								echo '<div class="container">'."\n";
 									echo '<div class="tab-content">'."\n";

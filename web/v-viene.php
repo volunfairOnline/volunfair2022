@@ -49,6 +49,56 @@ escribe_cabecera();
             </div>
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
 
+
+                <!-- BEGIN: CUENTA ATRÁS -->
+                <br /><br /><br /><br />
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets\base\img\volunfair\Fotos2024/Fondos\puente_8.png">
+                        <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="c-content-media-1 c-center c-bordered wow animated flash">
+                                    <div class="col-md-12">
+                                        <div class="c-content-title-1">
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2025 será realidad en ... </h3>
+                                        </div>
+                                    </div>
+                                    
+                                    <div id="deadline-message" class="deadline-message">
+                                    ¡Ya está aquí!
+                                    </div>
+                                    <div id="countdown" class="countdown">
+                                        <div class="countdown-number">
+                                            <span class="days countdown-time"></span>
+                                            <span class="countdown-text">Días</span>
+                                        </div>
+                                        <div class="countdown-number">
+                                            <span class="hours countdown-time"></span>
+                                            <span class="countdown-text">Horas</span>
+                                        </div>
+                                        <div class="countdown-number">
+                                            <span class="minutes countdown-time"></span>
+                                            <span class="countdown-text">Minutos</span>
+                                        </div>
+                                        <div class="countdown-number">
+                                            <span class="seconds countdown-time"></span>
+                                            <span class="countdown-text">Segundos</span>
+                                        </div>
+                                    </div>
+                                    
+                                    <br /><br />                                
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    
+                <!-- 
+                    https://denis-creative.com/jstimer/
+                    https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
+                -->
+                <!-- END: CUENTA ATRÁS -->
+
+
             <!-- BEGIN: TITULO -->
 			 <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
@@ -119,97 +169,23 @@ escribe_cabecera();
                         </div>
             <!--- END: TÍTULO -->
 
-            <!-- BEGIN: CUENTA ATRÁS -->
-            <!-- 
-             <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2024/Fondos/pared_ladrillo.jpg">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="c-content-media-1 c-center c-bordered wow animated flash">
-                                    <div class="col-md-12">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2024 será realidad en ... </h3>
-                                        </div>
-                                    </div>
-
-                                    <div id="countdown" class="countdown">
-                                        <div class="countdown-number">
-                                            <span class="days countdown-time"></span>
-                                            <span class="countdown-text">Días</span>
-                                        </div>
-                                        <div class="countdown-number">
-                                            <span class="hours countdown-time"></span>
-                                            <span class="countdown-text">Horas</span>
-                                        </div>
-                                        <div class="countdown-number">
-                                            <span class="minutes countdown-time"></span>
-                                            <span class="countdown-text">Minutos</span>
-                                        </div>
-                                        <div class="countdown-number">
-                                            <span class="seconds countdown-time"></span>
-                                            <span class="countdown-text">Segundos</span>
-                                        </div>
-                                    </div>
-                                    <br /><br />                                
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    -->
-                <!-- 
-                    https://denis-creative.com/jstimer/
-                    https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
-                -->
-                <!-- END: CUENTA ATRÁS -->
-
-             <!-- BEGIN: RIFA -->
-             <!--
-                <br /><br /><br />
-                
-                <div class="row c-content-box c-size" style="margin-top: 0px;">
-                <div class="col-md-3 ">
-                </div>
-                <div class="col-md-3">
-                    <div id="flip-container" style="width: 250px;">
-                        <div id="card1" class="card">
-                            <div class="front row">
-                                <img class="card-img-top" src="./assets/base/img/volunfair/online-logos/ticket.svg" alt="Rifa">
-                            </div>
-                            <div class="back row"><p class="textStart">Disfruta de alguno de nuestros premios</p><button onclick="location.href='./v-rifa'" class="button-start col-10"> ¡Quiero! </button></div>
-                        </div>
-                    </div>		  
-                </div>
-                <div class="col-md-3">
-                    <div id="flip-container" style="width: 250px;">
-                        <div id="card1" class="card">
-                            <div class="front row">
-                                <img class="card-img-top" src="./assets/base/img/volunfair/online-logos/world-wide-web.svg" alt="Ponencias">
-                            </div>
-                            <div class="back row"><p class="textStart">Conéctate en directo a las historias de nuestros ponentes</p><button onclick="window.open('https://www.youtube.com/watch?v=AzWOxlWli5g')" class="button-start col-10"> ¡Quiero! </button></div>
-                        </div>
-                    </div>		  
-                </div>
-                <div class="col-md-3 ">
-                </div>
-                </div>
-                <br /><br /> 
             
-                    
-            </div>
-        -->
-            <!-- END: RIFA -->
+
+             
 
             <!-- PONENTES ACTUALES-->
+             <!--
             <br /><br />
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase  c-font-bold">Jueves 8</h2>   
                 <p class="c-center" >Acto inaugural de VOLUNFAIR 2024 a las <em>13:30</em> en el <em>Salón de Actos</em></p>                      
-            </div>
+            </div> -->
 
 
             <!-- BEGIN: Montse y Javier Cascón-->  
+             <!--
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets/base/img/volunfair/Fotos2024/Fondos/puente2.jpg">
                     <div class="container">
@@ -256,10 +232,10 @@ escribe_cabecera();
                  <br />
              </div>   
              </div>                    
-            </div>
+            </div> -->
             <!-- END: Montse y Javier Cascon -->
 
-            <br> <br /> <br> <br /> <br> <br /> 
+            <!--
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
@@ -267,16 +243,21 @@ escribe_cabecera();
                 <p class="c-center" >A las <em>18:30</em> en el <em>Salón de Actos</em> podrás conocer a personas fascinantes</p>                      
             </div>
 
+                                -->
+
             <!-- BEGIN: Sinacio y Marta Barroso  -->
+            <!--
             <div class="c-content-box c-size-md">
                 <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets/base/img/volunfair/Fotos2024/Fondos/puente2.jpg">
                     <div class="container c-center">
+                                -->
                         <div class="row">
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <div class="col-md-2">
                             </div>
                             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <!-- BEGIN: Sinacio -->
+                             <!--
                             <div class="col-md-8">
                                 <div class="col-md-12">
                                     <br />
@@ -306,12 +287,11 @@ escribe_cabecera();
                                 </div>
                                 
                             </div>
-                            
-                            <!-- END: Sinacio-->
-
-                            <br /><br/><br /><br/><br /><br/>                            
+                                -->
+                            <!-- END: Sinacio-->                        
 
                             <!-- BEGIN: Marta Barroso -->
+                             <!--
                             <div class="col-md-8">
                                 <div class="col-md-12">
                                     <br />
@@ -340,9 +320,10 @@ escribe_cabecera();
                                 </div>
                                 
                             </div>
+                                -->
                             
                             <!-- END: Marta Barroso-->
-
+                            
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <div class="col-md-2">
                             </div>
@@ -354,11 +335,11 @@ escribe_cabecera();
                 <br /><br/>
             </div>
             <!-- END: Sinacio y Marta Barroso -->
-     
+     <!--
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase c-font-bold">Y con la colaboración de:</h2>                    
-            </div>
+            </div> -->
 
             <br />
 
@@ -368,6 +349,7 @@ escribe_cabecera();
 
             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
             <!-- BEGIN: PABLO  -->
+             <!--
             <div class="row">
                 <div class="col-md-2">
                     <div class="col-md-12">
@@ -385,6 +367,7 @@ escribe_cabecera();
                 </div>
                 
             </div>
+                                -->
             <!-- END: PABLO  -->
             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
             <div class="col-md-4">
