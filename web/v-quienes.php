@@ -414,33 +414,33 @@ escribe_cabecera();
 
                 "Redes Sociales" => [
                         ['nombre' => 'Ana González',			            'foto' => 'rrssanagonzalez'],
-                        ['nombre' => 'Sofia Aledo',		            'foto' => 'rrsscarloslanchares'],
-                        ['nombre' => 'Patricia Garcia',       'foto' => 'rrssbelencabello'],
-                        ['nombre' => 'Ale Rubio',			            'foto' => 'rrssblancamunoz'],
-                        ['nombre' => 'Sofía Araujo',		            'foto' => 'rrssalevalero'],
-                        ['nombre' => 'Candela Arias',	            'foto' => 'rrssalmualonso'],
-                        ['nombre' => 'Patricia Alocén',		                'foto' => 'rrsssaragonzalez'],
-                        ['nombre' => 'Sol Linares ',                         'foto' => 'rrssjaimegomez'],
-                        ['nombre' => 'Lucía Molina',     		                    'foto' => 'rrsssolete'],
-                        ['nombre' => 'Bea Maldonado',     			        'foto' => 'rrsspepapostigo']
+                        //['nombre' => 'Sofia Aledo',		                'foto' => 'rrsscarloslanchares'],
+                        //['nombre' => 'Patricia Garcia',                   'foto' => 'rrssbelencabello'],
+                        //['nombre' => 'Ale Rubio',			                'foto' => 'rrssblancamunoz'],
+                        //['nombre' => 'Sofía Araujo',		                'foto' => 'rrssalevalero'],
+                        //['nombre' => 'Candela Arias',	                    'foto' => 'rrssalmualonso'],
+                        //['nombre' => 'Patricia Alocén',		            'foto' => 'rrsssaragonzalez'],
+                        //['nombre' => 'Sol Linares ',                      'foto' => 'rrssjaimegomez'],
+                        //['nombre' => 'Lucía Molina',                      'foto' => 'rrsssolete'],
+                        //['nombre' => 'Bea Maldonado',         	        'foto' => 'rrsspepapostigo']
                     ],
 
                     "Recursos Humanos" => [
                         ['nombre' => 'José Vives',				            'foto' => 'rrhhjosevives'],
-                        ['nombre' => 'Brenda Ascanio',			        'foto' => 'rrhhvictoriasarabia'],
-                        ['nombre' => 'Almudena Andreu',			    'foto' => 'rrhhcarmengonzalezaller'],
-                        ['nombre' => 'Manuela Sánchez',		            'foto' => 'rrhhinigoarreytunandia'],
-                        ['nombre' => 'Lourdes Quintana',				        'foto' => 'rrhhpatriciagarcia'],
-                        ['nombre' => 'Carlos Villarino',				        'foto' => 'rrhhisabelcornide'],
-                        ['nombre' => 'Arantxa Pérez-Miranda ',			            'foto' => 'rrhhsantiagopuelles'],
-                        ['nombre' => 'Sol Bernard',				        'foto' => 'rrhhsolbernard'],
+                        //['nombre' => 'Brenda Ascanio',			        'foto' => 'rrhhvictoriasarabia'],
+                        ['nombre' => 'Almudena Andreu',			            'foto' => 'rrhhalmudenaandreu'],
+                        //['nombre' => 'Manuela Sánchez',		            'foto' => 'rrhhinigoarreytunandia'],
+                        //['nombre' => 'Lourdes Quintana',				    'foto' => 'rrhhpatriciagarcia'],
+                        //['nombre' => 'Carlos Villarino',				    'foto' => 'rrhhisabelcornide'],
+                        //['nombre' => 'Arantxa Pérez-Miranda ',			'foto' => 'rrhhsantiagopuelles'],
+                        //['nombre' => 'Sol Bernard',				        'foto' => 'rrhhsolbernard'],
                         ['nombre' => 'Inés Delgado',				        'foto' => 'rrhhinesdelgado'],
-                        ['nombre' => 'Nicolás Ferreiro',				        'foto' => 'rrhhalejandrarubio'],
-                        ['nombre' => 'José López',				    'foto' => 'rrhhcandelaarias'],
-                        ['nombre' => 'Javier Ranninger',				    'foto' => 'rrhhpatriciaalocen'],
-                        ['nombre' => 'Ainhoa Orta',				        'foto' => 'rrhhpablojimenez'],
-                        ['nombre' => 'Jesús Fernández-Cordeiro',				        'foto' => 'rrhhpablojimenez'],
-                        ['nombre' => 'Patricia Martínez',				        'foto' => 'rrhhpablojimenez']
+                        //['nombre' => 'Nicolás Ferreiro',				    'foto' => 'rrhhalejandrarubio'],
+                        //['nombre' => 'José López',				        'foto' => 'rrhhcandelaarias'],
+                        //['nombre' => 'Javier Ranninger',				    'foto' => 'rrhhpatriciaalocen'],
+                        ['nombre' => 'Ainhoa Orta',				            'foto' => 'ongsainhoaorta'],
+                        //['nombre' => 'Jesús Fernández-Cordeiro',			'foto' => 'rrhhpablojimenez'],
+                        //['nombre' => 'Patricia Martínez',				    'foto' => 'rrhhpablojimenez']
                     ],
                 ];
 
