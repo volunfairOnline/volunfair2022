@@ -206,7 +206,7 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold">EQUIPO EDICIÓN 2025</h3>
                                         <div class="c-line-left"></div>
-                                        <p class="c-font-lowercase">CENA DE BIENVENIDA <br>
+                                        <p class="c-font-lowercase" style="text-align: justify;"> <b> CENA DE BIENVENIDA </b> <br>
                                         </br>Los miembros de VOLUNFAIR celebraron su cena anual en Domino’s Pizza, convirtiéndola en una noche llena de risas y 
                                         buen rollo. Entre pizzas y refrescos, disfrutaron de diferentes juegos y dinámicas grupales que no solo les hicieron pasar 
                                         un rato divertido, sino que también les ayudaron a conocerse mejor y reforzar los lazos del equipo. Fue una velada especial
@@ -228,7 +228,7 @@ escribe_cabecera();
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"> #EstasATiempo</h3>
                                         <div class="c-line-left"></div>
-                                        <p class="c-font-lowercase">TORNEO DE PÁDEL <br>
+                                        <p class="c-font-lowercase" style="text-align: justify;"> <b> TORNEO DE PÁDEL</b> <br>
                                         </br>Sumérgete en la emoción del torneo de pádel de Volunfair! Recientemente, vivimos una jornada espectacular con partidos emocionantes, buen rollo 
                                         y premios que coronaron una experiencia maravillosa. La pista se llenó de risas y emoción, demostrando que en Volunfair, la diversión está en cada set. 
                                         La pasión por el pádel se mezcló con las ganas de seguir creando este  gran grupo y la alegría de disfrutar en cada juego. ¡Es tiempo de seguir 
@@ -276,7 +276,7 @@ escribe_cabecera();
                                 <div class="c-contact">
                                     <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold"> </h3>
-                                        <p class="c-font-lowercase">RECOGIDA DE ALIMENTOS <br>
+                                        <p class="c-font-lowercase" style="text-align: justify;"> <b> RECOGIDA DE ALIMENTOS </b> <br>
                                         </br> Los días 3, 4 y 5 de diciembre nos lanzamos de cabeza a recoger alimentos con el equipo de Volunfair: comida, productos de higiene, 
                                         cosas para los peques. En esos dos días, nos dimos cuenta de que Volunfair no es solo una feria de voluntariados, es el hecho de no desperdiciar el momento
                                          y de darlo todo día tras día. La gente se volcó con nosotros y esto es más que una feria, es el poder de hacer algo grande juntos.</p>

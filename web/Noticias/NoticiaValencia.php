@@ -113,18 +113,18 @@ escribe_cabecera();
 					<h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Recogida para ayudar a Valencia</h3>
 								<!-- para que el texto rebote añadir "bounceIn"--> 
 					
-								<p>
+								<p style="text-align: justify;">
 									Tras la <b>DANA en Valencia</b>, VOLUNFAIR no dudó en ponerse manos a la obra para ayudar a losafectados, organizando una gran
 									<b>recogida solidaria en la ETSII</b>.
 								</p>
 								
-								<p>
+								<p style="text-align: justify;">
 									Reunimos productos de higiene, limpieza, medicinas y otros básicos esenciales, contando con unaimpresionante respuesta de la comunidad. Conseguimos recoger
 									<b>alrededor de 1000 pañales y mascarillas, más de 100 guantes y muchos otros productos de limpieza
 									</b>, como lejía y escobas.
 								</p>	
 
-								<p>
+								<p style="text-align: justify;">
 								Se organizaron con turnos y una coordinación impecable, asegurándose de que todo funcionara demanera eficiente. Gracias a su esfuerzo y energía, lograron movilizar mucha ayuda y demostrar que, enlos momentos difíciles, el
 								<b>trabajo en equipo</b> marca la diferencia.
 								</p>

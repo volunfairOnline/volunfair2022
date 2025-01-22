@@ -8,10 +8,13 @@ escribe_cabecera(1);
 
 // Definimos las noticias
 $newsItems = [
-    ['title' => 'Noticia Padel', 'img' => $base_url_main . '/assets/base/img/volunfair/foto2.jpg', 'link' => $base_url_main . 'Noticias/NoticiaPadel.php'],
-    ['title' => 'Noticia Valencia', 'img' => $base_url_main . '/assets/base/img/volunfair/foto4.jpg', 'link' => $base_url_main . 'Noticias/NoticiaValencia.php'],
-    ['title' => 'Noticia Vaughan', 'img' => $base_url_main . '/assets/base/img/volunfair/foto5.jpg', 'link' => $base_url_main . 'Noticias/NoticiaVaughan.php']
+    ['title' => 'Noticia Padel', 'img' => $base_url_main . '/assets/base/img/volunfair/Noticias/padel2025.jpg', 'link' => $base_url_main . 'Noticias/NoticiaPadel.php'],
+    ['title' => 'DonaXDana', 'img' => $base_url_main . '/assets/base/img/volunfair/Noticias/donaxdana.jpg', 'link' => $base_url_main . 'Noticias/NoticiaValencia.php'],
+    //['title' => 'Recogida de alimentos', 'img' => $base_url_main . '/assets/base/img/volunfair/Noticias/recogida2024.jpg', 'link' => $base_url_main . 'Noticias/Recogida2024.php'],
+    ['title' => 'Charla con Richard Vaughan', 'img' => $base_url_main . '/assets/base/img/volunfair/Noticias/vaughan.jpg', 'link' => $base_url_main . 'Noticias/NoticiaVaughan.php']
 ];
+// No poner coma , después de la última fila, porque da error
+
 
 // Seleccionamos la primera noticia
 $firstNews = $newsItems[0];
@@ -118,97 +121,6 @@ $firstNews = $newsItems[0];
                     https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
                 -->
             <!-- END: CUENTA ATRÁS -->
-
-            <!-- BEGIN: CONTENT/SLIDERS/NOTICIAS -->
-            <div class="c-content-box c-size-md c-bg-white">
-                <div class="container">
-                        <div class="c-content-title-1">
-                            <h3 class="c-center c-font-uppercase c-font-bold">ÚLTIMAS NOTICIAS</h3>
-                            <div class="c-line-center c-theme-bg"></div>
-                        </div>
-
-                        <div class="new-carousel-container">
-                            <div class="carousel">
-                                <?php foreach ($newsItems as $index => $news): ?>
-                                    <div class="item2 <?= $index === 0 ? 'active' : '' ?>">
-                                        <a href="<?= $news['link'] ?>">
-                                            <img src="<?= $news['img'] ?>" alt="Imagen de <?= htmlspecialchars($news['title']) ?>" />
-                                            <p class="caption"><?= htmlspecialchars($news['title']) ?></p>
-                                        </a>
-                                    </div>
-                                <?php endforeach; ?>
-                            </div>
-                            <button class="btn prev">Anterior</button>
-                            <button class="btn next">Siguiente</button>
-                            <div class="dots"></div>
-                        </div>
-
-                        <!-- JavaScript -->
-                        <!-- Aquí va el código JavaScript -->
-                        <script>
-                            document.addEventListener("DOMContentLoaded", function () {
-                            let carousel = document.querySelector(".carousel");
-                            let items = carousel.querySelectorAll(".item2");
-                            let dotsContainer = document.querySelector(".dots");
-
-                            // Insertar los puntos (dots) en el DOM
-                            items.forEach((_, index) => {
-                                let dot = document.createElement("span");
-                                dot.classList.add("dot");
-                                if (index === 0) dot.classList.add("active");
-                                dot.dataset.index = index;
-                                dotsContainer.appendChild(dot);
-                            });
-
-                            let dots = document.querySelectorAll(".dot");
-
-                            // Función para mostrar un item específico
-                            function showItem(index) {
-                                items.forEach((item, idx) => {
-                                item.classList.remove("active");
-                                dots[idx].classList.remove("active");
-                                if (idx === index) {
-                                    item.classList.add("active");
-                                    dots[idx].classList.add("active");
-                                }
-                                });
-                            }
-
-                            // Eventos para los botones de navegación
-                            document.querySelector(".prev").addEventListener("click", () => {
-                                let index = [...items].findIndex((item) =>
-                                item.classList.contains("active")
-                                );
-                                showItem((index - 1 + items.length) % items.length);
-                            });
-
-                            document.querySelector(".next").addEventListener("click", () => {
-                                let index = [...items].findIndex((item) =>
-                                item.classList.contains("active")
-                                );
-                                showItem((index + 1) % items.length);
-                            });
-
-                            // Eventos para los puntos (dots)
-                            dots.forEach((dot) => {
-                                dot.addEventListener("click", () => {
-                                let index = parseInt(dot.dataset.index);
-                                showItem(index);
-                                });
-                            });
-
-                            // Avance automático cada 5 segundos
-                            let currentIndex = 0;
-                            setInterval(() => {
-                                currentIndex = (currentIndex + 1) % items.length;
-                                showItem(currentIndex);
-                            }, 5000); // 5000ms = 5 segundos
-                            });
-                        </script>            
-
-            </div>
-            </div>
-
 
 
             <div class="c-content-box c-size-md c-bg-white">
@@ -365,6 +277,99 @@ $firstNews = $newsItems[0];
 
                     </div> -->
 
+                    
+            <!-- BEGIN: CONTENT/SLIDERS/NOTICIAS -->
+            <div class="c-content-box c-size-md c-bg-white">
+                <div class="container">
+                        <div class="c-content-title-1">
+                            <h3 class="c-center c-font-uppercase c-font-bold">ÚLTIMAS NOTICIAS</h3>
+                            <div class="c-line-center c-theme-bg"></div>
+                        </div>
+
+                        <div class="new-carousel-container">
+                            <div class="carousel">
+                                <?php foreach ($newsItems as $index => $news): ?>
+                                    <div class="item2 <?= $index === 0 ? 'active' : '' ?>">
+                                        <a href="<?= $news['link'] ?>">
+                                            <img src="<?= $news['img'] ?>" alt="Imagen de <?= htmlspecialchars($news['title']) ?>" />
+                                            <p class="caption"><?= htmlspecialchars($news['title']) ?></p>
+                                        </a>
+                                    </div>
+                                <?php endforeach; ?>
+                            </div>
+                            <button class="btn prev">Anterior</button>
+                            <button class="btn next">Siguiente</button>
+                            <div class="dots"></div>
+                        </div>
+
+                        <!-- JavaScript -->
+                        <!-- Aquí va el código JavaScript -->
+                        <script>
+                            document.addEventListener("DOMContentLoaded", function () {
+                            let carousel = document.querySelector(".carousel");
+                            let items = carousel.querySelectorAll(".item2");
+                            let dotsContainer = document.querySelector(".dots");
+
+                            // Insertar los puntos (dots) en el DOM
+                            items.forEach((_, index) => {
+                                let dot = document.createElement("span");
+                                dot.classList.add("dot");
+                                if (index === 0) dot.classList.add("active");
+                                dot.dataset.index = index;
+                                dotsContainer.appendChild(dot);
+                            });
+
+                            let dots = document.querySelectorAll(".dot");
+
+                            // Función para mostrar un item específico
+                            function showItem(index) {
+                                items.forEach((item, idx) => {
+                                item.classList.remove("active");
+                                dots[idx].classList.remove("active");
+                                if (idx === index) {
+                                    item.classList.add("active");
+                                    dots[idx].classList.add("active");
+                                }
+                                });
+                            }
+
+                            // Eventos para los botones de navegación
+                            document.querySelector(".prev").addEventListener("click", () => {
+                                let index = [...items].findIndex((item) =>
+                                item.classList.contains("active")
+                                );
+                                showItem((index - 1 + items.length) % items.length);
+                            });
+
+                            document.querySelector(".next").addEventListener("click", () => {
+                                let index = [...items].findIndex((item) =>
+                                item.classList.contains("active")
+                                );
+                                showItem((index + 1) % items.length);
+                            });
+
+                            // Eventos para los puntos (dots)
+                            dots.forEach((dot) => {
+                                dot.addEventListener("click", () => {
+                                let index = parseInt(dot.dataset.index);
+                                showItem(index);
+                                });
+                            });
+
+                            // Avance automático cada 5 segundos
+                            let currentIndex = 0;
+                            setInterval(() => {
+                                currentIndex = (currentIndex + 1) % items.length;
+                                showItem(currentIndex);
+                            }, 5000); // 5000ms = 5 segundos
+                            });
+                        </script>            
+
+            </div>
+            </div>
+            <!-- END: CONTENT/SLIDERS/NOTICIAS -->
+
+            
                     <!-- Vídeos qué es volunfair ordenador-->
                     <div class="solomediano1">
                     <div class="col-md-12 c-content-box c-size-md c-bordered wow animated">
