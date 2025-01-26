@@ -184,41 +184,51 @@ img.c-mobile-logo {
 	border-radius: 70%;
 }*/
 
-/* Efecto al pasar el ratón */
-.v-invisible {
-	opacity: 0;
-	position: absolute;
-	top: 0;
-	left: 0;
-	/*transition: .5s ease;*/
-}
-.imagenes:hover .v-invisible {
-	opacity: 1;
+.imagenes {
+  text-align: center; /* Centra el contenido dentro del contenedor */
+  position: relative; /* Contexto para el posicionamiento de imágenes absolutas */
 }
 
-/* Ajustes de tamaño */
+.imagenes img {
+  display: block; /* Hace que las imágenes ocupen toda la línea */
+  width: 100%; /* Ocupan el 100% del ancho del contenedor padre */
+  height: auto; /* Mantiene las proporciones originales */
+  max-width: 255px; /* Máximo ancho permitido */
+  object-fit: cover; /* Ajusta las imágenes sin distorsión */
+  margin: 0 auto; /* Centra las imágenes horizontalmente */
+  box-sizing: border-box; /* Incluye bordes y padding en el cálculo del ancho */
+}
+
+.v-invisible {
+  opacity: 0; /* Oculta visualmente la imagen */
+  position: absolute; /* Superpone la imagen invisible sobre la visible */
+  top: 0; /* Alinea la imagen invisible con la visible */
+  left: 50%; /* Posiciona la imagen invisible en el centro horizontal */
+  transform: translateX(-50%); /* Ajusta el centrado perfecto */
+  width: 100%; /* Asegura que tenga el mismo ancho que la visible */
+  max-width: 255px; /* Igual limitación que la imagen visible */
+  height: auto; /* Mantiene las proporciones originales */
+  transition: opacity 0.5s ease; /* Efecto suave al hacer hover */
+  z-index: 1; /* Coloca la imagen invisible por encima */
+}
+
+.imagenes:hover .v-invisible {
+  opacity: 1; /* Muestra la imagen invisible al pasar el ratón */
+}
+
+.imagenes span {
+  display: block; /* Asegura que el texto esté debajo de las imágenes */
+  margin-top: 10px; /* Añade espacio entre las imágenes y el texto */
+}
+
+/* Ajustes de tamaño para pantallas más pequeñas */
 @media (max-width: 1200px) {
-	.imagenes:hover .v-invisible {
-		max-width: 205px;
-		left: 15px;
-	}
-	.imagenes img {
-		max-width:205px;
-		max-height: 136px;
-		object-fit: cover;
-	}
+  .imagenes img,
+  .imagenes .v-invisible {
+      max-width: 205px; /* Tamaño máximo en pantallas pequeñas */
+  }
 }
-@media (min-width: 1200px) {
-	.imagenes:hover .v-invisible {
-		max-width: 255px;
-		left: 15px;
-	}
-	.imagenes img {
-		max-width:255px;
-		max-height: 170px;
-		object-fit: cover;
-	}
-}
+
 /* Fin imágenes equipo */
 
 /* Chapuza para que se vea siempre la imagen de inicio */

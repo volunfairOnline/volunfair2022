@@ -291,7 +291,8 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 						echo '<div class="c-tab-content">'."\n";
 						//echo '<div >'."\n";
 							echo '<div class="c-bg-img-center1" style="background-image: url('  . $base_url . 'base/img/volunfair/fondos/fondo1.jpg)">'."\n";
-								echo '<div class="container">'."\n";
+								echo '<div class="container" style="width: 100%;">'."\n";
+								
 									echo '<div class="tab-content">'."\n";
 
 		// --- Fotos (y nombre si se activa) de los distintos miembros, departamento a departamento

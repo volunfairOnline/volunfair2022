@@ -12510,3 +12510,11 @@ h1 {
     }
   }
 }
+
+.responsive-iframe {
+  width: 100%;       /* La anchura será del 100% del padre */
+  max-width: 650px;  /* Pero no superará los 650px */
+  height: auto;      /* Mantendrá las proporciones según el ancho */
+  aspect-ratio: 650 / 350; /* Mantiene la proporción del video si el padre cambia de tamaño */
+}
+

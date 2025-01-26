@@ -387,13 +387,31 @@ $firstNews = $newsItems[0];
 								<iframe width="530" height="315" src="https://www.youtube.com/embed/XCDD0jHUA-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 							</div>-->
                             <div class="row c-center wow animated fadeInUp">
-                            <iframe width="650" height="350" src="https://www.youtube.com/embed/fLBQWNt3CLM?si=fLBQWNt3CLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                            </div>
+                                <iframe 
+                                    class="responsive-iframe" 
+                                    width="650" 
+                                    height="350" 
+                                    src="https://www.youtube.com/embed/fLBQWNt3CLM?si=fLBQWNt3CLM" 
+                                    title="YouTube video player" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                    referrerpolicy="strict-origin-when-cross-origin" 
+                                    allowfullscreen>
+                                </iframe>                            </div>
                             <div class="row c-center wow animated fadeInUp">
                           
-                            <iframe width="650" height="350" src="https://www.youtube.com/embed/bXle2TWJOTI?si=GD8ObyQW6GjK6KaP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                            </div>
-                            
+                                <iframe 
+                                    class="responsive-iframe" 
+                                    width="650" 
+                                    height="350" 
+                                    src="https://www.youtube.com/embed/bXle2TWJOTI?si=GD8ObyQW6GjK6KaP" 
+                                    title="YouTube video player" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                    referrerpolicy="strict-origin-when-cross-origin" 
+                                    allowfullscreen>
+                                </iframe>                                 </div>
+                          
                             <br />
                             
                         </div>
@@ -413,10 +431,10 @@ $firstNews = $newsItems[0];
 
                         <div class="c-bg-white c-content-media-1 c-bordered">
                             <div class="row c-center wow animated fadeInUp">
-                                <iframe width="650" height="350" src="https://www.youtube.com/embed/fLBQWNt3CLM?si=7uDG1eS9KkWL5HFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                <iframe width="100%" height="350" src="https://www.youtube.com/embed/fLBQWNt3CLM?si=7uDG1eS9KkWL5HFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                             </div>
                             <div class="row c-center wow animated fadeInUp">
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/bXle2TWJOTI?si=GD8ObyQW6GjK6KaP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/bXle2TWJOTI?si=GD8ObyQW6GjK6KaP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                             </div>
                             <br />                  
                         </div>
