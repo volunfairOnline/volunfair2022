@@ -280,7 +280,7 @@ escribe_cabecera();
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                     <div class="col-md-5">
-                        <img src="assets\base\img\volunfair\Fotos2024/jefazos.jpg" alt="Blanca y Diego" title="Blanca y Diego" class="animated wow swing" width="100%" />
+                        <img src="assets\base\img\volunfair\Fotos2024\jefazos.jpg" alt="Blanca y Diego" title="Blanca y Diego" class="animated wow swing" width="100%" />
                         <div class="c-content-media-1 c-bordered c-center wow animated fadeInLeft" >
                             Nuestros jefes: Blanca Verdes y Diego Álvarez
                         </div>
