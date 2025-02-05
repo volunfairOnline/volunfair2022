@@ -63,10 +63,17 @@ escribe_cabecera();
         <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2024</h3>
-                    <div class="c-line-center c-theme-bg"></div>
-                    <p class="c-center" >La novena edición de <b>VOLUNFAIR</b> fue increíble ¡Gracias! <br />El jueves 8 y viernes 9 de febrero conocimos a todas las entidades sociales que nos acompañaron este año.
-                    <br /> Además, con unos ponentes de mucho nivel, que compartieron un buen rato con nosotros. ¡Vuelve a escucharles!</p>  
-					
+                    <div class="c-line-center c-theme-bg"></div> 
+                    <p class="c-font-lowercase" style="text-align: justify;">En 2023 parecía que nos habíamos pasado el juego, así que, al principio, no supimos cómo empezar la novena edición. 
+                        Pero pronto la genialidad del equipazo dio paso a unos meses de preparación de algo no solo muy grande sino también, y quizás, 
+                        ante todo, muy divertido. Al grito de <b>#PuenteEnPie</b>., nuestros jefazos, Blanca y Diego, fueron los arquitectos de una obra cuya
+                         teja final fue un concierto en el que todo un salón de actos lleno gritó que <b>entregarse a los demás merece la pena</b>. </p>
+                    <p class="c-font-lowercase" style="text-align: justify;">VOLUNFAIR 2024 no tuvo las dificultades monetarias de los primeros años, ni la falta de mano de obra cuando más hacía falta. Pero tuvo un 
+                        equipo entregado al 100%, dispuesto a parar a la gente por la calle para contarle lo que es VOLUNFAIR e invitarle a cambiar su vida. 
+                        Tuvo a <b>Marta Barroso</b> como ponente sorpresa de la edición. Tuvo a varias radios acudiendo en directo y apariciones en un podcast. 
+                        Y, por primera vez, tuvo cuatro pancartas gigantes anunciando la feria en el <b>Metro de Madrid</b>, porque lo que tenemos claro, nueve 
+                        años después, es que sigue habiendo mucha gente ahí fuera queriendo cambiar su vida y la de los demás pero que no saben cómo hacerlo.</p>
+                        <br />
 				</div>
                 
         </div>
