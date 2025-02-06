@@ -150,7 +150,7 @@ $firstNews = $newsItems[0];
                             <br></br>
 
                             PRÓXIMAMENTE… <br></br> 
-                            <b>#PuentEnPie  #ConstruyendoJuntos <br>
+                            <b>#EstasATiempo #NuncaEsTarde <br>
 
                         
 
