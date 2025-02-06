@@ -63,12 +63,12 @@ $firstNews = $newsItems[0];
 
             <!--  Fondos al redimensionar la página -->
                 <div class="solomediano1">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2024\encabezado_1.jpg" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2025\cartel2025.jpg" width="100%">
                 </div>
             
             
                 <div class="solo_peq">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2024\encabezado_1.jpg" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2025\cartel2025.jpg" width="100%">
                 </div>
 			
             <div class="">
