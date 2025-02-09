@@ -99,6 +99,325 @@ escribe_cabecera();
                 <!-- END: CUENTA ATRÁS -->
 
 
+                <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
+				<div class="c-content-title-1">
+					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2025</h3>
+                    <div class="c-line-center c-theme-bg"></div>
+                    <p class="c-center" >El equipo de VOLUNFAIR 2025 tiene el placer de invitarles a la <b>X edición de VOLUNFAIR</b>, que viene pisando fuerte con 3 días de feria. <br /><b>El martes 11, miércoles 12 y jueves 13 </b>de febrero podrá conocer a todas las entidades sociales que nos acompañan este año.
+                    <br /> Además, contamos con unos ponentes de mucho nivel, que compartirán un buen rato con nosotros en la <br /> <b>La Escuela Técnica Superior de Ingenieros Industriales de la UPM (C/ José Gutiérrez Abascal)</b>. ¡Que no te lo cuenten!</p>  
+					
+				</div>
+                
+			</div>
+
+
+                 <!-- PONENTES ACTUALES-->
+             
+            <br /><br />
+
+            <div class="c-content-title-1">
+                <div class="c-line-center c-theme-bg"></div>
+                <h2 class="c-center c-font-uppercase  c-font-bold">Martes 11</h2>   
+                <p class="c-center" >Acto inaugural de VOLUNFAIR 2025 a las <em>12:25</em> en el <em>Salón de Actos</em></p>                      
+            </div>
+
+
+            <!-- BEGIN: Luis de la Fuente -->  
+            
+            <div class="c-content-box c-size-md c-bg-white">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" >
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
+                                    <div class="c-content-title-3 c-theme-border c-right">
+                                        <h3 class="c-right c-font-uppercase c-font-bold">Luis de la Fuente</h3>
+                                        <h4 class="c-right c-font-uppercase c-font-bold">
+                                        <div class="c-right c-line-left "> </div>
+                                    </div>
+                                    
+                                    <div class="c-left">
+                                        <img src="assets\base\img\volunfair\Fotos2025\luisdelafuente.jpg" width="100%" title="Luia de la Fuente" alt="Luis de la Fuente"/>
+                                        <br /><br />
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-md-6" "c-right">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight" style="min-height: 300px;">                                  
+                                    <p class="c-left">
+                                    Luis de la Fuente es un referente no solo en el mundo del fútbol, sino también en el ámbito social. Como entrenador, ha guiado a equipos de élite, 
+                                    transmitiendo valores como el esfuerzo, la disciplina y el trabajo en equipo. Sin embargo, su impacto va más allá del deporte. A través de la asociación Amaqtedu, 
+                                    impulsa programas de formación artística para personas sin hogar, ayudándolas en su reinserción laboral y brindándoles nuevas oportunidades. <br>Gracias a esta iniciativa,
+                                     ha conseguido transformar la vida de cientos de personas en situación de vulnerabilidad. No te pierdas la charla de Luis, donde hablará sobre liderazgo, superación y 
+                                     la importancia de la solidaridad. ¡¡Desde el equipo de VOLUNFAIR le esperamos con gran ilusión y te invitamos para compartirla también contigo!!
+                                    </p>
+    
+                        </div>
+                    </div>
+                    <br/>                               
+                 <br />
+             </div>   
+             </div>                    
+            </div>
+            <!-- END: Luis de la Fuente -->
+
+            <br></br><br></br>
+
+            <div class="c-content-title-1">
+                <div class="c-line-center c-theme-bg"></div>
+                <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 12</h2>   
+                <p class="c-center" >A las <em>13:30</em> en el <em>Salón de Actos</em> podrás conocer a dos personas fascinantes</p>                      
+            </div>
+
+            <!-- BEGIN: Lóla Sánchez y Mariana de Ugarte  -->
+            
+            <div class="c-content-box c-size-md">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" >
+                    <div class="container c-center">
+
+                                <div class="row">
+                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                            <div class="col-md-2">
+                            </div>
+                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                            <!-- BEGIN: Lola Sánchez -->
+                            
+                            <div class="col-md-8">
+                                <div class="col-md-12">
+                                    <br />
+                                    <div>
+                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
+                                            <div class="c-content-title-3 c-theme-border c-right">
+                                                <h3 class="c-right c-font-uppercase c-font-bold"> Lóla Sánchez</h3>
+                                                <h4 class="c-right c-font-uppercase c-font-bold">
+                                                <div class="c-right c-line-left "> </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                        <img src="assets\base\img\volunfair\Fotos2025\lolasanchez.jpeg" width="100%" title="Lola Sánchez" alt="Lola Sánchez" />
+                                    </div>
+                                            <p class="c-right">                                            
+                                            Lola Sánchez, conocida como @abrazandoelplanb en redes sociales, ha inspirado a miles de personas con su historia de superación y resiliencia. 
+                                            A través de sus publicaciones y conferencias, comparte su experiencia personal para motivar a quienes enfrentan cambios inesperados en sus vidas. 
+                                            En 2021, publicó su primer libro, donde relata su viaje de transformación y crecimiento personal ¡¡¡ Ven con nosotros y descubre cómo afrontar los giros 
+                                            inesperados de la vida con valentía y optimismo!!!                                                                                              
+                                            </p>
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- END: Lola Sánchez-->                        
+
+                            <!-- BEGIN: Mariana de Ugarte -->
+                            
+                            <div class="col-md-8">
+                                <div class="col-md-12">
+                                    <br />
+                                    <div>
+                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
+                                            <div class="c-content-title-3 c-theme-border c-right">
+                                                <h3 class="c-right c-font-uppercase c-font-bold"> Mariana de Ugarte</h3>
+                                                <h4 class="c-right c-font-uppercase c-font-bold">
+                                                <div class="c-right c-line-left "> </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                        <img src="assets\base\img\volunfair\Fotos2025\marianadeugarte.jpg" width="100%" title="Mariana de Ugarte" alt="Mariana de Ugarte" />
+                                    </div>
+                                            <p class="c-right">                                            
+                                            En 2019, Mariana de Ugarte fundó una iniciativa social centrada en la educación y el empoderamiento de comunidades vulnerables. 
+                                            A través de su proyecto, ha trabajado con cientos de familias, brindando herramientas y recursos para mejorar su calidad de vida. 
+                                            Ha sido reconocida con premios por su impacto social y ha colaborado con diversas organizaciones internacionales para ampliar su labor. 
+                                            ¡¡¡ No te pierdas su ponencia, donde compartirá su experiencia y consejos sobre cómo generar un impacto positivo en la sociedad !!!                                                                                      
+                                            </p>
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                </div>
+                                
+                            </div>
+                        
+                            
+                            <!-- END: Mariana de Ugarte-->
+
+                            <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+                            <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+
+
+                            <div class="c-content-title-1">
+                <div class="c-line-center c-theme-bg"></div>
+                <h2 class="c-center c-font-uppercase c-font-bold">Jueves 13</h2>   
+                <p class="c-center" >A las <em>13:30</em> en el <em>Salón de Actos</em> conoce a nuestros ponentes</p>                      
+            </div>
+
+
+                            <!-- BEGIN:  Carlos Bobillo y Pablo Delgado de la Serna  -->
+            
+            <div class="c-content-box c-size-md">
+                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" ">
+                    <div class="container c-center">
+                            
+                                <div class="row">
+                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                            <div class="col-md-2">
+                            </div>
+                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                            <!-- BEGIN: Pablo Delgado de la Serna -->
+                            
+                            <div class="col-md-8">
+                                <div class="col-md-12">
+                                    <br />
+                                    <div>
+                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
+                                            <div class="c-content-title-3 c-theme-border c-right">
+                                                <h3 class="c-right c-font-uppercase c-font-bold"> Carlos Bobillo</h3>
+                                                <h4 class="c-right c-font-uppercase c-font-bold">
+                                                <div class="c-right c-line-left "> </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                        <img src="assets\base\img\volunfair\Fotos2025\carlosbobillo.jpg" width="100%" title="Carlos Bobillo" alt="Carlos Bobillo" />
+                                    </div>
+                                            <p class="c-right">                                            
+                                            Carlos Bobillo es el fundador de @ongasu, una organización sin ánimo de lucro que trabaja para mejorar la calidad de vida de personas en situación de vulnerabilidad.
+                                             Desde su creación, ha desarrollado programas de asistencia social, educación y salud que han beneficiado a cientos de personas. Gracias a su trabajo, ha recibido múltiples 
+                                             reconocimientos y continúa expandiendo su impacto con nuevos proyectos solidarios. Acompáñanos a descubrir como la solidaridad y el compromiso pueden transformar vidas.                                                                                              
+                                            </p>
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                </div>
+                                
+                            </div>
+                            
+                            <!-- END: Pablo Delgado de la Serna-->                        
+
+                            <!-- BEGIN: Carlos Bobillo -->
+                            
+                            <div class="col-md-8">
+                                <div class="col-md-12">
+                                    <br />
+                                    <div>
+                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
+                                            <div class="c-content-title-3 c-theme-border c-right">
+                                                <h3 class="c-right c-font-uppercase c-font-bold"> Pablo Delgado de la Serna</h3>
+                                                <h4 class="c-right c-font-uppercase c-font-bold">
+                                                <div class="c-right c-line-left "> </div>
+                                            </div>
+                                            <div class="col-md-4">
+                                        <img src="assets\base\img\volunfair\Fotos2025\pablodelgado.jpeg" width="100%" title="Pablo Delgado de la Serna" alt="Pablo Delgado de la Serna" />
+                                    </div>
+                                            <p class="c-right">                                            
+                                            Pablo Delgado de la Serna, conocido en redes como @untrasplantado, ha utilizado su experiencia como paciente trasplantado para crear conciencia sobre 
+                                            la donación de órganos y la importancia de la salud. Ha trabajado con asociaciones médicas y ha participado en campañas de sensibilización a nivel nacional. 
+                                            Su testimonio ha impactado a miles de personas, promoviendo la solidaridad y la importancia de la ciencia médica. ¿Te vas a perder escuchar su testimonio en 
+                                            persona?                                                                                         
+                                            </p>
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                </div>
+                                
+                            </div>
+                        
+                            
+                            <!-- END: Carlos Bobillo -->
+                            
+                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                            <div class="col-md-2">
+                            </div>
+                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                           </div>
+                    </div>
+                </div>
+                    
+                <br /><br/>
+            </div>
+            <!-- END: Carlos Bobillo y Pablo Delgado de la Serna -->
+                            
+                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                            <div class="col-md-2">
+                            </div>
+                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+                           </div>
+                    </div>
+                </div>
+                    
+                <br /><br/>
+            </div>
+            <!-- END: Lóla Sánchez y Mariana de Ugarte -->
+     
+            <div class="c-content-title-1">
+                <div class="c-line-center c-theme-bg"></div>
+                <h2 class="c-center c-font-uppercase c-font-bold">Y con la colaboración de:</h2>                    
+            </div> 
+
+            <br />
+
+            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+            <div class="col-md-5">
+            </div>
+            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+
+            <!-- BEGIN: MODERADORES  -->
+            
+            <div class="row text-centerd-flex justify-content-center text-center">
+    <div class="col-md-2">
+        <div>
+            <img src="assets/base/img/volunfair/Fotos2025/JaviGonzalez.jpg" width="100%" title="Javier González" alt="Javier González" />
+        </div>
+        <div class="row c-content-media-1 wow animated fadeInRight">
+            <div class="c-center">
+                <h3 class="c-font-uppercase c-font-bold">Javier González</h3>
+                <div>Speaker de VOLUNFAIR 2025</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-2">
+        <div>
+            <img src="assets/base/img/volunfair/Fotos2025/PabloEspana.jpg" width="100%" title="Pablo España" alt="Pablo España" />
+        </div>
+        <div class="row c-content-media-1 wow animated fadeInRight">
+            <div class="c-center">
+                <h3 class="c-font-uppercase c-font-bold">Pablo España</h3>
+                <div>Speaker de VOLUNFAIR 2025</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-2">
+        <div>
+            <img src="assets/base/img/volunfair/Fotos2025/JorgeGS.jpg" width="100%" title="Jorge García" alt="Jorge García" />
+        </div>
+        <div class="row c-content-media-1 wow animated fadeInRight">
+            <div class="c-center">
+                <h3 class="c-font-uppercase c-font-bold">Jorge García Santamaría</h3>
+                <div>Speaker de VOLUNFAIR 2025</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            
+            <!-- END: MODERADORES  -->
+            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+            <div class="col-md-4">
+            </div>
+
+            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
+
+         <!-- END: PONENTES ACTUALES-->
+
             <!-- BEGIN: TITULO -->
 			 <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
@@ -169,213 +488,6 @@ escribe_cabecera();
                         </div>
             <!--- END: TÍTULO -->
 
-            
-
-             
-
-            <!-- PONENTES ACTUALES-->
-             <!--
-            <br /><br />
-
-            <div class="c-content-title-1">
-                <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase  c-font-bold">Jueves 8</h2>   
-                <p class="c-center" >Acto inaugural de VOLUNFAIR 2024 a las <em>13:30</em> en el <em>Salón de Actos</em></p>                      
-            </div> -->
-
-
-            <!-- BEGIN: Montse y Javier Cascón-->  
-             <!--
-            <div class="c-content-box c-size-md c-bg-white">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-image-src="assets/base/img/volunfair/Fotos2024/Fondos/puente2.jpg">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
-                                    <div class="c-content-title-3 c-theme-border c-right">
-                                        <h3 class="c-right c-font-uppercase c-font-bold">Montse (Babies Uganda)</h3>
-                                        <h4 class="c-right c-font-uppercase c-font-bold">
-                                        <div class="c-right c-line-left "> </div>
-                                    </div>
-                                    <p class="c-right">
-                                    Montse y Maribel dirigen y gestionan la ONG desde España y María lo hace sobre el terreno como coordinadora de proyectos en Uganda.
-                                    Tres mujeres unidas con una lucha en común: formar parte del cambio.También cumplen un papel muy importante nuestros voluntarios que,
-                                     desde España, nos ayudan a seguir. Especialmente nuestro equipo de bodas solidarias que, desde hace años, gestionan este proyecto con
-                                      todo el cariño del mundo.
-                                    </p>
-                                    <div class="c-left">
-                                        <img src="assets\base\img\volunfair\Fotos2024\montse.jpeg" width="100%" title="Montse" alt="Montse"/>
-                                        <br /><br />
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                            <div class="col-md-6" "c-right">
-                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight" style="min-height: 300px;">                                  
-                                    <div class="c-content-title-3 c-theme-border c-left">
-                                        <h3 class="c-left c-font-uppercase c-font-bold">Javier Cascón</h3>
-                                        <h4 class="c-left c-font-uppercase c-font-bold">
-                                        <div class="c-left c-line-right "> </div>
-                                    </div>
-                                    <p class="c-left">
-                                    En 2017, con 18 años, Javier creó la asociación Amaqtedu junto a Elizabeth de la Oliva. Esta organización desarrolla programas de formación artística para personas sin hogar
-                                     con el objetivo de ayudarlos en su reinserción laboral. Han trabajado con más de 500 personas sin hogar durante los últimos 3 años. Con ella han recibido uno de los Premios 
-                                     Startup Programme, el Premio de la Comunidad de Madrid a Jóvenes Creadores y otros premios. Además en 2021 publicó el libro "Amen sin tilde" para financiar la compra de una 
-                                     casa para personas sin hogar en este 2022.
-                                    </p>
-                                    <div class="c-right">
-                                <img src="assets\base\img\volunfair\Fotos2024\javiercascon.jpg" width="100%" title="Javier Cascón" alt="Javier Cascón" />
-                            </div>
-                        </div>
-                    </div>
-                    <br/>                               
-                 <br />
-             </div>   
-             </div>                    
-            </div> -->
-            <!-- END: Montse y Javier Cascon -->
-
-            <!--
-
-            <div class="c-content-title-1">
-                <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase c-font-bold">Viernes 9</h2>   
-                <p class="c-center" >A las <em>18:30</em> en el <em>Salón de Actos</em> podrás conocer a personas fascinantes</p>                      
-            </div>
-
-                                -->
-
-            <!-- BEGIN: Sinacio y Marta Barroso  -->
-            <!--
-            <div class="c-content-box c-size-md">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" data-image-src="assets/base/img/volunfair/Fotos2024/Fondos/puente2.jpg">
-                    <div class="container c-center">
-                                -->
-                        <div class="row">
-                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <div class="col-md-2">
-                            </div>
-                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <!-- BEGIN: Sinacio -->
-                             <!--
-                            <div class="col-md-8">
-                                <div class="col-md-12">
-                                    <br />
-                                    <div>
-                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
-                                            <div class="c-content-title-3 c-theme-border c-right">
-                                                <h3 class="c-right c-font-uppercase c-font-bold"> Sinacio</h3>
-                                                <h4 class="c-right c-font-uppercase c-font-bold">
-                                                <div class="c-right c-line-left "> </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                        <img src="assets\base\img\volunfair\Fotos2024\sinacio.jpg" width="100%" title="Sinacio" alt="Sinacio" />
-                                    </div>
-                                            <p class="c-right">                                            
-                                            José Ignacio Salmerón Murciano es un humorista, actor, guionista, presentador, productor español, 
-                                            pero conocido principalmente por su nombre artístico Sinacio y  por su papel como monologuista y cómico.  
-                                            Sus primeros pasos desde bien joven le hicieron trabajar cada verano en lo que podía para poder 
-                                            disfrutar de los veranos en Marbella. Allí, ejerció de caddy de Golf, vendedor de helados y multitud de profesiones.
-                                            Fue a finales de los 80 cuando montó una agencia de publicidad que le cambió la vida. Para nosotros su humor es la forma
-                                            de tender puentes entre personas, por eso viene a compartirlo con nosotros en VOLUNFAIR.                                                                                              
-                                            </p>
-                                            
-                                        </div>
-                                        
-                                    </div>
-                                    
-                                </div>
-                                
-                            </div>
-                                -->
-                            <!-- END: Sinacio-->                        
-
-                            <!-- BEGIN: Marta Barroso -->
-                             <!--
-                            <div class="col-md-8">
-                                <div class="col-md-12">
-                                    <br />
-                                    <div>
-                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
-                                            <div class="c-content-title-3 c-theme-border c-right">
-                                                <h3 class="c-right c-font-uppercase c-font-bold"> Marta Barroso</h3>
-                                                <h4 class="c-right c-font-uppercase c-font-bold">
-                                                <div class="c-right c-line-left "> </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                        <img src="assets\base\img\volunfair\Fotos2024\martabarroso.jpg" width="100%" title="Marta Barroso" alt="Marta Barroso" />
-                                    </div>
-                                            <p class="c-right">                                            
-                                            Marta Barroso es una periodista comprometida con la verdad y la justicia social. Con una amplia experiencia en el campo 
-                                            del periodismo, Marta se destaca por su incansable búsqueda de la verdad y su dedicación a informar con integridad y precisión.
-                                            Además de su labor periodística, Marta es conocida por su activismo en causas sociales. Ha participado activamente en eventos
-                                             benéficos, campañas de concienciación y acciones solidarias, demostrando su compromiso con mejorar la sociedad y apoyar a quienes
-                                              más lo necesitan.                                                                                         
-                                            </p>
-                                            
-                                        </div>
-                                        
-                                    </div>
-                                    
-                                </div>
-                                
-                            </div>
-                                -->
-                            
-                            <!-- END: Marta Barroso-->
-                            
-                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <div class="col-md-2">
-                            </div>
-                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                           </div>
-                    </div>
-                </div>
-                    
-                <br /><br/>
-            </div>
-            <!-- END: Sinacio y Marta Barroso -->
-     <!--
-            <div class="c-content-title-1">
-                <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase c-font-bold">Y con la colaboración de:</h2>                    
-            </div> -->
-
-            <br />
-
-            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-            <div class="col-md-5">
-            </div>
-
-            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-            <!-- BEGIN: PABLO  -->
-             <!--
-            <div class="row">
-                <div class="col-md-2">
-                    <div class="col-md-12">
-                        <div>
-                            <img src="assets/base/img/volunfair/participantes/pablo-espana-falda.jpg" width="100%" title="Pablo España" alt="Pablo España" />
-                        </div>
-                        <div class="row c-content-media-1 wow animated fadeInRight">
-                            <div class="c-center">
-                                <h3 class="c-font-uppercase c-font-bold">Pablo España</h3>
-                                <div>Speaker de VOLUNFAIR 2024</div>
-                            </div>
-                        </div>
-                        <br />
-                    </div>
-                </div>
-                
-            </div>
-                                -->
-            <!-- END: PABLO  -->
-            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-            <div class="col-md-4">
-            </div>
-
-            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-
-         <!-- END: PONENTES ACTUALES-->
         
 
             <!-- END: PAGE CONTENT -->

@@ -159,6 +159,37 @@ $firstNews = $newsItems[0];
                     </div>
 
                     <br/>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 380px;">
+                                <div class="c-content-title-1">
+                                   <h3 class="c-font-uppercase c-font-bold">Dónde estamos</h3>
+                                   <div class="c-line-left c-theme-bg"></div>
+                                 </div>
+                                <p><b>Escuela Técnica Superior de Ingenieros Industriales  <br/>de la Universidad Politécnica de Madrid</b></p>
+                                <p></p>
+                                <p>
+                                	<u>Dirección:</u> <br/>
+                                	C/ José Gutiérrez Abascal, 2 28006 Madrid <br/><br/>
+                                  <u>Metro:</u> <br/>
+                                  Gregorio Marañón (L7, L10) Nuevos Ministerios (L8, L10, L6) República Argentina (L6)<br/><br/>
+                                  <u>Autobús:</u> <br/>	Líneas 7, 12, 14, 27, 40, 45, 147, 150, 250 y Circular 
+
+                                	
+                                	
+                                	
+                                	
+                                	</p>
+ 
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.570610728257!2d-3.6920308846974783!3d40.44050597936237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228ee58976437%3A0xe0887483b829f649!2sEscuela+T%C3%A9cnica+Superior+de+Ingenieros+Industriales+UPM!5e0!3m2!1ses!2ses!4v1482254700732" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
                      
                     <!-- 
                     <div class="c-content-box c-size-md c-bg-white">
@@ -487,49 +518,13 @@ $firstNews = $newsItems[0];
 
                     
                     <br />
-                    <br />
- 
+                    <br /> 
 
                     <p></p>
-                		<p></p>
-                        <!--
-                	  <div class="row">
-                        <div class="col-md-6">
-                            <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 380px;">
-                                
-                                
-                                <div class="c-content-title-1">
-                                   <h3 class="c-font-uppercase c-font-bold">Dónde estamos</h3>
-                                   <div class="c-line-left c-theme-bg"></div>
-                                 </div>
-                                <p><b>Escuela Técnica Superior de Ingenieros Industriales  <br/>de la Universidad Politécnica de Madrid</b></p>
-                                <p></p>
-                                <p>
-                                	<u>Dirección:</u> <br/>
-                                	C/ José Gutiérrez Abascal, 2 28006 Madrid <br/><br/>
-                                  <u>Metro:</u> <br/>
-                                  Gregorio Marañón (L7, L10) Nuevos Ministerios (L8, L10, L6) República Argentina (L6)<br/><br/>
-                                  <u>Autobús:</u> <br/>	Líneas 7, 12, 14, 27, 40, 45, 147, 150, 250 y Circular 
+                		<p></p>             	
 
-                                	
-                                	
-                                	
-                                	
-                                	</p>
- 
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.570610728257!2d-3.6920308846974783!3d40.44050597936237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228ee58976437%3A0xe0887483b829f649!2sEscuela+T%C3%A9cnica+Superior+de+Ingenieros+Industriales+UPM!5e0!3m2!1ses!2ses!4v1482254700732" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-                            </div>
-                        </div>
-                    </div>
-                	
-
-                </div>
-            </div>
-
+                    <br/>
+                    <br/>
 
 
             <!-- BEGIN: CONTENT/SLIDERS/CLIENT-LOGOS-1 -->
@@ -605,12 +600,14 @@ $firstNews = $newsItems[0];
                 </div>
             </div>
             <!-- END: CONTENT/SLIDERS/CLIENT-LOGOS-1 -->
+            <br/><br/>
             </div>
             </div>
             <!-- END: PAGE CONTENT -->
         </div>
         <!-- END: PAGE CONTAINER -->
         <?php
+
 
 // --- Escribimos el pie de página (el archivo de configuración ya está incluido)
 escribe_pie(1);
