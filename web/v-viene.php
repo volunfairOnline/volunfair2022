@@ -118,7 +118,7 @@ escribe_cabecera();
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase  c-font-bold">Martes 11</h2>   
-                <p class="c-center" >Acto inaugural de VOLUNFAIR 2025 a las <em>12:25</em> en el <em>Salón de Actos</em></p>                      
+                <p class="c-center" >Acto inaugural de VOLUNFAIR 2025 a las <b><em>12:25</em></b> en el <em>Salón de Actos</em></p>                      
             </div>
 
 
@@ -146,11 +146,11 @@ escribe_cabecera();
                             <div class="col-md-6" "c-right">
                                 <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight" style="min-height: 300px;">                                  
                                     <p class="c-left">
-                                    Luis de la Fuente es un referente no solo en el mundo del fútbol, sino también en el ámbito social. Como entrenador, ha guiado a equipos de élite, 
-                                    transmitiendo valores como el esfuerzo, la disciplina y el trabajo en equipo. Sin embargo, su impacto va más allá del deporte. A través de la asociación Amaqtedu, 
-                                    impulsa programas de formación artística para personas sin hogar, ayudándolas en su reinserción laboral y brindándoles nuevas oportunidades. <br>Gracias a esta iniciativa,
-                                     ha conseguido transformar la vida de cientos de personas en situación de vulnerabilidad. No te pierdas la charla de Luis, donde hablará sobre liderazgo, superación y 
-                                     la importancia de la solidaridad. ¡¡Desde el equipo de VOLUNFAIR le esperamos con gran ilusión y te invitamos para compartirla también contigo!!
+                                    <b>Luis de la Fuente</b> es un referente no solo en el mundo del <b>fútbol</b>, sino también en el ámbito social. Como entrenador, ha guiado a equipos de élite, 
+                                    transmitiendo valores como el <b>esfuerzo</b>, la <b>disciplina</b> y el <b>trabajo en equipo</b>. Sin embargo, su impacto va más allá del deporte. A través de la <b>asociación Amaqtedu</b>, 
+                                    impulsa programas de formación artística para <b>personas sin hogar</b>, ayudándolas en su reinserción laboral y brindándoles nuevas oportunidades. <br>Gracias a esta iniciativa,
+                                    ha conseguido transformar la vida de cientos de personas en situación de vulnerabilidad. No te pierdas la charla de Luis, donde hablará sobre liderazgo, superación y 
+                                    la importancia de la <b>solidaridad</b>. ¡¡Desde el equipo de VOLUNFAIR le esperamos con gran ilusión y te invitamos para compartirla también contigo!!
                                     </p>
     
                         </div>
@@ -197,9 +197,9 @@ escribe_cabecera();
                                         <img src="assets\base\img\volunfair\Fotos2025\lolasanchez.jpeg" width="100%" title="Lola Sánchez" alt="Lola Sánchez" />
                                     </div>
                                             <p class="c-right">                                            
-                                            Lola Sánchez, conocida como @abrazandoelplanb en redes sociales, ha inspirado a miles de personas con su historia de superación y resiliencia. 
+                                            <b>Lola Sánchez</b>, conocida como <b>@abrazandoelplanb</b> en redes sociales, ha inspirado a miles de personas con su <b>historia de superación</b> y <b>resiliencia</b>. 
                                             A través de sus publicaciones y conferencias, comparte su experiencia personal para motivar a quienes enfrentan cambios inesperados en sus vidas. 
-                                            En 2021, publicó su primer libro, donde relata su viaje de transformación y crecimiento personal ¡¡¡ Ven con nosotros y descubre cómo afrontar los giros 
+                                            En 2021, publicó su primer libro, donde relata su viaje de transformación y crecimiento personal ¡¡¡Ven con nosotros y descubre cómo afrontar los giros 
                                             inesperados de la vida con valentía y optimismo!!!                                                                                              
                                             </p>
                                             
@@ -229,10 +229,10 @@ escribe_cabecera();
                                         <img src="assets\base\img\volunfair\Fotos2025\marianadeugarte.jpg" width="100%" title="Mariana de Ugarte" alt="Mariana de Ugarte" />
                                     </div>
                                             <p class="c-right">                                            
-                                            En 2019, Mariana de Ugarte fundó una iniciativa social centrada en la educación y el empoderamiento de comunidades vulnerables. 
+                                            En 2019, <b>Mariana de Ugarte</b> fundó una iniciativa social centrada en la <b>educación</b> y el <b>empoderamiento</b> de <b>comunidades vulnerables</b>. 
                                             A través de su proyecto, ha trabajado con cientos de familias, brindando herramientas y recursos para mejorar su calidad de vida. 
                                             Ha sido reconocida con premios por su impacto social y ha colaborado con diversas organizaciones internacionales para ampliar su labor. 
-                                            ¡¡¡ No te pierdas su ponencia, donde compartirá su experiencia y consejos sobre cómo generar un impacto positivo en la sociedad !!!                                                                                      
+                                            ¡¡¡No te pierdas su ponencia, donde compartirá su experiencia y consejos sobre cómo generar un impacto positivo en la sociedad!!!                                                                                      
                                             </p>
                                             
                                         </div>
@@ -284,9 +284,9 @@ escribe_cabecera();
                                         <img src="assets\base\img\volunfair\Fotos2025\carlosbobillo.jpg" width="100%" title="Carlos Bobillo" alt="Carlos Bobillo" />
                                     </div>
                                             <p class="c-right">                                            
-                                            Carlos Bobillo es el fundador de @ongasu, una organización sin ánimo de lucro que trabaja para mejorar la calidad de vida de personas en situación de vulnerabilidad.
-                                             Desde su creación, ha desarrollado programas de asistencia social, educación y salud que han beneficiado a cientos de personas. Gracias a su trabajo, ha recibido múltiples 
-                                             reconocimientos y continúa expandiendo su impacto con nuevos proyectos solidarios. Acompáñanos a descubrir como la solidaridad y el compromiso pueden transformar vidas.                                                                                              
+                                            <b>Carlos Bobillo</b> es el fundador de <b>@ongasu</b>, una organización sin ánimo de lucro que trabaja para mejorar la calidad de vida de <b>personas en situación de vulnerabilidad</b>.
+                                            Desde su creación, ha desarrollado programas de asistencia social, educación y salud que han beneficiado a cientos de personas. Gracias a su trabajo, ha recibido múltiples 
+                                            reconocimientos y continúa expandiendo su impacto con nuevos proyectos solidarios. Acompáñanos a descubrir como la solidaridad y el compromiso pueden transformar vidas.                                                                                              
                                             </p>
                                             
                                         </div>
@@ -315,8 +315,8 @@ escribe_cabecera();
                                         <img src="assets\base\img\volunfair\Fotos2025\pablodelgado.jpeg" width="100%" title="Pablo Delgado de la Serna" alt="Pablo Delgado de la Serna" />
                                     </div>
                                             <p class="c-right">                                            
-                                            Pablo Delgado de la Serna, conocido en redes como @untrasplantado, ha utilizado su experiencia como paciente trasplantado para crear conciencia sobre 
-                                            la donación de órganos y la importancia de la salud. Ha trabajado con asociaciones médicas y ha participado en campañas de sensibilización a nivel nacional. 
+                                            <b>Pablo Delgado de la Serna</b>, conocido en redes como <b>@untrasplantado</b>, ha utilizado su experiencia como paciente trasplantado para crear conciencia sobre 
+                                            la <b>donación de órganos</b> y la <b>importancia de la salud</b>. Ha trabajado con asociaciones médicas y ha participado en campañas de sensibilización a nivel nacional. 
                                             Su testimonio ha impactado a miles de personas, promoviendo la solidaridad y la importancia de la ciencia médica. ¿Te vas a perder escuchar su testimonio en 
                                             persona?                                                                                         
                                             </p>
