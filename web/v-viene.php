@@ -280,7 +280,7 @@ escribe_cabecera();
                                                 <h4 class="c-right c-font-uppercase c-font-bold">
                                                 <div class="c-right c-line-left "> </div>
                                             </div>
-                                            <div class="col-md-4">
+                                            <div class="col-md-4" >
                                         <img src="assets\base\img\volunfair\Fotos2025\carlosbobillo.jpg" width="100%" title="Carlos Bobillo" alt="Carlos Bobillo" />
                                     </div>
                                             <p class="c-right">                                            
@@ -362,54 +362,48 @@ escribe_cabecera();
             </div> 
 
             <br />
-
-            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-            <div class="col-md-5">
-            </div>
-            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-
             <!-- BEGIN: MODERADORES  -->
             
-            <div class="row text-centerd-flex justify-content-center text-center">
-    <div class="col-md-2">
-        <div>
-            <img src="assets/base/img/volunfair/Fotos2025/JaviGonzalez.jpg" width="100%" title="Javier González" alt="Javier González" />
-        </div>
-        <div class="row c-content-media-1 wow animated fadeInRight">
-            <div class="c-center">
-                <h3 class="c-font-uppercase c-font-bold">Javier González</h3>
-                <div>Speaker de VOLUNFAIR 2025</div>
-            </div>
-        </div>
-    </div>
+            <div class="row" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+                <div class="col-6 col-sm-4 col-md-2">
+                    <div>
+                        <img src="assets/base/img/volunfair/Fotos2025/JaviGonzalez.jpg" width="100%" title="Javier González" alt="Javier González" />
+                    </div>
+                    <div class="row c-content-media-1 wow animated fadeInRight">
+                        <div class="c-center">
+                            <h3 class="c-font-uppercase c-font-bold">Javier González</h3>
+                            <div>Speaker de VOLUNFAIR 2025</div>
+                        </div>
+                    </div>
+                </div>
 
-    <div class="col-md-2">
-        <div>
-            <img src="assets/base/img/volunfair/Fotos2025/PabloEspana.jpg" width="100%" title="Pablo España" alt="Pablo España" />
-        </div>
-        <div class="row c-content-media-1 wow animated fadeInRight">
-            <div class="c-center">
-                <h3 class="c-font-uppercase c-font-bold">Pablo España</h3>
-                <div>Speaker de VOLUNFAIR 2025</div>
-            </div>
-        </div>
-    </div>
+                <div class="col-6 col-sm-4 col-md-2">
+                    <div>
+                        <img src="assets/base/img/volunfair/Fotos2025/PabloEspana.jpg" width="100%" title="Pablo España" alt="Pablo España" />
+                    </div>
+                    <div class="row c-content-media-1 wow animated fadeInRight">
+                        <div class="c-center">
+                            <h3 class="c-font-uppercase c-font-bold">Pablo España</h3>
+                            <div>Speaker de VOLUNFAIR 2025</div>
+                        </div>
+                    </div>
+                </div>
 
-    <div class="col-md-2">
-        <div>
-            <img src="assets/base/img/volunfair/Fotos2025/JorgeGS.jpg" width="100%" title="Jorge García" alt="Jorge García" />
-        </div>
-        <div class="row c-content-media-1 wow animated fadeInRight">
-            <div class="c-center">
-                <h3 class="c-font-uppercase c-font-bold">Jorge García Santamaría</h3>
-                <div>Speaker de VOLUNFAIR 2025</div>
+                <div class="col-6 col-sm-4 col-md-2">
+                    <div>
+                        <img src="assets/base/img/volunfair/Fotos2025/JorgeGS.jpg" width="100%" title="Jorge García" alt="Jorge García" />
+                    </div>
+                    <div class="row c-content-media-1 wow animated fadeInRight">
+                        <div class="c-center">
+                            <h3 class="c-font-uppercase c-font-bold">Jorge García Santamaría</h3>
+                            <div>Speaker de VOLUNFAIR 2025</div>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
-    </div>
-</div>
-
             
             <!-- END: MODERADORES  -->
+
             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
             <div class="col-md-4">
             </div>
