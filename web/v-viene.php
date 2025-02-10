@@ -189,7 +189,7 @@ escribe_cabecera();
                                     <div>
                                         <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
                                             <div class="c-content-title-3 c-theme-border c-right">
-                                                <h3 class="c-right c-font-uppercase c-font-bold"> Lóla Sánchez</h3>
+                                                <h3 class="c-right c-font-uppercase c-font-bold"> Lola Sánchez</h3>
                                                 <h4 class="c-right c-font-uppercase c-font-bold">
                                                 <div class="c-right c-line-left "> </div>
                                             </div>
