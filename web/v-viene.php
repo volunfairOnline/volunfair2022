@@ -70,7 +70,7 @@ escribe_cabecera();
 
                                     <div class="c-center">
                                         <form>
-                                            <label>Número:<label> <input type="number" id="numero" min="0" max="999" placeholder="" required="required" />
+                                            <label>Número:<label> <input type="number" id="numero" min="0" max="3000" placeholder="" required="required" />
                                             <!--<label>Serie:<label>--> 
                                             <!--<select id="serie" required="required" >
                                                 <option value="un">Único</option>    

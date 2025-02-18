@@ -547,11 +547,6 @@ $firstNews = $newsItems[0];
                                    </a>
                             </div>
                             <div class="item">
-                                   <a href="https://portal.coiim.es/" target="_blank">
-                                       <img src="assets/base/img/volunfair/patrocinadores/Ingenieros_IndustrialesLogo1" title ="COIIM" alt="COIIM"  width="100%" />
-                                   </a>
-                            </div>
-                            <div class="item">
                                    <a href="https://www.aguilera-ingenieros.com/" target="_blank">
                                        <img src="assets/base/img/volunfair/patrocinadores/aguilera_ingenieros_logo.jpg" title ="AguileraIngenieros" alt="AguileraIngenieros"  width="100%" />
                                    </a>
