@@ -50,8 +50,60 @@ escribe_cabecera();
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
 
 
+            <br /><br /><br /><br />
+            <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="animated c-bordered c-center c-content-media-1 flash row wow">
+                                    <div class="col-md-12">
+                                        <div class="c-content-title-1">
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa de 2025</h3>
+                                        </div>
+                                    </div> 
+                                
+
+                                    <!-- BEGIN: RESULTADOS DE LA RIFA -->
+                            
+                               <div class="c-center col-md-12 container row" id="buscarRifa">
+                                    Introduce tu número para saber si has tenido suerte:
+                                    <br /><br />
+
+                                    <div class="c-center">
+                                        <form>
+                                            <label>Número:<label> <input type="number" id="numero" min="0" max="999" placeholder="" required="required" />
+                                            <!--<label>Serie:<label>--> 
+                                            <!--<select id="serie" required="required" >
+                                                <option value="un">Único</option>    
+                                                <option value="am">Amarillo</option>
+                                                <option value="az">Azul</option>-->
+                                                
+                                            </select>
+                                           <input type="button" value="Buscar" onClick="buscar();" >                                    
+                                        </form>
+                                    </div>
+                                </div>
+                            </div> 
+                                <!-- END: RESULTADOS DE LA RIFA -->
+
+                                <!-- BEGIN: AVISO PREVIO CUANDO NO HAY RIFA -->
+                                
+                                <!--El viernes publicaremos los resultados!<br />
+                                Mucha suerte y recuerda....No hay mar sin gotas
+
+                                <br /><br />
+        
+                                
+                                <!-- END: AVISO PREVIO CUANDO NO HAY RIFA -->                              
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <!-- </div> -->
+
+
+            
                 <!-- BEGIN: CUENTA ATRÁS -->
-                <br /><br /><br /><br />
+                <!--<br /><br /><br /><br />
                 <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets\base\img\volunfair\Fotos2024/Fondos\puente_8.png">
                         <div class="container">
                         <div class="row">
@@ -90,14 +142,15 @@ escribe_cabecera();
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                     
                 <!-- 
                     https://denis-creative.com/jstimer/
                     https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
                 -->
+                
                 <!-- END: CUENTA ATRÁS -->
-
+        
 
                 <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
