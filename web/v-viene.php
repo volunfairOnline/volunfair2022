@@ -156,8 +156,9 @@ escribe_cabecera();
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2025</h3>
                     <div class="c-line-center c-theme-bg"></div>
-                    <p class="c-center" >El equipo de VOLUNFAIR 2025 tiene el placer de invitarles a la <b>X edición de VOLUNFAIR</b>, que viene pisando fuerte con 3 días de feria. <br /><b>El martes 11, miércoles 12 y jueves 13 </b>de febrero podrá conocer a todas las entidades sociales que nos acompañan este año.
-                    <br /> Además, contamos con unos ponentes de mucho nivel, que compartirán un buen rato con nosotros en la <br /> <b>La Escuela Técnica Superior de Ingenieros Industriales de la UPM (C/ José Gutiérrez Abascal)</b>. ¡Que no te lo cuenten!</p>  
+                    <!--<p class="c-center" >El equipo de VOLUNFAIR 2025 tiene el placer de invitarles a la <b>X edición de VOLUNFAIR</b>, que viene pisando fuerte con 3 días de feria. <br /><b>El martes 11, miércoles 12 y jueves 13 </b>de febrero podrá conocer a todas las entidades sociales que nos acompañan este año.
+                    <br /> Además, contamos con unos ponentes de mucho nivel, que compartirán un buen rato con nosotros en la <br /> <b>La Escuela Técnica Superior de Ingenieros Industriales de la UPM (C/ José Gutiérrez Abascal)</b>. ¡Que no te lo cuenten!</p>  -->
+					<p class="c-center" >La <b>décima edición de VOLUNFAIR</b> fue increíble. ¡Gracias a todos los que compartistéis con nosotros estos días! Si quieres volver a revivir estos momentos los vídeos estarán disponibles próximamente.</p>  
 					
 				</div>
                 
@@ -463,79 +464,7 @@ escribe_cabecera();
 
             <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
 
-         <!-- END: PONENTES ACTUALES-->
-
-            <!-- BEGIN: TITULO -->
-			 <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
-				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2024</h3>
-                    <div class="c-line-center c-theme-bg"></div>
-                    <p class="c-center" >La novena edición de <b>VOLUNFAIR</b> fue increíble ¡Gracias! <br />El jueves 8 y viernes 9 de febrero conocimos a todas las entidades sociales que nos acompañaron este año.
-                    <br /> Además, con unos ponentes de mucho nivel, que compartieron un buen rato con nosotros. ¡Vuelve a escucharles!</p>  
-					
-				</div>
-                
-			</div>
-            <!--<div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets/base/img/volunfair/Fotos2023/Fondos/magia15.jpeg"> -->
-                <!--<div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="animated c-bordered c-center c-content-media-1 flash row wow">
-                                    <div class="col-md-12">
-                                        <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Resultados de la rifa de 2023</h3>
-                                        </div>
-                                    </div> 
-                                    -->
-<
-                                    <!-- BEGIN: RESULTADOS DE LA RIFA -->
-                            
-                               <!-- <div class="c-center col-md-12 container row" id="buscarRifa">
-                                    Introduce tu número para saber si has tenido suerte:
-                                    <br /><br />
-
-                                    <div class="c-center">
-                                        <form>
-                                            <label>Número:<label> <input type="number" id="numero" min="0" max="999" placeholder="" required="required" />
-                                            <!--<label>Serie:<label>--> 
-                                            <!--<select id="serie" required="required" >
-                                                <option value="un">Único</option>    
-                                                <option value="am">Amarillo</option>
-                                                <option value="az">Azul</option>-->
-                                                
-                                            </select>
-                                           <!-- <input type="button" value="Buscar" onClick="buscar();" > -->                                     
-                                        </form>
-                                    </div>
-                                </div>
-                            </div> 
-                                <!-- END: RESULTADOS DE LA RIFA -->
-
-                                <!-- BEGIN: AVISO PREVIO CUANDO NO HAY RIFA -->
-                                
-                                <!--El viernes publicaremos los resultados!<br />
-                                Mucha suerte y recuerda....No hay mar sin gotas
-
-                                <br /><br />
-        
-                                
-                                <!-- END: AVISO PREVIO CUANDO NO HAY RIFA -->                              
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            <!-- </div> -->
-
-            <div class="c-bg-white c-content-media-1 c-bordered">
-                            <div class="row c-center wow animated fadeInUp">
-                                <iframe width="530" height="315" src="https://www.youtube.com/embed/_a5-YCQnTu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-								<iframe width="530" height="315" src="https://www.youtube.com/embed/XCDD0jHUA-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-							</div>
-                            
-                        </div>
-            <!--- END: TÍTULO -->
-
-        
+         <!-- END: PONENTES ACTUALES-->        
 
             <!-- END: PAGE CONTENT -->
         </div>

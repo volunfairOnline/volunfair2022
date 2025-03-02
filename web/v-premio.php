@@ -101,7 +101,16 @@ escribe_cabecera();
                             ["fecha" => "2021",     "nombre" => "Los Ángeles de Kenia",     "foto" => "LosAngelesDeKenia.jpg",    	"razon" => ""],
 							["fecha" => "2022",     "nombre" => "Joaquín Echevarría",     	"foto" => "JoaquinEchevarria.jpg",    	"razon" => ""],
 							["fecha" => "2022",     "nombre" => "Álvaro Trigo",     		"foto" => "AlvaroTrigo.jpg",    		"razon" => ""],
-							["fecha" => "2023",     "nombre" => "Pablo España",     		"foto" => "PabloEspana.jpg",    		"razon" => ""]				
+							["fecha" => "2023",     "nombre" => "Pablo España",     		"foto" => "PabloEspana.jpg",    		"razon" => ""],
+							["fecha" => "2024",     "nombre" => "Montse",     				"foto" => "Montse.jpg",    				"razon" => ""],
+							["fecha" => "2024",     "nombre" => "Javier Gascón",     		"foto" => "JavierGascon.jpg",    		"razon" => ""],
+							["fecha" => "2024",     "nombre" => "Marta Barroso",     		"foto" => "Barroso.jpg",    			"razon" => ""],
+							["fecha" => "2024",     "nombre" => "Sinacio",     				"foto" => "Sinacio.jpg",    			"razon" => ""],
+							["fecha" => "2025",     "nombre" => "Mariana de Ugarte",     	"foto" => "Mariana.jpg",    			"razon" => ""],
+							["fecha" => "2025",     "nombre" => "Lóla Sánchez",     		"foto" => "Lola.jpg",    				"razon" => ""],
+							["fecha" => "2025",     "nombre" => "Bobi",     				"foto" => "Bobi.jpg",    				"razon" => ""],
+							["fecha" => "2025",     "nombre" => "Pablo Delgado",     		"foto" => "PabloDelgado.png",    		"razon" => ""],
+							["fecha" => "2025",     "nombre" => "Luis de la Fuente",     	"foto" => "LuisDeLaFuente.jpg",    		"razon" => ""]				
 						];
 						
 						// --- Función que escribe los premiados con formato
@@ -127,7 +136,10 @@ escribe_cabecera();
                             ["fecha" => "2020",     "nombre" => "Raquel Martínez",              "foto" => "Raquel_Martinez.jpg",            "razon" => ""],
                             ["fecha" => "2021",     "nombre" => "Pablo España",        			"foto" => "PabloEspana.jpg",    			"razon" => ""],
 							["fecha" => "2023",     "nombre" => "Óscar García Suárez",        	"foto" => "Oscar_Garcia.jpg",    			"razon" => ""],
-							["fecha" => "2023",     "nombre" => "Paco Martín Vergara",     		"foto" => "Paco.jpg",    					"razon" => ""]
+							["fecha" => "2023",     "nombre" => "Paco Martín Vergara",     		"foto" => "Paco.jpg",    					"razon" => ""],
+							["fecha" => "2025",     "nombre" => "Jesús Zurita",     			"foto" => "Paco.jpg",    					"razon" => ""],
+							["fecha" => "2025",     "nombre" => "Javier Gonzalez",     			"foto" => "JaviGonzalez.png",    			"razon" => ""],
+							["fecha" => "2025",     "nombre" => "Jorge García Santamaría",     	"foto" => "JorgePadrino.jpg",    			"razon" => ""]
 							//["fecha" => "2023",     "nombre" => "Pablo España",        		"foto" => "PabloEspana.jpg",    			"razon" => ""]
 
                         ];

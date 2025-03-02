@@ -142,7 +142,7 @@ $firstNews = $newsItems[0];
                             Creemos que no siempre es necesario hacer grandes cosas, ni cosas súper lejos. Lo importante es hacer. Actualmente es más necesaria que nunca nuestra ayuda.
                             Por ello no nos quedamos quietos, pasivos. Nos levantamos. Actuamos. Porque no hay mejor momento que <b>AHORA</b> para empezar a caminar. <br></br>
 
-                            <b>Vamos, ¡manos a la obra!</b><br></br>
+                            <b>Vamos, ¡estás a tiempo!</b><br></br>
                             
                             Entonces… <b>¿Qué es VOLUNFAIR?</b> <br></br>
                             <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante tres jornadas completas a mediados de febrero.<br></br>
@@ -160,7 +160,7 @@ $firstNews = $newsItems[0];
 
                     <br/>
 
-                    <div class="row">
+                    <!--<div class="row">
                         <div class="col-md-6">
                             <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 380px;">
                                 <div class="c-content-title-1">
@@ -189,124 +189,8 @@ $firstNews = $newsItems[0];
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.570610728257!2d-3.6920308846974783!3d40.44050597936237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228ee58976437%3A0xe0887483b829f649!2sEscuela+T%C3%A9cnica+Superior+de+Ingenieros+Industriales+UPM!5e0!3m2!1ses!2ses!4v1482254700732" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                             </div>
                         </div>
-                    </div>
-                     
-                    <!-- 
-                    <div class="c-content-box c-size-md c-bg-white">
-                <div class="container">
-                    <div class="c-content-title-1">
-                        <h3 class="c-center c-font-uppercase c-font-bold">PONENCIAS</h3>
-
-                    <div class="row c-center wow animated fadeInUp">
-                        <iframe width="1060" height="630" src="https://www.youtube.com/embed/AzWOxlWli5g?autoplay=1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        <br />
-                        <iframe width="1060" height="630" src="https://www.youtube.com/embed/yRVFeqtADEs" frameborder="0" allow="accelerometer;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </div>    
-
-                    <div class="c-content-title-1 c-center">
-                       <h3 class="c-font-uppercase c-font-bold">Horario</h3>
-                       <div class="c-line-center c-theme-bg"></div>
-                    </div>
-
-                    <div class="row horario">
-                        <div class="col-md-6">
-                            <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 520px;">
-                            	 <div class="c-right">
-                                <p><b>Martes</b></p>
-                                <p></p>
-                                <p>
-                                	<u>9:15 </u> <br/>Recibimiento del primer grupo de ONGs <br/><br/>
-                                	<u>10:00</u> <br/> Apertura de los stands - Actividad ininterrumpida <br/><br/>
-                                	<u>12:30-14:15 </u> <br/>Charla con Joaquín Echeverría y Alvaro Trigo<br /><em>(Salón de Actos)</em><br/><br/>
-                                	<u>19:00 </u> <br/>Cierre de los stands
-                                	</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="c-content-media-1 c-bordered wow animated fadeInRight" style="min-height: 520px;">
-                                <p><b>Miércoles</b></p>
-                                <p></p>
-                                <p>
-                                	<u>09:15 </u> <br/>Recibimiento del segundo grupo de ONGs <br/><br/>
-                                	<u>10:00</u> <br/>Apertura de los stands - Actividad ininterrumpida <br/><br/>
-                                	<u>12:30-14:15 </u> <br/>Charla con Sara Andrés Barrio y Guillermo Martínez<em><br/>(Salón de Actos)</em><br/><br/>
-                                	<u>19:00 </u> <br/>Cierre de los stands
-                                	</p>
- 
-                            </div>
-                        </div>
-                    </div>
-					
-					<br />
-					<br />
-                        -->
-					<!-- PLANO STANDS 
-                    
-                        <p></p> 
-                		<p></p>
-                		 <div class="c-content-title-1">
-                       <h3 class="c-font-uppercase c-center c-font-bold">Plano de la feria</h3>
-                       <div class="c-line-center c-theme-bg"></div>
-                    </div>
-                     <div class="row">
-                        <div class="col-md-12">
-                            <div class="animated fadeInLeft c-center" style="min-height: 380px;">
-                             <img alt="" src="assets/base/img/volunfair/inicio/Plano_2022.png" width="80%">
-                            </div>
-                        </div> -->
-						<!--
-                        <div class="col-md-4">
-                            <div class="c-content-media-2-slider wow animated fadeInRight" data-slider="owl">
-                            	<img alt="" src="assets/base/img/volunfair/Plano-sala-maquina.jpg" width="100%">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="animated fadeInLeft" style="min-height: 380px;">
-                             <img alt="" src="assets/base/img/volunfair/lista1.png" width="100%">
-                            </div>
-                        </div>
-                     </div>-->
-				
-                	<!-- FINAL PLANO STANDS -->
-
-                   
-                    <!--<div class="col-md-12 c-content-box c-size-md c-bordered wow bounceIn animated">
-                        <div class="c-content-title-1">
-                            <h3 class="c-center c-font-uppercase c-font-bold">
-                                ACCEDE A VOLUNFAIR 2021
-                            </h3>
-                            <h2 class="c-center  c-font-bold">Feria universitaria de voluntariado en Madrid</h2>
-                        <h3 class="c-center c-font-uppercase c-font-bold">9 y 10 de febrero de 2022</h3>
-                            <h2 class="c-center  c-font-bold">Ambos días de 10:00 a 19:00 será la feria online de entidades sociales. </h2>
-                        <h2 class="c-center  c-font-bold"> ¡Haz click en las imágenes para acceder a la feria y ponencias!</h2>
-                        <div class="row">
-                                    <a href="./v-viene">
-                                        <button type="button" class="btn btn-secondary btn-lg btn-block"> INFORMACIÓN EDICIÓN 2021 ></button>
-                                    </a>
-                            </div>
-                            <div class="c-line-center c-theme-bg"></div>
-                            </div>
-
-                      <div class="c-bg-white c-content-media-1 c-bordered">
-                        <div class="item">
-                        <div class="row c-center wow animated fadeInUp">
-                            	<a href="https://www.volunfair.com/o-2021" target="_blank">
-                                    <img src="assets\base\img\volunfair\Fotos2021\Zapas1.png" title ="Feria Online" alt="Feria Online"  width="45%" />
-                                </a>
-
-                            	<a href="http://audiovisuales.upm.es/directo/" target="_blank">
-                                    <img src="assets\base\img\volunfair\Fotos2021\Zapas2.png" title ="Ponencias" alt="Ponencias"  width="45%" />
-                                </a>
-                            </div>
-                            </div>
-                            <br />
-                            
-                        </div>
-
-                    </div> -->
+                    </div> 
+                                -->
 
                     
             <!-- BEGIN: CONTENT/SLIDERS/NOTICIAS -->

@@ -109,20 +109,21 @@ escribe_cabecera();
 								<h3 class="c-center c-font-uppercase c-font-bold">Próximos 11, 12 y 13 de febrero de 2025</h3>
 									
 					</div>
-					<div class="c-content-media-1 c-bordered wow animated que-es">
-					<h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Torneo anual de pádel</h3>
+					<div class="c-content-media-1 c-bordered wow animated que-es" >
+					<h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30 ">Entrevista a Tita</h3>
 								<!-- para que el texto rebote añadir "bounceIn"--> 
 					
 								<p style="text-align: justify;">
-								Los miembros de VOLUNFAIR disfrutaron al máximo del torneo anual de pádel, organizado impecablemente por el equipo de Recursos Humanos, 
-								quienes no dejaron ningún detalle al azar. Entre partidos llenos de emoción, charlas amenas y una deliciosa variedad de snacks, la jornada 
-								se convirtió en una experiencia memorable para todos los participantes. Como broche de oro, la rifa final sorprendió a muchos, repartiendo 
-								premios que alegraron aún más el ambiente. Sin duda, una ocasión que reforzó los lazos del equipo y dejó momentos para recordar.
+								Richard Vaughan visitó la ETSII para dar una charla inspiradora sobre el poder de las actitudes positivas, dejando huella en todos los asistentes.
+								Con su estilo cercano y motivador, compartió ideas y herramientas prácticas que no solo resultaron inspiradoras, sino también aplicables a 
+								VOLUNFAIR. Su mensaje destacó la importancia del optimismo y la perseverancia, valores que el equipo ya está trabajando para implementar en sus 
+								actividades. Fue una experiencia enriquecedora que dejó a todos llenos de energía y nuevas ideas para seguir creciendo.
 								</p> 
 					</div>
 				</div>
 			</div>
 					
+		
 
 					<div class="c-content-media-1 wow animated que-es"></div>
 						<div class="container">

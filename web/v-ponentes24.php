@@ -88,6 +88,63 @@ escribe_cabecera();
                         </div>
             <!--- END: TÍTULO -->
 
+            <!-- BEGIN: PODCAST -->
+            <div class="solomediano1">
+                                <div class="col-md-12 c-content-box c-size-md c-bordered wow animated">
+                                    <div class="c-content-title-1">
+                                        <h3 class="c-center c-font-uppercase c-font-bold">
+                                        VÍDEO PODCAST con el Padre Zurita 
+                                        
+                                        </h3>
+                                        <div class="c-line-center c-theme-bg"></div>
+                                    </div>
+
+                        <div class="c-bg-white c-content-media-1 c-bordered">
+                            <!-- <div class="row c-center wow animated fadeInUp">
+                                <iframe width="530" height="315" src="https://www.youtube.com/embed/_a5-YCQnTu0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								<iframe width="530" height="315" src="https://www.youtube.com/embed/XCDD0jHUA-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							</div>-->
+                            <div class="row c-center wow animated fadeInUp">
+                                <iframe 
+                                    class="responsive-iframe" 
+                                    width="650" 
+                                    height="350" 
+                                    src="https://www.youtube.com/embed/FcL5v1r0NZ0?si=FcL5v1r0NZ0" 
+                                    title="YouTube video player" 
+                                    frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                                    referrerpolicy="strict-origin-when-cross-origin" 
+                                    allowfullscreen>
+                                </iframe>                            </div>
+                          
+                            <br />
+                            
+                        </div>
+
+                    </div> 
+                    </div> 
+
+                    <!-- PODCAST movil-->
+                    <div class="solo_peq">
+                    <div class="col-md-12 c-content-box c-size-md c-bordered wow animated">
+                        <div class="c-content-title-1">
+                            <h3 class="c-center c-font-uppercase c-font-bold">
+                                VÍDEO PODCAST con el Padre Zurita
+                            </h3>
+                            <div class="c-line-center c-theme-bg"></div>
+                        </div>
+
+                        <div class="c-bg-white c-content-media-1 c-bordered">
+                            <div class="row c-center wow animated fadeInUp">
+                                <iframe width="100%" height="350" src="https://www.youtube.com/embed/FcL5v1r0NZ0?si=FcL5v1r0NZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            </div>                 
+                        </div>
+
+                    </div> 
+                    </div> 
+                    <!-- FIN: PODCAST -->
+
+
             <!-- PONENTES ACTUALES-->
             <br /><br />
 

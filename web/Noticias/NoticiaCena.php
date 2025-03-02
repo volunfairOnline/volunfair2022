@@ -136,43 +136,7 @@ escribe_cabecera();
                     </div> 
 			</div> 
 					
-					<div class="c-content-media-1 wow animated que-es">
-						
-						<div class="container">
-							<div class="c-content-media-1 c-bordered wow animated fadeInDown clearfix">
-							<h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">Te podría interesar</h3>
-							<div class="container_noticia">
-								<div class="noticia">
-									<a href="<?php echo $base_url_main; ?>Noticias/NoticiaPadel.php" class="noticia-link">
-										<div class="noticia-content">
-											<?php $image_url = $base_url_main . '/assets/base/img/volunfair/foto5.jpg'; ?>
-											<img src="<?php echo $image_url; ?>" alt="">
-											<h3>Noticia Padel</h3>
-										</div>
-									</a>
-								</div>
-								
-								<div class="noticia">
-									<a href="<?php echo $base_url_main; ?>Noticias/NoticiaValencia.php" class="noticia-link">
-										<div class="noticia-content">
-											<?php $image_url = $base_url_main . '/assets/base/img/volunfair/foto5.jpg'; ?>
-											<img src="<?php echo $image_url; ?>" alt="">
-											<h3>Noticia Valencia</h3>
-										</div>
-								</div>
-								<div class="noticia">
-									<a href="<?php echo $base_url_main; ?>Noticias/NoticiaVaughan.php" class="noticia-link">
-										<div class="noticia-content">
-											<?php $image_url = $base_url_main . '/assets/base/img/volunfair/foto5.jpg'; ?>
-											<img src="<?php echo $image_url; ?>" alt="">
-											<h3>Noticia Vaughan</h3>
-										</div>
-									</a>
-								</div>
-							</div>
-							</div>
-						</div>
-					</div>
+
 
 					<div class="c-content-media-1 wow animated que-es"></div>
 						<div class="container">
