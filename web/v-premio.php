@@ -137,7 +137,7 @@ escribe_cabecera();
                             ["fecha" => "2021",     "nombre" => "Pablo España",        			"foto" => "PabloEspana.jpg",    			"razon" => ""],
 							["fecha" => "2023",     "nombre" => "Óscar García Suárez",        	"foto" => "Oscar_Garcia.jpg",    			"razon" => ""],
 							["fecha" => "2023",     "nombre" => "Paco Martín Vergara",     		"foto" => "Paco.jpg",    					"razon" => ""],
-							["fecha" => "2025",     "nombre" => "Jesús Zurita",     			"foto" => "Paco.jpg",    					"razon" => ""],
+							["fecha" => "2025",     "nombre" => "Jesús Zurita",     			"foto" => "JesusZurita.jpg",    			"razon" => ""],
 							["fecha" => "2025",     "nombre" => "Javier Gonzalez",     			"foto" => "JaviGonzalez.png",    			"razon" => ""],
 							["fecha" => "2025",     "nombre" => "Jorge García Santamaría",     	"foto" => "JorgePadrino.jpg",    			"razon" => ""]
 							//["fecha" => "2023",     "nombre" => "Pablo España",        		"foto" => "PabloEspana.jpg",    			"razon" => ""]
