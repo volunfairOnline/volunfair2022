@@ -251,10 +251,10 @@ escribe_cabecera();
                                         <img src="assets\base\img\volunfair\Fotos2025\lolasanchez.jpeg" width="100%" title="Lola Sánchez" alt="Lola Sánchez" />
                                     </div>
                                             <p class="c-right">                                            
-                                            <b>Lola Sánchez</b>, conocida como <b>@abrazandoelplanb</b> en redes sociales, ha inspirado a miles de personas con su <b>historia de superación</b> y <b>resiliencia</b>. 
-                                            A través de sus publicaciones y conferencias, comparte su experiencia personal para motivar a quienes enfrentan cambios inesperados en sus vidas. 
-                                            En 2021, publicó su primer libro, donde relata su viaje de transformación y crecimiento personal ¡¡¡Ven con nosotros y descubre cómo afrontar los giros 
-                                            inesperados de la vida con valentía y optimismo!!!                                                                                              
+                                            <b>Lóla Sánchez</b>, conocida en Instagram como <b>@abrazandoelplanb</b>, es madre de cinco hijos — dos de ellos adoptados con síndrome de Down 
+                                            — con un nuevo hijo adoptivo en camino. En su paso por VOLUNFAIR 2025, compartió cómo lo que empezó como un "Plan B" se convirtió en una historia
+                                             de amor, fe e inclusión. Con su testimonio auténtico y lleno de esperanza, recordó a todos los asistentes que lo inesperado puede ser el mayor regalo,
+                                              y que la diversidad familiar no solo se abraza, sino que transforma.
                                             </p>
                                             
                                         </div>
@@ -283,10 +283,9 @@ escribe_cabecera();
                                         <img src="assets\base\img\volunfair\Fotos2025\marianadeugarte.jpg" width="100%" title="Mariana de Ugarte" alt="Mariana de Ugarte" />
                                     </div>
                                             <p class="c-right">                                            
-                                            En 2019, <b>Mariana de Ugarte</b> fundó una iniciativa social centrada en la <b>educación</b> y el <b>empoderamiento</b> de <b>comunidades vulnerables</b>. 
-                                            A través de su proyecto, ha trabajado con cientos de familias, brindando herramientas y recursos para mejorar su calidad de vida. 
-                                            Ha sido reconocida con premios por su impacto social y ha colaborado con diversas organizaciones internacionales para ampliar su labor. 
-                                            ¡¡¡No te pierdas su ponencia, donde compartirá su experiencia y consejos sobre cómo generar un impacto positivo en la sociedad!!!                                                                                      
+                                            <b>Mariana de Ugarte</b> es una influencer y escritora española que tiene dos hijos —Marianita y Jaime—, ambos con síndrome de Down. Comparte su vida en redes sociales, para normalizar y visibilizar el síndrome de Down a través de su experiencia diaria. Su primer libro, publicado en 2022, se titula 2x21: La felicidad no entiende de cromosomas.
+                                            Este libro autobiográfico narra con sencillez y realismo su camino junto a sus dos hijos con síndrome de Down: los retos, las emociones, y sobre todo la alegría y plenitud que han traído a su vida.
+                                            Mariana de Ugarte ha sido una de las voces más inspiradoras de VOLUNFAIR 2025, ofreciéndonos una charla llena de honestidad, fuerza y esperanza.                                                                            
                                             </p>
                                             
                                         </div>
