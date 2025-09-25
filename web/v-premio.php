@@ -139,7 +139,7 @@ escribe_cabecera();
 							["fecha" => "2023",     "nombre" => "Paco Martín Vergara",     		"foto" => "Paco.jpg",    					"razon" => ""],
 							["fecha" => "2025",     "nombre" => "Jesús Zurita",     			"foto" => "JesusZurita.jpg",    			"razon" => ""],
 							["fecha" => "2025",     "nombre" => "Javier Gonzalez",     			"foto" => "JaviGonzalez.png",    			"razon" => ""],
-							["fecha" => "2025",     "nombre" => "Jorge García Santamaría",     	"foto" => "JorgePadrino.jpg",    			"razon" => ""]
+							["fecha" => "2025",     "nombre" => "Jorge García San Martín",     	"foto" => "JorgePadrino.jpg",    			"razon" => ""]
 							//["fecha" => "2023",     "nombre" => "Pablo España",        		"foto" => "PabloEspana.jpg",    			"razon" => ""]
 
                         ];
