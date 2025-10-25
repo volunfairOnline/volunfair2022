@@ -50,7 +50,8 @@ function escribe_menu () {
 // --- https://codeburst.io/auto-versioning-javascript-and-css-files-in-php-892d05c82d58
 function auto_version($file) {
 	// Obtenemos la dirección absoluta del archivo
-	$file_dir = str_replace('\\', '/', realpath(null));
+	$file_dir = str_replace('\\', '/', __DIR__);
+
 
     // Si no es una ruta válida, no hace nada
 	if (!file_exists($file_dir.'/'.$file)) return $file;

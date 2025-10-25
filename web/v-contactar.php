@@ -54,9 +54,9 @@ escribe_cabecera();
                             	  <div class="c-content-title-1">
                                         <h3 class="c-font-uppercase c-font-bold">Para hablar con nosotros</h3>
                                         <div class="c-line-left"></div>
-                                  <p class="c-font-lowercase">Si eres ONG: +34 678 06 54 17 (María) <br/>
-                                                              Si eres medio de comunicación: +34 689 68 69 84 (Iñigo) <br/>
-                                                              Para cualquier gestión: +34 620 73 45 51 (Olivia) o +34 675 87 32 90 (Santi)</p>
+                                  <p class="c-font-lowercase">Si eres ONG: +34 634 82 02 15 (Daniela) <br/>
+                                                              Si eres medio de comunicación: +34 638 32 86 23 (Patricia) <br/>
+                                                              Para cualquier gestión: +34 630 02 82 96 (Lucía) o +34 630 18 79 10 (Juanpi)</p>
                                 </div>
                                 <div class="c-content-media-2-slider" data-slider="owl">
                                 
