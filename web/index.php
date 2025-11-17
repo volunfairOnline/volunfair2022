@@ -63,12 +63,12 @@ $firstNews = $newsItems[0];
 
             <!--  Fondos al redimensionar la página -->
                 <div class="solomediano1">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2025\cartel2025.jpg" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2026\cartel2026.jpg" width="100%">
                 </div>
             
             
                 <div class="solo_peq">
-                 <img alt="" src=".\assets\base\img\volunfair\Fotos2025\cartel2025.jpg" width="100%">
+                 <img alt="" src=".\assets\base\img\volunfair\Fotos2026\cartel2026.jpg" width="100%">
                 </div>
 			
             <div class="">
@@ -128,7 +128,7 @@ $firstNews = $newsItems[0];
                     <div class="c-content-title-1">
                         <h1 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR </h1>
                         <h2 class="c-center  c-font-bold">Feria universitaria de voluntariado en Madrid</h2>
-                        <h3 class="c-center c-font-uppercase c-font-bold">Próximos 11, 12 y 13 de febrero de 2025</h3>
+                        <h3 class="c-center c-font-uppercase c-font-bold">Próximos 18, y 19 de febrero de 2026</h3>
                             
                     </div>
 
