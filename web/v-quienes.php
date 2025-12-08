@@ -296,6 +296,51 @@ escribe_cabecera();
             
             <!-- FIN: EQUIPO ED ANTERIORES -->
 
+            <!-- BEGIN: VISION Y MISION-->
+            <div class="c-content-box c-size-md c-bg-white">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="c-content-media-1 c-bordered" style="min-height: 380px;">
+                                <div class="c-content-title-1">
+                                    <h3 class="c-font-uppercase c-font-bold">Clasificación de equipos - Temporada 2025 - 2026</h3>
+                                    <div class="c-line-left c-theme-bg"></div>
+                                </div>
+                                
+                                <!-- Contenedor para las imágenes lado a lado -->
+                                <div style="
+                                    display: flex;
+                                    justify-content: center;
+                                    gap: 40px;
+                                    width: 80%;
+                                    margin: 30px auto;
+                                    flex-wrap: nowrap;
+                                ">
+                                    <img src="assets/base/img/volunfair/Ranking/Ranking_Grafico.jpeg"
+                                        style="
+                                            height: 35vh;       
+                                            width: auto; 
+                                            object-fit: contain;
+                                        ">
+
+                                    <img src="assets/base/img/volunfair/Ranking/Ranking_Tabla.jpeg"
+                                        style="
+                                            height: 35vh;       
+                                            width: auto;
+                                            object-fit: contain;
+                                        ">
+                                </div>
+
+
+                            </div>
+                        </div>
+                       <!--<div class="col-md-12 wow  fadeInRight animated" style="visibility: visible; animation-name: fadeInRight; opacity: 1;"> 
+                        	<img src="assets/base/img/volunfair/v-quienes/origen.jpg" alt="" width="100%"> -->  <!--AÑADIR FOTO-->                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- END: VISION Y MISION-->
+
 
             <?php   
         
