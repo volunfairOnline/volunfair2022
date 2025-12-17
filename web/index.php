@@ -142,7 +142,7 @@ $firstNews = $newsItems[0];
                             Creemos que no siempre es necesario hacer grandes cosas, ni cosas súper lejos. Lo importante es hacer. Actualmente es más necesaria que nunca nuestra ayuda.
                             Por ello no nos quedamos quietos, pasivos. Nos levantamos. Actuamos. Porque no hay mejor momento que <b>AHORA</b> para empezar a caminar. <br></br>
 
-                            <b>Vamos, ¡estás a tiempo!</b><br></br>
+                            <b>Vamos, ¿cuál es tu meta?</b><br></br>
                             
                             Entonces… <b>¿Qué es VOLUNFAIR?</b> <br></br>
                             <tab> </tab> Es una feria de <b>voluntariado universitario</b> que se celebra, durante tres jornadas completas a mediados de febrero.<br></br>
@@ -150,7 +150,7 @@ $firstNews = $newsItems[0];
                             <br></br>
 
                             PRÓXIMAMENTE… <br></br> 
-                            <b>#EstasATiempo #NuncaEsTarde <br>
+                            <b>#ArrancaYNoPares #ElMotorDelCambio <br>
 
                         
 
