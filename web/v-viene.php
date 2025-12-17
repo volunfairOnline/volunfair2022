@@ -158,7 +158,7 @@ escribe_cabecera();
                     <div class="c-line-center c-theme-bg"></div>
                     <!--<p class="c-center" >El equipo de VOLUNFAIR 2025 tiene el placer de invitarles a la <b>X edición de VOLUNFAIR</b>, que viene pisando fuerte con 3 días de feria. <br /><b>El martes 11, miércoles 12 y jueves 13 </b>de febrero podrá conocer a todas las entidades sociales que nos acompañan este año.
                     <br /> Además, contamos con unos ponentes de mucho nivel, que compartirán un buen rato con nosotros en la <br /> <b>La Escuela Técnica Superior de Ingenieros Industriales de la UPM (C/ José Gutiérrez Abascal)</b>. ¡Que no te lo cuenten!</p>  -->
-					<p class="c-center" >La <b>décima edición de VOLUNFAIR</b> fue increíble. ¡Gracias a todos los que compartistéis con nosotros estos días! Si quieres volver a revivir estos momentos los vídeos estarán disponibles próximamente.</p>  
+					<p class="c-center" >La <b>décima edición de VOLUNFAIR</b> fue increíble. ¡Gracias a todos los que compartistéis con nosotros estos días! <br>Si quieres volver a revivir estos momentos los vídeos están disponibles en nuestro canal de Youtube @volunfair.</p>  
 					
 				</div>
                 
