@@ -430,11 +430,7 @@ $firstNews = $newsItems[0];
                                        <img src="assets/base/img/volunfair/patrocinadores/FerrovialLogo.jpg" title ="Ferrovial" alt="Ferrovial"  width="100%" />
                                    </a>
                             </div>
-                            <div class="item">
-                                   <a href="https://www.aguilera-ingenieros.com/" target="_blank">
-                                       <img src="assets/base/img/volunfair/patrocinadores/aguilera_ingenieros_logo.jpg" title ="AguileraIngenieros" alt="AguileraIngenieros"  width="100%" />
-                                   </a>
-                            </div>
+
                             <div class="item">
                                    <a href="https://www.lexmark.com/es_es.html" target="_blank">
                                        <img src="assets/base/img/volunfair/patrocinadores/LexmarkLogo" title ="Lexmark" alt="Lexmark"  width="100%" />
@@ -463,11 +459,6 @@ $firstNews = $newsItems[0];
                             <div class="item">
                             	  <a href="https://www.weareseekers.com/" target="_blank">
                                     <img src="assets/base/img/volunfair/patrocinadores/logo-tribu.png"title ="Tribu Seekers" alt="Tribu Seekers" style="padding-top: 20%; padding-left: 10%;"  width="140%" />
-                                </a>
-                            </div>
-                            <div class="item">
-                                <a href="https://www.dominospizza.es/" target="_blank">
-                                    <img src="assets/base/img/volunfair/patrocinadores/Dominos_Logo.png" title ="Dominos" alt="Dominos"  width="100%" />
                                 </a>
                             </div>
                             			
