@@ -103,7 +103,7 @@ escribe_cabecera();
 
             
                 <!-- BEGIN: CUENTA ATRÁS -->
-                <!--<br /><br /><br /><br />
+                <br /><br /><br /><br />
                 <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="500px" data-image-src="assets\base\img\volunfair\Fotos2024/Fondos\puente_8.png">
                         <div class="container">
                         <div class="row">
@@ -111,7 +111,7 @@ escribe_cabecera();
                                 <div class="c-content-media-1 c-center c-bordered wow animated flash">
                                     <div class="col-md-12">
                                         <div class="c-content-title-1">
-                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2025 será realidad en ... </h3>
+                                            <h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30">VOLUNFAIR 2026 será realidad en ... </h3>
                                         </div>
                                     </div>
                                     
@@ -142,7 +142,7 @@ escribe_cabecera();
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div>
                     
                 <!-- 
                     https://denis-creative.com/jstimer/
