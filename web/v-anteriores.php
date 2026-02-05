@@ -146,6 +146,21 @@ escribe_cabecera();
             <br /><br />
             <section id="timeline">
                 
+                <div class="tl-item3" onclick="location.href='v-ponentes25';">
+                    
+                    <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2025/luisito.jpg")></div>
+                    
+                    <div class="tl-year">
+                        <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2025</a></p>
+                    </div>
+
+                    <div class="tl-content">
+                        
+                        <strong>Lema:</strong> "Estás a tiempo" <br />
+                        <strong>Jefes:</strong> Olivia Alarcón y Santiago Antúnez
+                    </div>
+                </div>
+                
                 <div class="tl-item3" onclick="location.href='v-ponentes24';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2024/grua_puente24.jpg")></div>

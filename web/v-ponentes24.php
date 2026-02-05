@@ -24,19 +24,7 @@ escribe_cabecera();
                 });
             });
 			
-            // --- Función para activar la consulta de los premios de la rifa
-			function buscar() {
-                var numero = $("#numero").val();
-                var serie = $("#serie").val();
-                
-                // --- Llama al documento buscar-rifa.php, encargado de buscar si el número ha sido o no premiado y escribe el mensaje correspondiente
-                // --- En buscar-rifa.php está definido qué sale cuando no ha tocado nada
-				if (numero != "" && serie != "") {
-					$.post("./mysql/buscar-rifa.php", {valorBusqueda: [numero, serie]}, function(mensaje) {
-						$("#buscarRifa").html(mensaje);
-					}); 
-				}
-            };
+    
             
         </script>
         <!-- BEGIN: PAGE CONTAINER -->
@@ -49,7 +37,14 @@ escribe_cabecera();
             <!-- END: LAYOUT/BREADCRUMBS/BREADCRUMBS-3 -->
             <div style="text-align:left">
             <br>
-                    </div>
+                <div class="col-md-2 wow animated bounceIn">
+                    <h2 class="c-right c-font-uppercase c-font-bold">
+                    <a href="v-ponentes25"><img src="./assets/base/img/volunfair/galeria/FLECHA2.jpg" /><br/>2025</a> 
+                        </h2>
+                </div>
+
+            </div>
+
             <div style="text-align:right">
                 <div class="col-md-10 wow animated bounceIn">
                     <h2 class="c-right c-font-uppercase c-font-bold">

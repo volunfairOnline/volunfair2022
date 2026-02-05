@@ -263,7 +263,7 @@ function muestra_equipo($equipo, $fotosPorFila, $poner_nombres) {
 			echo '<div class="row">'."\n";
 				echo '<div class="col-md-12">'."\n";
 					echo '<div class="c-content-title-1">'."\n";
-						echo '<h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30"> DEPARTAMENTOS 2025</h3>'."\n";
+						echo '<h3 class="c-font-34 c-font-center c-font-bold c-font-uppercase c-margin-b-30"> DEPARTAMENTOS 2026</h3>'."\n";
 							echo '<div class="c-line-center c-theme-bg"></div>'."\n";
 								echo '<p class="c-font-center c-font-bold c-font-uppercase c-margin-b-30">Pulsa en cada grupo para ver a los componentes </p>'."\n";
 							echo '</div>'."\n";

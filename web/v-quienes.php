@@ -204,7 +204,7 @@ escribe_cabecera();
                             <div class="col-md-6">
                                <div class="c-contact">
                                     <div class="c-content-title-1">
-                                        <h3 class="c-font-uppercase c-font-bold">EQUIPO EDICIÓN 2025</h3>
+                                        <h3 class="c-font-uppercase c-font-bold">EQUIPO EDICIÓN 2026</h3>
                                         <div class="c-line-left"></div>
                                         <p class="c-font-lowercase" style="text-align: justify;"> <b> CENA DE BIENVENIDA </b> <br>
                                         </br>Los miembros de VOLUNFAIR celebraron su cena anual en Domino’s Pizza, convirtiéndola en una noche llena de risas y 
@@ -328,143 +328,117 @@ escribe_cabecera();
             $equipazo = [
             
                 "Dirección" => [
-                        ['nombre' => 'Olivia Alarcón',				        'foto' => 'comoliviaalarcon'],
-                        ['nombre' => 'Santiago Antúnez',				    'foto' => 'finsantiantunez'],
+                        ['nombre' => 'Juan Pablo Leal',                    'foto' => 'mktjuanpi'],
+                        ['nombre' => 'Lucía Rosado',                       'foto' => 'webluciarosado'],
                     ],
                 
                 "Comunicación" => [
-                        ['nombre' => 'Íñigo Arreytunandia',		            'foto' => 'comarreytu'],
-                        //['nombre' => 'Rodrigo Avilés',			      	'foto' => 'comoliviaalarcon'],
-                        ['nombre' => 'Juan Ramiro',     			        'foto' => 'comjuanramiro'],
-                        ['nombre' => 'Isabel Nuño-de la Rosa',			    'foto' => 'comisanuno'],
-                        ['nombre' => 'Ana Soria',		                    'foto' => 'comanasoria'],
-                        ['nombre' => 'Nicolás Montero',             	    'foto' => 'comnicomontero'],
-                        ['nombre' => 'Carlos Iranzo',				        'foto' => 'comcarlosiranzo'],
-                        //['nombre' => 'Eduardo García-Atance',				'foto' => 'comyanelagora'],
-                        ['nombre' => 'Pablo Antúnez',					    'foto' => 'compabloantunez'],
-                        //['nombre' => 'Pilar Gonzalez-Aller',	            'foto' => 'comnicomontero'],
-                        ['nombre' => 'Marta García-Aranda',     			'foto' => 'commartagarcia'],
-                        //['nombre' => 'Teresa Montejo',     			    'foto' => 'comvalentinpicon'],
-                        ['nombre' => 'Amérca Díaz-Gurdamino',     			'foto' => 'comamerica'],
-                        ['nombre' => 'Inés Martinez-Fresno',     			'foto' => 'cominesmartinez'],
-                        ['nombre' => 'Marta Ramis',     			        'foto' => 'commartaramis'],
-                        ['nombre' => 'Loreto Duro',     			        'foto' => 'comloretoduro']
+                        ['nombre' => 'Olivia Alarcón',                      'foto' => 'comoliviaalarcon'],
+                        ['nombre' => 'Javier Baza',                         'foto' => 'comjavierbaza'],
+                        ['nombre' => 'Casilda Gómez',                       'foto' => 'comcasildagomez'],
+                        ['nombre' => 'Alejandra Gómez',                     'foto' => 'comalejandragomez'],
+                        ['nombre' => 'Enrique Giménez-Arnau',               'foto' => 'comquiquegimenez'],
+                        //['nombre' => 'María Gómez',                       'foto' => 'commariagomez'],
+                        ['nombre' => 'Yanela Gora',                         'foto' => 'comyanelagora'],
+                        ['nombre' => 'Marta Aguado',                        'foto' => 'commartaaguado'],
+                        ['nombre' => 'Nico Montero',                        'foto' => 'comnicomontero'],
+                        //['nombre' => 'Patricia Rivas',                    'foto' => 'compatriciarivas'],
+                        ['nombre' => 'Valentín Picón',                      'foto' => 'comvalentinpicon'],
+                        //['nombre' => 'Lucía Millán',                      'foto' => 'comluciamillan'],
+                        ['nombre' => 'Irene Gordo',                         'foto' => 'comirenegordo'],
+                        ['nombre' => 'Martina Huete',                       'foto' => 'commartinahuete'],
                     ],
                     
-                "Colaboradores" => [
-                        ['nombre' => 'Manu Márquez',				        'foto' => 'manumarquez'],
-                        //['nombre' => 'Gael Cubo',				            'foto' => 'finsantiantunez'],
-                        ['nombre' => 'Alejandra Valero',		    	    'foto' => 'colalejandravalero'],
-                        ['nombre' => 'María Férnandez',			            'foto' => 'colmariafernandez'],
-                        //['nombre' => 'Carmen González-Aller',             'foto' => 'findiegoalcon'],
-                        ['nombre' => 'Blanca Muñoz',		                'foto' => 'colblancamunoz'],
-                        ['nombre' => 'Valentín Picón',	                    'foto' => 'colvalentin'],
-                        //['nombre' => 'Jaime López',	                    'foto' => 'finmanuelmarquez'],
-                        ['nombre' => 'Javier Latorre',	                    'foto' => 'coljavilatorre'],
-                        ['nombre' => 'Telmo Ocina',				            'foto' => 'coltelmo'],
-                        ['nombre' => 'María Urraca',				        'foto' => 'colmariaurraca'],
-                        ['nombre' => 'Daniel Rosado',				        'foto' => 'coldanirosado'],
-                        ['nombre' => 'Javier Vera',				            'foto' => 'coljaviervera']
+                "Financiación" => [
+                        ['nombre' => 'Telmo Ocina',	                        'foto' => 'coltelmoocina'],
+                        ['nombre' => 'Carmen Gonzalez',				        'foto' => 'colcarmengonzalez'],
+                        ['nombre' => 'Edna Pascual',		    	        'foto' => 'colednapascual'],
+                        ['nombre' => 'Fernando Monzon',			            'foto' => 'colfernandomonzon'],
+                        ['nombre' => 'Javier Mariño',                       'foto' => 'coljaviermarino'],
+                        ['nombre' => 'Juan Ramiro',		                    'foto' => 'conjuanramiro'],
+                        ['nombre' => 'María Fernandez',	                    'foto' => 'colmariafernandez'],
+                        ['nombre' => 'Patricia Rivas',	                    'foto' => 'colpatriciarivas'],
                     ],
 
-                "Logística" => [
-                        ['nombre' => 'Isa de Bloteau',	    		        'foto' => 'logisabeldebloteau'],
-                        //['nombre' => 'Guillaume Femminella',	   	        'foto' => 'gesjaimemoral'],
-                        ['nombre' => 'Enrique Giménez-Arnau',	    	    'foto' => 'comquiquegimenez'],
-                        ['nombre' => 'Tito Ramírez',				        'foto' => 'gestitoramirez'],
-                        ['nombre' => 'Alberto Puig',			            'foto' => 'logalbertopuig'],
-                        ['nombre' => 'Carlos Lanchares ',                   'foto' => 'logcarloslanchares'],
-                        //['nombre' => 'Ester Pérez',		                'foto' => 'gestitoramirez'],
-                        //['nombre' => 'Ruth Martínez',		                'foto' => 'gesinesprados'],
-                        ['nombre' => 'Armando Palau',		                'foto' => 'ongsarmandopalou'],
-                        //['nombre' => 'Rodrigo Machado',     			    'foto' => 'gesblancabravo'],
-                        //['nombre' => 'Henar Alcántara',     			    'foto' => 'gesrosamahugo'],
-                        ['nombre' => 'Lola Linage',     			        'foto' => 'mktlolalinaje'],
-                        ['nombre' => 'Santiago Puelles',				    'foto' => 'logsantiagopuelles'],
-                        //['nombre' => 'Jorge Lecocq',				        'foto' => 'finsantiantunez'],
-                        ['nombre' => 'Isabel Allés',				        'foto' => 'logisabealles'],
-                        ['nombre' => 'Belén del Molino',				    'foto' => 'logbelendelmolino']
+                "Gestión" => [
+                        ['nombre' => 'Alberto Castillo',                     'foto' => 'Alberto_Castillo'],
+                        ['nombre' => 'Carlos Iranzo',	    	            'foto' => 'Carlos'],
+                        ['nombre' => 'Diana González',                       'foto' => 'Diana_Gonzalez'],
+                        ['nombre' => 'Carmen Alonso',			            'foto' => 'Carmen_Alonso2'],
+                        ['nombre' => 'Francisco Javier de Cárdenas',        'foto' => 'Francisco_Javier_de_Cardenas'],
+                        ['nombre' => 'Paloma Collantes',		            'foto' => 'Paloma_Collantes2'],
+                        ['nombre' => 'Tito Ramírez',		                'foto' => 'Tito_Ramirez'],
                     ],
 
                 "Marketing" => [
-                        ['nombre' => 'Juan Pablo Leal',			            'foto' => 'mktjuanpi'],
-                        ['nombre' => 'Carla Rius',			                'foto' => 'mktcarlarius'],
-                        //['nombre' => 'Inés Prados',			            'foto' => 'mktinespiedrola'],
-                        //['nombre' => 'Pablo Navarro',			            'foto' => 'mktmktpalonavarro'],
-                        ['nombre' => 'Pilar Cadarso',			            'foto' => 'mktpilarcadarso'],
-                        //['nombre' => 'Inés Porrúa',			            'foto' => 'mktjennifersoriano'],
-                        ['nombre' => 'Pablo Sánchez-Pobre',		            'foto' => 'mktpablosanchezpobre'],
-                        //['nombre' => 'Irene Benito',			            'foto' => 'mktjuanpileal'],
-                        ['nombre' => 'Carlota Álvarez',			            'foto' => 'mktcarlotaalvarez'],
-                        ['nombre' => 'Ainhoa Mercedes',				        'foto' => 'mktainhoa'],
-                        //['nombre' => 'Alejandra Cervino',				    'foto' => 'mktpablosanchezpobre'],
-                        //['nombre' => 'Ángela Ramírez',				    'foto' => 'mktmartamoreno'],
-                        //['nombre' => 'Alba Merino',				        'foto' => 'mktmariaperez'],
-                        //['nombre' => 'Alvaro Bravo',				        'foto' => 'mktlolalinaje'],
-                        //['nombre' => 'Álvaro Isern',				        'foto' => 'mktisabelalles'],
-                        ['nombre' => 'María Antúnez',			            'foto' => 'mktmariaantunez']
-                        //['nombre' => 'Patricia Rivas',			        'foto' => 'mktinespiedrola'],
-
+                        ['nombre' => 'Alba Merino',                         'foto' => 'Alba_Merino'],
+                        ['nombre' => 'Alicia Lorente',                      'foto' => 'Alicia_Lorente'],
+                        ['nombre' => 'Ángela Ramírez',                      'foto' => 'Angela_Ramirez'],
+                        ['nombre' => 'Berta Ribalda',                       'foto' => 'Berta_Ribalda'],
+                        ['nombre' => 'Carla Rius',                          'foto' => 'Carla_Rius'],
+                        ['nombre' => 'Carolina Santos',                     'foto' => 'Carolina_Santos'],
+                        ['nombre' => 'Clara Remesal',                       'foto' => 'Clara_Remesal'],
+                        ['nombre' => 'Inés Prados',                         'foto' => 'Ines_Prados'],
+                        ['nombre' => 'Lola Linage',                         'foto' => 'Lola_Linage'],
+                        ['nombre' => 'Lucas Belmonte',                      'foto' => 'Lucas_Belmonte2'],
+                        ['nombre' => 'María Crespo',                        'foto' => 'Maria_Crespo_Yepes_1'],
+                        ['nombre' => 'Marta Garrote',                       'foto' => 'Marta_Garrote_1'],
+                        ['nombre' => 'Pablo Sánchez-Pobre',                 'foto' => 'Pablo_Sanchez-Pobre_Martinez-Mediero_1'],
+                        ['nombre' => 'Paula Vesperinas',                    'foto' => 'Paula_Vesperinas_Esteban_1'],
+                        ['nombre' => 'Sonia Basagoiti',                     'foto' => 'Sonia_Basagoiti_Perez_1'],
                     ],
 
                 "ONG's" => [
-                        ['nombre' => 'María Hernández',			            'foto' => 'ongsmariahernandez'],
-                        ['nombre' => 'Edna Pascual',			            'foto' => 'ongsednapascual'],
-                        //['nombre' => 'Lucía Sánchez',			            'foto' => 'ongsluciasanchez'],
-                        ['nombre' => 'Daniela Cruz',			            'foto' => 'ongsdanielacruz'],
-                        //['nombre' => 'Cristina Amador',		            'foto' => 'ongscristinaamador'],
-                        //['nombre' => 'Diana González',				    'foto' => 'ongsdianagonzalez'],
-                        ['nombre' => 'Marta Aguado',				        'foto' => 'ongsmartaaguado']
-                        //['nombre' => 'Carmen González',			        'foto' => 'ongscarmengonzalez'],
-                        //['nombre' => 'Rosa de la Gándara',			    'foto' => 'ongsrosadelagangara'],
-                    ],
-                
+                        ['nombre' => 'Ana Soria',                           'foto' => 'Ana_Soria'],
+                        ['nombre' => 'Carlota Rodrígez',                    'foto' => 'Carlota_Rodriguez2'],
+                        ['nombre' => 'Carmen González',                     'foto' => 'Carmen_Gonzalez'],
+                        ['nombre' => 'Daniela Cruz',                        'foto' => 'Daniela_Cruz'],
+                        ['nombre' => 'Henar Alcántara',                     'foto' => 'Henar_Alcantara'],
+                        ['nombre' => 'Jaime Torres',                        'foto' => 'Jaime_Torres2'],
+                        ['nombre' => 'Leyre Maceda',                        'foto' => 'Leyre_Maceda'],
+                        ['nombre' => 'Lucía Pérez',                         'foto' => 'Lucia_Perez'],
+                        ['nombre' => 'Paula Díaz',                          'foto' => 'Paula_Diaz-Plaza'],
+                        ['nombre' => 'Teresa Díaz',                         'foto' => 'Teresa_Diaz'],
+
+                    ],    
+
                 "Web" => [
-                        ['nombre' => 'Lucía Rosado',				        'foto' => 'webluciarosado'],
-                        ['nombre' => 'Andrés Martínez',			    	    'foto' => 'webandresmartinez'],
-                        ['nombre' => 'Guillermo Camargo',			        'foto' => 'webguillermocamargo'],
-                        ['nombre' => 'Diego Lavín',			                'foto' => 'webdiegolavin'],
-                        ['nombre' => 'Helena Castro',					    'foto' => 'webhelena'],
-                        ['nombre' => 'Guiomar Figueroa',				    'foto' => 'webguiomarfigueroa'],
-                        ['nombre' => 'Juan Ruiz',		        		    'foto' => 'webjuanruiz'],
-                        ['nombre' => 'Luis Ruiz',     			            'foto' => 'webluisruiz'],
-                        ['nombre' => 'Enrique de Miguel',     			    'foto' => 'webenriquedemiguel'],
-                        ['nombre' => 'Paula Vesperinas',     			    'foto' => 'webpaulavesperinas'],
-                        ['nombre' => 'Jaime Oliver',     			        'foto' => 'webjaimeoliver']
-                    ],
-               
+                        ['nombre' => 'Andrés Martínez',	                    'foto' => 'Andres_Martinez_LopezdeAsiain'],
+                        ['nombre' => 'Diego Lavín',			        	    'foto' => 'Diego_Lavin'],
+                        ['nombre' => 'Francisco Javier Galera',			    'foto' => 'Francisco_Javier_Galera'],
+                        ['nombre' => 'Helena Castro',				        'foto' => 'Helena_Castro'],
+                        ['nombre' => 'Álvaro Bravo',     			        'foto' => 'Alvaro_Bravo'],
+                    ],               
 
                 "Redes Sociales" => [
-                        ['nombre' => 'Ana González',			            'foto' => 'rrssanagonzalez'],
-                        //['nombre' => 'Sofia Aledo',		                'foto' => 'rrsscarloslanchares'],
-                        //['nombre' => 'Patricia Garcia',                   'foto' => 'rrssbelencabello'],
-                        //['nombre' => 'Ale Rubio',			                'foto' => 'rrssblancamunoz'],
-                        //['nombre' => 'Sofía Araujo',		                'foto' => 'rrssalevalero'],
-                        //['nombre' => 'Candela Arias',	                    'foto' => 'rrssalmualonso'],
-                        //['nombre' => 'Patricia Alocén',		            'foto' => 'rrsssaragonzalez'],
-                        //['nombre' => 'Sol Linares ',                      'foto' => 'rrssjaimegomez'],
-                        //['nombre' => 'Lucía Molina',                      'foto' => 'rrsssolete'],
-                        //['nombre' => 'Bea Maldonado',         	        'foto' => 'rrsspepapostigo']
+                        ['nombre' => 'Meripa',                              'foto' => 'rrssmeripa'],
+                        ['nombre' => 'Ana González',                        'foto' => 'rrssanagonzalez'],
+                        ['nombre' => 'Carlos Lanchares',                    'foto' => 'rrsscarloslanchares'],
+                        // ['nombre' => 'Belén Cabello de los Cobos',       'foto' => 'rrssbelencabello'],
+                        ['nombre' => 'Blanca Muñoz',                        'foto' => 'rrssblancamunoz'],
+                        ['nombre' => 'Alejandra Valero',                    'foto' => 'rrssalevalero'],
+                        ['nombre' => 'Almudena Alonso-Jáuden',              'foto' => 'rrssalmualonso'],
+                        //['nombre' => 'Sara González',                     'foto' => 'rrsssaragonzalez'],
+                        ['nombre' => 'Jaime Gómez',                         'foto' => 'rrssjaimegomez'],
+                        ['nombre' => 'Solete',                              'foto' => 'rrsssolete'],
+                        //['nombre' => 'Pepa Postigo',                      'foto' => 'rrsspepapostigo'],
+                        //['nombre' => 'María Pérez',                       'foto' => 'rrssmariaperez'],
+                        //['nombre' => 'Belén Cabello',                     'foto' => 'rrssbelencabello'],
                     ],
 
-                    "Recursos Humanos" => [
-                        ['nombre' => 'José Vives',				            'foto' => 'rrhhjosevives'],
-                        //['nombre' => 'Brenda Ascanio',			        'foto' => 'rrhhvictoriasarabia'],
-                        ['nombre' => 'Almudena Andreu',			            'foto' => 'rrhhalmudenaandreu'],
-                        //['nombre' => 'Manuela Sánchez',		            'foto' => 'rrhhinigoarreytunandia'],
-                        //['nombre' => 'Lourdes Quintana',				    'foto' => 'rrhhpatriciagarcia'],
-                        //['nombre' => 'Carlos Villarino',				    'foto' => 'rrhhisabelcornide'],
-                        //['nombre' => 'Arantxa Pérez-Miranda ',			'foto' => 'rrhhsantiagopuelles'],
-                        //['nombre' => 'Sol Bernard',				        'foto' => 'rrhhsolbernard'],
-                        ['nombre' => 'Inés Delgado',				        'foto' => 'rrhhinesdelgado'],
-                        //['nombre' => 'Nicolás Ferreiro',				    'foto' => 'rrhhalejandrarubio'],
-                        //['nombre' => 'José López',				        'foto' => 'rrhhcandelaarias'],
-                        //['nombre' => 'Javier Ranninger',				    'foto' => 'rrhhpatriciaalocen'],
-                        ['nombre' => 'Ainhoa Orta',				            'foto' => 'ongsainhoaorta'],
-                        //['nombre' => 'Jesús Fernández-Cordeiro',			'foto' => 'rrhhpablojimenez'],
-                        //['nombre' => 'Patricia Martínez',				    'foto' => 'rrhhpablojimenez']
-                    ],
+                "Recursos Humanos" => [
+                        ['nombre' => 'Ale Cervino',				            'foto' => 'ALE_CERVINO'],
+                        ['nombre' => 'Ari González',			            'foto' => 'ARI_GONZÁLEZ'],
+                        ['nombre' => 'Carlos Lanchares',			        'foto' => 'CARLOS_LANCHARES'],
+                        ['nombre' => 'Carlos Villarino',		            'foto' => 'CARLOS_VILLARINO'],
+                        ['nombre' => 'Jesús Fernández-Cordeiro',		    'foto' => 'JESÚS_FERNÁNDEZ-CORDEIRO'],
+                        ['nombre' => 'María de Rojas',				        'foto' => 'MARIA_DE_ROJAS'],
+                        ['nombre' => 'Pablo Navarro',			            'foto' => 'PABLO_NAVARRO'],
+                        ['nombre' => 'José Vives',			                'foto' => 'PABLO_NAVARRO'],
+                        ['nombre' => 'Valentín Picón',				        'foto' => 'VALENTÍN_PICÓN'],
+                       ],
                 ];
+                
 
             // --- Resto de parámetros de la función
             $mostrar_nombres = true;
