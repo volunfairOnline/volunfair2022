@@ -156,9 +156,9 @@ escribe_cabecera();
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2026</h3>
                     <div class="c-line-center c-theme-bg"></div>
-                    <!--<p class="c-center" >El equipo de VOLUNFAIR 2025 tiene el placer de invitarles a la <b>X edición de VOLUNFAIR</b>, que viene pisando fuerte con 3 días de feria. <br /><b>El martes 11, miércoles 12 y jueves 13 </b>de febrero podrá conocer a todas las entidades sociales que nos acompañan este año.
-                    <br /> Además, contamos con unos ponentes de mucho nivel, que compartirán un buen rato con nosotros en la <br /> <b>La Escuela Técnica Superior de Ingenieros Industriales de la UPM (C/ José Gutiérrez Abascal)</b>. ¡Que no te lo cuenten!</p>  -->
-					<p class="c-center" >La <b>décima edición de VOLUNFAIR</b> fue increíble. ¡Gracias a todos los que compartistéis con nosotros estos días! <br>Si quieres volver a revivir estos momentos los vídeos están disponibles en nuestro canal de Youtube @volunfair.</p>  
+                    <p class="c-center" >El equipo de VOLUNFAIR 2026 tiene el placer de invitarles a la <b>XI edición de VOLUNFAIR</b>, que viene pisando fuerte con 2 días de feria. <br /><b>El miércoles 18 y jueves 19 </b>de febrero podrá conocer a todas las entidades sociales que nos acompañan este año.
+                    <br /> Además, contamos con unos ponentes de mucho nivel, que compartirán un buen rato con nosotros en la <br /> <b>La Escuela Técnica Superior de Ingenieros Industriales de la UPM (C/ José Gutiérrez Abascal)</b>. ¡Que no te lo cuenten!</p>
+					<!-- <p class="c-center" >La <b>décima edición de VOLUNFAIR</b> fue increíble. ¡Gracias a todos los que compartistéis con nosotros estos días! <br>Si quieres volver a revivir estos momentos los vídeos están disponibles en nuestro canal de Youtube @volunfair.</p>  -->
 					
 				</div>
                 
@@ -171,12 +171,11 @@ escribe_cabecera();
 
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase  c-font-bold">Martes 11</h2>   
-                <p class="c-center" >Acto inaugural de VOLUNFAIR 2026 a las <b><em>12:25</em></b> en el <em>Salón de Actos</em></p>                      
+                <h2 class="c-center c-font-uppercase  c-font-bold">Miércoles 18</h2>   
+                <p class="c-center" >Acto inaugural de VOLUNFAIR 2026 a las <b><em>12:00</em></b> en el <em>Salón de Actos</em></p>                      
             </div>
 
-
-            <!-- BEGIN: Luis de la Fuente -->  
+            <!-- BEGIN: Ponentes -->  
             
             <div class="c-content-box c-size-md c-bg-white">
                 <div class="parallax-window"
@@ -244,7 +243,16 @@ escribe_cabecera();
 
                     <br><br>
 
+
                     <!-- ================= CARLOS / PICHIFIT ================= -->
+
+                    <div class="c-content-title-1">
+                <div class="c-line-center c-theme-bg"></div>
+                <h2 class="c-center c-font-uppercase  c-font-bold">Jueves 19</h2>   
+                <p class="c-center" >Acto de clausura de VOLUNFAIR 2026 a las <b><em>18:30</em></b> en el <em>Salón de Actos</em></p>                      
+            </div>
+
+
                     <div class="container">
                         <div class="row" style="display:flex; align-items:stretch;">
 
@@ -254,7 +262,7 @@ escribe_cabecera();
                                     style="display:flex; align-items:center; width:100%;">
 
                                     <p class="c-left">
-                                        <b>Carlos Martínez Lliso</b>, conocido como <b>Pichifit</b>, es creador de contenido y divulgador de
+                                        <b>Pichi (Carlos Martínez)</b>, conocido como <b>@Pichifit</b>, es creador de contenido y divulgador de
                                         <b>hábitos saludables</b> y <b>motivación personal</b>. A través de su historia de <b>superación</b>,
                                         inspira a miles de personas a luchar por una vida más plena y equilibrada.<br><br>
 
@@ -275,7 +283,7 @@ escribe_cabecera();
                                     style="display:flex; flex-direction:column; width:100%;">
 
                                     <div class="c-content-title-3 c-theme-border">
-                                        <h3 class="c-font-uppercase c-font-bold">Carlos Martínez Lliso</h3>
+                                        <h3 class="c-font-uppercase c-font-bold">Pichifit</h3>
                                         <div class="c-line-left"></div>
                                     </div>
 
@@ -302,173 +310,6 @@ escribe_cabecera();
 
 
             <br></br><br></br>
-
-            <div class="c-content-title-1">
-                <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase c-font-bold">Miércoles 12</h2>   
-                <p class="c-center" >A las <em>13:30</em> en el <em>Salón de Actos</em> podrás conocer a dos personas fascinantes</p>                      
-            </div>
-
-            <!-- BEGIN: Lóla Sánchez y Mariana de Ugarte  -->
-            
-            <div class="c-content-box c-size-md">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" >
-                    <div class="container c-center">
-
-                                <div class="row">
-                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <div class="col-md-2">
-                            </div>
-                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <!-- BEGIN: Lola Sánchez -->
-                            
-                            <div class="col-md-8">
-                                <div class="col-md-12">
-                                    <br />
-                                    <div>
-                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
-                                            <div class="c-content-title-3 c-theme-border c-right">
-                                                <h3 class="c-right c-font-uppercase c-font-bold"> Lola Sánchez</h3>
-                                                <h4 class="c-right c-font-uppercase c-font-bold">
-                                                <div class="c-right c-line-left "> </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                        <img src="assets\base\img\volunfair\Fotos2025\lolasanchez.jpeg" width="100%" title="Lola Sánchez" alt="Lola Sánchez" />
-                                    </div>
-                                            <p class="c-right">                                            
-                                            <b>Lóla Sánchez</b>, conocida en Instagram como <b>@abrazandoelplanb</b>, es madre de cinco hijos — dos de ellos adoptados con síndrome de Down 
-                                            — con un nuevo hijo adoptivo en camino. En su paso por VOLUNFAIR 2025, compartió cómo lo que empezó como un "Plan B" se convirtió en una historia
-                                             de amor, fe e inclusión. Con su testimonio auténtico y lleno de esperanza, recordó a todos los asistentes que lo inesperado puede ser el mayor regalo,
-                                              y que la diversidad familiar no solo se abraza, sino que transforma.
-                                            </p>
-                                            
-                                        </div>
-                                        
-                                    </div>
-                                    
-                                </div>
-                                
-                            </div>
-                            
-                            <!-- END: Lola Sánchez-->                        
-
-                            <!-- BEGIN: Mariana de Ugarte -->
-                            
-                            <div class="col-md-8">
-                                <div class="col-md-12">
-                                    <br />
-                                    <div>
-                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
-                                            <div class="c-content-title-3 c-theme-border c-right">
-                                                <h3 class="c-right c-font-uppercase c-font-bold"> Mariana de Ugarte</h3>
-                                                <h4 class="c-right c-font-uppercase c-font-bold">
-                                                <div class="c-right c-line-left "> </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                        <img src="assets\base\img\volunfair\Fotos2025\marianadeugarte.jpg" width="100%" title="Mariana de Ugarte" alt="Mariana de Ugarte" />
-                                    </div>
-                                            <p class="c-right">                                            
-                                            <b>Mariana de Ugarte</b> es una influencer y escritora española que tiene dos hijos —Marianita y Jaime—, ambos con síndrome de Down. Comparte su vida en redes sociales, para normalizar y visibilizar el síndrome de Down a través de su experiencia diaria. Su primer libro, publicado en 2022, se titula 2x21: La felicidad no entiende de cromosomas.
-                                            Este libro autobiográfico narra con sencillez y realismo su camino junto a sus dos hijos con síndrome de Down: los retos, las emociones, y sobre todo la alegría y plenitud que han traído a su vida.
-                                            Mariana de Ugarte ha sido una de las voces más inspiradoras de VOLUNFAIR 2025, ofreciéndonos una charla llena de honestidad, fuerza y esperanza.                                                                            
-                                            </p>
-                                            
-                                        </div>
-                                        
-                                    </div>
-                                    
-                                </div>
-                                
-                            </div>
-                        
-                            
-                            <!-- END: Mariana de Ugarte-->
-
-                            <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
-                            <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
-
-
-                            <div class="c-content-title-1">
-                <div class="c-line-center c-theme-bg"></div>
-                <h2 class="c-center c-font-uppercase c-font-bold">Jueves 13</h2>   
-                <p class="c-center" >A las <em>13:30</em> en el <em>Salón de Actos</em> conoce a nuestros ponentes</p>                      
-            </div>
-
-
-                            <!-- BEGIN:  Carlos Bobillo y Pablo Delgado de la Serna  -->
-            
-            <div class="c-content-box c-size-md">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" data-yPos="-100px" ">
-                    <div class="container c-center">
-                            
-                                <div class="row">
-                            <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <div class="col-md-2">
-                            </div>
-                            <!-- END: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
-                            <!-- BEGIN: Pablo Delgado de la Serna -->
-                            
-                            <div class="col-md-8">
-                                <div class="col-md-12">
-                                    <br />
-                                    <div>
-                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
-                                            <div class="c-content-title-3 c-theme-border c-right">
-                                                <h3 class="c-right c-font-uppercase c-font-bold"> Carlos Bobillo</h3>
-                                                <h4 class="c-right c-font-uppercase c-font-bold">
-                                                <div class="c-right c-line-left "> </div>
-                                            </div>
-                                            <div class="col-md-4" >
-                                        <img src="assets\base\img\volunfair\Fotos2025\carlosbobillo.jpg" width="100%" title="Carlos Bobillo" alt="Carlos Bobillo" />
-                                    </div>
-                                            <p class="c-right">                                            
-                                            <b>Carlos Bobillo</b> es el fundador de <b>@ongasu</b>, una organización sin ánimo de lucro que trabaja para mejorar la calidad de vida de <b>personas en situación de vulnerabilidad</b>.
-                                            Desde su creación, ha desarrollado programas de asistencia social, educación y salud que han beneficiado a cientos de personas. Gracias a su trabajo, ha recibido múltiples 
-                                            reconocimientos y continúa expandiendo su impacto con nuevos proyectos solidarios. Acompáñanos a descubrir como la solidaridad y el compromiso pueden transformar vidas.                                                                                              
-                                            </p>
-                                            
-                                        </div>
-                                        
-                                    </div>
-                                    
-                                </div>
-                                
-                            </div>
-                            
-                            <!-- END: Pablo Delgado de la Serna-->                        
-
-                            <!-- BEGIN: Carlos Bobillo -->
-                            
-                            <div class="col-md-8">
-                                <div class="col-md-12">
-                                    <br />
-                                    <div>
-                                        <div class="c-content-media-1 c-bordered c-background-gray wow animated" style="min-height: 300px;">                                  
-                                            <div class="c-content-title-3 c-theme-border c-right">
-                                                <h3 class="c-right c-font-uppercase c-font-bold"> Pablo Delgado de la Serna</h3>
-                                                <h4 class="c-right c-font-uppercase c-font-bold">
-                                                <div class="c-right c-line-left "> </div>
-                                            </div>
-                                            <div class="col-md-4">
-                                        <img src="assets\base\img\volunfair\Fotos2025\pablodelgado.jpeg" width="100%" title="Pablo Delgado de la Serna" alt="Pablo Delgado de la Serna" />
-                                    </div>
-                                            <p class="c-right">                                            
-                                            <b>Pablo Delgado de la Serna</b>, conocido en redes como <b>@untrasplantado</b>, ha utilizado su experiencia como paciente trasplantado para crear conciencia sobre 
-                                            la <b>donación de órganos</b> y la <b>importancia de la salud</b>. Ha trabajado con asociaciones médicas y ha participado en campañas de sensibilización a nivel nacional. 
-                                            Su testimonio ha impactado a miles de personas, promoviendo la solidaridad y la importancia de la ciencia médica. ¿Te vas a perder escuchar su testimonio en 
-                                            persona?                                                                                         
-                                            </p>
-                                            
-                                        </div>
-                                        
-                                    </div>
-                                    
-                                </div>
-                                
-                            </div>
-                        
-                            
-                            <!-- END: Carlos Bobillo -->
                             
                             <!-- BEGIN: COLUMNA EN BLANCO PARA QUE EL RESTO QUEDE CENTRADO -->
                             <div class="col-md-2">
@@ -501,8 +342,20 @@ escribe_cabecera();
 
             <br />
             <!-- BEGIN: MODERADORES  -->
-            
             <div class="row" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+            <div class="col-6 col-sm-4 col-md-2">
+                    <div>
+                        <img src="assets/base/img/volunfair/Fotos2025/PabloEspana.jpg" width="100%" title="Pablo España" alt="Pablo España" />
+                    </div>
+                    <div class="row c-content-media-1 wow animated fadeInRight">
+                        <div class="c-center">
+                            <h3 class="c-font-uppercase c-font-bold">Pablo España</h3>
+                            <div>Speaker de VOLUNFAIR 2026</div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col-6 col-sm-4 col-md-2">
                     <div>
                         <img src="assets/base/img/volunfair/Fotos2025/JaviGonzalez.jpg" width="100%" title="Javier González" alt="Javier González" />
@@ -510,34 +363,11 @@ escribe_cabecera();
                     <div class="row c-content-media-1 wow animated fadeInRight">
                         <div class="c-center">
                             <h3 class="c-font-uppercase c-font-bold">Javier González</h3>
-                            <div>Speaker de VOLUNFAIR 2025</div>
+                            <div>Speaker de VOLUNFAIR 2026</div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-6 col-sm-4 col-md-2">
-                    <div>
-                        <img src="assets/base/img/volunfair/Fotos2025/PabloEspana.jpg" width="100%" title="Pablo España" alt="Pablo España" />
-                    </div>
-                    <div class="row c-content-media-1 wow animated fadeInRight">
-                        <div class="c-center">
-                            <h3 class="c-font-uppercase c-font-bold">Pablo España</h3>
-                            <div>Speaker de VOLUNFAIR 2025</div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-6 col-sm-4 col-md-2">
-                    <div>
-                        <img src="assets/base/img/volunfair/Fotos2025/JorgeGS.jpg" width="100%" title="Jorge García" alt="Jorge García" />
-                    </div>
-                    <div class="row c-content-media-1 wow animated fadeInRight">
-                        <div class="c-center">
-                            <h3 class="c-font-uppercase c-font-bold">Jorge García Santamaría</h3>
-                            <div>Speaker de VOLUNFAIR 2025</div>
-                        </div>
-                    </div>
-                </div>
             </div>
             
             <!-- END: MODERADORES  -->

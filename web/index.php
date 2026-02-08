@@ -431,9 +431,25 @@ $firstNews = $newsItems[0];
                                    </a>
                             </div>
 
+                            <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="4" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
+                        data-auto-play-hover-pause="false">
+                            <div class="item">
+                                   <a href="https://www.hpecds.com/" target="_blank">
+                                       <img src="assets/base/img/volunfair/patrocinadores/cds_logo.png" title ="CDS" alt="CDS"  width="100%" />
+                                   </a>
+                            </div>
+
+                            <div class="owl-carousel owl-theme c-theme c-owl-nav-center" data-items="5" data-desktop-items="4" data-desktop-small-items="3" data-tablet-items="3" data-mobile-small-items="1" data-auto-play="false" data-rtl="false" data-slide-speed="5000"
+                        data-auto-play-hover-pause="false">
+                            <div class="item">
+                                   <a href="https://www.hpe.com/es/es/home.html" target="_blank">
+                                       <img src="assets/base/img/volunfair/patrocinadores/HPE-logo.png" title ="HPE" alt="HPE"  width="100%" />
+                                   </a>
+                            </div>
+
                             <div class="item">
                                    <a href="https://www.lexmark.com/es_es.html" target="_blank">
-                                       <img src="assets/base/img/volunfair/patrocinadores/LexmarkLogo" title ="Lexmark" alt="Lexmark"  width="100%" />
+                                       <img src="assets/base/img/volunfair/patrocinadores/Xerox-Lexmark-logo.png" title ="Lexmark" alt="Lexmark"  width="100%" />
                                    </a>
                             </div>
                             <div class="item">

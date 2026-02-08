@@ -64,15 +64,15 @@ escribe_cabecera();
 				<div class="c-content-title-1">
 					<h3 class="c-center c-font-uppercase c-font-bold">VOLUNFAIR 2025</h3>
                     <div class="c-line-center c-theme-bg"></div> 
-                    <p class="c-font-lowercase" style="text-align: justify;">En 2023 parecía que nos habíamos pasado el juego, así que, al principio, no supimos cómo empezar la novena edición. 
-                        Pero pronto la genialidad del equipazo dio paso a unos meses de preparación de algo no solo muy grande sino también, y quizás, 
-                        ante todo, muy divertido. Al grito de <b>#PuenteEnPie</b>., nuestros jefazos, Blanca y Diego, fueron los arquitectos de una obra cuya
-                         teja final fue un concierto en el que todo un salón de actos lleno gritó que <b>entregarse a los demás merece la pena</b>. </p>
-                    <p class="c-font-lowercase" style="text-align: justify;">VOLUNFAIR 2024 no tuvo las dificultades monetarias de los primeros años, ni la falta de mano de obra cuando más hacía falta. Pero tuvo un 
-                        equipo entregado al 100%, dispuesto a parar a la gente por la calle para contarle lo que es VOLUNFAIR e invitarle a cambiar su vida. 
-                        Tuvo a <b>Marta Barroso</b> como ponente sorpresa de la edición. Tuvo a varias radios acudiendo en directo y apariciones en un podcast. 
-                        Y, por primera vez, tuvo cuatro pancartas gigantes anunciando la feria en el <b>Metro de Madrid</b>, porque lo que tenemos claro, nueve 
-                        años después, es que sigue habiendo mucha gente ahí fuera queriendo cambiar su vida y la de los demás pero que no saben cómo hacerlo.</p>
+                    <p class="c-font-lowercase" style="text-align: justify;">En 2025, <b>VOLUNFAIR</b> celebró su décima edición con una energía que no hizo más que confirmar 
+                        que después de una década seguimos con <b>tanta ilusión como el primer día</b>. Lo que empezó como una chispa de compromiso entre estudiantes se ha 
+                        convertido en la mayor feria universitaria de voluntariado de España, reuniendo a más de <b>75 ONG</b> y entidades solidarias y acercando sus proyectos
+                         a miles de jóvenes durante <b>tres días</b> intensos en la ETSI de la Universidad Politécnica de Madrid. </p>
+                    <p class="c-font-lowercase" style="text-align: justify;">Lejos de ser solo una feria, esta edición estuvo llena de momentos que emocionaron y transformaron. 
+                        La inauguración contó con la presencia de <b>Luis de la Fuente</b>, que no solo habló de deporte, sino de solidaridad y liderazgo desde su experiencia social. 
+                        A lo largo de los días, ponentes como <b>Lola Sánchez y Mariana de Ugarte</b> compartieron testimonios de vida que recordaron a todos que el voluntariado no es 
+                        solo una acción: es una forma profunda de entender la vida. Además, voces como las de <b>Carlos Bobillo y Pablo Delgado de la Serna</b> ofrecieron reflexiones sobre 
+                        compromiso social y la importancia de donar tiempo, experiencia y esperanza a los demás.</p>
                         <br />
 				</div>
                 
