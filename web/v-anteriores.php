@@ -146,12 +146,12 @@ escribe_cabecera();
             <br /><br />
             <section id="timeline">
                 
-                <div class="tl-item3" onclick="location.href='v-ponentes25';">
+                <div class="tl-item3" onclick="location.href='v-ponentes25.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2025/luisito.jpg")></div>
                     
                     <div class="tl-year">
-                        <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2025</a></p>
+                        <p class="f2 heading--sanSerif"><a href="v-ponentes25.php">2025</a></p>
                     </div>
 
                     <div class="tl-content">
@@ -161,12 +161,12 @@ escribe_cabecera();
                     </div>
                 </div>
                 
-                <div class="tl-item3" onclick="location.href='v-ponentes24';">
+                <div class="tl-item3" onclick="location.href='v-ponentes24.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/Fotos2024/grua_puente24.jpg")></div>
                     
                     <div class="tl-year">
-                        <p class="f2 heading--sanSerif"><a href="v-ponentes16.php">2024</a></p>
+                        <p class="f2 heading--sanSerif"><a href="v-ponentes24.php">2024</a></p>
                     </div>
 
                     <div class="tl-content">
@@ -176,7 +176,7 @@ escribe_cabecera();
                     </div>
                 </div>
 
-                <div class="tl-item3" onclick="location.href='v-ponentes23';">
+                <div class="tl-item3" onclick="location.href='v-ponentes23.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/magia15.jpeg)"></div>
                     
@@ -191,12 +191,12 @@ escribe_cabecera();
 
                 </div>
 
-                <div class="tl-item3" onclick="location.href='v-ponentes22';">
+                <div class="tl-item3" onclick="location.href='v-ponentes22.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/ninos22.jpg)"></div>
                     
                     <div class="tl-year">
-                    <p class="f2 heading--sanSerif"><a href="v-ponentes21.php">2022</a></p>
+                    <p class="f2 heading--sanSerif"><a href="v-ponentes22.php">2022</a></p>
                     </div>
 
                     <div class="tl-content">
@@ -209,7 +209,7 @@ escribe_cabecera();
             
                 <section id="timeline">
                 
-                <div class="tl-item3" onclick="location.href='v-ponentes21';">
+                <div class="tl-item3" onclick="location.href='v-ponentes21.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/acera.jpg)"></div>
                     
@@ -224,7 +224,7 @@ escribe_cabecera();
 
                 </div>
 
-                <div class="tl-item3" onclick="location.href='v-ponentes20';">
+                <div class="tl-item3" onclick="location.href='v-ponentes20.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/mar13.jpeg)"></div>
                     
@@ -239,7 +239,7 @@ escribe_cabecera();
 
                 </div>
 
-                <div class="tl-item3" onclick="location.href='v-ponentes19';">
+                <div class="tl-item3" onclick="location.href='v-ponentes19.php';">
                     
                 <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/estrellas.jpg)"></div>
                     
@@ -256,7 +256,7 @@ escribe_cabecera();
                 </section>
 
             <section id="timeline">
-            <div class="tl-item3" onclick="location.href='v-ponentes18';">
+            <div class="tl-item3" onclick="location.href='v-ponentes18.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/cuadrofumao3.jpg)"></div>
                     
@@ -271,7 +271,7 @@ escribe_cabecera();
 
                 </div>    
                 
-                <div class="tl-item3" onclick="location.href='v-ponentes17';">
+                <div class="tl-item3" onclick="location.href='v-ponentes17.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/rowing3.jpg)"></div>
                     
@@ -286,7 +286,7 @@ escribe_cabecera();
 
                 </div>
             
-                <div class="tl-item3" onclick="location.href='v-ponentes16';">
+                <div class="tl-item3" onclick="location.href='v-ponentes16.php';">
                     
                     <div class="tl-bg" style="background-image: url(./assets/base/img/volunfair/anteriores/Fondos/avionaco2.jpg")></div>
                     

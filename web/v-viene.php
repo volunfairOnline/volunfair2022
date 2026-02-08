@@ -154,7 +154,7 @@ escribe_cabecera();
 
                 <div id="c-isotope-anchor-1" class="c-content-box c-size-md c-bg-img-center" >
 				<div class="c-content-title-1">
-					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2025</h3>
+					<h3 class="c-center c-font-uppercase c-font-bold">LA EDICIÓN 2026</h3>
                     <div class="c-line-center c-theme-bg"></div>
                     <!--<p class="c-center" >El equipo de VOLUNFAIR 2025 tiene el placer de invitarles a la <b>X edición de VOLUNFAIR</b>, que viene pisando fuerte con 3 días de feria. <br /><b>El martes 11, miércoles 12 y jueves 13 </b>de febrero podrá conocer a todas las entidades sociales que nos acompañan este año.
                     <br /> Además, contamos con unos ponentes de mucho nivel, que compartirán un buen rato con nosotros en la <br /> <b>La Escuela Técnica Superior de Ingenieros Industriales de la UPM (C/ José Gutiérrez Abascal)</b>. ¡Que no te lo cuenten!</p>  -->
@@ -172,49 +172,134 @@ escribe_cabecera();
             <div class="c-content-title-1">
                 <div class="c-line-center c-theme-bg"></div>
                 <h2 class="c-center c-font-uppercase  c-font-bold">Martes 11</h2>   
-                <p class="c-center" >Acto inaugural de VOLUNFAIR 2025 a las <b><em>12:25</em></b> en el <em>Salón de Actos</em></p>                      
+                <p class="c-center" >Acto inaugural de VOLUNFAIR 2026 a las <b><em>12:25</em></b> en el <em>Salón de Actos</em></p>                      
             </div>
 
 
             <!-- BEGIN: Luis de la Fuente -->  
             
             <div class="c-content-box c-size-md c-bg-white">
-                <div class="parallax-window" data-parallax="scroll" data-bleed="15" data-speed="0.2" data-z-index="0" >
+                <div class="parallax-window"
+                    data-parallax="scroll"
+                    data-bleed="15"
+                    data-speed="0.2"
+                    data-z-index="0">
+
+                    <!-- ================= JOSÉ MOTA ================= -->
                     <div class="container">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft" style="min-height: 300px;">                                  
+                        <div class="row" style="display:flex; align-items:stretch;">
+
+                            <!-- FOTO -->
+                            <div class="col-md-6" style="display:flex;">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft"
+                                    style="display:flex; flex-direction:column; width:100%;">
+
                                     <div class="c-content-title-3 c-theme-border c-right">
-                                        <h3 class="c-right c-font-uppercase c-font-bold">Luis de la Fuente</h3>
-                                        <h4 class="c-right c-font-uppercase c-font-bold">
-                                        <div class="c-right c-line-left "> </div>
+                                        <h3 class="c-right c-font-uppercase c-font-bold">José Mota</h3>
+                                        <div class="c-right c-line-left"></div>
                                     </div>
-                                    
-                                    <div class="c-left">
-                                        <img src="assets\base\img\volunfair\Fotos2025\luisdelafuente.jpg" width="100%" title="Luia de la Fuente" alt="Luis de la Fuente"/>
-                                        <br /><br />
+
+                                    <div class="c-left" style="flex:1;">
+                                        <img src="assets/base/img/volunfair/Fotos2026/josemota.jpg"
+                                            alt="José Mota"
+                                            title="José Mota"
+                                            style="width:100%; height:100%; object-fit:cover;">
+
+                                        <small class="text-muted" style="display:block; margin-top:5px;">
+                                            Foto:
+                                            <a href="https://commons.wikimedia.org/wiki/File:Premios_Goya_2018_-_Jos%C3%A9_Mota.jpg" target="_blank">
+                                                Wikimedia Commons
+                                            </a> ·
+                                            <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank">
+                                                CC BY-SA 4.0
+                                            </a>
+                                        </small>
                                     </div>
-                                    
+
                                 </div>
                             </div>
-                            <div class="col-md-6" "c-right">
-                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight" style="min-height: 300px;">                                  
+
+                            <!-- TEXTO -->
+                            <div class="col-md-6" style="display:flex;">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight"
+                                    style="display:flex; align-items:center; width:100%;">
+
                                     <p class="c-left">
-                                    <b>Luis de la Fuente</b> es un referente no solo en el mundo del <b>fútbol</b>, sino también en el ámbito social. Como entrenador, ha guiado a equipos de élite, 
-                                    transmitiendo valores como el <b>esfuerzo</b>, la <b>disciplina</b> y el <b>trabajo en equipo</b>. Sin embargo, su impacto va más allá del deporte. A través de la <b>asociación Amaqtedu</b>, 
-                                    impulsa programas de formación artística para <b>personas sin hogar</b>, ayudándolas en su reinserción laboral y brindándoles nuevas oportunidades. <br>Gracias a esta iniciativa,
-                                    ha conseguido transformar la vida de cientos de personas en situación de vulnerabilidad. No te pierdas la charla de Luis, donde hablará sobre liderazgo, superación y 
-                                    la importancia de la <b>solidaridad</b>. ¡¡Desde el equipo de VOLUNFAIR le esperamos con gran ilusión y te invitamos para compartirla también contigo!!
+                                        <b>José Mota</b> es una de las figuras más queridas del <b>humor</b> y la <b>interpretación</b> en España,
+                                        pero su compromiso va mucho más allá de los escenarios. A lo largo de su trayectoria, ha colaborado de forma
+                                        solidaria con diversas <b>ONGs</b> y <b>campañas benéficas</b>, poniendo su popularidad al servicio de quienes
+                                        más lo necesitan. Entre sus iniciativas más destacadas se encuentra su participación en la gala
+                                        <b>Inocente, Inocente</b>, destinada a la recaudación de fondos para la <b>infancia en situación de vulnerabilidad</b>,
+                                        así como su apoyo a organizaciones como <b>Cruz Roja</b> y <b>Manos Unidas</b>.<br><br>
+
+                                        Gracias a estas acciones, demuestra que el <b>humor</b> también puede ser una herramienta de
+                                        <b>sensibilización social</b>, <b>empatía</b> y <b>transformación social</b>.
                                     </p>
-    
+
+                                </div>
+                            </div>
+
                         </div>
                     </div>
-                    <br/>                               
-                 <br />
-             </div>   
-             </div>                    
-            </div>
-            <!-- END: Luis de la Fuente -->
+
+                    <br><br>
+
+                    <!-- ================= CARLOS / PICHIFIT ================= -->
+                    <div class="container">
+                        <div class="row" style="display:flex; align-items:stretch;">
+
+                            <!-- TEXTO -->
+                            <div class="col-md-6" style="display:flex;">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInLeft"
+                                    style="display:flex; align-items:center; width:100%;">
+
+                                    <p class="c-left">
+                                        <b>Carlos Martínez Lliso</b>, conocido como <b>Pichifit</b>, es creador de contenido y divulgador de
+                                        <b>hábitos saludables</b> y <b>motivación personal</b>. A través de su historia de <b>superación</b>,
+                                        inspira a miles de personas a luchar por una vida más plena y equilibrada.<br><br>
+
+                                        Es <b>patrono de la Fundación Caíco</b>, dedicada a mejorar la calidad de vida de <b>niños con cáncer</b>
+                                        y de sus familias mediante apoyo económico, acompañamiento psicológico, programas educativos y la
+                                        promoción de la <b>investigación oncológica</b>.<br><br>
+
+                                        Desde 2018, además, es voluntario en <b>Misión País</b>, sirviendo en <b>comunidades rurales</b> y
+                                        combinando acción social, formación y vida comunitaria.
+                                    </p>
+
+                                </div>
+                            </div>
+
+                            <!-- FOTO -->
+                            <div class="col-md-6" style="display:flex;">
+                                <div class="c-content-media-1 c-bordered c-background-gray wow animated fadeInRight"
+                                    style="display:flex; flex-direction:column; width:100%;">
+
+                                    <div class="c-content-title-3 c-theme-border">
+                                        <h3 class="c-font-uppercase c-font-bold">Carlos Martínez Lliso</h3>
+                                        <div class="c-line-left"></div>
+                                    </div>
+
+                                    <div class="c-left" style="flex:1;">
+                                        <img src="assets/base/img/volunfair/Fotos2026/user.png"
+                                            alt="Avatar genérico"
+                                            title="Avatar genérico"
+                                            style="width:100%; height:100%; object-fit:cover;">
+
+                                        <small class="text-muted" style="display:block; margin-top:5px;">
+                                            Icono de usuario: 
+                                            <a href="https://www.flaticon.com/free-icons/user" target="_blank" title="user icons">
+                                                User icons created by Becris - Flaticon
+                                            </a>
+                                        </small>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+
 
             <br></br><br></br>
 
