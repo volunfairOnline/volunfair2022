@@ -288,7 +288,7 @@ escribe_cabecera();
                                     </div>
 
                                     <div class="c-left" style="flex:1;">
-                                        <img src="assets/base/img/volunfair/Fotos2026/user.png"
+                                        <img src="assets/base/img/volunfair/Fotos2026/Pichifit.png"
                                             alt="Avatar genérico"
                                             title="Avatar genérico"
                                             style="width:100%; height:100%; object-fit:cover;">
