@@ -160,7 +160,7 @@ $firstNews = $newsItems[0];
 
                     <br/>
 
-                    <!--<div class="row">
+                    <div class="row">
                         <div class="col-md-6">
                             <div class="c-content-media-1 c-bordered wow animated fadeInLeft" style="min-height: 380px;">
                                 <div class="c-content-title-1">
@@ -190,11 +190,11 @@ $firstNews = $newsItems[0];
                             </div>
                         </div>
                     </div> 
-                                -->
+                               
 
                     
             <!-- BEGIN: CONTENT/SLIDERS/NOTICIAS -->
-            <div class="c-content-box c-size-md c-bg-white">
+            <!-- <div class="c-content-box c-size-md c-bg-white">
                 <div class="container">
                         <div class="c-content-title-1">
                             <h3 class="c-center c-font-uppercase c-font-bold">ÚLTIMAS NOTICIAS</h3>
@@ -216,9 +216,6 @@ $firstNews = $newsItems[0];
                             <button class="btn next">Siguiente</button>
                             <div class="dots"></div>
                         </div>
-
-                        <!-- JavaScript -->
-                        <!-- Aquí va el código JavaScript -->
                         <script>
                             document.addEventListener("DOMContentLoaded", function () {
                             let carousel = document.querySelector(".carousel");
@@ -281,7 +278,7 @@ $firstNews = $newsItems[0];
                         </script>            
 
             </div>
-            </div>
+            </div> -->
             <!-- END: CONTENT/SLIDERS/NOTICIAS -->
 
             
