@@ -19,9 +19,9 @@ if ($indPremio || $aBuscar==$numPremios[0]) {
     echo '¡Enhorabuena! Has obtenido un premio:<br /><b>'."\n";
     echo $listaPremios[$indPremio].'</b><br />'."\n";
     echo '<br />'."\n";
-    echo 'Puedes recogerlo hasta el <b>18 de mayo</b> en la <b>Capilla</b> de la Escuela Técnica Superior de Ingenieros Industriales<br />'."\n";
+    echo 'Puedes recogerlo hasta el <b>18 de abril</b> en la <b>Capilla</b> de la Escuela Técnica Superior de Ingenieros Industriales<br />'."\n";
     echo 'Calle José Gutiérrez Abascal nº2<br />'."\n";
-    echo 'Contacta previamente por <a href="../v-colabora#rrss">redes sociales</a> o escríbenos un correo a <a href="mailto:gestion@volunfair.org">gestion@volunfair.org</a><br /><br />'."\n";
+    echo 'Contacta previamente por <a href="../v-colabora#rrss">redes sociales</a> o escríbenos un correo a <a href="mailto:info@volunfair.org">info@volunfair.org</a><br /><br />'."\n";
     echo '¡Y no te olvides de presumir de ello <a href="../v-colabora#rrss">mencionándonos en redes</a>!<br />'."\n";
 } 
 // --- Mensaje cuando no ha habido tanta suerte
@@ -31,6 +31,6 @@ else {
 }
 
 // --- PDF con la lista de premios
-echo '<a href = "./PremiosRifaVOLUNFAIR2024.pdf" target="_blank">Listado completo de premios</a><br />'."\n";
+/* echo '<a href = "./PremiosRifaVOLUNFAIR2024.pdf" target="_blank">Listado completo de premios</a><br />'."\n"; */
 
 ?>
