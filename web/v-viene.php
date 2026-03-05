@@ -27,17 +27,27 @@ escribe_cabecera();
             // --- Función para activar la consulta de los premios de la rifa
 			function buscar() {
                 var numero = $("#numero").val();
-                var serie = $("#serie").val();
-                serie = 'un';
+                var serie = 'un'; // Como tienes fijo
                 
-                // --- Llama al documento buscar-rifa.php, encargado de buscar si el número ha sido o no premiado y escribe el mensaje correspondiente
-                // --- En buscar-rifa.php está definido qué sale cuando no ha tocado nada
-				if (numero != "" /*&& serie != ""*/) {
-					$.post("./mysql/buscar-rifa.php", {valorBusqueda: [numero, serie]}, function(mensaje) {
-						$("#buscarRifa").html(mensaje);
-					}); 
-				}
-            };
+                if (numero != "") {
+                    $.post("./mysql/buscar-rifa.php", {valorBusqueda: [numero, serie]}, function(mensaje) {
+                        // Mostrar el resultado en el div de resultados, manteniendo el buscador
+                        $("#resultadoBusqueda").html(mensaje);
+                        
+                        // Opcional: Limpiar el campo de número después de buscar
+                        $("#numero").val('');
+                        
+                        // Opcional: Hacer scroll hasta el resultado
+                        $('html, body').animate({
+                            scrollTop: $("#resultadoBusqueda").offset().top - 20
+                        }, 500);
+                    }).fail(function() {
+                        $("#resultadoBusqueda").html('<p style="color: red;">Error en la búsqueda. Inténtalo de nuevo.</p>');
+                    });
+                } else {
+                    alert("Por favor, introduce un número");
+                }
+            }
             
         </script>
         <!-- BEGIN: PAGE CONTAINER -->
@@ -63,17 +73,22 @@ escribe_cabecera();
                                 
 
                                     <!-- BEGIN: RESULTADOS DE LA RIFA -->
-                                <div class="c-center col-md-12 container row" id="buscarRifa">
-                                    Introduce tu número para saber si has tenido suerte:
-                                    <br /><br />
-
-                                    <div class="c-center">
-                                        <form onsubmit="buscar(); return false;">
-                                            <label>Número:</label> 
-                                            <input type="number" id="numero" min="0" max="3000" placeholder="" required="required" />
-                                            <input type="submit" value="Buscar" />                                    
-                                        </form>
+                                <div class="c-center col-md-12 container row">
+                                    <!-- Formulario de búsqueda -->
+                                    <div id="buscadorRifa">
+                                        Introduce tu número para saber si has tenido suerte:
+                                        <br /><br />
+                                        <div class="c-center">
+                                            <form onsubmit="buscar(); return false;">
+                                                <label>Número:</label> 
+                                                <input type="number" id="numero" min="0" max="3000" placeholder="" required="required" />
+                                                <input type="submit" value="Buscar" />                                    
+                                            </form>
+                                        </div>
                                     </div>
+                                    
+                                    <!-- Área donde se mostrarán los resultados -->
+                                    <div id="resultadoBusqueda" style="margin-top: 20px; padding: 10px;"></div>
                                 </div>
                                <!-- <div class="c-center col-md-12 container row" id="buscarRifa">
                                     Introduce tu número para saber si has tenido suerte:
